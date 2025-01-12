@@ -1,7 +1,7 @@
 ---
 title: "Fixing Persistent Performance Problems in 'Dying Light': How to Solve the Game's Lags"
-date: 2024-08-13T10:00:52.531Z
-updated: 2024-08-14T10:00:52.531Z
+date: 2025-01-05T17:09:24.609Z
+updated: 2025-01-12T16:29:50.186Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ea89a230d5248951ccf36441dc9714dd3928003aa
 
 ## Smooth Gaming Ahead: Fixing Bloodhunt's PC Performance Problems
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Bloodhunt.jpg)
 
  Bloodhunt is a thrilling, free-to-play battle royale game set in the Vampire: The Masquerade universe. But if the game keeps crashing and stuttering, it definitely kills your excitement. If you’re on the same boat, don’t worry. We’ve got you covered with some tips on**how to fix the crashing and stuttering issues in Bloodhunt** .
@@ -35,27 +32,12 @@ thumbnail: https://thmb.techidaily.com/ea89a230d5248951ccf36441dc9714dd3928003aa
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[If your game still crashes…](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Switch to DX11
 
  Some players reported on Reddit that they managed to stop game crashes by forcing the game to start in DX11 mode instead of DX12\. To do this, follow the instructions below.
 
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Under the GENERAL tab, enter**\-force -dx11** into the dialog box under the LAUNCH OPTIONS.  
 
@@ -69,13 +51,14 @@ thumbnail: https://thmb.techidaily.com/ea89a230d5248951ccf36441dc9714dd3928003aa
 
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Select the**LOCAL FILES** tab. Then click on the button**Verify integrity of game files…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies Steam will redownload, and repair corrupted files.
 
@@ -94,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/ea89a230d5248951ccf36441dc9714dd3928003aa
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -115,9 +95,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix the stuttering issue
 
  Nothing all methods are necessary; simply work your way down the list until you find the one that works for you.
@@ -128,6 +105,10 @@ Here’s how you can run a scan of your PC with Reimage:
 4. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable V-Sync
 
  Short for vertical sync, V-Sync is a graphics technology that synchronizes the frame rate of your game to the refresh rate of your monitor. Unfortunately, sometimes V-Sync reduces the input responsiveness of your system while gaming, which can cause your computer to crash. And performance issues would arise.
@@ -137,16 +118,21 @@ Here’s how you can run a scan of your PC with Reimage:
 1. Launch your game. Then press Esc on your keyboard.
 2. Select**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/press-ESC-and-select-SETTINGS.png)
 3. Select**GRAPHICS** . Under**BASIC** , make sure the option ENABLE VSYNC is unchecked.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 4. Then apply the changes.
 
  If disabling V-Sync doesn’t give you any luck, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Steam overlay
 
@@ -154,20 +140,17 @@ Here’s how you can run a scan of your PC with Reimage:
 
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 3\. Enable game mode
 
  After the new release of Windows updates, the game mode feature helps users increase gaming performance by deactivating background activities like app notifications. So you can actually enable this feature to benefit from it. To do this, follow the steps below.
@@ -175,15 +158,20 @@ Here’s how you can run a scan of your PC with Reimage:
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Click **Gaming** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Enable hardware-accelerated GPU scheduling
 
@@ -191,9 +179,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
 1. Right-click on the empty space from your desktop and select **Display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down until you find **Graphics settings** . Then click on it.  
 
@@ -201,8 +186,9 @@ Here’s how you can run a scan of your PC with Reimage:
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 
@@ -210,9 +196,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
 If that doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Delete temp files
 
  Temporary files, as the name suggests, are the kind of files that store temporary data. They can clog the system drive and slow down your PC, which is the reason why you can’t really enjoy Bloodhunt to the fullest. Therefore, you need to delete those temporary files and it won’t cause any problems. Below are the steps you can follow.
@@ -221,15 +204,9 @@ If that doesn’t work for you, proceed to the next fix.
 2. On your keyboard, press the **Windows logo +** **R** **keys**  simultaneously to open the Run box.
 3. Type or paste**%temp%** and then press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 4. Press **Ctrl + A**  at the same time to select all the files inside the folder. Then right-click and select **Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
 
@@ -237,9 +214,14 @@ If that doesn’t work for you, proceed to the next fix.
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now launch Bloodhunt and you should be able to avoid noticeable stutters.
 
@@ -253,8 +235,6 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +242,18 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/46mv/"><u>「乃木坂46」メンバーの最新MVダウンロード手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/6lplusu5zob5pmc44gu44gk5a6i5qey44g444gu6lplusu6yer44ox44ot44k744k5ic0g44gu55ar5zwp55u46kuh44gc44kk44gm44gf44gp5a2y44gy5lik44gs44gplus44gz/"><u>返品時のお客様への返金プロセス - ご疑問相談ありがたく存じ上げます</u></a></li>
+<li><a href="https://win-able.techidaily.com/54sh5paz44ki44ox44oq44gn57ch5y2y44gr5yuv55s744gu44kr44od44oi57eo6zug44gm5yplusv6io977yb/"><u>無料アプリで簡単に動画のカット編集が可能！</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/audacity-aac-handling-errors-uncovered-effective-solutions-to-overcome-import-and-export-challenges/"><u>Audacity AAC Handling Errors Uncovered: Effective Solutions to Overcome Import and Export Challenges</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/copying-data-with-ease-mastering-windows-file-duplication-tips-from-yl-experts/"><u>Copying Data with Ease: Mastering Windows File Duplication Tips From YL Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expand-your-productivity-dual-monitor-setup-on-m3-macbook-pro-unveiled-compatibility-matches-macbook-air/"><u>Expand Your Productivity: Dual-Monitor Setup on M3 MacBook Pro Unveiled - Compatibility Matches MacBook Air</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456053213-struggling-with-the-disappearing-depth-effect-on-ios-16-try-out-these-7-easy-fixes-today/"><u>Struggling with the Disappearing Depth Effect on iOS 16? Try Out These 7 Easy Fixes Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-discord-sluggishness-with-windows-tweaks/"><u>Tackling Discord Sluggishness with Windows Tweaks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-audio-visual-storytelling-with-iphone-for-2024/"><u>The Art of Audio-Visual Storytelling with iPhone for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/yukseklemeye-yatayarak-movavi-portal-kullanicilara-kaynaklanabilecegin-eylem-adimlarini-daha-etkileyici-bir-sekilde/"><u>Yükseklemeye Yatayarak Movavi Portal | Kullanıcılara Kaynaklanabileceğin Eylem Adımlarını Daha Etkileyici Bir Şekilde</u></a></li>
+</ul></div>
 

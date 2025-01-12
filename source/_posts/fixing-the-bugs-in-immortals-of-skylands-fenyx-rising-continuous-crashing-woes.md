@@ -1,7 +1,7 @@
 ---
 title: Fixing the Bugs in Immortals of Skylands - Fenyx Rising Continuous Crashing Woes
-date: 2024-08-13T10:05:42.880Z
-updated: 2024-08-14T10:05:42.880Z
+date: 2025-01-05T16:33:05.528Z
+updated: 2025-01-12T16:04:48.108Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
  But don’t worry. There are some general crash troubleshooting solutions you can try when_DOOM Eternal_ crashing issues occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix DOOM crashing issue?
 
  You may not have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,9 +31,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Meet the minimum system requirements
 
  The minimum system specifications to play_DOOM_ need to be met to run the game. Here are the system requirements to play_DOOM_ :
@@ -54,6 +48,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
  If your computer didn’t meet the**MINIMUM** requirements, the only solution would be an upgrade to your computer’s hardware.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,6 +79,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -110,24 +112,19 @@ If your problem persists, then go ahead with the next fix below.
 **3)**  Right-click **DOOM** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
 **5)** Wait for this process to be complete, and then relaunch DOOM.
 
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Lower your in-game settings
 
  Improper game settings can also cause the game to fail. If the game isn’t running smoothly, try lowing the graphics settings. Here is how:
@@ -145,8 +142,9 @@ If this didn’t work, try the fix, below.
 If not, move on and try the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -161,6 +159,10 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
@@ -168,9 +170,6 @@ If not, move on and try the next solution below.
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -179,9 +178,6 @@ If not, move on and try the next solution below.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -189,8 +185,9 @@ If not, move on and try the next solution below.
 * **Maximum size** – Don’t set this value too high. It should be about 1.5 times the size of your physical RAM. e.g. A PC with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4096 MB x 1.5).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
@@ -199,9 +196,6 @@ If not, move on and try the next solution below.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Check for Windows updates
 
  If you have not already done so, you will want to make sure you have the latest updates for Windows. Here is how to do it:
@@ -213,17 +207,15 @@ If not, move on and try the next solution below.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall DOOM Eternal
 
  If none of the fixes above worked, reinstalling the game is very likely the solution to your problem. Follow the instructions below to see how to do it:
@@ -231,6 +223,10 @@ If not, move on and try the next solution below.
 **1)**  If you’re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -240,12 +236,13 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -263,8 +260,6 @@ If not, move on and try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -272,4 +267,19 @@ If not, move on and try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-binge-and-float-navigating-the-pip-functionality-for-seamless-watching/"><u>[New] 2024 Approved Binge & Float Navigating the PIP Functionality for Seamless Watching</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-boosting-creativity-the-most-outstanding-free-slide-show-templates/"><u>[New] 2024 Approved Boosting Creativity The Most Outstanding Free Slide Show Templates</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fiverr-cover-content-proportions/"><u>[Updated] Fiverr Cover Content Proportions</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-problems-heres-how-to-resolve-them/"><u>Alan Wake 2 Launch Problems? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-fall-guys-play-on-desktop-troubleshooting-freezing-problems/"><u>Enhance Your 'Fall Guys' Play on Desktop - Troubleshooting Freezing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-installation-problems-a-step-by-step-guide-to-running-tiny-tinas-strikers-of-fate-on-pc-effortlessly/"><u>Fixing Installation Problems: A Step-by-Step Guide to Running Tiny Tina's Strikers of Fate on PC Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-team-fortress-2-from-constantly-crashing-troubleshooting-guide/"><u>How to Stop Team Fortress 2 From Constantly Crashing - Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-cloud-storage-guide-for-enterprises/"><u>In 2024, Premier Cloud Storage Guide for Enterprises</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-restart-speed-with-windows-11-fast-startup/"><u>Maximizing Restart Speed with Window's 11 Fast Startup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-game-fix-how-to-stop-your-adventure-from-crashing-down/"><u>Sea of Thieves Game Fix – How to Stop Your Adventure From Crashing Down</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/wsappx-overview-strategies-for-minimizing-system-resource-drainage-on-your-computer/"><u>WSAPPX Overview: Strategies for Minimizing System Resource Drainage on Your Computer</u></a></li>
+</ul></div>
 

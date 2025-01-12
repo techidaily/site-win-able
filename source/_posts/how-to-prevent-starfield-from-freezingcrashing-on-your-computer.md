@@ -1,7 +1,7 @@
 ---
 title: How to Prevent 'Starfield' From Freezing/Crashing on Your Computer
-date: 2025-01-04T00:40:53.146Z
-updated: 2025-01-06T01:06:54.554Z
+date: 2025-01-05T16:23:50.343Z
+updated: 2025-01-12T17:10:01.004Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
@@ -37,10 +33,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 5. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Repair the game files
 
@@ -56,13 +48,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -74,11 +66,19 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -119,6 +119,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -133,6 +137,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 See if the crashing issue goes away. If not, try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -146,7 +154,7 @@ See if the crashing issue goes away. If not, try the fixes below.
 Do the crashes disappear now? If not, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall the game
@@ -157,17 +165,9 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -203,17 +203,24 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-winning-brands-over-strategies-for-effective-youtube-product-sponsorship/"><u>[Updated] 2024 Approved Winning Brands Over Strategies for Effective YouTube Product Sponsorship</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-launch-failed-error-ultimate-guide-for-a-seamless-wow-experience-on-pc/"><u>Defeating the 'Launch Failed' Error: Ultimate Guide for a Seamless WoW Experience on PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-windows-support-startechs-7-8-and-11-solved/"><u>Effortless Windows Support: StarTech's 7, 8, & 11 Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-clarity-in-outriders-addressing-and-fixing-blurry-screenshots/"><u>Enhanced Clarity in Outriders: Addressing and Fixing Blurry Screenshots</u></a></li>
-<li><a href="https://win-able.techidaily.com/fps-problems-and-hitches-addressed-gtx-frame-drops-jitteriness-and-gaming-performance-solutions/"><u>FPS Problems and Hitches Addressed: GTX Frame Drops, Jitteriness & Gaming Performance Solutions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-blueprinting-engaging-content-layouts-on-youtube/"><u>In 2024, Blueprinting Engaging Content Layouts on YouTube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-reno-10-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo Reno 10 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-secrets-to-earning-facebooks-status-symbol-blue/"><u>In 2024, Secrets to Earning Facebook’s Status Symbol (Blue)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722992554786-master-the-art-of-troubleshooting-eliminate-dying-light-game-crashes-in-a-flash/"><u>Master the Art of Troubleshooting: Eliminate Dying Light Game Crashes in a Flash!</u></a></li>
-<li><a href="https://win-able.techidaily.com/rogue-company-pc-crash-woes-discover-effective-solutions-now/"><u>Rogue Company PC Crash Woes? Discover Effective Solutions Now</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-assassins-creed-odyssey-crashing-on-pc-easily/"><u>[Fixed] Assassin’s Creed Odyssey Crashing on PC. Easily!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-from-novice-to-leader-top-30-facebook-tactics-unlocked/"><u>[New] 2024 Approved From Novice to Leader Top 30 Facebook Tactics Unlocked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-profits-soar-the-secrets-to-successful-youtube-monetization/"><u>[New] In 2024, Channel Profits Soar The Secrets to Successful YouTube Monetization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[New] Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pioneering-giants-in-vr-development-for-2024/"><u>[New] Pioneering Giants in VR Development for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-compre-written-in-html-a-journey-through-web-content-creation/"><u>[New] The Compre Written in HTML A Journey Through Web Content Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>[Updated] A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
+<li><a href="https://win-able.techidaily.com/arkham-knight-crash-fixes-get-your-game-back-on-track/"><u>Arkham Knight Crash Fixes – Get Your Game Back on Track!</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-nokia-g42-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Nokia G42 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-aesthetics-exclusive-top-15-lut-selection-for-gopro-for-2024/"><u>High-Definition Aesthetics Exclusive Top 15 LUT Selection for GOPRO for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-graphics-card-errors-on-oculus-devices/"><u>How to Resolve Graphics Card Errors on Oculus Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-motorola-moto-g-5g-2023-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Motorola Moto G 5G (2023)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-stagnation-how-to-get-call-of-duty-modern-warfare-running/"><u>Overcoming the Stagnation: How to Get Call of Duty: Modern Warfare Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-the-rainbow-six-siege-connection-problem/"><u>Step-by-Step Solution: Overcoming the Rainbow Six Siege Connection Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-strategies-for-resolving-the-witcher-3-unable-to-launch-issue/"><u>Successful Strategies For Resolving The Witcher 3 Unable-To-Launch Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steam-remote-play-issues-effective-solutions-and-tips/"><u>Troubleshooting Steam Remote Play Issues: Effective Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-boosting-your-gameplay-with-solutions-for-low-fps-in-valorant/"><u>Ultimate Guide: Boosting Your Gameplay with Solutions for Low FPS in Valorant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-gigabytes-powerhouse-explore-the-newly-revealed-aorus-xtreme-and-xtreme-ice-motherboards-and-graphics-cards-at-computex/"><u>Unveiling Gigabyte's Powerhouse: Explore the Newly Revealed Aorus Xtreme & Xtreme Ice Motherboards and Graphics Cards at Computex</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot & Improve: Solving Street Fighter 6 Connectivity Issues - Latency, Ping Tuning for PC"
-date: 2024-08-13T09:59:14.229Z
-updated: 2024-08-14T09:59:14.229Z
+date: 2025-01-11T17:25:58.334Z
+updated: 2025-01-12T16:55:54.029Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 ## Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/vegas-error.jpg)
 
  Many users have been reporting**Vegas Pro keeps crashing while in use** . Sometimes people may lose hours of work. The good news is, there are some known fixes available. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix it?
 
@@ -60,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Scan and repair system files
 
  The Sony Vegas Pro crashing issue could be triggered by corrupted Windows files. For basic troubleshooting, you can try running the**sfc /scannnow** command. If it doesn’t fix your problem, you may need a more powerful tool to scan and repair your system.
@@ -70,15 +72,13 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -105,38 +105,31 @@ If the issue is still there, you can move on to the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Import your footage via the Explorer window
 
  If you normally would import your footage from the Explorer window, then feel free to skip to the next fix. If not, and your Vegas Pro often crashes as you try to drag the clips from the folders directly onto the timeline, try this quick fix:
 
 1. Click**Explorer** , then you’ll be able to search files on your PC via the left-side navigation panel. (If you can’t find the Explorer button, press**Alt** and**1** to enable the Explorer window.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Customize Vegas Pro Settings
 
  There are a few settings within Vegas Pro that you can customize which may reduce the possibility of crashing. You don’t have to touch every single setting here if adjusting some of them could solve your problem, but there would be no harm in trying them all.
@@ -155,10 +148,11 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
- Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
 
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
@@ -172,18 +166,17 @@ If the issue is still there, you can move on to the next fix.
  (For versions before Vegas Pro 18, you may first click**Options** . Then hold**Ctrl** and**Shift** and click**Preferences** . You’ll see the**Internal** tab in the Preferences window.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-13-00.jpg)
 2. Type**multi-core** in the search bar at the bottom.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Disable a CPU processor for Vegas Pro
 
  As we mentioned above, video editing programs like Vegas Pro require intensive CPU resources. Normally we’d want to allocate as many resources as possible to Vegas Pro, but it’s not the case if the program keeps crashing and you can’t identify the cause. Instead, you can try to disable one CPU core for Vegas Pro to see if it helps:
@@ -193,10 +186,16 @@ If the issue is still there, you can move on to the next fix.
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run Vegas Pro to see if the problem is solved.
 
@@ -213,8 +212,6 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +219,20 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-your-laptops-recording-features/"><u>[New] In 2024, Unlocking the Potential of Your Laptop's Recording Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-vidextracter-facebook-streams-for-2024/"><u>[Updated] VidExtracter Facebook Streams for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/outlook-201/"><u>「一度または定期的にメールを安全保管する方法: Outlook 201</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-nba-2k24s-error-code-727e66ac-tips-and-tricks-to-enhance-your-gameplay/"><u>Beating NBA 2K24's Error Code 727E66ac - Tips and Tricks to Enhance Your Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-malfunctions-in-star-wars-squadrons-ultimate-crash-guide-revealed/"><u>Conquering Malfunctions in Star Wars Squadrons – Ultimate Crash Guide Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/escape-from-tarkov-troubleshooting-overcoming-anticheat-failed-to-connect/"><u>Escape From Tarkov Troubleshooting: Overcoming 'Anticheat Failed to Connect'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-tech-for-instant-time-lapse-videos/"><u>Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-rocket-league-running-smoothly-again-a-comprehensive-guide/"><u>Getting Rocket League Running Smoothly Again - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-10-most-watched-youtube-videos-within-24-hours/"><u>In 2024, Top 10 Most Watched YouTube Videos Within 24 Hours</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-and-fixing-narakas-battle-royale-latency-challenges/"><u>Navigating and Fixing Naraka's Battle Royale Latency Challenges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-daily-life-the-ultimate-guide-to-enhancing-your-lifestyle-with-chatgpt/"><u>Transforming Daily Life: The Ultimate Guide to Enhancing Your Lifestyle with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-for-red-dead-redemption-2-pc-game-crash-issues/"><u>Troubleshooting: Fixes for Red Dead Redemption 2 PC Game Crash Issues</u></a></li>
+</ul></div>
 

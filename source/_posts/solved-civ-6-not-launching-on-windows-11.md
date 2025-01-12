@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Civ 6 Not Launching on Windows 11"
-date: 2025-01-04T21:33:55.981Z
-updated: 2025-01-06T01:56:58.498Z
+date: 2025-01-11T16:41:21.125Z
+updated: 2025-01-12T17:39:55.639Z
 tags:
   - win11
   - win10
@@ -32,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -54,7 +46,11 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -68,20 +64,24 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
- Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
 ## 2\. Run the audio troubleshooter
 
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -91,19 +91,11 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -111,11 +103,19 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If Windows fails to troubleshoot your issues, try the next fix below.
 
@@ -132,11 +132,11 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio drivers
 
@@ -172,25 +172,25 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
@@ -225,21 +225,21 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-humor-haven-in-virtual-realms-mastering-20plus-funny-metaverse-imagery/"><u>[New] Humor Haven in Virtual Realms Mastering 20+ Funny Metaverse Imagery</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries-for-2024/"><u>[Updated] Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-freezing-problem-how-to-get-back-in-action-with-ease/"><u>Call of Duty: Black Ops Cold War Freezing Problem - How to Get Back in Action with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-tricks-to-improve-performance-and-enhance-fps-in-watch-dogs-legion-gameplay/"><u>Easy Tricks To Improve Performance & Enhance FPS in Watch Dogs: Legion Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-pc-issues-how-to-stop-escape-from-tarkov-crashes/"><u>Fixing PC Issues: How to Stop Escape From Tarkov Crashes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-closing-in-on-the-essence-of-cinematic-action/"><u>In 2024, Closing in on the Essence of Cinematic Action</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-your-content-creation-top-rated-mac-mp4-slicers/"><u>In 2024, Maximize Your Content Creation Top-Rated Mac MP4 Slicers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-lenovo-p11-pro-outstanding-performance-with-noteworthy-limitations/"><u>In-Depth Look at the Lenovo P11 Pro: Outstanding Performance with Noteworthy Limitations</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-smooth-playthroughs-fixing-overwatchs-stuttering-performance-problems/"><u>Mastering Smooth Playthroughs: Fixing Overwatch's Stuttering Performance Problems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimizing-your-video-conferencing-process-with-slack-and-filmora-tools-for-2024/"><u>Optimizing Your Video Conferencing Process with Slack and Filmora Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-black-ops-cold-war-fixing-tips-and-solutions/"><u>Overcoming Freezing Glitches in Call of Duty: Black Ops Cold War - Fixing Tips and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-gears-5-tactics-to-stop-unexpected-game-shutdowns/"><u>Overcoming Technical Hurdles in Gears 5: Tactics to Stop Unexpected Game Shutdowns</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2561662-9781493019199-spooky-new-orleans/"><u>Spooky New Orleans | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-of-portable-computing-revealed-a-comprehensive-review-of-razer-blade-stealth-13/"><u>The Future of Portable Computing Revealed - A Comprehensive Review of Razer Blade Stealth 13</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-persistent-problem-of-outlook-freezing-or-crashing/"><u>Understanding and Solving the Persistent Problem of Outlook Freezing or Crashing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-your-guide-to-affordable-comedy-audio-tracks-5-sites-every-content-maker-should-know/"><u>Updated 2024 Approved Your Guide to Affordable Comedy Audio Tracks 5 Sites Every Content Maker Should Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-zoom-mastery-in-and-out-for-clearer-selfies-for-2024/"><u>[New] Insta Zoom Mastery In and Out for Clearer Selfies for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-talking-technology-appraisal/"><u>[New] Talking Technology Appraisal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-5-amazing-free-youtube-intro-makers-ranked-for-2024/"><u>[Updated] 5 Amazing Free YouTube Intro Makers Ranked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[Updated] In 2024, From Conceptualization to Production A Guide to Making Mukbang</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/budget-friendly-twit-to-gif-guide-for-2024/"><u>Budget-Friendly Twit-to-GIF Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994622561-cortana-malfunctioning-here-are-the-solutions-you-need/"><u>Cortana Malfunctioning? Here Are the Solutions You Need</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-the-intersection-of-tech-and-creativity-with-geoffroy-couprie-at-digiarty-software/"><u>Exploring the Intersection of Tech and Creativity with Geoffroy Couprie at Digiarty Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-game-running-overcoming-hardware-and-driver-errors-in-rainbow-six-extraction/"><u>Get Your Game Running: Overcoming Hardware and Driver Errors in Rainbow Six Extraction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-installing-snapchat-for-mac-users/"><u>In 2024, Installing Snapchat for Mac Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-freezing-problems-pathfinder-wrath-of-the-righteular-is-now-playable-on-pc/"><u>Overcome Freezing Problems: 'Pathfinder: Wrath of the Righteular' Is Now Playable on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-call-of-duty-vanguard-fixing-development-bug-5573/"><u>Resolving Call of Duty: Vanguard - Fixing Development Bug 5573</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-pc-crashing-issues-with-counter-strike-2-cs2-expert-solutions-and-adjustments/"><u>Say Goodbye to PC Crashing Issues with Counter-Strike 2 (CS2) - Expert Solutions & Adjustments</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-secret-to-perfect-discord-screenshares-overcoming-the-persistent-black-screen-dilemma/"><u>Unlock the Secret to Perfect Discord Screenshares: Overcoming the Persistent Black Screen Dilemma</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-6-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic 6? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

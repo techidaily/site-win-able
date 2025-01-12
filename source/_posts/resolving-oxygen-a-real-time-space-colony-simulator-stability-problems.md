@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Oxygen: A Real-Time Space Colony Simulator' Stability Problems"
-date: 2025-01-04T18:19:17.743Z
-updated: 2025-01-05T23:50:47.686Z
+date: 2025-01-05T16:54:10.078Z
+updated: 2025-01-12T17:32:37.865Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ There is nothing more frustrating than buying a video game and not being able to
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix** _Total War_ **crash?**
 
 1. **[Meet the minimum system requirements](https://tools.techidaily.com/drivereasy/download/)**
@@ -35,6 +39,10 @@ There is nothing more frustrating than buying a video game and not being able to
 7. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Configure your in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -52,10 +60,6 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -68,11 +72,11 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
- Make sure your computer meets the requirements, then move to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Make sure your computer meets the requirements, then move to the next fix.
 
 ### Fix 2: Disable your antivirus temporarily
 
@@ -84,6 +88,10 @@ Here is how to view your computer specifications:
 
 If your game still crashes, move on and try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: **Run your game as an administrator**
 
  Steam sometimes can’t access certain game files on your computer under normal user mode, which could lead to the_Total War_ crashing issue. To see if that’s the cause of your issue, follow the instructions below:
@@ -92,13 +100,13 @@ If your game still crashes, move on and try the fix below.
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click **Yes** .
 
@@ -167,10 +175,6 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -187,10 +191,6 @@ There are two ways you can get the right driver for your graphics card:
 
  Now, check if you still face this issue. If the game is still unplayable, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Verify the integrity of your game files
 
  Another possible cause of the_Total War_ crashing issue is a damaged or missing game file. In this case, verifying the integrity of your game files can help fix your issue. Follow the instructions below:
@@ -200,10 +200,6 @@ There are two ways you can get the right driver for your graphics card:
 **2)** Click **LIBRARY.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
 
@@ -216,10 +212,6 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -239,9 +231,17 @@ If your issue persists, go ahead with the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-656.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to test your issue.
 
 If your game crashes again, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -255,6 +255,10 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -264,12 +268,16 @@ If your game crashes again, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -279,19 +287,11 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -320,18 +320,15 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-the-fundamental-contrasts-in-video-streaming/"><u>[New] Understanding the Fundamental Contrasts in Video Streaming</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-swift-mp4-download-from-facebooks-top-videos/"><u>[Updated] In 2024, Swift MP4 Download From Facebook’s Top Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-leading-the-vr-charge-top-10-pc-headsets/"><u>2024 Approved Leading The VR Charge Top 10 PC Headsets</u></a></li>
-<li><a href="https://win-able.techidaily.com/batman-arkham-knight-glitch-guide-overcoming-game-freezes-and-fatal-mistakes/"><u>Batman: Arkham Knight Glitch Guide - Overcoming Game Freezes and Fatal Mistakes</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-to-solve-and-prevent-ue4-madness-unreal-process-crash-in-outriders/"><u>Complete Guide to Solve and Prevent 'UE4-Madness': Unreal Process Crash in Outriders</u></a></li>
-<li><a href="https://win-able.techidaily.com/current-status-of-xbox-live-is-it-operational/"><u>Current Status of Xbox Live: Is It Operational?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-a-non-responsive-roku-tv-screen/"><u>Diagnosing and Repairing a Non-Responsive Roku TV Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-8t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor Play 8T Phone without Any Data Loss</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-graphics-hiccup-in-red-dead-redemption-2-mastering-the-errgfxerror-fix/"><u>Overcome the Graphics Hiccup in Red Dead Redemption 2: Mastering the ERR_GFX_ERROR Fix</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-photomontage-artisans-blueprint-for-2024/"><u>The PhotoMontage Artisan's Blueprint for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-how-to-change-your-mobile-devices-screen-film/"><u>The Ultimate Tutorial on How to Change Your Mobile Device’s Screen Film</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-instability-and-crashes-for-wolcen-lords-of-mayhem-players/"><u>Troubleshooting PC Instability and Crashes for Wolcen: Lords of Mayhem Players</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-movie-maker-6-unlocking-the-downloading-process/"><u>Windows Movie Maker 6 Unlocking the Downloading Process</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-graphic-portrayal-of-future-social-momentum/"><u>[New] In 2024, Graphic Portrayal of Future Social Momentum</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-perfect-snapchat-video-maximizing-mac-capabilities-for-2024/"><u>[New] Perfect Snapchat Video Maximizing Mac Capabilities for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[Updated] 2024 Approved The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-get-more-viewers-with-social-media-marketing-for-youtube/"><u>[Updated] In 2024, Get More Viewers with Social Media Marketing for YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-best-mics-on-the-market-for-podcasts/"><u>2024 Approved The Best Mics on the Market, For Podcasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-3-ultimate-fixes-for-stability-and-performance-problems/"><u>Dark Souls 3: Ultimate Fixes for Stability and Performance Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-top-3-techniques-to-fasten-windows-11-bootup-time/"><u>Explore Top 3 Techniques to Fasten Windows 11 Bootup Time</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-sea-of-thieves-boot-up-problem-top-strategies-explored/"><u>Fix Your Sea of Thieves Boot Up Problem: Top Strategies Explored!</u></a></li>
+<li><a href="https://win-able.techidaily.com/stability-recipe-keep-your-outriders-game-running-smoothly/"><u>Stability Recipe: Keep Your Outriders Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrchat-problems-solutions-for-when-loading-fails-completely/"><u>VRChat Problems: Solutions for When Loading Fails Completely</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming with WRC 10: Solving PC Compatibility and Stability Issues for the FIA World Rally Championship"
-date: 2024-08-13T10:07:40.254Z
-updated: 2024-08-14T10:07:40.254Z
+date: 2025-01-06T16:18:13.442Z
+updated: 2025-01-12T17:21:41.506Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ System requirements of WRC 10 from Steam
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of WRC 10 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether WRC 10 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -53,8 +50,9 @@ System requirements of WRC 10 from Steam
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -64,9 +62,6 @@ System requirements of WRC 10 from Steam
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **WRC 10 FIA World Rally Championship** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -75,8 +70,9 @@ System requirements of WRC 10 from Steam
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -104,8 +100,9 @@ System requirements of WRC 10 from Steam
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developer of WRC 10 FIA World Rally Championship releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -131,27 +128,30 @@ System requirements of WRC 10 from Steam
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the **Startup** tab and click **Open Task Manager** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -178,8 +178,6 @@ System requirements of WRC 10 from Steam
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +185,26 @@ System requirements of WRC 10 from Steam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-igtv-unveiled-5-essential-downloads-for-mobile-devices/"><u>[New] 2024 Approved IGTV Unveiled 5 Essential Downloads for Mobile Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-sound-seekers-free-beats-detection-tools/"><u>[New] 2024 Approved Sound Seekers Free Beats Detection Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>[New] In 2024, The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007140503-are-you-experiencing-connectivity-issues-on-xbox-live-find-server-updates-here/"><u>Are You Experiencing Connectivity Issues on Xbox Live? Find Server Updates Here!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>Best Box-Personalizing Online Spots Unique, Heartfelt Gestures</u></a></li>
+<li><a href="https://win-able.techidaily.com/bloodhunt-pc-trouble-fix-stutter-and-lagging-issues-with-these-steps/"><u>Bloodhunt PC Trouble? Fix Stutter and Lagging Issues with These Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-4-stability-guide-top-7-troubleshooting-tips-for-pc-ps5-and-xbox-users/"><u>Diablo 4 Stability Guide: Top 7 Troubleshooting Tips for PC, PS5, and Xbox Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-role-of-bass-management-in-sound-quality-enhancement/"><u>Exploring the Role of Bass Management in Sound Quality Enhancement</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-red-dead-online-game-crashes-on-your-pc/"><u>How to Prevent Red Dead Online Game Crashes on Your PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-xr21-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia XR21 Phone FRP Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-overcoming-lag-and-ping-problems-in-chivalry-2-with-fresh-tips/"><u>Mastering Smooth Gameplay: Overcoming Lag and Ping Problems in Chivalry 2 with Fresh Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gaming-experience-by-resolving-latency-spikes-and-frame-rate-drop-in-cod-black-ops-iv/"><u>Mastering Smooth Gaming Experience by Resolving Latency Spikes and Frame Rate Drop in COD Black Ops IV</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-apex-legends-2022-obstacles-decoding-and-correcting-the-infamous-error-code-leaf/"><u>Overcoming Apex Legends 2022 Obstacles: Decoding and Correcting the Infamous Error Code Leaf</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-11-hp-printer-functionality/"><u>Streamlining Windows 11 HP Printer Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-vitality-of-chatgpt-code-interpreter-unveiling-the-importance/"><u>The Vitality of ChatGPT Code Interpreter - Unveiling the Importance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-non-functional-nvidia-geforce-overlay-solutions-inside/"><u>Troubleshooting Non-Functional Nvidia GeForce Overlay - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-persistent-game-freezes-with-high-fps-strategies/"><u>Ultimate Fix for Persistent Game Freezes with High FPS Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-sound-on-the-go-sonys-field-1-bluetooth-speaker-evaluation-the-ultimate-companion-for-mobile-music-lovers/"><u>Ultimate Sound on the Go: Sony's Field 1 Bluetooth Speaker Evaluation - The Ultimate Companion for Mobile Music Lovers</u></a></li>
+</ul></div>
 

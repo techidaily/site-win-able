@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2024-12-30T01:28:30.892Z
-updated: 2025-01-06T02:04:56.436Z
+date: 2025-01-07T17:59:18.291Z
+updated: 2025-01-12T17:40:14.797Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## OBS lags when streaming
 
  When you’re streaming with OBS, network latency is no stranger to live streamers. In order to deliver a smoother watching experience, it’s quite necessary to reduce lag spikes while streaming.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Stop other bandwidth-intensive activities
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues. Make sure you shut down all the other resource-hungry programs before streaming with OBS; if it’s your family members or friends who are doing bandwidth-intensive activities, just pick another time to stream or ask them politely to give way to you.
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **resmon** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
 
@@ -69,15 +65,15 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
  If you find no luck getting closer to the solution, you should proceed to Fix 2.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use “flushdns” command
 
@@ -118,7 +114,7 @@ ipconfig /flushdns
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Restart modem & router
@@ -147,6 +143,10 @@ wireless router
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Update network adapter drivers
 
  Your network latency is sometimes caused by an outdated or corrupt driver. If you’re not sure whether your network card driver is up-to-date, you should check.
@@ -165,13 +165,17 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -179,10 +183,6 @@ wireless router
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Swap Wifi to Ethernet connection
 
@@ -194,10 +194,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## OBS lags when recording
 
  Overloaded GPU is the main cause reason for the lag issue. Luckily, below you will find some solutions that do work for many OBS users:
@@ -206,6 +202,10 @@ wireless router
 2. **[Update graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Adjust OBS settings
 
@@ -223,6 +223,10 @@ wireless router
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update graphics card drivers
 
@@ -243,10 +247,6 @@ wireless router
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -283,19 +283,15 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>[New] 2024 Approved FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevating-podcast-reputation-logo-design-principles/"><u>[Updated] 2024 Approved Elevating Podcast Reputation Logo Design Principles</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unveiling-the-secrets-of-iphones-video-loops/"><u>[Updated] In 2024, Unveiling the Secrets of iPhone's Video Loops</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/battling-twofold-decline-in-frames-per-second-fps-on-personal-computers/"><u>Battling Twofold Decline in Frames Per Second (FPS) on Personal Computers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14 Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-simplified-guide-for-ios-users-transforming-images-to-pdfs/"><u>In 2024, Simplified Guide for iOS Users Transforming Images to PDFs</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-frustration-fixing-persistent-game-crashes-in-warzone-20-on-desktop-pcs/"><u>Overcoming the Frustration: Fixing Persistent Game-Crashes in Warzone 2.0 on Desktop PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-call-of-duty-vanguard-unfreeze-gameplay-guide/"><u>Resolving Issues with Call of Duty: Vanguard - Unfreeze Gameplay Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-avatamadet-performance-hiccups-on-the-frontiers-of-pandora-fix-low-fps-and-eradicate-stuttering/"><u>Troubleshooting 'Avatamadet:' Performance Hiccups on the Frontiers of Pandora: Fix Low FPS and Eradicate Stuttering</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-excessive-cpu-usage-during-cyberpunk-nk2077-gaming-sessions/"><u>Troubleshooting Excessive CPU Usage During Cyberpunk Nk2077 Gaming Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame-for-2024/"><u>[New] Perfected Framing for FB Videos Implement Letterbox & Dark Frame for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mts-to-mp4-20248/"><u>「MTS to MP4自由変換ソフトウェア: 2024の最高選考8つを紹介する」</u></a></li>
+<li><a href="https://win-able.techidaily.com/iuoajoodjplusocuoodoeodhuocroocpooditrpjllpn7pjg5xjgqhjgqtjg6vjgplnskhljzjjgavkvzzjgovmlrnms5xjgi0i/"><u>「ハジメテガイド:録音ファイルを簡単に作る方法」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-8-trending-vr-adventures-on-oculus/"><u>2024 Approved Top 8 Trending VR Adventures on Oculus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cleansing-local-disks-in-win11-preserving-your-files-max-156-chars/"><u>Cleansing Local Disks in Win11: Preserving Your Files (Max 156 Chars)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mystery-maneuvers-effortless-enhancement-techniques/"><u>In 2024, Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp43mp4/"><u>MP4ファイルに圧縮しながらスクリーンを記録する究極のガイド：上位3つのMP4レコーダー</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-stable-fps-in-nioh-2/"><u>Optimizing Your PC for Stable FPS in Nioh 2</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/iuocteocpoodnuodqplusodqeocuoocquwpjummsjrjgrpjg4tjgajjg4bjgqjg4vjg4pjgqjgizjg5hjgr3jgrpjg7pjg7vjgrnjg57jg5vnt6jjgi0i/"><u>サイマルラジオ収録:コツとテクニック「パソコン・スマホ編」</u></a></li>
 </ul></div>
 

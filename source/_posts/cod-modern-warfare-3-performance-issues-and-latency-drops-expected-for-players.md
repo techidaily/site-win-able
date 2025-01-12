@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2025-01-03T20:31:54.076Z
-updated: 2025-01-05T17:36:43.954Z
+date: 2025-01-11T17:01:43.743Z
+updated: 2025-01-12T16:30:11.586Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  As a AAA title in 2019, Modern Warfare is challenging, both to your game skills and computer hardware. So if you’re sticking with a PC built five years ago, chances are you won’t find this “slow-motion” game enjoyable. If you notice your FPS is dropping constantly, and even worse during a shoot-out, the first thing you should do is to**check your specs and see if they meet the game requirements** . Because if they don’t, then maybe it’s time for an upgrade.
@@ -57,10 +61,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -75,7 +75,7 @@ You can do it with only 2 steps:
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -88,10 +88,6 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
@@ -113,7 +109,7 @@ And it’s quite easy to update too:
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -125,15 +121,15 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -145,15 +141,19 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -180,24 +180,24 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/1715759909544-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>2024 Approved How to Record Audio with Audacity on Mac</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138574-9780743221894-a-mans-journey-to-simple-abundance/"><u>A Man's Journey to Simple Abundance | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/achieve-optimal-performance-simple-guide-to-installing-amd-radeon-hd-3450-graphics-card-drivers/"><u>Achieve Optimal Performance: Simple Guide to Installing AMD Radeon HD 3450 Graphics Card Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-your-red-dead-online-woes-effective-troubleshooting-for-seamless-gaming-on-pc/"><u>Cure Your Red Dead Online Woes: Effective Troubleshooting for Seamless Gaming on PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11-proplus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11 Pro+ Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-strategies-for-resolving-typical-pc-issues-guidance-from-yl-computing-experts/"><u>Effective Strategies for Resolving Typical PC Issues - Guidance From YL Computing Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-troubleshoot-and-resolve-pc-malfunctions-with-thaumaturge-games/"><u>Effective Ways to Troubleshoot and Resolve PC Malfunctions with Thaumaturge Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fortschritt-und-innovation-in-der-zukunft-von-handelskredit-herausforderungen-and-strategien/"><u>Fortschritt Und Innovation in Der Zukunft Von Handelskredit - Herausforderungen & Strategien</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-subnautica-below-zero-on-your-pc-no-more-frustrating-freezes/"><u>Mastering Subnautica Below Zero on Your PC - No More Frustrating Freezes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-professional-video-editor-for-mac-os-unleash-your-creativity-for-2024/"><u>New Professional Video Editor for Mac OS Unleash Your Creativity for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-graphic-drivers-for-enhanced-gameplay-in-forza-horizon-5/"><u>Optimize Graphic Drivers for Enhanced Gameplay in Forza Horizon 5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overlapping-functionality-review/"><u>Overlapping Functionality Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-between-corsair-icue-and-windows-operating-systems/"><u>Resolving Compatibility Problems Between Corsair iCUE and Windows Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/rising-through-the-ranks-of-mass-effect-legendary-edition-securing-elite-fps-drop-perks-for-a-superior-gaming-experience/"><u>Rising Through the Ranks of Mass Effect Legendary Edition - Securing Elite FPS Drop Perks for a Superior Gaming Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo V30 Lite 5G FRP</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-gta-vs-errgfxd3dinit-graphics-error/"><u>Troubleshooting and Fixing GTA V's ERR_GFX_D3D_INIT Graphics Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frozen-chrome-in-windows-11-effective-solutions/"><u>Troubleshooting Frozen Chrome in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-instructions-for-turning-on-hyper-v-feature-in-windows-10/"><u>Ultimate Instructions for Turning On Hyper-V Feature in Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upgrade-to-revo-uninstaller-pro-5-the-ultimate-tool-for-a-clean-and-efficient-system/"><u>Upgrade to Revo Uninstaller Pro 5 - The Ultimate Tool for a Clean & Efficient System.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levating-the-end-scene-in-youtube-productions-for-2024/"><u>[New] Elevating the End Scene in YouTube Productions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-new-layer-on-sony-s3700-blu-ray-play/"><u>[New] New Layer on Sony S3700 Blu-Ray PLAY</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-beginners-guide-to-luts-and-downloading-tools/"><u>[New] The Beginner's Guide to LUTs and Downloading Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transformational-techniques-bold-borders-on-instagram-photos/"><u>[New] Transformational Techniques Bold Borders on Instagram Photos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-video-splitting/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Video Splitting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-decoding-varieties-in-hand-motion-tracking-for-2024/"><u>[Updated] Decoding Varieties in Hand Motion Tracking for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-beginners-guide-to-budget-friendly-webinars-using-youtube/"><u>2024 Approved Beginner's Guide to Budget-Friendly Webinars Using YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-the-culprit-expert-tips-on-fixing-persistent-phoenix-point-game-crash-issues/"><u>Decode the Culprit: Expert Tips on Fixing Persistent Phoenix Point Game Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fifa-22-troubleshooting-guide-stop-your-game-from-crashing/"><u>FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-unresponsive-overwatch-on-your-pc-or-console/"><u>How to Fix Unresponsive Overwatch on Your PC or Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009017750-how-to-successfully-fix-video-not-working-on-zoom-top-5-tips/"><u>How to Successfully Fix Video Not Working on Zoom - Top 5 Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-magic5-ultimate-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor Magic5 Ultimate? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-launch-hurdles-for-fallout-3-with-these-essential-fixes-and-2024-insights/"><u>Overcome Launch Hurdles for Fallout 3 with These Essential Fixes & 2024 Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-compatibility-challenges-stop-total-war-warhammer-iii-from-crashing-on-windows-based-systems/"><u>Overcoming Compatibility Challenges: Stop TOTAL WAR: WARHAMMER III From Crashing on Windows-Based Systems</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-2024-compatibility-issues-successfully-starting-modern-warfare-on-pc/"><u>Resolving 2024 Compatibility Issues - Successfully Starting Modern Warfare on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-kodi-errors-successfully-overcoming-the-directory-retrieval-hurdle/"><u>Troubleshooting Kodi Errors: Successfully Overcoming the Directory Retrieval Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-stabilizing-slime-rancher-2-performance-on-windows-computers/"><u>Troubleshooting Steps for Stabilizing Slime Rancher 2 Performance on Windows Computers</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728477132783-win10/"><u>Win10 將如何解決安裝更新失敗的全面指南</u></a></li>
 </ul></div>
 

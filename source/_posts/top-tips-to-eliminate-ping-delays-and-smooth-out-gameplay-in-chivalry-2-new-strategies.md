@@ -1,7 +1,7 @@
 ---
 title: Top Tips to Eliminate Ping Delays and Smooth Out Gameplay in Chivalry 2 [New Strategies]
-date: 2024-08-13T10:06:49.551Z
-updated: 2024-08-14T10:06:49.551Z
+date: 2025-01-09T17:29:05.951Z
+updated: 2025-01-12T17:35:46.604Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Video Card**   | NVIDIA GeForce GTX 670 or AMD Radeon R9 270 (or better)           |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Recommended requirement for Far Cry 5
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)  |
@@ -46,6 +47,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 16 GB                                                                   |
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 6 fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,6 +62,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 5. [Set the Graphics Options to low settings](https://tools.techidaily.com/drivereasy/download/)
 6. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the long loading time issue. With high integrity access, Uplay can make full use of its features and won’t be bothered by this issue. So run the game as an administrator to see if this fixes your issue.
@@ -66,14 +75,8 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 2. Choose the**Compatibility** tab.
 3. Click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**OK** then run Uplay and the game to check.
 
 ---
@@ -86,11 +89,17 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 2. Click**Games** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -103,9 +112,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, the game may not run smoothly and stuck on the loading scree. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -133,15 +142,9 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Relaunch the game and check whether it will solve the problem.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -161,21 +164,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
 4. Click the **Quality** tab, and adjust the available settings to **Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
 6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Stop overclocking
 
  If you’re overclocking your CPU or GPU, you need to stop doing this for a shot. Overclocking means setting your CPU and memory to run at speeds higher than their official speed grade. Almost all processors ship with a speed rating. However, this may cause your games stuck on loading or crashing, so you should **set your CPU clock speed rate back to default** to see if this could help.
@@ -192,8 +195,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +202,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-fires-pitch-perfect-playbook/"><u>[New] Free Fire's Pitch Perfect Playbook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-no-budget-maximum-quality-8-prime-editors-for-youtubers/"><u>[New] No Budget, Maximum Quality 8 Prime Editors for YouTubers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-comparison-game-youtube-against-dailymention/"><u>[New] The Comparison Game YouTube Against DailyMention</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-virtuality-unveiled-evolution-of-escapism/"><u>[New] Virtuality Unveiled Evolution of Escapism</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-freeze-on-pc-mastering-pathfinder-wrath-of-the-righteeusse-gameplay/"><u>Beat the Freeze on PC: Mastering Pathfinder: Wrath of the Righteeusse Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnites-frame-rate-evolution-in-season-8-insights-and-player-reactions-unveiled/"><u>Fortnite's Frame Rate Evolution in Season 8 – Insights and Player Reactions Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-lava-yuva-2-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Lava Yuva 2 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/iphone-not-powering-on-resolve-issues-arising-from-software-updates-accidents-and-moisture-exposure/"><u>IPhone Not Powering On? Resolve Issues Arising From Software Updates, Accidents, and Moisture Exposure</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-logitech-c920-expert-advice-on-restoring-your-webcams-functionality/"><u>Trouble with Logitech C920? Expert Advice on Restoring Your Webcam's Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-discord-fails-to-launch-successfully/"><u>Troubleshooting Steps When Discord Fails to Launch Successfully</u></a></li>
+</ul></div>
 

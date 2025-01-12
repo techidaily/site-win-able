@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs"
-date: 2024-12-30T17:47:36.885Z
-updated: 2025-01-05T17:13:46.642Z
+date: 2025-01-05T17:52:41.316Z
+updated: 2025-01-12T17:55:31.575Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -133,13 +133,13 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -148,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -164,7 +164,7 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
@@ -193,17 +193,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-calculating-monetary-gain-for-a-milion-of-youtube-watchers-for-2024/"><u>[New] Calculating Monetary Gain for a Milion of YouTube Watchers for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>[New] Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders/"><u>[New] Mastering the Basics A Thorough Guide to Using Mobizen Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-metaverse-laughs-creating-viral-digital-cartoons-for-2024/"><u>[Updated] Metaverse Laughs Creating Viral Digital Cartoons for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-x100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo X100 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007238934-doom-eternal-wont-launch-yet-here-are-quick-fixes-you-need-to-know-about/"><u>DOOM Eternal Won't Launch Yet? Here Are Quick Fixes You Need to Know About!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a78-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A78? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-smooth-csgo-gaming-without-the-hiccups/"><u>Quick Fixes for Smooth CS:GO Gaming Without the Hiccups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/real-world-applications-top-7-uses-of-chatgpt-today/"><u>Real-World Applications: Top 7 Uses of ChatGPT Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-for-age-of-empires-4-say-goodbye-to-pc-hiccups/"><u>Smooth Sailing for Age of Empires 4: Say Goodbye to PC Hiccups</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-pinnacle-of-image-capture-toolwiz-apps-extended-review/"><u>The Pinnacle of Image Capture Toolwiz App's Extended Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-overcome-the-preparations-screen-problem-in-granblue-fantasy/"><u>Troubleshooting Tips to Overcome the Preparations Screen Problem in Granblue Fantasy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-scripting-striking-film-epilogues/"><u>[New] Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-luts-in-obs-for-premium-visual-output/"><u>[Updated] 2024 Approved Mastering LUTs in OBS for Premium Visual Output</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[Updated] 2024 Approved Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-master-tiktok-snap-enhancers-quickly-and-virally/"><u>[Updated] In 2024, Master TikTok Snap Enhancers Quickly & Virally</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-waterproof-smartwatch-selection-in-depth-reviews-and-performance-analysis-by-industry-specialists-zdnet/"><u>2024'S Elite Waterproof Smartwatch Selection: In-Depth Reviews and Performance Analysis by Industry Specialists | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-fix-heartcrashes-on-pc-to-enjoy-uninterrupted-play-in-hearthstone/"><u>Expert Advice: Fix Heartcrashes on PC to Enjoy Uninterrupted Play in Hearthstone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-battlefield-2042s-stability-issues-on-windows-platforms/"><u>Expert Advice: Overcoming Battlefield 2042'S Stability Issues on Windows Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-correctly-address-and-repair-the-notorious-0xc19001e1-glitch-in-w10/"><u>Expert Tips to Correctly Address and Repair the Notorious 0xC19001E1 Glitch in W10</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-lower-fps-in-forza-horizon-5-tips-and-tricks/"><u>Fixing Lower FPS in Forza Horizon 5: Tips and Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-use-luts-to-obs-studio-and-download-free-luts/"><u>In 2024, How to Use LUTs to OBS Studio & Download Free LUTs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-view-facebook-stories-anonymously/"><u>In 2024, How to View Facebook Stories Anonymously</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>In 2024, Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
+<li><a href="https://win-able.techidaily.com/meeting-vanguards-minimum-requirements-improving-your-computers-processor-power/"><u>Meeting Vanguard's Minimum Requirements: Improving Your Computer's Processor Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-optimization-how-we-overcame-slow-motion-gameplay-woes/"><u>Outriders Optimization - How We Overcame Slow Motion Gameplay Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-crash-troubles-heres-how-to-resolve-the-latest-issues/"><u>Phasmophobia Crash Troubles? Here's How to Resolve the Latest Issues!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-directx-issues-in-anno-1800/"><u>Troubleshooting Guide: Fixing DirectX Issues in Anno 1800</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-the-starfield-not-starting-issue-on-steam-or-xbox/"><u>Troubleshooting Guide: Solving the 'Starfield Not Starting' Issue on Steam or Xbox</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-to-the-best-download-nvidias-new-geforce-drivers-for-windows-gamers/"><u>Upgrade to the Best: Download NVIDIA's New GeForce Drivers for Windows Gamers</u></a></li>
 </ul></div>
 

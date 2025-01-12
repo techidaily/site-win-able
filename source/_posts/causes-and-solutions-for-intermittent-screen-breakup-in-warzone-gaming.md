@@ -1,7 +1,7 @@
 ---
 title: Causes & Solutions for Intermittent Screen Breakup in Warzone Gaming
-date: 2025-01-02T00:25:20.452Z
-updated: 2025-01-05T20:30:30.320Z
+date: 2025-01-09T17:12:34.676Z
+updated: 2025-01-12T17:36:47.660Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -41,13 +45,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-the-game-supports-remote-play-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your game’s store page, scroll down and on the right side, you’ll see if your game supports Remote Play or not.  
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
@@ -63,6 +67,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your device drivers
 
  A number of bugs can be fixed by performing a dirver update. If Remote Play isn’t working for you or you are getting poor performance, graphical glitches or black screens, make sure you have the latest drivers installed. driver updates can **give you a speed boost, fix problems, and sometimes even provide you with completely new features** , all for free.
@@ -70,7 +78,7 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
@@ -78,6 +86,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
 
  Or you can go to the device manufacturer’s driver download page. Then find the correct driver for your system, download and install it step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers** (recommended)
 
@@ -114,20 +126,20 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try reconnecting your device to check if the issue persists.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable IPv6
@@ -136,11 +148,11 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
@@ -150,25 +162,13 @@ Now try reconnecting your device to check if the issue persists.
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Now restart your computer for the settings to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
 
@@ -177,10 +177,6 @@ Now try reconnecting your device to check if the issue persists.
 To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type**ncpa.cpl** and press**Enter** .
 
@@ -191,13 +187,13 @@ To set a static IP address, you can:
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
@@ -208,6 +204,10 @@ To check them, you can:
 * Right-click on the Start button and select**Windows PowerShell (Admin)** .  
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/10/open-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Copy and paste the following command line and press**Enter** .  
 
@@ -248,20 +248,20 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-cross-platform-exchange-of-tweets-and-vids-on-whatsapp/"><u>[New] Navigating the Cross-Platform Exchange of Tweets and Vids on WhatsApp</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-relaxing-front-row-activities-that-arent-sports/"><u>[New] Ranking Relaxing Front Row Activities That Aren't Sports</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>[Updated] Premier Choices The 5 Foremost Webcams for Live Gamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-for-limitless-data-holding/"><u>2024 Approved Expert Recommendations for Limitless Data Holding</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/breaking-into-the-brainshare-how-to-hype-up-your-fb-content-for-2024/"><u>Breaking Into the Brainshare How to Hype Up Your FB Content for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/dealing-with-false-alarms-why-your-scanner-may-conflict-with-antivirus-insights-from-yl-computing/"><u>Dealing with False Alarms: Why Your Scanner May Conflict With Antivirus - Insights From YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-seamless-operation-verify-your-cpu-against-vanguards-basic-requirements/"><u>Ensure Seamless Operation: Verify Your CPU Against Vanguard's Basic Requirements</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a78-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A78 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-note-30-vip-racing-edition-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Note 30 VIP Racing Edition Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-fortnite-startup-errors-dealing-with-entry-point-not-found/"><u>Overcoming Fortnite Startup Errors: Dealing with 'Entry Point Not Found'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-gobie-fatal-error-in-black-desert-reborn-ue4-fix-guide/"><u>Resolving GOBIE Fatal Error in Black Desert Reborn - UE4 Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-tips-for-avoiding-fallout-3-freezes-when-running-windows-10/"><u>Smooth Gaming Experience: Tips for Avoiding Fallout 3 Freezes When Running Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-dolby-atmos-problems-in-windows-11-and-windows-10-systems/"><u>Troubleshooting Dolby Atmos Problems in Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solve-your-chrome-stalling-problems-with-these-simple-fixes-for-windows-11-users/"><u>Troubleshooting Tips: Solve Your Chrome Stalling Problems with These Simple Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stop-rocket-league-from-continuously-crashing/"><u>Ultimate Guide to Stop Rocket League From Continuously Crashing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortless-srt-conversion-the-ultimate-txt-solution-in-a-flash/"><u>[New] Effortless SRT Conversion The Ultimate TXT Solution in a Flash</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-f1-2021-keeps-crashing-on-pc/"><u>[SOLVED] F1 2021 Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-streaming-your-way-to-animated-gifs-from-youtube-videos/"><u>2024 Approved Streaming Your Way to Animated GIFs From YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-text-memes-unleash-your-humor-with-a-generator/"><u>DIY Text Memes Unleash Your Humor with a Generator</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-solutions-optimize-your-gameplay-and-enjoy-seamless-performance/"><u>Forza Horizon #5 Lag Solutions - Optimize Your Gameplay and Enjoy Seamless Performance</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-ipad-versions-your-definitive-reference-guide/"><u>Mastering iPad Versions: Your Definitive Reference Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-new-words-the-pathway-to-pronunciation-in-germany/"><u>Navigating New Words: The Pathway to Pronunciation in Germany</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-graphics-glitch-fixes-for-errgfxstate-issue/"><u>Red Dead Redemption 2 Graphics Glitch - Fixes for ERR_GFX_STATE Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-sync-problem-solved-master-guide-to-overcoming-cloud-library-glitches/"><u>Steam Sync Problem Solved? Master Guide to Overcoming Cloud Library Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronized-tasks-and-engaging-podcast-episodes-for-2024/"><u>Synchronized Tasks and Engaging Podcast Episodes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-microsoft-store-error-0x87e00017/"><u>Tips for Fixing Microsoft Store Error 0X87e00017</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-non-responsive-corsair-icue-interface/"><u>Troubleshooting Steps for a Non-Responsive Corsair iCUE Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-you-need-to-know-about-the-latest-update-on-mafia-definitive-edition-launch/"><u>What You Need to Know About the Latest Update on Mafia: Definitive Edition Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fixes-how-to-play-the-fifa-2018-world-rally-game-without-issues-on-your-computer/"><u>WRC 10 Fixes: How to Play the FIFA 2018 World Rally Game Without Issues on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Dev Error 6034 on PC & Xbox - Modern Warfare Troubleshooting"
-date: 2024-08-13T10:00:41.032Z
-updated: 2024-08-14T10:00:41.032Z
+date: 2025-01-09T17:13:41.779Z
+updated: 2025-01-12T17:46:11.575Z
 tags:
   - win11
   - win10
@@ -27,17 +27,9 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -62,12 +54,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -76,8 +69,9 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -90,17 +84,15 @@ To do so, first visit the website of your GPU manufacturer:
    * **Launcher.exe (Modern Warfare)**
 2. Launch your**Battle.net** client.
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -113,11 +105,12 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this trick doesn’t help you, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Warzone
 
  If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
@@ -134,8 +127,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +134,20 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[New] 2024 Approved How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>[New] Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>[New] In 2024, Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-photos-master-adobes-curving-methods/"><u>[New] Revolutionize Your Photos Master Adobe's Curving Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-exploring-the-unspoken-rules-of-instagram-mastery/"><u>In 2024, Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/radial-magic-transforming-ordinary-photos-into-art-for-2024/"><u>Radial Magic Transforming Ordinary Photos Into Art for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-wtv-files-into-mpeg-ts-format-using-your-windows-computer/"><u>Simple Steps: Converting WTV Files Into MPEG-TS Format Using Your Windows Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-personal-cd-replication-for-secure-music-preservation/"><u>Step-by-Step Guide to Personal CD Replication for Secure Music Preservation</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-youtube/"><u>Step-by-Step Guide: Adding Your DVD Content to YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-genshin-impact-across-desktops-and-smartphones/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Genshin Impact Across Desktops and Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/stream-unlimited-films-with-these-6-free-android-movie-watching-apps/"><u>Stream Unlimited Films with These 6 Free Android Movie-Watching Apps!</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-13-essential-kid-friendly-extensions-for-kodi-stream-family-entertainment/"><u>Top 13 Essential Kid-Friendly Extensions for Kodi - Stream Family Entertainment</u></a></li>
+</ul></div>
 

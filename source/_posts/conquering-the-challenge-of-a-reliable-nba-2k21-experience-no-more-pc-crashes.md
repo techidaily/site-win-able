@@ -1,7 +1,7 @@
 ---
 title: Conquering the Challenge of a Reliable NBA 2K21 Experience - No More PC Crashes
-date: 2024-12-30T19:14:35.047Z
-updated: 2025-01-05T20:51:00.841Z
+date: 2025-01-10T17:48:42.360Z
+updated: 2025-01-12T17:22:15.997Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
@@ -60,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -85,15 +89,15 @@ You can follow these steps to install all Windows updates:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
 After updating your system, you can open NBA 2K21 and test your gameplay.
 
 If 2K21 crashes again, simply move on to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -112,7 +116,7 @@ If 2K21 crashes again, simply move on to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,7 +126,7 @@ If 2K21 crashes again, simply move on to the next method.
  If this fix doesn’t solve your problem, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Close in-game overlay
@@ -134,10 +138,6 @@ For example, you can use these steps to disable Steam overlay:
 1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
@@ -177,22 +177,21 @@ For example, you can use these steps to disable Steam overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-screen-recording-on-skype-innovative-uses-of-obs-for-2024/"><u>[New] Mastering Screen Recording on Skype Innovative Uses of OBS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pioneering-resources-leading-free-video-openers-guide/"><u>[Updated] Pioneering Resources Leading Free Video Openers Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-epic-entertainment-a-rundown-of-hilarious-youtuber-hits/"><u>2024 Approved Epic Entertainment A Rundown of Hilarious YouTuber Hits</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199738532-choosing-the-appropriate-type-of-spc-chart-is-critical-depending-on-the-data-variables-or-attributes-being-analyzed/"><u>Choosing the Appropriate Type of SPC Chart Is Critical Depending on the Data (Variables or Attributes) Being Analyzed.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-your-preferred-conversational-agent-gemini-or-chatgpt-plus/"><u>Choosing Your Preferred Conversational Agent: Gemini or ChatGPT Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x800f081f-resolved-a-step-by-step-guide-to-installing-net-framework-35-successfully/"><u>Error Code 0X800F081F Resolved: A Step-by-Step Guide to Installing .NET Framework 3.5 Successfully</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-bargain-secure-the-79-lenovo-chromebook-now-before-its-gone-shop-smart-this-cyber-monday/"><u>Exclusive Black Friday Bargain! Secure the $79 Lenovo Chromebook Now Before It's Gone - Shop Smart This Cyber Monday</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-swift-tarkov-performance-mastering-the-6-essential-tweaks-to-elevate-your-pace-and-resolve-low-fps-issues/"><u>Expert Guide: Swift Tarkov Performance - Mastering the 6 Essential Tweaks to Elevate Your Pace and Resolve Low FPS Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-6-troubleshooting-fixes-for-pc-game-crashes/"><u>Far Cry 6 Troubleshooting: Fixes for PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-chivalry-2-a-guide-to-resolving-game-crashes/"><u>Fixing Chivalry 2: A Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-note-30-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix Note 30 5G online without jailbreak</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010093108-kodi-not-connected-solve-the-problem-of-missing-directory-information-now/"><u>Kodi Not Connected? Solve the Problem of Missing Directory Information Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-the-notorious-lag-issues-for-the-elder-scrolls-online-blackwood-expansion/"><u>Solved! Fixing the Notorious Lag Issues for The Elder Scrolls Online Blackwood Expansion</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-issues-with-the-msi-dragon-center-a-step-by-step-guide/"><u>Solving Issues with the MSI Dragon Center - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-users-handbook-for-changing-windows-pin/"><u>The User's Handbook for Changing Windows PIN</u></a></li>
-<li><a href="https://win-able.techidaily.com/turbocharge-yahoo-downloads-top-strategies-for-quick-loading/"><u>Turbocharge Yahoo Downloads : Top Strategies for Quick Loading</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-a-smooth-gameplay-experience-on-your-pc-with-these-fixes-to-the-assassinn-creed-odyssey-freezing-glitch-march-2024/"><u>Unlock a Smooth Gameplay Experience on Your PC with These Fixes to the Assassin'n Creed Odyssey Freezing Glitch (March 2024)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-8-collage-champions-finding-affordable-premium-video-mosaics-android/"><u>[New] Top 8 Collage Champions Finding Affordable, Premium Video Mosaics (Android)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>[Updated] 2024 Approved Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-darkening-scene-with-premiere-pro/"><u>[Updated] 2024 Approved Darkening Scene with Premiere Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-spotify-web-player-lags-and-malfunctions-expert-fixes-for-optimal-playback/"><u>Addressing Spotify Web Player Lags and Malfunctions : Expert Fixes for Optimal Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-prevent-and-resolve-ark-software-failures/"><u>Fixing the Issue: How to Prevent and Resolve ARK Software Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-unreal-process-has-crashed-in-outriders-for-a-smoother-game-experience/"><u>How to Resolve 'Unreal Process Has Crashed' In Outriders for a Smoother Game Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-the-severe-dev-error-in-modern-warfare-and-warzone/"><u>How To: Troubleshoot and Correct the Severe Dev Error in Modern Warfare and Warzone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrate-ai-in-your-web-experience-signup-to-bing/"><u>Integrate AI in Your Web Experience: Signup to Bing</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-update-tackles-previous-server-connections-errors-in-mlb-the-show-2021/"><u>Latest Update Tackles Previous Server Connections Errors in MLB The Show 2021</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-tricks-successfully-launching-everspace-2-without-pc-crashes/"><u>Mastering The Tricks: Successfully Launching Everspace 2 Without PC Crashes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stabile-videos-erstellen-tipps-fur-die-aufnahme-auf-windows-mac-android-und-iphone/"><u>Stabile Videos Erstellen: Tipps Für Die Aufnahme Auf Windows, Mac, Android Und iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-recording-video-without-auditory-disruption/"><u>The Ultimate Guide to Recording Video without Auditory Disruption</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-creative-writing-and-note-taking-apps-that-have-transformed-our-lives/"><u>Top 6 Creative Writing and Note-Taking Apps That Have Transformed Our Lives</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-switch-reclaim-your-connection/"><u>Troubleshoot Switch: Reclaim Your Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-continuous-nox-player-freezes-and-closures/"><u>Troubleshooting Steps for Continuous Nox Player Freezes and Closures</u></a></li>
+<li><a href="https://facebook.techidaily.com/upcoming-verdict-from-facebooks-governance-board-on-trump-ban/"><u>Upcoming Verdict From Facebook's Governance Board on Trump Ban</u></a></li>
 </ul></div>
 

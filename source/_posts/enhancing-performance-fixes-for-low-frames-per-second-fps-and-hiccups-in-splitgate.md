@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: Fixes for Low Frames Per Second (FPS) and Hiccups in Splitgate"
-date: 2024-08-13T09:59:39.354Z
-updated: 2024-08-14T09:59:39.354Z
+date: 2025-01-05T17:16:02.684Z
+updated: 2025-01-12T17:41:53.311Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your video driver
 
  The Overwatch stuttering issue could be caused by**an old or corrupted video driver** on your computer. You can update your video driver to the latest version to try to solve the issue.
@@ -42,15 +46,21 @@ You can update your video driver either manually or automatically.
 1. Download and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b9f02530c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer after updating your video driver. Then check if Overwatch runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 2: Stop other background programs
 
  Overwatch needs internet when running. If other programs running background on your computer and eats up a lot network usage, that may cause Overwatch to stutter. So **stop any other unnecessary programs especially those are using a lot of network usage and system space** . Once you do, check if OverWatch runs smoothly.
@@ -72,8 +82,9 @@ Re-run your Overwatch game and see if it runs smoothly.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Turn off Game Mode
 
  There’s a feature called**Game Mode** in Windows 10, with Game Mode on, Windows 10 ensures you play your games with the best possible experiences. But sometimes it could cause problems, including the Overwatch stuttering issue. In this case, make sure Game Mode is turned off if you’re playing Overwatch on Windows 10.
@@ -81,14 +92,12 @@ Re-run your Overwatch game and see if it runs smoothly.
 Here’s how to turn off Game Mode:
 
 1. On your keyboard, hold down**the Windows logo key** , then press**I** to bring up the**Settings** window.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click**Gaming.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select**Game Mode** in the left, then set**Use Game Mode** to**Off** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bdd00abb4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check to see if Overwatch runs smoothly.
 
@@ -102,18 +111,8 @@ Here’s how you can turn Game DVR off.
 
 1. On your keyboard, hold down the**Windows logo key** , then press**I** to bring up the**Settings** window.
 2. Click**Gaming** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Select**Game bar** in the left then toggle off **Record game clips, screenshots, and broadcast using Game bar** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1be60bd72d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 4. Select**Game DVR** in the left, then**turn off each option** in this section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bee7c51a7.jpg)
 
 Re-run your Overwatch game and check to see if it runs smoothly.
@@ -130,8 +129,6 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +136,16 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-android-screen-capture-kings-the-ultimate-8-free-guide-for-2024/"><u>[New] Android Screen Capture Kings The Ultimate 8-Free Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-simplified-approach-to-crafting-professional-time-lapse-videos-in-gopro-studio/"><u>[Updated] 2024 Approved Simplified Approach to Crafting Professional Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pubg-voice-transformation-hacks/"><u>[Updated] In 2024, PUBG Voice Transformation Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciding-between-two-titans-a-detailed-review-of-google-nest-audio-and-apple-homepod/"><u>Deciding Between Two Titans: A Detailed Review of Google Nest Audio and Apple HomePod</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-tracking-victory-in-escape-from-tarkov-a-pros-secrets-to-overcome-slow-fps-through-six-key-modifications/"><u>Fast-Tracking Victory in Escape From Tarkov: A Pro's Secrets to Overcome Slow FPS Through Six Key Modifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-watch-dogs-legion-from-continuously-crashing-on-pc/"><u>Fixing the Issue: How to Stop Watch Dogs Legion From Continuously Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-phasmophabria-a-comprehensive-walkthrough-for-overcoming-vr-compatibility-issues/"><u>Mastering Phasmophabria: A Comprehensive Walkthrough for Overcoming VR Compatibility Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011532802-phoenix-point-crash-no-more-easy-fix-solutions-revealed/"><u>Phoenix Point Crash No More - Easy Fix Solutions Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-startech-drivers-problems-on-windows-10-8-and-7-step-by-step-guide/"><u>Resolving StarTech Drivers Problems on Windows 10, 8 & 7 - Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unsticking Your Fortnite Game: Overcoming Persistent Startup Problems"
-date: 2024-08-13T10:05:14.030Z
-updated: 2024-08-14T10:05:14.030Z
+date: 2025-01-07T17:03:43.000Z
+updated: 2025-01-12T16:27:13.007Z
 tags:
   - win11
   - win10
@@ -24,9 +24,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Verify integrity of game files
 
  When you have trouble launching your game properly, you need to check whether your game files are corrupted or missing. To do this, you can utilize the tool of verifying integrity of game files by following the steps below:
@@ -34,13 +31,14 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties…** .  
   
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
@@ -52,14 +50,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -69,6 +59,10 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -81,9 +75,6 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -97,9 +88,9 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -109,22 +100,23 @@ Here’s how to update drivers with Driver Easy:
  2) Type **%temp%** and then press Enter on your keyboard.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
@@ -142,8 +134,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
@@ -166,8 +159,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +166,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-clear-screen-strategy-effortless-background-management-in-digital-gatherings/"><u>[New] In 2024, Clear Screen Strategy Effortless Background Management in Digital Gatherings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>[New] In 2024, Essential Software for Enthusiasts Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-windows-best-calling-solutions-7-1-ranked/"><u>[New] In 2024, Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simple-guide-to-record-unrooted-android-sounds/"><u>[New] Simple Guide to Record Unrooted Android Sounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-playbook-for-earning-via-youtube-shorts/"><u>[New] The Ultimate Playbook for Earning via YouTube Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-engineering-engrossing-movie-excerpts/"><u>[Updated] 2024 Approved Engineering Engrossing Movie Excerpts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-achieving-optimal-watchability-with-two-screens-on-netflix/"><u>2024 Approved Achieving Optimal Watchability with Two Screens on Netflix</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitches-expert-guide-to-troubleshooting-biomutant-on-your-computer-2024-edition/"><u>Beat the Glitches: Expert Guide to Troubleshooting Biomutant on Your Computer - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-counter-strike-global-offensive-warzone-bug-6328-with-pro-hacks/"><u>Conquering Counter-Strike: Global Offensive Warzone Bug #6328 with Pro Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gaming-experience-in-call-of-duty-black-ops-4-by-eliminating-lags-and-fps-declines/"><u>Enhancing Gaming Experience in Call of Duty: Black Ops 4 by Eliminating Lags & FPS Declines</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010222256-fix-the-uninvited-pc-party-crasher-6-expert-hacks-to-resolve-stray-crashes-now/"><u>Fix the Uninvited PC Party Crasher: 6 Expert Hacks to Resolve Stray Crashes Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-your-minecraft-game-running-smoothly-again-on-desktop-a-comprehensive-guide/"><u>Getting Your Minecraft Game Running Smoothly Again on Desktop: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/rapid-dvd-to-mp4-conversion-with-official-winx-dvd-ripper-platinum-h2ebchevc-support-included/"><u>Rapid DVD to MP4 Conversion with Official WinX DVD Ripper Platinum: H.2ebc/HEVC Support Included</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnecting-to-the-destiny-2-servers-a-comprehensive-guide-fixed/"><u>Reconnecting to the Destiny 2 Servers - A Comprehensive Guide [FIXED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-hitches-optimizing-pc-settings-for-smooth-fall-guys-sessions/"><u>Say Goodbye to Hitches: Optimizing PC Settings for Smooth Fall Guys Sessions</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-setting-up-your-crypto-wallet-with-yl-computings-platform/"><u>Step-by-Step Guide: Setting Up Your Crypto Wallet with YL Computing's Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamlined-guide-to-fixing-persistent-freezing-problems-with-chrome-on-windows-10-systems/"><u>Streamlined Guide to Fixing Persistent Freezing Problems with Chrome on Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-of-progress-windows-beyond-11/"><u>The Pinnacle of Progress: Windows Beyond 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004869417-unlock-dayz-drop-secrets-score-more-weapons-quickly/"><u>Unlock DayZ Drop Secrets: Score More Weapons Quickly!</u></a></li>
+</ul></div>
 

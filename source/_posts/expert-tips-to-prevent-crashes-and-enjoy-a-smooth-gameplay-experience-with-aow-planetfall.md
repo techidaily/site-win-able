@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent Crashes and Enjoy a Smooth Gameplay Experience with AoW Planetfall
-date: 2024-08-13T10:08:08.008Z
-updated: 2024-08-14T10:08:08.008Z
+date: 2025-01-06T17:04:33.902Z
+updated: 2025-01-12T17:39:47.826Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 [**Download Now**](https://www.fortect.com/go/route-dz.php?channel=dz&d=t&banner=drivereasyen87812)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,9 +48,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -72,32 +66,46 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 3. Go to the**Worlds** tab and choose one of your Worlds.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
 
 1. Click the Windows start button, type**control panel** and press the**Enter** key on your keyboard to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
@@ -116,13 +124,7 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 4. Run Minecraft and check whether you can connect to the world.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -141,9 +143,6 @@ If this fix can’t help, you can move to the next.
 3. Find**Join multiplayer games** and make sure it’s set to**Allow** .
 4. Click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,9 +166,9 @@ If this fix can’t help, you can move to the next.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
@@ -179,8 +178,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tips
 
 #### For iPad users
@@ -203,8 +203,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +210,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-comprehensive-analysis-of-syma-x5c-best-starter-drone-pick/"><u>[New] 2024 Approved Comprehensive Analysis of Syma X5C Best Starter Drone Pick</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-filming-techniques-for-high-quality-facebook-video-content/"><u>[New] 2024 Approved Filming Techniques for High-Quality Facebook Video Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-technique-for-anonymous-footage-via-image-smoothing/"><u>[New] 2024 Approved Technique for Anonymous Footage via Image Smoothing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-choruscheck-live-audio-critique/"><u>[Updated] In 2024, ChorusCheck Live Audio Critique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-perfecting-your-youtube-closings-essential-insights-and-tips-for-2024/"><u>[Updated] Perfecting Your YouTube Closings - Essential Insights & Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs/"><u>2024 Approved The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-powerdirector-full-review-and-instructions-for-2024/"><u>Mastering PowerDirector - Full Review & Instructions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsofts-decision-to-discontinue-currency-features-in-excel/"><u>Microsoft's Decision to Discontinue Currency Features in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-incorporating-macros-on-microsoft-offices-quick-access-toolbar/"><u>Quick Guide: Incorporating Macros on Microsoft Office's Quick Access Toolbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-google-play-for-win11-users/"><u>Setting Up Google Play for Win11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-a-personalized-pareto-diagram-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting a Personalized Pareto Diagram Using Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-mastering-the-art-of-summing-up-entire-columns-in-ms-excel/"><u>Step-by-Step Guide: Mastering the Art of Summing Up Entire Columns in MS Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-enabling-macs-quick-look-on-your-windows-pc/"><u>Step-by-Step Tutorial: Enabling Mac's Quick Look on Your Windows PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/vs-gopro-hero-session-and-polaroid-cube-top-pick-for-filmmakers/"><u>Vs. GoPro Hero Session & Polaroid Cube Top Pick for Filmmakers</u></a></li>
+</ul></div>
 

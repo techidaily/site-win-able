@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2025-01-01T17:46:25.627Z
-updated: 2025-01-05T21:15:32.679Z
+date: 2025-01-07T16:08:30.202Z
+updated: 2025-01-12T16:20:12.004Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -105,16 +109,12 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -122,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -137,19 +141,15 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,17 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-zoom-strategies-engaging-small-groups-efficiently/"><u>[New] In 2024, Zoom Strategies Engaging Small Groups Efficiently</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-select-your-footage-editor-hero-or-cube-edition/"><u>[New] Select Your Footage Editor Hero or Cube Edition?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>[Updated] In 2024, Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieving-eternal-prosperity-navigating-the-depths-of-like-a-dragon-for-pc-gamers/"><u>Achieving Eternal Prosperity: Navigating the Depths of Like a Dragon for PC Gamers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/critical-choices-for-perfect-snaps-for-2024/"><u>Critical Choices for Perfect Snaps for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-now-delivers-smoother-frame-rates-performance-boosted/"><u>Cyberpunk 2077 Now Delivers Smoother Frame Rates - Performance Boosted</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-cod-vanguard-e0x00001338-expert-solutions-for-your-pc-game-crashes/"><u>Fixing COD Vanguard E0x00001338: Expert Solutions for Your PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-of-constant-loading-screens-in-madden-22-a-comprehensive-guide/"><u>Solving the Issue of Constant Loading Screens in Madden 22 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-ultimate-solution-avoid-and-resolve-last-epoch-issues-in-pc-training-top-tips/"><u>Solving the Ultimate Solution: Avoid and Resolve 'Last Epoch' Issues in PC Training - Top Tips</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268010841-stellar-unveils-revolutionary-software-for-impeccable-picture-retrieval-and-mending-latest-news-update/"><u>Stellar Unveils Revolutionary Software for Impeccable Picture Retrieval & Mending - Latest News Update.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-xr-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone XR</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-6-online-stores-to-purchase-your-next-high-performance-laptop/"><u>Top 6 Online Stores to Purchase Your Next High-Performance Laptop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues/"><u>[Updated] In 2024, Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1-step-by-step-guide-moviesjoy-downloader-secrets-to-successfully-saving-films-from-moviesjoy/"><u>1. Step-by-Step Guide: [MoviesJoy Downloader] Secrets to Successfully Saving Films From MoviesJoy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-free-and-paid-android-video-editors/"><u>2024 Approved Top-Rated Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-solution-to-correct-the-infamous-leaf-bug-in-apex-legends/"><u>A Step-by-Step Solution to Correct the Infamous 'Leaf' Bug in Apex Legends</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-encountering-chilling-glitches-solutions-and-fixes/"><u>Cyberpunk 2077 Encountering Chilling Glitches: Solutions & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-fixes-and-optimizations-avoiding-crashes-in-your-2024-adventure/"><u>Diablo Immortal Stability Fixes and Optimizations: Avoiding Crashes in Your 2024 Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-black-screen-problems-now-solved/"><u>Expert Tips on Overcoming Black Screen Problems, Now Solved!</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-realme-narzo-60-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme Narzo 60 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-technique-complete-msi-laptop-system-restore-steps-revealed/"><u>Master the Technique: Complete MSI Laptop System Restore Steps Revealed</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/optimierte-losungen-fur-inkrementelles-backup-mit-synology-fuhren-sie-ihre-daten-sicher-nach/"><u>Optimierte Lösungen Für Inkrementelles Backup Mit Synology - Führen Sie Ihre Daten Sicher Nach</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stalls-in-qbittorent-a-step-by-step-guide/"><u>Resolving Stalls in qBittorent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-zlibdll-file-absence-issue-a-step-by-step-guide/"><u>Solving the zlib.dll File Absence Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-streaming-services-for-musicians-for-2024/"><u>Superior Streaming Services for Musicians for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eradicate-sims-4-performance-issues-on-your-pc/"><u>Ultimate Guide: Eradicate Sims 4 Performance Issues on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-woes-decode-and-repair-dev-error-5573-on-your-gaming-devices/"><u>Warzone Woes? Decode and Repair Dev Error 5573 on Your Gaming Devices</u></a></li>
 </ul></div>
 

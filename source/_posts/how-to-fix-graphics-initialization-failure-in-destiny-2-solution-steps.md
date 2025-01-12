@@ -1,7 +1,7 @@
 ---
 title: How To Fix 'Graphics Initialization Failure' In Destiny 2 – Solution Steps
-date: 2024-08-13T09:59:38.402Z
-updated: 2024-08-14T09:59:38.402Z
+date: 2025-01-11T17:56:29.279Z
+updated: 2025-01-12T16:44:41.196Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | Storage          | 20 GB                             |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,6 +41,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -50,11 +55,16 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -68,8 +78,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -96,15 +107,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -118,10 +123,6 @@ OR
 
 1. Press the**Windows logo key + I (i)** together to open**Settings** .
 2. Click **Settings** \> **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -141,8 +142,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +149,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>[New] 2024 Approved A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>[New] Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>[Updated] 2024 Approved Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-precision-editing-made-easy-top-5-techniques-for-trimming-and-cutting-vimeo-footage/"><u>[Updated] In 2024, Precision Editing Made Easy Top 5 Techniques for Trimming & Cutting Vimeo Footage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-shifting-paradigms-non-youtube-video-hosts-for-2024/"><u>[Updated] Shifting Paradigms Non-Youtube Video Hosts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-utorrent-speed-effective-solutions-for-faster-torrents/"><u>Boosting uTorrent Speed: Effective Solutions for Faster Torrents</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gameloop-issues-how-to-prevent-crashes-in-games-on-windows-11-and-10/"><u>Fixing GameLoop Issues: How to Prevent Crashes in Games on Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-steam-remote-play-running-smoothly-again-with-these-tips/"><u>Get Your Steam Remote Play Running Smoothly Again with These Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-fixed-understanding-the-solution-behind-exit-code-0-issue/"><u>Minecraft Fixed! Understanding the Solution Behind Exit Code '0' Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-system-with-the-newest-asus-driver-downloads-and-setup-instructions/"><u>Optimize Your System with the Newest ASUS Driver Downloads and Setup Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-starfields-pc-freezing-issues/"><u>Troubleshooting Guide: Fixing Starfield's PC Freezing Issues</u></a></li>
+</ul></div>
 

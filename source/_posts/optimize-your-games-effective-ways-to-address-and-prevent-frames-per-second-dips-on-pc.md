@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC"
-date: 2024-12-30T00:28:09.693Z
-updated: 2025-01-05T22:04:26.517Z
+date: 2025-01-08T16:40:40.324Z
+updated: 2025-01-12T17:17:38.498Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run WWE 2K20 as administrator
 
  In some cases, WWE 2K20 won’t run properly because it is not granted the necessary access to running the game. To make sure your game does not crash because of insufficient rights, you should run it as administrator.
@@ -51,17 +55,25 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -71,6 +83,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
@@ -78,10 +94,6 @@ Here is how to do it:
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -96,10 +108,6 @@ Here is how to do it:
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -123,10 +131,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -144,7 +148,7 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
@@ -158,10 +162,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -186,22 +186,24 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-list-of-ai-named-generators-for-podcasters/"><u>[New] The Ultimate List of AI Named Generators for Podcasters</u></a></li>
-<li><a href="https://win-able.techidaily.com/advanced-optimization-techniques-to-enhance-sims-4-experience-on-your-computer/"><u>Advanced Optimization Techniques to Enhance Sims 4 Experience on Your Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/agency-and-self-determination/"><u>Agency and Self-Determination:</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-techniques-for-smoothing-out-wwe-2k20-performance-issues-on-desktops-and-laptops/"><u>DIY Techniques for Smoothing Out WWE 2K20 Performance Issues on Desktops and Laptops</u></a></li>
-<li><a href="https://solve-help.techidaily.com/effortless-file-transfer-made-simple-discover-the-premier-free-software-for-automatic-uploads-to-external-storage-devices/"><u>Effortless File Transfer Made Simple: Discover the Premier FREE Software for Automatic Uploads to External Storage Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-eta-8014-glitch-in-dead-by-daylight-a-step-by-step-guide/"><u>How to Overcome ETA 8014 Glitch in Dead by Daylight - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m34-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy M34 5G Unlock Without Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-budget-friendly-video-alteration-journeys-explored/"><u>In 2024, Top 10 Budget-Friendly Video Alteration Journeys Explored</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y100t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y100t Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-graphics-settings-to-resolve-stuttering-in-pc-version-of-fortnite/"><u>Optimizing Graphics Settings to Resolve Stuttering in PC Version of Fortnite</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-no-sound-problems-in-your-twitch-livestreams-effectively/"><u>Resolving No-Sound Problems in Your Twitch Livestreams Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/revamp-your-gaming-experience-top-7-troubleshooting-steps-to-resolve-halo-infinite-pc-stuttering-issues/"><u>Revamp Your Gaming Experience: Top 7 Troubleshooting Steps to Resolve Halo Infinite PC Stuttering Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-playing-disco-elysium-on-pc-after-previous-crashes-tips-and-tricks-to-ensure-uninterrupted-gaming/"><u>Successfully Playing Disco Elysium on PC After Previous Crashes: Tips and Tricks to Ensure Uninterrupted Gaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-facilement-vos-aac-en-mp3-gratuitement-sur-movavi-commencez-votre-migration-numerique/"><u>Transformer Facilement Vos AAC en MP3 Gratuitement Sur Movavi - Commencez Votre Migration Numérique !</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-get-civilization-vi-working-again-on-your-windows-11-pc/"><u>Troubleshooting Steps to Get Civilization VI Working Again on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-trending.techidaily.com/verbesserung-der-sicherheit-mit-zwei-faktor-authentifizierung-fur-ihre-apple-id/"><u>Verbesserung Der Sicherheit Mit Zwei-Faktor-Authentifizierung Für Ihre Apple ID</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-backgroundannihilator-professional-erase-software/"><u>[New] BackgroundAnnihilator Professional Erase Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[New] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>[New] Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-snap-fast-moments-iphone-methods-for-blur-effects/"><u>[Updated] 2024 Approved Snap Fast Moments IPhone Methods for Blur Effects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlocking-creativity-free-animation-techniques/"><u>[Updated] 2024 Approved Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-instagram-video-orientation-whats-the-flip/"><u>[Updated] In 2024, Instagram Video Orientation - What's the Flip?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-beginners-guide-to-joining-facebook/"><u>[Updated] In 2024, The Beginner's Guide to Joining Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm44oq44ki44or44k44kk44og44gn6yyy55s744gv44km44kl5yuv55s744kz44oz44og44oz44oe44ks5pw055cg44gz44kl5paw44gx44ge5oqa6kgt44cn/"><u>「リアルタイムで録画される動画コンテンツを整理する新しい技術」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027066427-2024dvd/"><u>【2024】おススメ！安全に解除するDVDコピー保護ソフト：試してみるだけ無料</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-easy-guide-transforming-flv-videos-into-high-quality-wmv-files/"><u>1. Easy Guide: Transforming FLV Videos Into High-Quality WMV Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-optimal-video-formats-and-integration-techniques-for-enhanced-presentations-in-google-slides/"><u>1. Optimal Video Formats and Integration Techniques for Enhanced Presentations in Google Slides</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-dvd-1110/"><u>最新版 Windows DVD コピー ソフト - 11/10 対応で無料・制限なし!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027712178-android/"><u>Android用無料音楽再生アプリランキングと標準プレーヤーガイド - おすすめソフト集!</u></a></li>
+<li><a href="https://location-social.techidaily.com/digital-decorum-for-chatbots-tips-for-siri-and-similar-platforms/"><u>Digital Decorum for Chatbots: Tips for Siri and Similar Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-g24-power-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola G24 Power without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027889901-iphone/"><u>IPhone 動画と音楽をパワーディレクターで効率よくインポートする方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/44ot44oh44kq44k544kv44oq44o844oz44k144kk44k644ks5ouh5asn44gz44kl44gf44kb44gu5yq55p6c55qe44gq44og44kv44ol44od44kv/"><u>ビデオスクリーンサイズを拡大するための効果的なテクニック</u></a></li>
+<li><a href="https://win-able.techidaily.com/44ot44oh44kq44go44kq44o844oh44kj44kq44ks5asj5oplusb44gz44kl6zqb44gr55u06z2i44gz44kl5zwp6agm44go6kej5rg65pa55rov/"><u>ビデオとオーディオを変換する際に直面する問題と解決方法</u></a></li>
 </ul></div>
 

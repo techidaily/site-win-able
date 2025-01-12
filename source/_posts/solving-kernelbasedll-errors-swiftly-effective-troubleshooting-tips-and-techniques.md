@@ -1,7 +1,7 @@
 ---
 title: "Solving 'KernelBase.dll' Errors Swiftly: Effective Troubleshooting Tips and Techniques"
-date: 2024-08-13T10:05:59.057Z
-updated: 2024-08-14T10:05:59.057Z
+date: 2025-01-06T17:27:42.535Z
+updated: 2025-01-12T17:20:23.528Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -85,11 +86,19 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -102,17 +111,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -121,13 +123,9 @@ The ultimate burning program for all your needs!</a>
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -141,22 +139,17 @@ The ultimate burning program for all your needs!</a>
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -186,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +186,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-7-ideas-to-improve-the-unboxing-experience/"><u>[New] In 2024, 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage-for-2024/"><u>[Updated] Capture It All The Top 5 SD Cards for GoPro Hero Footage for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-monetization-milestone-500-subscribers-achieved/"><u>[Updated] YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-in-prostate-cancer-osteoblastic-lesions-can-lead-to-osteosclerosis-and-structurally-unsound-bones/"><u>Common in Prostate Cancer, Osteoblastic Lesions Can Lead to Osteosclerosis and Structurally Unsound Bones.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/full-breakdown-razers-hd-webcam-experience/"><u>Full Breakdown Razer's HD Webcam Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-dauntless-pc-crashes-and-enjoy-uninterrupted-play/"><u>How To Fix Dauntless PC Crashes and Enjoy Uninterrupted Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-life-is-strange-true-colors-ultimate-guide-for-resolving-game-freezes-and-crashes/"><u>How to Fix Life Is Strange: True Colors - Ultimate Guide for Resolving Game Freezes and Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v27e-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V27e for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-launch-problem-troubleshooting-steps-and-solutions/"><u>MapleStory Launch Problem - Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-the-world-of-virtual-coins-effective-strategies-for-implementing-bitcoin-transactions-through-yl-software/"><u>Navigating the World of Virtual Coins: Effective Strategies for Implementing Bitcoin Transactions Through YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-gaming-experience-addressing-and-repairing-frame-drops-in-valorant/"><u>Optimize Your Gaming Experience: Addressing and Repairing Frame Drops in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-god-of-wars-insufficient-memory-glitch-proven-strategies-for-smooth-gaming/"><u>Overcome God of War's Insufficient Memory Glitch: Proven Strategies for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-desynchronized-youtube-videos-effective-fixes-for-chromium-and-mozilla-firefox-browsers/"><u>Resolving Desynchronized YouTube Videos: Effective Fixes for Chromium and Mozilla Firefox Browsers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-updated-thunderbolt-drivers-for-windows-systems/"><u>Step-by-Step Guide: Installing Updated Thunderbolt Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-fortnite-from-crashing-on-your-pc-comprehensive-fixes/"><u>Stop Fortnite From Crashing on Your PC: Comprehensive Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-the-detected-intrusion-problem-in-gaming-software/"><u>Tackling the 'Detected Intrusion' Problem in Gaming Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-reviews-on-latest-gadgets/"><u>Tom's Tech Insights: Expert Reviews on Latest Gadgets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/x-recorder-for-pc-free-recording-software/"><u>X-Recorder for PC Free Recording Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2025-01-03T17:35:39.345Z
-updated: 2025-01-05T22:49:44.706Z
+date: 2025-01-08T16:18:45.446Z
+updated: 2025-01-12T17:53:21.785Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Metro Exodus is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -87,12 +87,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -122,6 +126,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -132,17 +140,9 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click the**General** tab and click**Set Launch Options** .
 
@@ -152,15 +152,15 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Save your changes and restart your computer.
 
 Launch Metro Exodus and see if it works now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower the in-game video settings
 
@@ -193,14 +193,14 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/fficient-audience-growth-subscriber-sale-alert-for-2024/"><u>[New] Efficient Audience Growth Subscriber Sale Alert for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-megafun-the-ultimate-funimate-manual/"><u>[New] In 2024, MegaFun The Ultimate Funimate Manual</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-12-best-tycoon-games-to-kill-time/"><u>2024 Approved Top 12 Best Tycoon Games to Kill Time</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cost-effective-smart-device-reviews-unveiling-the-best-choices-by-zdnet/"><u>Cost-Effective Smart Device Reviews: Unveiling the Best Choices by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-nvidias-geforce-error-code-0x0003/"><u>How to Troubleshoot and Correct NVIDIA's GeForce Error Code 0X0003</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-webcam-mastery-how-to-transform-your-video-recording/"><u>In 2024, WebCam Mastery How to Transform Your Video Recording</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-cold-start-ensuring-seamless-launch-of-cod-black-ops-cold-war-on-pc-systems/"><u>Mastering The Cold Start: Ensuring Seamless Launch of Cod: Black Ops Cold War on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-ark-scorched-earth-ultimate-tips-and-tricks-for-pc-players/"><u>Maximizing Frame Rates in ARK: Scorched Earth - Ultimate Tips & Tricks for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-resolve-hogwarts-legacys-stutter-issues/"><u>Ultimate Troubleshooting Tips: Resolve Hogwarts Legacy's Stutter Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-perfecting-the-art-of-slow-motion-in-snapchat-stories/"><u>[New] 2024 Approved Perfecting the Art of Slow Motion in Snapchat Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-surviving-in-mc-6-home-ideas/"><u>[New] Surviving in MC 6 Home Ideas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-the-charge-in-sustainable-filmmaking/"><u>[Updated] In 2024, Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-which-video-sharing-app-should-i-pick-tiktok-or-youtube-shorts-perspective/"><u>2024 Approved Which Video-Sharing App Should I Pick? TikTok or YouTube Shorts Perspective</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-diagnosing-and-repairing-outlook-not-connecting-problems/"><u>Guide: Diagnosing and Repairing 'Outlook Not Connecting' Problems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/overcoming-audio-glitches-with-obs-enhancements/"><u>Overcoming Audio Glitches with OBS Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-microsoft-flight-simulator-2020-update-issue/"><u>Resolved: How to Fix Microsoft Flight Simulator 2020 Update Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-code-vein-game-lag-effective-solutions-and-tips/"><u>Resolving Code Vein Game Lag: Effective Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-proven-techniques-to-enhance-download-velocity/"><u>Speeding Up Origin: Proven Techniques to Enhance Download Velocity</u></a></li>
 </ul></div>
 

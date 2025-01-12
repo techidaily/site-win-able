@@ -1,7 +1,7 @@
 ---
 title: Beat Saber Stability Issues Resolved – No More Unexpected Shutdowns
-date: 2024-08-13T09:59:58.351Z
-updated: 2024-08-14T09:59:58.351Z
+date: 2025-01-10T17:56:56.262Z
+updated: 2025-01-12T16:32:27.208Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 6. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update your headset firmware](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Install the latest game patch
 
  Game developers keep releasing new game patches to fix known issues, so be sure to install the latest updates.
@@ -39,17 +36,15 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
  Steam will default to updating your game automatically. But if you have disabled automatic updates, please enable this feature for Beat Saber and make sure it’s up to date.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify integrity of game files
 
  Crashes might happen when the game files are corrupted, so you should better check the integrity of game files for basic troubleshooting.
 
 1. Go to the**Library** .
 2. Right-click Beat Saber and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Properties-BeatSaber](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties-BeatSaber.jpg)
 3. Select the **Local files** tab and click the **Verify integrity of game files…** button.  
 ![ Verify integrity of game files...](https://images.drivereasy.com/wp-content/uploads/2020/12/localfiles.jpg)
@@ -59,8 +54,9 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
  If Beat Saber keeps crashing rather randomly, don’t be upset, for we have a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Remove all the mods
 
  If you’re running mods and having this crashing issue, we strongly recommend you to try the game without any modes. Since all the current Beat Saber mods are not official so they can bump into problems.
@@ -70,8 +66,17 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 1. Go to the**Local Files** tab of Beat Saber, and click**Browse Local Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/local-files.jpg)
 2. Locate the**Plugins** folder, and delete the .dll files inside.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Beat-Saber-Plugin.jpg)
 3. Relaunch your game and see if it keeps crashing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If Beat Saber still crashes without any mods, you can try the fix, below.
 
@@ -98,17 +103,23 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with **Full Support** and a **30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
 4. Restart your computer for the changes to take full effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Run as administrator
 
@@ -124,9 +135,6 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 
  To run your game as an administrator ensure you have full access to all the game files. This should fix some game crashes, but if unfortunately not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Perform a clean reinstall
 
  If all of your drivers are already up to date and have uninstalled mods, but the game just keeps crashing, you can try reinstalling your game and deleting all the related game folders (uninstalling it from Steam is not enough).
@@ -134,17 +142,11 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 1. Uninstall Beat Saber in Steam.
 2. Go to the folder where your game is installed (default location: **C: Program Files (x86) > Steam apps > common > Beat Saber** ) and delete all the game files.
 3. Press the**Windows** key +**R** at the same time, and type**%appdata%** in the Run box, and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![AppData](https://images.drivereasy.com/wp-content/uploads/2020/12/appdata.jpg)
 4. Delete all the game-related AppData.
 
 Download Beat Saber again and see if a clean reinstall solves this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Update your headset firmware
 
  If you’re using the Oculus VR headset, the issue might be triggered by your VR headset. To make sure your Oculus Rift works to its best performance, you need to make sure[the graphics card driver and USB drivers are already up to date](https://support.oculus.com/1802104516741690/) (you can update them all easily and free with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  ).
@@ -170,8 +172,6 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +179,18 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unleash-the-full-potential-of-discord-mastering-message-pinning/"><u>[New] In 2024, Unleash the Full Potential of Discord Mastering Message Pinning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-best-live-stream-tools-for-gamers/"><u>[Updated] Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boost-social-influence-with-these-15-snap-ideas/"><u>2024 Approved Boost Social Influence with These 15 Snap Ideas</u></a></li>
+<li><a href="https://win-able.techidaily.com/fatal-error-in-ark-effective-troubleshooting-steps-and-fixes/"><u>Fatal Error in ARK: Effective Troubleshooting Steps & Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidance-download-tamil-music-as-ringtone-and-how-to-cut-a-song-as-ringtone-for-2024/"><u>Guidance Download Tamil Music As Ringtone And How To Cut A Song As Ringtone for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-dead-by-daylight-latest-fixed-solutions/"><u>How To Resolve Constant Crashes in Dead By Daylight - Latest Fixed Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>In 2024, Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/sea-of-thieves-troubleshooting-fixes-for-game-crashes-and-errors/"><u>Sea of Thieves Troubleshooting: Fixes for Game Crashes and Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tips-for-unfreezing-your-call-of-duty-black-ops-cold-war-gameplay-experience/"><u>Step-by-Step Tips for Unfreezing Your Call of Duty: Black Ops Cold War Gameplay Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-with-top-3d-painting-shortcuts/"><u>Streamline Your Workflow with Top 3D Painting Shortcuts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-no-budget-no-problem-top-free-flv-video-editors/"><u>Updated No Budget? No Problem! Top Free FLV Video Editors</u></a></li>
+</ul></div>
 

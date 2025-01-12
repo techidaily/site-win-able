@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2025-01-04T18:54:52.103Z
-updated: 2025-01-05T21:42:59.006Z
+date: 2025-01-10T16:45:47.082Z
+updated: 2025-01-12T17:04:44.113Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -31,7 +35,7 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Check the cable
@@ -41,7 +45,7 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
@@ -64,10 +68,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Rolling back your driver
 
  If updating the driver doesn’t work for you, you may need to try this fix, especially when you’re an NVIDIA user. Some users figured out the issue was related to NVIDIA drivers, if the latest driver doesn’t fix the flickering issue, rolling back to an older version of the driver would work. Though it could cause serious loss of optimization for other games and applications.
@@ -82,11 +82,11 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Check the issue is persist or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
 
@@ -96,15 +96,15 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
@@ -141,20 +141,14 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] In 2024, 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-future-of-streaming-money-youtube-update/"><u>[New] The Future of Streaming Money YouTube Update</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/acoustic-architects-building-with-mac-studios/"><u>Acoustic Architects Building with Mac Studios</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005107842-dying-light-sound-troubles-heres-how-to-fix-it-swiftly-and-easily/"><u>Dying Light Sound Troubles? Here's How to Fix It Swiftly & Easily!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effiziente-vmware-virtualisierungswiederherstellung-fur-optimale-notfallwiederaufbereitung-3-strategien/"><u>Effiziente VMWare-Virtualisierungswiederherstellung Für Optimale Notfallwiederaufbereitung: 3 Strategien</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-diagnose-and-fix-persistent-errors-on-your-super-pc-machine/"><u>How to Diagnose and Fix Persistent Errors on Your Super Pc Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-gameplay-boost-your-new-world-performance-and-stop-stuttering/"><u>Improve Gameplay: Boost Your New World Performance and Stop Stuttering</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-xr-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone XR to Samsung | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-captivating-book-video-tours/"><u>In 2024, Captivating Book Video Tours</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-connectivity-issues-with-your-msi-mystic-light-controller-in-a-windows-environment/"><u>Overcoming Connectivity Issues with Your MSI Mystic Light Controller in a Windows Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-tf2-wont-start-find-out-why-and-solutions/"><u>Resolved: TF2 Won't Start – Find Out Why & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-repairing-dreamlight-valley-crashes-on-your-windows-computer-6-steps/"><u>Ultimate Guide to Repairing Dreamlight Valley Crashes on Your Windows Computer (6 Steps)</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-fixing-input-delay-in-cyberpunk-2077/"><u>Understanding and Fixing Input Delay in Cyberpunk 2077</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/k-your-potential-with-these-influential-biz-video-hubs/"><u>Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-poco-c51-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Poco C51 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-best-fb-videos-top-10-watcher-tools-for-2024/"><u>[New] Best FB Videos Top 10 Watcher Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effortless-android-screenshot-and-screen-record-for-2024/"><u>[Updated] Effortless Android Screenshot & Screen Record for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dimensions-and-edits-the-imovie-crop-enigma/"><u>Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-to-prevent-bluestacks-from-freezing-a-step-by-step-guide/"><u>Effortless Solutions to Prevent BlueStacks From Freezing - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-predictions-and-tips-for-the-upcoming-patch-of-2024/"><u>Rainbow Six Siege: Predictions and Tips for the Upcoming Patch of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-audio-issues-on-itunes-fixing-the-errors-in-playback-settings/"><u>Resolving Audio Issues on iTunes: Fixing the Errors in Playback Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-steam-doesnt-recognize-my-controller-issue-on-pc/"><u>Solving 'Steam Doesn't Recognize My Controller' Issue on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-top-5-online-converters-for-gifs-to-videos/"><u>Ultimate Guide Top 5 Online Converters for GIFs to Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X9b | Dr.fone</u></a></li>
 </ul></div>
 

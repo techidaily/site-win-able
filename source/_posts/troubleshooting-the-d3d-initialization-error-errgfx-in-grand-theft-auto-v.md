@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the D3D Initialization Error (ERR_GFX) in Grand Theft Auto V
-date: 2024-08-13T10:01:00.719Z
-updated: 2024-08-14T10:01:00.719Z
+date: 2025-01-09T16:23:19.797Z
+updated: 2025-01-12T16:45:33.907Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: **Update your graphics driver**
 
  One of the most common causes of game issues, such as crashing, freezing or lagging problem, is the outdated or corrupted graphics driver. When something goes wrong with_Diablo 3,_ updating your graphics driver should always be your go-to option.
@@ -60,9 +57,6 @@ There are two ways you can get the latest correct graphics driver:
 
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -76,6 +70,10 @@ There are two ways you can get the latest correct graphics driver:
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -113,17 +111,10 @@ If your game crashes again, go ahead with the fix below.
 
 **2)** Click **Diablo 3 > Options > Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
 
 **3)**  Click **Begin Scan** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-502.png)
 
  Wait for the scans to be complete, then relaunch _Diablo 3_ to test your issue. If your game crashes again, read on and try the fix below.
@@ -138,9 +129,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **2)** Click **Diablo 3 > Options > Patch Notes** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-507.png)
 
  If a patch is available, install it, then run your game again to check whether the crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
@@ -155,23 +143,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **2)** Click **BLIZZARD** , then **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
 
 **4)**  Click **Reset** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
 
 **5)** Click **Done** .
@@ -182,14 +165,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 7: **Delete the game cache files**
 
  Another possible cause of the Diablo 3 crashing issue is the corrupted cache folder. In this case, clearing the cache folder can fix the issue. Follow the instructions below to see how to do it:
@@ -198,39 +173,42 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **2)**  On the **Processes** tab, right-click the **Blizzard-related program** (such as**Blizzard battle.net App,** agent.exe and**Blizzard Update Agent** ), then click **End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Diablo 3_ , keeping it from functioning properly. Try running your game in compatibility mode to see if it fixes your issue. Here is how to do it:
 
 **1)** Right-click the**Diablo III icon** , then select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-512.png)
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
@@ -241,6 +219,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
@@ -250,8 +232,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9: Reinstall your game and/or the Blizzard Battle.net app
 
  If none of the fixes above helped,_Diablo 3_ crashing is probably triggered by corrupted game files. In this case, reinstalling your game and/or the Blizzard Battle net app is very likely the solution to your problem. Follow the instructions below:
@@ -271,6 +254,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
  Relaunch your game to check if the crashing issue has been resolved. If not, check the fix below.
@@ -283,25 +270,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **2)** Under **View by** , select **Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-444.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Right-click the**Battle.net app** , then click **Uninstall/Change** .
 
  If you’re prompted about permission, select **Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
@@ -321,8 +307,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -330,4 +314,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-shifting-gender-identity-in-online-profile-pictures/"><u>[New] 2024 Approved Shifting Gender Identity in Online Profile Pictures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tech-insightfulness-a-global-experts-assessment-for-2024/"><u>[New] Tech Insightfulness A Global Experts' Assessment for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagrams-policies-a-musicians-legal-primer/"><u>[Updated] 2024 Approved Unveiling Instagram's Policies A Musician's Legal Primer</u></a></li>
+<li><a href="https://win-able.techidaily.com/3gp-mp43gp/"><u>3GPファイル定義: MP4から3GPへの無料変換ガイドとツール紹介</u></a></li>
+<li><a href="https://win-able.techidaily.com/55s76z2i5ypluso6yyy5lit44gr6zplusz5qw944ks6kit5a6a44gz44kl5q2j44gx44ge5pa55rov77ya5a6m5ywo44ob44ol44o844oi44oq44ki44or/"><u>画面収録中に音楽を設定する正しい方法：完全チュートリアル</u></a></li>
+<li><a href="https://win-able.techidaily.com/ace-your-audio-file-conversion-expert-strategies-for-turning-mpeg-into-high-quality-aac-on-pcs/"><u>Ace Your Audio File Conversion: Expert Strategies for Turning MPEG Into High-Quality AAC on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/all-in-one-kodi-walkthrough-essential-techniques-and-usage-explained-on-page-4/"><u>All-in-One Kodi Walkthrough: Essential Techniques & Usage Explained on Page 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/capturing-audio-and-visuals-mastering-screen-recording-on-your-microsoft-surface-device/"><u>Capturing Audio & Visuals: Mastering Screen Recording on Your Microsoft Surface Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-audio-files-switching-between-wav-and-mp3-using-windows-media-player-guide/"><u>Convert Audio Files - Switching Between WAV and MP3 Using Windows Media Player Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/converting-mov-files-to-mp4-format-easy-guide-for-both-online-and-offline-methods/"><u>Converting MOV Files to MP4 Format - Easy Guide for Both Online and Offline Methods</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/drive-boosting-essential-storage-solutions/"><u>Drive Boosting: Essential Storage Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortlessly-combine-similar-pictures-on-your-iphone-or-mac-step-by-step-guide/"><u>Effortlessly Combine Similar Pictures on Your iPhone or Mac - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/is-opting-for-applecareplus-coverage-truly-beneficial-for-your-devices/"><u>Is Opting for AppleCare+ Coverage Truly Beneficial for Your Devices?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguafutura-embracing-language-learning-at-expo-dubai-2020/"><u>LinguaFutura: Embracing Language Learning at Expo Dubai 2020</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-finding-free-westeros-ringtones-for-2024/"><u>The Ultimate Guide to Finding Free Westeros Ringtones for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997290916-utorrent-not-working-heres-how-to-repair-your-torrent-downloads-and-peer-connections/"><u>UTorrent Not Working? Here’s How to Repair Your Torrent Downloads & Peer Connections!</u></a></li>
+<li><a href="https://win-able.techidaily.com/44kq44ox44oz44ot44o844oj44gn6zay6kan5yplusv6io944gq5yuv55s744ks5a6j5ywo44gr44oa44km44oz44ot44o844oj44o75lplusd566h44gz44kl44gf44kb44gu44ks44kk44oj/"><u>オプンロードで閲覧可能な動画を安全にダウンロード・保管するためのガイド</u></a></li>
+</ul></div>
 

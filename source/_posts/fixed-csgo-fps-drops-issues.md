@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] CS:GO FPS Drops Issues"
-date: 2024-12-30T21:20:52.449Z
-updated: 2025-01-05T18:25:29.327Z
+date: 2025-01-07T17:35:15.934Z
+updated: 2025-01-12T17:58:54.096Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped you from logging into the game, and that a new patch is required to fix it.
@@ -54,23 +50,15 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
@@ -82,13 +70,17 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -113,10 +105,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Flush your DNS and Renew your IP
 
  Fortnite login failed issue is also probably caused by the DNS and IP issues. **Try flushing your DNS and renewing your IP** and maybe this issue will be resolved. Here is how to do it:
@@ -126,6 +114,10 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -142,10 +134,6 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -184,6 +172,10 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -192,11 +184,23 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
@@ -212,7 +216,7 @@ See if you can log in or not. if not, try the next fix, below.
 3. In the pop-up window, click**Change adapter settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
@@ -224,14 +228,14 @@ See if you can log in or not. if not, try the next fix, below.
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
 See if you can log in or not. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -242,10 +246,6 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -270,24 +270,22 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-anti-fog-gear-for-clear-shot-capture-in-cold-weather-for-2024/"><u>[New] Anti-Fog Gear for Clear Shot Capture in Cold Weather for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-revolutionizing-sketches-prime-ipados-drawing-software/"><u>[Updated] Revolutionizing Sketches Prime iPadOS Drawing Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-fixes-for-storing-vimeo-video-files/"><u>2024 Approved Quick Fixes for Storing Vimeo Video Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/chivalry-ii-stability-issue-resolved-game-now-running-smoothly/"><u>Chivalry II Stability Issue Resolved: Game Now Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/death-stranding-on-pc-now-running-smoothly-after-debugging-challenges/"><u>Death Stranding on PC - Now Running Smoothly After Debugging Challenges</u></a></li>
-<li><a href="https://win-able.techidaily.com/detroit-lives-up-how-the-becomes-human-game-survived-a-pc-crash/"><u>Detroit Lives Up: How the 'Becomes Human' Game Survived a PC Crash</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-12plus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme 12+ 5G Device SIM</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-mir4-errors-on-your-windows-computer/"><u>Fixing the Issue: How to Resolve Mir4 Errors on Your Windows Computer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-reno-10-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Reno 10 Pro+ 5G Phone that is Locked?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-qpr-index-for-sluggish-video-content/"><u>In 2024, Best QPR Index for Sluggish Video Content</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-effective-youtube-thumbnails-and-banners/"><u>In 2024, Crafting Effective YouTube Thumbnails & Banners</u></a></li>
-<li><a href="https://win-able.techidaily.com/insight-on-the-ascent-postponement-diving-deep-into-the-causes/"><u>Insight on 'The Ascent' Postponement: Diving Deep Into the Causes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-digital-shredding-with-tips-by-stellar-professionals/"><u>Master the Art of Digital Shredding with Tips by Stellar Professionals</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-fix-error-code-0xc19001e1-in-windows-11-explained-with-easy-solutions/"><u>Master the Fix: Error Code '0xC19001e1' In Windows 11 Explained with Easy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It!</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-timeout-errors-steam-fixes-for-rust-developers/"><u>Tackling Timeout Errors: Steam Fixes for Rust Developers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-mount-and-blade-2-bannerlord-game-crashes-step-by-step/"><u>Ultimate Fixes for Mount & Blade 2: Bannerlord Game Crashes - Step by Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-sea-of-thieves-stability-issues/"><u>Ultimate Guide to Fixing Sea of Thieves Stability Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-motorola-edge-40-neo-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Motorola Edge 40 Neo Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-essential-basics-of-creating-compelling-haul-content/"><u>[New] 2024 Approved Essential Basics of Creating Compelling Haul Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-cutting-edge-gifs-from-tiktok-a-guide-for-creators-for-2024/"><u>[New] Cutting-Edge GIFs From TikTok A Guide for Creators for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-hidden-photoshop-photo-editing-tips-for-beginners/"><u>[Updated] 10 Hidden Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-collaborates-with-openai-to-integrate-chatgpt-on-ios-ipados-and-macos-devices-insights/"><u>Apple Collaborates with OpenAI to Integrate ChatGPT on iOS, iPadOS & macOS Devices - Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-valheim-experience-top-strategies-for-resolving-low-fps-2024-edition/"><u>Boost Your Valheim Experience: Top Strategies for Resolving Low FPS - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-the-persistent-black-screen-when-bootinng-up-overwatch/"><u>Expert Tips and Fixes for the Persistent Black Screen when Bootinng Up Overwatch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-resolving-steam-login-issues-a-comprehensive-guide/"><u>Fixes for Resolving Steam Login Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-steps-to-prevent-football-manager-2019-from-crashing/"><u>Fixing the Issue: Steps to Prevent Football Manager 2019 From Crashing</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-dreamlight-valley-pc-game-crashes-a-comprehensive-guide/"><u>How To Prevent Dreamlight Valley PC Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/iphone-screen-recording-made-simple/"><u>Iphone Screen Recording Made Simple</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimization-tips-to-prevent-horizon-forbidden-west-from-freezing-and-crashing/"><u>Optimization Tips to Prevent 'Horizon Forbidden West' From Freezing and Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-crashes-with-latest-patch-for-diablo-2-resurrected/"><u>Say Goodbye to Crashes with Latest Patch for Diablo 2: Resurrected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-nonfunctional-mpow-microphones-on-pcs/"><u>Troubleshooting Nonfunctional MPOW Microphones on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-powershell-errors-with-script-enablement-fixes/"><u>Troubleshooting PowerShell Errors with Script Enablement Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-gtfo-application-failures/"><u>Troubleshooting Steps for Resolving 'GTFO' Application Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-2024-fortnite-pc-stalling-issues/"><u>Ultimate Guide: Resolving 2024 Fortnite PC Stalling Issues</u></a></li>
 </ul></div>
 

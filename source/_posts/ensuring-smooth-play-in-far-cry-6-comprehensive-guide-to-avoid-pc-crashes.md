@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Smooth Play in Far Cry 6: Comprehensive Guide to Avoid PC Crashes"
-date: 2024-12-31T21:09:56.704Z
-updated: 2025-01-05T18:28:54.001Z
+date: 2025-01-10T17:43:46.573Z
+updated: 2025-01-12T16:34:47.109Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +43,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -48,17 +56,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -75,6 +75,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
@@ -85,6 +89,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -104,7 +112,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
@@ -114,10 +122,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -139,17 +143,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -161,10 +165,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,20 +194,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>[New] 2024 Approved A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-echo-generator-blueprint/"><u>[Updated] In 2024, Echo Generator Blueprint</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>[Updated] StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-hackers-handbook-navigating-anonymous-instagram-streaming/"><u>[Updated] The Hacker’s Handbook Navigating Anonymous Instagram Streaming</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/10-instagram-hashtag-that-you-should-be-using-today-for-2024/"><u>10 Instagram Hashtag That You Should Be Using Today for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-frames-per-second-fps-and-solve-stuttering-issues-in-valorant-a-comprehensive-guide/"><u>Boost Your Frames per Second (FPS) & Solve Stuttering Issues in Valorant: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparing-language-services-can-chatgpt-outperform-google-translate-in-translation-quality/"><u>Comparing Language Services: Can ChatGPT Outperform Google Translate in Translation Quality?</u></a></li>
-<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/copernics-innovative-downloader-a-game-changer-for-savvy-data-organisation-and-access/"><u>Copernic's Innovative Downloader: A Game-Changer for Savvy Data Organisation and Access</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-outlooks-failed-search-with-copernic-the-ultimate-alternative/"><u>Fix Outlook's Failed Search with Copernic: The Ultimate Alternative</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone | Stellar</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-copernic-tips-and-tricks-for-ultimate-customization-and-peak-performance/"><u>Mastering Copernic: Tips and Tricks for Ultimate Customization & Peak Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/streamline-your-illustrator-searches-with-powerful-tips-from-copernic-expertise/"><u>Streamline Your Illustrator Searches with Powerful Tips From Copernic Expertise</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/alleled-selection-of-budget-stock-media-sites/"><u>Unparalleled Selection of Budget Stock Media Sites</u></a></li>
-<li><a href="https://win-able.techidaily.com/updating-your-current-copernic-membership-a-step-by-step-guide/"><u>Updating Your Current Copernic Membership: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>[Updated] Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-to-starting-a-sports-channel-on-mac/"><u>[Updated] In 2024, The Ultimate Guide to Starting a Sports Channel on Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>[Updated] Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-fixes-for-sony-vegas-mp4-troubles-overcoming-challenges-with-no-sound-no-picture-and-more/"><u>Essential Fixes for Sony Vegas MP4 Troubles: Overcoming Challenges with No Sound, No Picture, and More</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-choosing-and-utilizing-leading-dvd-encryption-crackers-effectively/"><u>Expert Guide: Choosing and Utilizing Leading DVD Encryption Crackers Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-and-easy-guide-to-changing-your-videos-audio-format/"><u>Fast and Easy Guide to Changing Your Video's Audio Format</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-spark-go-2024-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Spark Go (2024) Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/installing-loonatons-unleashed-with-trusted-aio-streams-on-your-kodi-device-complete-tutorial/"><u>Installing Loonatons Unleashed with Trusted AIO Streams on Your Kodi Device - Complete Tutorial</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mac3/"><u>Macオペレーティングシステム用トップ3コピーソフトウェア：効率的なフォルダ複製</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-restoring-usb-peripherals-mouse-keyboard-on-windows-woody/"><u>Troubleshooting Steps for Restoring USB Peripherals (Mouse, Keyboard) on Windows Woody</u></a></li>
 </ul></div>
 

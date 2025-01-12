@@ -1,7 +1,7 @@
 ---
 title: "Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix"
-date: 2025-01-04T01:01:18.061Z
-updated: 2025-01-05T21:02:32.910Z
+date: 2025-01-10T17:35:18.331Z
+updated: 2025-01-12T16:18:41.551Z
 tags:
   - win11
   - win10
@@ -57,32 +57,32 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings.jpg)
 2. In Display settings, scroll down the page and select**Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
 If this solution doesn’t help, continue with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -91,10 +91,6 @@ If this solution doesn’t help, continue with the next fix below.
 ### Option 1: Update your graphics driver manually
 
  You can update your graphics drivers manually by going to the manufacturer’s website ([NVIDIA](http://nvidia.com/drivers) ,[AMD](https://www.amd.com/en/support) ,[Intel](https://downloadcenter.intel.com/) ) for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -110,6 +106,10 @@ If this solution doesn’t help, continue with the next fix below.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -135,10 +135,6 @@ This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Enable VSync
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
@@ -157,6 +153,10 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Click the**Gaming** Tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
 
@@ -164,7 +164,7 @@ But if it doesn’t, take a look at the next fix.
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
@@ -174,7 +174,7 @@ But if it doesn’t, take a look at the next fix.
 If enabling Vsync didn’t do the trick, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Turn off threaded optimization
@@ -188,15 +188,19 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
 If the stuttering issue remains, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Allocate more RAM
 
@@ -207,7 +211,7 @@ If the stuttering issue remains, try the next fix.
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
@@ -221,10 +225,6 @@ If the stuttering issue remains, try the next fix.
 Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall OptiFine
 
@@ -257,21 +257,20 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-survivors-guide-top-6-mc-house-plans/"><u>[New] In 2024, Survivor's Guide Top 6 MC House Plans</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/avigating-account-creation-on-youtube/"><u>[New] Navigating Account Creation on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-hearthstone-crashing-on-pc/"><u>[Solved] Hearthstone Crashing on PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-youtube-end-screen-templates-for-content-makers/"><u>[Updated] In 2024, Essential YouTube End Screen Templates for Content Makers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210270976-9781910531501-annual-predictive-techniques-of-the-greek-arabic-and-indian-astrologers/"><u>Annual Predictive Techniques of the Greek, Arabic and Indian Astrologers | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-directx-drawing-issues-a-step-by-step-guide/"><u>How to Fix DirectX Drawing Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-game-troubleshoot-and-resolve-helldivers-2-pc-problems/"><u>Master the Game: Troubleshoot and Resolve Helldivers 2 PC Problems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/online-efficiency-in-acquiring-finnish-proficiency/"><u>Online Efficiency in Acquiring Finnish Proficiency</u></a></li>
-<li><a href="https://win-able.techidaily.com/overwatch-fixed-graphics-driver-issues-now-resolved/"><u>Overwatch Fixed: Graphics Driver Issues Now Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-unite-fixing-the-payday-2-wont-launch-dilemma-easily/"><u>PC Gamers Unite! Fixing the 'Payday 2 Won't Launch' Dilemma Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/speedy-solutions-effortless-fix-for-continuous-gameplay-in-the-division-2/"><u>Speedy Solutions: Effortless Fix for Continuous Gameplay in The Division 2</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/synching-worlds-instagram-to-tiktok-essentials/"><u>Synching Worlds Instagram to TikTok Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-indispensable-tech-collection-nine-items-every-schoolgoer-should-own/"><u>The Indispensable Tech Collection: Nine Items Every Schoolgoer Should Own</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-rated-dvd-player-laptops-of-2024-including-embedded-hardware/"><u>Top Rated DVD Player Laptops of 2024: Including Embedded Hardware</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-starting-farming-simulator-22/"><u>Troubleshooting Guide: Resolving Issues with Starting Farming Simulator 22</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolutionizes-bing-with-microsofts-innovation/"><u>AI Revolutionizes Bing with Microsoft's Innovation</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a14-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A14 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-steps-to-remove-drm-from-list-des-epotres-epub-files/"><u>Comprehensive Guide: Steps to Remove DRM From List Des Épôtres ePub Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-delay-an-in-depth-look-at-why-guilty-gear-strive-is-yet-to-hit-shelves/"><u>Decoding the Delay: An In-Depth Look at Why 'Guilty Gear Strive' Is Yet to Hit Shelves</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disable-the-autoplay-function-in-apple-music-effortlessly/"><u>Disable the Autoplay Function in Apple Music Effortlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fanfare-gaming-patch/"><u>Fanfare Gaming Patch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-pc-players-when-hitman-3-refuses-to-open/"><u>Fixes for PC Players When Hitman 3 Refuses to Open</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-tackle-high-cpu-drainage-by-svchostexe-in-windows-11-complete-solution/"><u>How to Tackle High CPU Drainage by svchost.exe in Windows 11 [Complete Solution]</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-playthrough-tips-to-eliminate-stuttering-in-fallout-76/"><u>Improve Your Playthrough: Tips to Eliminate Stuttering in Fallout 76</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-voice-over-mastery-essential-fcp-recording-hacks/"><u>New In 2024, Voice Over Mastery Essential FCP Recording Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/stardew-valley-launching-problems-heres-how-to-fix-them/"><u>Stardew Valley Launching Problems? Here's How to Fix Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-continuously-crashes-top-fixes-and-solutions/"><u>Terraria Continuously Crashes? - Top Fixes & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-the-notorious-black-screen-issue/"><u>Troubleshooting and Repairing the Notorious Black Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-msvcr1ebdll-file-missing-on-helldivers-2-game/"><u>Troubleshooting Steps: MSVCR1eb.dll File Missing on HellDivers 2 Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
 

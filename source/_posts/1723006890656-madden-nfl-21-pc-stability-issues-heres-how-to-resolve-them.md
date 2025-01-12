@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2025-01-02T23:35:42.973Z
-updated: 2025-01-05T18:11:18.997Z
+date: 2025-01-11T16:52:51.150Z
+updated: 2025-01-12T16:33:02.844Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 4. [**Switch your DirectX version**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Lower in-game graphical settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  Broken or missing game files could lead to constant crashes. So before you try anything else, first make sure there’s nothing wrong with the game files.
@@ -48,10 +44,14 @@ Here’s how to do that on Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-1.jpg)
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, launch Madden 21 and check if it crashes again.
@@ -59,7 +59,7 @@ Once done, launch Madden 21 and check if it crashes again.
 If the fix doesn’t stop the crash, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -76,6 +76,10 @@ If the fix doesn’t stop the crash, you can try the next one below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the latest graphics driver, restart your PC and test the gameplay in Madden 21.
@@ -83,7 +87,7 @@ If the fix doesn’t stop the crash, you can try the next one below.
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -100,10 +104,6 @@ To minimize conflicts, you also need to install all the system patches:
 
  If you’re sure your system is up to date, simply check out the next trick below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Switch your DirectX version
 
  Some gamers reported that changing the in-game DirectX version stops the crash. So you can try the same and check if it’s helpful.
@@ -112,15 +112,15 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
 
@@ -160,15 +160,22 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streaming-beyond-streamlabs-a-comparative-study/"><u>[New] 2024 Approved Streaming Beyond StreamLabs A Comparative Study</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-silent-strike-sequels-the-next-10-best-samurai-adventures/"><u>[New] In 2024, Silent Strike Sequels The Next 10 Best Samurai Adventures</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-drawing-characters-with-snaps/"><u>[Updated] 2024 Approved The Ultimate Guide to Drawing Characters with Snaps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-depth-look-is-inshot-the-premier-editing-tool/"><u>[Updated] In-Depth Look Is InShot the Premier Editing Tool?</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/crack-the-code-on-counter-strike-global-offensive-warzone-bug-6328-for-an-unstoppable-gaming-experience/"><u>Crack the Code on Counter-Strike: Global Offensive Warzone Bug #6328 for an Unstoppable Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-4201-resolved-mastering-the-fixes-for-a-smooth-genshin-experience/"><u>Error 4201 Resolved: Mastering the Fixes for a Smooth Genshin Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitech-g430-mic-not-working-issue/"><u>How To Fix Logitech G430 Mic Not Working Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-solutions-for-a-non-functional-rockstar-games-launcher-step-by-step/"><u>Latest Solutions for a Non-Functional Rockstar Games Launcher - Step by Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-enable-graphics-processing-unit-gpu-in-call-of-duty-warzone-on-windows-10/"><u>Resolved: How to Enable Graphics Processing Unit (GPU) in Call of Duty: Warzone on Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>[New] 2024 Approved Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-size-independent-strategies-for-securing-sponsors-for-2024/"><u>[Updated] Channel-Size-Independent Strategies for Securing Sponsors for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-explore-cost-free-professional-cam-screen-recorders/"><u>[Updated] Explore Cost-Free, Professional Cam Screen Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>2024 Approved The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/bid-farewell-to-steam-problems-a-quick-solution-to-prevent-crashes/"><u>Bid Farewell to Steam Problems: A Quick Solution to Prevent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-release-issues-resolved-heres-how/"><u>Football Manager 2022 Release Issues Resolved: Here's How</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-quickly-resolve-discord-overlay-problems-on-any-device/"><u>How to Quickly Resolve Discord Overlay Problems on Any Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Age of Wonders: Planetfall From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-repair-ntdlldll-corruption-leading-to-crashes-in-windows-1110-systems/"><u>How to Troubleshoot & Repair ntdll.dll Corruption Leading to Crashes in Windows 11/10 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-htc-u23-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of HTC U23?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo FRP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-free-switch-game-reproducers/"><u>Leading Free Switch Game Reproducers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-problem-during-red-dead-redemption-2-launch-phase/"><u>Overcoming Freezing Problem During Red Dead Redemption 2 Launch Phase</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-eliminating-packet-loss-on-discord-networks/"><u>Solutions: Eliminating Packet Loss on Discord Networks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-game-file-corruption-a-comprehensive-approach-for-gamers-in-202e/"><u>Solving PC Game File Corruption: A Comprehensive Approach for Gamers in 202E</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-inserting-captions-in-instagram-clips/"><u>Step-by-Step Guide Inserting Captions in Instagram Clips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979090922-ultimate-guide-install-wacom-intuos-nibs-on-windows-guaranteed-success/"><u>Ultimate Guide: Install Wacom Intuos Nibs on Windows – Guaranteed Success!</u></a></li>
 </ul></div>
 

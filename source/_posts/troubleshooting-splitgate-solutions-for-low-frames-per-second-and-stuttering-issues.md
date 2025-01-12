@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Splitgate: Solutions for Low Frames Per Second and Stuttering Issues"
-date: 2024-12-31T00:53:07.988Z
-updated: 2025-01-05T21:04:07.972Z
+date: 2025-01-11T17:45:32.718Z
+updated: 2025-01-12T16:17:12.747Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,6 +43,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -55,10 +55,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
 
@@ -75,7 +71,7 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -108,14 +104,14 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,6 +127,10 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -158,22 +158,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-detailed-review-of-the-sony-fdr-x1000-action-camera-for-2024/"><u>[New] Detailed Review of the Sony FDR-X1000 Action Camera for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-transform-fb-video-tunes-to-mp3/"><u>[New] Transform Fb Video Tunes to MP3</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade-for-2024/"><u>[Updated] Revolutionize Video Files with Instant FB to MP4 & HD Upgrade for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-strategies-to-outlast-your-competitors-in-snapping/"><u>[Updated] Strategies to Outlast Your Competitors in Snapping</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-process-of-capturing-fb-messages/"><u>2024 Approved Step-by-Step Process of Capturing FB Messages</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-overcome-the-dangerous-fatal-error-ark-issue/"><u>Comprehensive Solutions to Overcome the Dangerous 'Fatal Error Ark' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-your-hardware-is-not-supported-error-0xc19001e1-in-windows-10/"><u>Effective Solutions for the 'Your Hardware Is Not Supported' Error (0xC19001E1) in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010505543-effortlessly-enhance-your-dayz-gameplay-increased-fps-now/"><u>Effortlessly Enhance Your DayZ Gameplay – Increased FPS Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-rectifying-back-astopper-for-back-4-bloods-ue4-gobi-error-challenge/"><u>Expert Tips on Rectifying Back Astopper for Back 4 Blood's UE4-Gobi Error Challenge</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/masher-deluxe/"><u>MediaMasher Deluxe</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-a-comprehensive-fix-to-the-witcher-3-wild-hunt-woes/"><u>Overcoming Launch Obstacles: A Comprehensive Fix to The Witcher 3: Wild Hunt Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-relentless-outlook-closure-issues-for-smoother-operations/"><u>Overcoming Relentless Outlook Closure Issues for Smoother Operations</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/reviving-your-failing-hard-disk-top-3-strategies-for-repair/"><u>Reviving Your Failing Hard Disk: Top 3 Strategies for Repair</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor 80 Pro Straight Screen Edition Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-connecting-to-apex-legends-server-try-these-methods/"><u>Trouble Connecting to Apex Legends Server? Try These Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-dropping-frames-in-call-of-duty-modern-warfare-3-tips-for-smooth-gameplay/"><u>Troubleshooting Dropping Frames in Call of Duty: Modern Warfare 3 - Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-10-survival-arena-matches/"><u>[New] Ultimate 10 Survival Arena Matches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-viewer-insights-understanding-subscriber-feedback/"><u>[Updated] Unveiling Viewer Insights Understanding Subscriber Feedback</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-restoring-functionality-to-logitech-configurations-on-windows/"><u>Comprehensive Guide: Restoring Functionality to Logitech Configurations on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-not-found-issues-with-launchdll-for-windows-users/"><u>Fixing 'Not Found' Issues with Launch.dll for Windows Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-preventing-chrome-from-crashing-on-your-windows-10-pc/"><u>Quick Fixes for Preventing Chrome From Crashing on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/sketch-out-your-design-on-paper-before-painting-directly-onto-the-tile-this-helps-prevent-mistakes-and-allows-for-planning-of-color-transitions/"><u>Sketch Out Your Design on Paper Before Painting Directly Onto the Tile. This Helps Prevent Mistakes and Allows for Planning of Color Transitions</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-when-your-pc-experiences-pacific-drive-crashing/"><u>Step-by-Step Fixes for When Your PC Experiences Pacific Drive Crashing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-urban-armor-gear-macbook-pro-carrier-a-synthesis-of-durability-and-ease-of-use/"><u>Unboxing and Testing the Urban Armor Gear MacBook Pro Carrier – A Synthesis of Durability and Ease of Use</u></a></li>
 </ul></div>
 

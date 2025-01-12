@@ -1,7 +1,7 @@
 ---
 title: Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users
-date: 2024-12-29T16:52:49.192Z
-updated: 2025-01-06T00:43:21.355Z
+date: 2025-01-05T16:10:42.523Z
+updated: 2025-01-12T16:27:40.569Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -69,17 +65,9 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
 
@@ -94,7 +82,7 @@ Follow the instructions below to view your computer hardware information:
 If your problem still exists after the reboot, check Fix 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -127,17 +115,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -148,10 +144,6 @@ OR
 **2)** Click **LIBRARY.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
@@ -164,10 +156,6 @@ OR
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -183,13 +171,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -200,6 +188,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -212,6 +204,10 @@ Follow the instructions below to stop the automatic downloads:
 **2)** Navigate to**Option** , click the**Multiplayer** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
@@ -231,13 +227,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
@@ -246,6 +242,10 @@ Follow the instructions below to stop the automatic downloads:
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -256,7 +256,7 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
@@ -332,20 +332,20 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2023s-leading-vr-game-development-tools/"><u>[New] 2023'S Leading VR Game Development Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-captivating-content-the-essential-six-video-formats/"><u>[Updated] Captivating Content The Essential Six Video Formats</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-beginning-your-blog-journey-for-financial-gain/"><u>[Updated] In 2024, Beginning Your Blog Journey for Financial Gain</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-the-code-on-steams-locked-file-conundrum-a-comprehensive-fix/"><u>Cracking the Code on Steam’s Locked File Conundrum – A Comprehensive Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-gadgets-and-reviews-by-toms-hardware-experts/"><u>Discover Top Gadgets and Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-gaming-now-a-step-by-step-guide-to-solving-overwatch-2s-boot-difficulties/"><u>Get Gaming Now: A Step-by-Step Guide to Solving Overwatch 2'S Boot Difficulties</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-performance-hacks-how-to-prevent-unexpected-game-stalls-and-freezes/"><u>Grand Theft Auto V Performance Hacks: How to Prevent Unexpected Game Stalls and Freezes</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-fix-when-your-computer-wont-detect-external-devices-guidance-by-yl-software-experts/"><u>How to Fix When Your Computer Won't Detect External Devices - Guidance by YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-launch-sequence-fixes-for-back-4-blood-game-not-starting-on-different-windows-platforms/"><u>Mastering the Launch Sequence: Fixes for 'Back 4 Blood' Game Not Starting on Different Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-steams-error-code-130-a-comprehensive-solution-guide/"><u>Resolving Steam's Error Code 130: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-audio-in-your-twitch-stream-a-comprehensive-guide-to-sound-solutions/"><u>Restoring Audio in Your Twitch Stream: A Comprehensive Guide to Sound Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-6-solutions-to-stop-modern-warfare-2-from-crashing-on-your-pc/"><u>Top 6 Solutions to Stop Modern Warfare 2 From Crashing on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-problems-with-windows-update-installation/"><u>Troubleshooting Tips: Overcoming Common Problems with Windows Update Installation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-top-8-converter-list-for-sub-to-srt/"><u>Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-free-online-video-editors-for-youtube/"><u>[New] 2024 Approved Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-proven-methods-to-record-your-favorite-streaming-hulu-shows-for-2024/"><u>[New] Proven Methods to Record Your Favorite Streaming Hulu Shows for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-urban-escapades-top-10-games-akin-to-gta-v/"><u>[Updated] 2024 Approved Urban Escapades Top 10 Games Akin to GTA V</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled/"><u>2024 Approved Perfect Your Audio Journey IPhone/iPad Podcasting Secrets Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029408410-pciphoneandroid/"><u>異なるデバイスにおける動画音量ゼロ化テクニックを解説（PC・iPhone・Android） - 完全ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-crashes-on-your-assassins-creed-valhalla-adventure-top-fixes-players/"><u>Avoiding Crashes on Your Assassin's Creed Valhalla Adventure: Top Fixes Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-with-these-pro-tips-and-keep-your-battlefield-experience-uninterrupted/"><u>Beat Dev Error 6068 with These Pro Tips and Keep Your Battlefield Experience Uninterrupted</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-solve-elex-ii-stability-problems-on-desktop-systems/"><u>How to Prevent and Solve Elex II Stability Problems on Desktop Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-x5-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-assassins-creed-valhalla-start-up-issues/"><u>Quick Fixes: Resolving 'Assassin's Creed Valhalla' Start-Up Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-playtime-awaits-in-total-war-saga-troy-following-recent-pc-bug-resolution/"><u>Seamless Playtime Awaits in Total War Saga: Troy Following Recent PC Bug Resolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-heres-how-you-can-prevent-and-solve-them/"><u>Starfield PC Stability Issues? Here's How You Can Prevent and Solve Them!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-hard-drives-of-2024-ultimate-guide-for-desktops-and-nas-solutions/"><u>Top Pick Hard Drives of 2024: Ultimate Guide for Desktops & NAS Solutions</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/understanding-installation-issues-how-to-fix-windows-program-setup-problems-tips-from-yl-computing/"><u>Understanding Installation Issues: How to Fix Windows Program Setup Problems - Tips From YL Computing</u></a></li>
 </ul></div>
 

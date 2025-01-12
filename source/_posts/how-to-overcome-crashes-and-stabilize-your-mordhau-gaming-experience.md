@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Crashes and Stabilize Your Mordhau Gaming Experience
-date: 2024-08-13T10:07:49.742Z
-updated: 2024-08-14T10:07:49.742Z
+date: 2025-01-06T17:01:31.060Z
+updated: 2025-01-12T16:43:33.115Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  If you keep running into Days Gone crashing on PC, you’re not alone. New games can usually see a variety of bugs and issues, but before the new patch is released or reinstalling the entire game, you could troubleshoot the issue with some simple methods.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 4 fixes that have helped other players with Days Gone crashing on PC. You may not try them all. Just work your way down the list until you find the one that solves the problem.
@@ -55,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  Once you’ve confirmed your rig meets the requirements, move on to more fixes advanced.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Stop overclocking
 
  You may expect that overclocking your CPU and GPU can give a boost in the game performance, but it sometimes comes at the cost of system stability. To fix Days Gone crashing, try **turning off overclocking utilities** like MSI Afterburner and **setting the clock speed back to the default** , and then see how things go. If the problem persists, take a look at the next fix.
@@ -72,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
@@ -90,18 +88,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Days Gone** from the list and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
@@ -111,27 +97,16 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 1. Open the Epic Games Launcher and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click the**Days Gone tile** and click the**icons with three dots** next to it. Then, click **Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the repair finished, restart the game test the issue. If the crash reoccurs, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4 – Turn off overlays
 
  The overlay can also be a possible cause of Days Gone crash. So if you’re using any apps such as[**Steam**](https://tools.techidaily.com/drivereasy/download/) or **[GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  with an in-game overlay feature, disable them all to see how the game works. Here are the steps:
@@ -140,15 +115,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. Start the Steam client and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Right-click**Days Gone** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. On the**General** tab, untick**Enable Steam overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On GeForce Experience
@@ -156,11 +134,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Run GeForce Experience.
 2. Click the **cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Toggle off **In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch the game again and you should be able to enjoy it without interruptions now.
 
@@ -178,8 +162,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +169,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-color-with-the-precision-of-4k-blade-cameras/"><u>[New] Revolutionizing Color with the Precision of 4K Blade Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-desktop-dials-adjusting-audio-to-a-whisper/"><u>[Updated] In 2024, Desktop Dials Adjusting Audio to a Whisper</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-ig-videos-building-a-powerful-focused-marketing-plan/"><u>2024 Approved Mastering IG Videos Building a Powerful, Focused Marketing Plan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-visual-delight-on-a-dime-explore-how-the-hisense-u8h-4k-tv-impresses-in-our-latest-zdnet-review/"><u>A Visual Delight on a Dime: Explore How the Hisense U8H 4K TV Impresses in Our Latest ZDNET Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-tips-for-resolving-cs-2s-frames-per-second-fps-problems/"><u>Boost Your Gaming Experience: Tips for Resolving CS 2'S Frames Per Second (FPS) Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/deathloop-for-pc-troubleshooting-and-solutions-to-eliminate-stuttering-performance/"><u>Deathloop for PC: Troubleshooting and Solutions to Eliminate Stuttering Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012567852-effortless-solutions-for-persistent-program-malfunction-fast-resolution-techniques/"><u>Effortless Solutions for Persistent Program Malfunction – Fast Resolution Techniques!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ios-18-release-ultimate-guide-to-downloading-and-compatible-iphone-models-revealed-tech-insights/"><u>IOS 18 Release: Ultimate Guide to Downloading & Compatible iPhone Models Revealed | Tech Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-privacy-easy-methods-for-modifying-facebook-password/"><u>Protecting Your Privacy: Easy Methods for Modifying Facebook Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-frozen-frames-critical-patches-bring-relief-for-gaming-enthusiasts/"><u>Say Goodbye to Frozen Frames - Critical Patches Bring Relief for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/securing-your-bitcoin-transactions-essential-tips-and-techniques-guided-by-yl-computings-expertise/"><u>Securing Your Bitcoin Transactions: Essential Tips & Techniques - Guided by YL Computing's Expertise</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hitman-3-solutions-for-overcoming-the-elusive-connection-issue/"><u>Troubleshooting Hitman 3 - Solutions for Overcoming the Elusive Connection Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-delays-and-enhancing-speed-in-naraka-bladesports/"><u>Ultimate Guide: Overcoming Delays and Enhancing Speed in Naraka Bladesports</u></a></li>
+</ul></div>
 

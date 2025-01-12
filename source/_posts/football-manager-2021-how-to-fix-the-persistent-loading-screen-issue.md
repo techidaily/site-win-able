@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021: How to Fix the Persistent Loading Screen Issue"
-date: 2024-08-13T10:07:19.760Z
-updated: 2024-08-14T10:07:19.760Z
+date: 2025-01-09T16:52:51.566Z
+updated: 2025-01-12T17:03:41.251Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6f6094ec46399b3ab308c1c10a0d303a8a2fe57d5
 
 Looking for Football Manager 2023 won’t launch fixes? You’ve come to the right place and this post is here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There are 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -25,6 +29,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 2. [Update your graphic driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Add an exception to your antivirus
 
@@ -38,35 +46,19 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -103,21 +95,17 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 If this fix bring no luck, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
@@ -126,6 +114,11 @@ If this fix bring no luck, move to the next fix.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
 
@@ -141,8 +134,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +141,20 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-10-engaging-mobile-idle-puzzles/"><u>[New] 2024 Approved Top 10 Engaging Mobile Idle Puzzles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-selecting-snug-winter-scenes-as-video-sets/"><u>[New] In 2024, Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-discord-black-screen-when-screen-sharing/"><u>[SOLVED] Discord Black Screen when Screen Sharing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-smart-glasses-innovations-for-2hren-2024-edition/"><u>Discover the Leading Smart Glasses Innovations for 2Hren, 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-graphic-drivers-issues-in-forza-horizon-5/"><u>How to Resolve Graphic Drivers Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A34 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-proplus-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 Pro+ 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-thunderous-echoes-the-soundscape-of-immense-entities/"><u>In 2024, Thunderous Echoes The Soundscape of Immense Entities</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-tricks-to-resolve-discord-crashing-problems-on-any-device/"><u>Master the Tricks to Resolve Discord Crashing Problems on Any Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-pc-game-crashes-in-the-daunting-world-of-dauntless/"><u>Troubleshooting Tips: Solving PC Game Crashes in the Daunting World of Dauntless</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-of-free-security-camera-software/"><u>Updated The Ultimate List of Free Security Camera Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-get-into-call-of-duty-warzone-solving-launch-problems/"><u>Why Can’t I Get Into Call of Duty: Warzone? Solving Launch Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-meta-is-building-the-fastest-ai-supercomputer-in-the-world/"><u>Why Meta Is Building the Fastest AI Supercomputer in the World</u></a></li>
+</ul></div>
 

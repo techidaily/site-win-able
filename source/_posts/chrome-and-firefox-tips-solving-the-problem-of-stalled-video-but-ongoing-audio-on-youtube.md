@@ -1,7 +1,7 @@
 ---
 title: "Chrome & Firefox Tips: Solving the Problem of Stalled Video but Ongoing Audio on YouTube"
-date: 2024-08-13T10:08:06.975Z
-updated: 2024-08-14T10:08:06.975Z
+date: 2025-01-09T17:18:01.969Z
+updated: 2025-01-12T16:40:02.232Z
 tags:
   - win11
   - win10
@@ -30,37 +30,28 @@ Follow the questions below to troubleshoot the issue step by step:
 2. **[Does your Windows computer connect to the Internet successfully?](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Does the source you want to add run properly?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Q1: Is the source you’ve inputted exactly correct?
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
 
  So when Kodi tells you the Unable to connect error, firstly **check the URL you’ve type or paste, make sure it’s exactly typed correctly.** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kodi2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 Then add the source again.
 
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1
 
  You can run the**Windows Network Diagnostics** utility on your computer to detect any network issue. It’s easily and quickly, see how:
@@ -76,8 +67,9 @@ Then add the source again.
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2
 
  Many network connection problems could be due to the old, missing or corrupted network driver on your computer. You can solve it easily by**updating your network driver** . Whether you choose to update the network driver manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -91,8 +83,9 @@ Then add the source again.
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Q3: Does the source you want to add run properly?
 
  If you’ve ensured that you enter the URL correctly and the network connection is great, time to check if the source you added runs properly.
@@ -103,6 +96,10 @@ Follow to check the status the source you want to add:
 2. If the source runs properly, you would see a page**containing a zip file** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73caac7ec91.png)  
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this is the case, we recommend **downloading other add-ons from the [official Kodi website](https://kodi.tv/addons) of your choice** .
 
@@ -118,8 +115,6 @@ Follow to check the status the source you want to add:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +122,22 @@ Follow to check the status the source you want to add:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dimmed-beginning-display/"><u>[New] 2024 Approved Dimmed Beginning Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-boost-your-buzz-telegram-tactics-for-impactful-promotion-for-2024/"><u>[New] Boost Your Buzz Telegram Tactics for Impactful Promotion for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-livestream-and-record-software-face-off-obs-vs-bandicam/"><u>[New] In 2024, Livestream & Record Software Face-Off OBS vs Bandicam</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-videofetcher-download-from-social-sites/"><u>[Updated] 2024 Approved VideoFetcher Download From Social Sites</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>[Updated] Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-xcover-7-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy XCover 7 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-laugh-away-in-time-the-goofy-movie-remastered-for-2024/"><u>A Laugh Away in Time The 'Goofy Movie' Remastered for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/snapshotview-10x-eye-catching-wallet-unfriendly-features/"><u>SnapshotView 10X: Eye-Catching, Wallet-Unfriendly Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-revealing-all-custom-cell-references-across-an-excel-file/"><u>Step-by-Step Tutorial on Revealing All Custom Cell References Across an Excel File</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-formula-easily-computing-your-or-someones-age-using-excel/"><u>The Ultimate Formula: Easily Computing Your or Someone's Age Using Excel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-philips-hue-lighting-solutions-detailed-comparison-by-tech-experts-at-zdnet/"><u>Top Rated Philips Hue Lighting Solutions - Detailed Comparison by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/transform-your-photos-into-masterpieces-with-office-2010s-design-tools/"><u>Transform Your Photos Into Masterpieces with Office 2010'S Design Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-excels-secrets-11-uncommon-yet-essential-features-for-enhanced-efficiency/"><u>Unlocking Excel's Secrets: 11 Uncommon Yet Essential Features for Enhanced Efficiency</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-geographic-analysis-with-excel-how-to-leverage-built-in-tools-for-spatial-data-management/"><u>Unlocking Geographic Analysis with Excel: How to Leverage Built-In Tools for Spatial Data Management</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-secrets-tips-on-disabling-security-in-excel-spreadsheets/"><u>Unlocking Secrets: Tips on Disabling Security in Excel Spreadsheets</u></a></li>
+</ul></div>
 

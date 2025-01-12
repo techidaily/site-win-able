@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Gaming Application From Crashing in Windows 11 and 10
-date: 2024-12-29T18:49:46.935Z
-updated: 2025-01-05T23:58:00.117Z
+date: 2025-01-08T17:15:16.704Z
+updated: 2025-01-12T17:09:26.121Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,10 +42,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. [**Run a System File Checker**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
 
@@ -56,17 +56,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -80,14 +72,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
@@ -113,11 +105,11 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -126,6 +118,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -153,7 +149,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -165,6 +161,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,16 +194,18 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-achieving-virality-on-youtube-essential-steps-demystified/"><u>[New] Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-images-into-movies-xp-software-guide/"><u>[Updated] Transform Images Into Movies XP Software Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-thx-spatial-audio-malfunction-in-windows-11-and-10/"><u>Fixes for 'THX Spatial Audio' Malfunction in Windows 11 and 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/improved-fps-and-smoother-play-in-fortnite-season-8-release-notes/"><u>Improved FPS and Smoother Play in Fortnite Season 8 Release Notes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-v27-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo V27 Pro Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-c50-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco C50 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/pro-level-solutions-for-a-seamless-sims-4-on-pc-lag-troubleshooting-guide-updated/"><u>Pro-Level Solutions for a Seamless Sims #4 on PC – Lag Troubleshooting Guide (Updated )</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-resolve-fall-guys-crashes-on-launch/"><u>Troubleshooting Steps: How to Resolve Fall Guys Crashes on Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-maplestory-keeps-crashing-on-your-windows-11-pc/"><u>Ultimate Fixes for When MapleStory Keeps Crashing on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/where-to-locate-saved-instagram-reels-top-tips-and-tricks/"><u>Where to Locate Saved Instagram Reels: Top Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-snowrunner-keeps-crashing-on-pc/"><u>[SOLVED] SnowRunner Keeps Crashing on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-decoding-advanced-techniques-for-flawless-snapchat-edits/"><u>[Updated] 2024 Approved Decoding Advanced Techniques for Flawless Snapchat Edits</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-starters-manual-to-mastering-screen-clarity/"><u>[Updated] 2024 Approved Starter's Manual to Mastering Screen Clarity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-changing-tide-of-youtube-earnings/"><u>[Updated] In 2024, The Changing Tide of YouTube Earnings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-the-perfect-picture-for-youtube-upload/"><u>2024 Approved Crafting the Perfect Picture for YouTube Upload</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997174357-dealing-with-limited-system-resources-solutions-to-the-inadequate-memory-bug-in-god-of-war/"><u>Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War.</u></a></li>
+<li><a href="https://article-files.techidaily.com/demystifying-the-use-of-slug-lines-in-film-scripts-for-2024/"><u>Demystifying the Use of Slug Lines in Film Scripts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008919933-destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterminds-mute-fix-restoring-audio-to-evil-genius-2/"><u>Mastermind's Mute Fix: Restoring Audio to Evil Genius 2</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-free-dailymotion-converter-online-for-2024/"><u>New Best Free Dailymotion Converter Online for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-dipping-fps-in-forza-horizon-5-on-pc-a-complete-guide/"><u>Resolved: Dipping FPS in Forza Horizon 5 on PC - A Complete Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-pro-level-video-effects-a-step-by-step-guide/"><u>Updated In 2024, Unlock Pro-Level Video Effects A Step-by-Step Guide</u></a></li>
 </ul></div>
 

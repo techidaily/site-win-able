@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Play: A Complete Roller Champions How-To for PC Users"
-date: 2025-01-02T16:35:28.179Z
-updated: 2025-01-05T17:32:57.018Z
+date: 2025-01-11T16:25:16.472Z
+updated: 2025-01-12T16:33:56.148Z
 tags:
   - win11
   - win10
@@ -49,17 +49,17 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 2. Under**Installed Files** , click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
 
- If verifying and repairing the game files doesn’t solve your problem, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Close unnecessary background programs
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PS: there are some known**programs that may interfere with Steam games** . If you’re not sure which programs seem to have triggered the crashing issue, feel free to refer to the list below and check your PC.
@@ -122,7 +122,7 @@ If this doesn’t help, move on to the next fix.
  If this doesn’t help or your system is already up-to-date, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Check your antivirus software
@@ -160,12 +160,12 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
@@ -186,10 +186,6 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Go to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
@@ -197,7 +193,7 @@ If the crashing issue persists, try the next fix.
 5. Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now launch Lost Ark to test if you still get errors and crashes. If the issue persists, jump to the[last fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -210,13 +206,13 @@ If the crashing issue persists, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Lost Ark. If the game once again crashes, then you know that one of the services you ticked above is conflicting with it. If Lost Ark runs just fine, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Lost Ark.  
 
@@ -228,11 +224,15 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with Lost Ark.
@@ -258,7 +258,7 @@ If the crashing issue persists, try the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -288,22 +288,15 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-what-are-the-disadvantages-of-vr-in-2024/"><u>[New] What Are the Disadvantages of VR, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-spotifys-top-hits-ranked-1-10/"><u>2024 Approved Spotify's Top Hits Ranked 1-10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-exploring-the-deepest-sounds-with-an-unmatched-speaker-setup/"><u>Beyond Bose and Sonos: Exploring the Deepest Sounds with an Unmatched Speaker Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/bioshock-2-remastered-updated-fixes-and-enhancements/"><u>Bioshock 2 Remastered: Updated Fixes & Enhancements</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-solving-amazon-prime-video-connectivity-problems/"><u>Comprehensive Guide: Solving Amazon Prime Video Connectivity Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-discords-continuous-loading-problem-during-streaming/"><u>Effective Solutions for Resolving Discord's Continuous Loading Problem During Streaming</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-rectify-obs-studio-errors-on-win-11/"><u>Essential Guide: Rectify OBS Studio Errors on Win 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-solve-praey-for-the-gods-game-continuous-pc-crashes/"><u>Guide to Solve Praey: For The Gods Game Continuous PC Crashes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 14 Pro Max? | Stellar</u></a></li>
-<li><a href="https://article-helps.techidaily.com/inside-toms-hardware-unveiling-the-latest-in-computing-technology/"><u>Inside Tom's Hardware: Unveiling the Latest in Computing Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-overcoming-instances-of-game-crashing-in-arise/"><u>Mastering Troubleshooting: Overcoming Instances of Game Crashing in Arise</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reinstating-print-spooler-services-correctly/"><u>Reinstating Print Spooler Services Correctly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-dreamlight-valley-pc-issues-6-critical-fixes-and-solutions/"><u>Solving Dreamlight Valley PC Issues: 6 Critical Fixes & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-helldivers-ii-solutions-for-black-screen-at-game-start/"><u>Troubleshooting Helldivers II: Solutions for Black Screen at Game Start</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turning-talk-into-top-tier-podcasts-writing-and-samples-included-for-2024/"><u>Turning Talk Into Top-Tier Podcasts Writing & Samples Included for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-overcome-wolcen-lords-of-mayhem-pc-instability-issues/"><u>Ultimate Guide to Overcome Wolcen Lords of Mayhem PC Instability Issues</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr/"><u>Unveiling the Trio A Deep Dive Into VR, AR, & MR</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-proven-strategies-for-device-screening/"><u>[New] 2024 Approved Proven Strategies for Device Screening</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevating-your-gopro-vlogs-to-the-next-level/"><u>[New] Elevating Your GoPro Vlogs to the Next Level</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ashen-crash-issue-quickly-and-easily/"><u>[SOLVED] Ashen Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-guide-resolving-playstation-fighter-game-launch-problems-on-your-computer/"><u>Easy Guide: Resolving PlayStation Fighter Game Launch Problems on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-high-latency-in-valheim-optimizing-game-performance-on-windows-computers/"><u>Fix High Latency in Valheim: Optimizing Game Performance on Windows Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-gt-3-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme GT 3 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vectors-for-novices-uncover-essentials-types-and-applications/"><u>In 2024, Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-8-screen-recorders-guidebook-for-2024/"><u>Premier 8 Screen Recorders Guidebook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-problems-when-you-cant-access-gta-5-online-mode/"><u>Solving Problems When You Can't Access GTA 5 Online Mode</u></a></li>
 </ul></div>
 

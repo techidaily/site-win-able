@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Installation Hurdles: Minecraft Setup Woes on Windows 11 Resolved"
-date: 2024-08-13T10:06:44.169Z
-updated: 2024-08-14T10:06:44.169Z
+date: 2025-01-05T16:59:37.642Z
+updated: 2025-01-12T17:03:30.752Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  Minecraft is a sandbox-style game with open online play fosters creativity, which attracts a large number of players to dive into this game. However, users start to complain that this game cannot even be installed on Windows 11\. This can be quite frustrating. If you’re on the same boat, no worries. Here we’ve put together some fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before getting started…
 
  Before tweaking the settings below, we suggest you**restart your computer** . Rebooting is a troubleshooting step and quick fix to many issues by wiping away the current state of the software, flushing RAM and clearing up temporary files and processes.
@@ -29,15 +26,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  However, if a simple restart doesn’t do the trick, you can**try installing Minecraft from the Microsoft Store Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-library-1200x834.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If that doesn’t work for you, try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -56,21 +47,23 @@ If that doesn’t work for you, try the fixes below.
 2. From the left menu, select**Privacy & security** . Then click**Windows Security** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Firewall & network protection** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -80,24 +73,27 @@ If that doesn’t work for you, try the fixes below.
 2. Click **Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update your device drivers
 
  Therefore, you’re supposed to always make sure that your device drivers are properly updated.
@@ -118,9 +114,6 @@ If that doesn’t work for you, try the fixes below.
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4\. Run Windows Store troubleshooter
 
  When you have any issues on your system, you can try running the corresponding troubleshooter to see if it helps detect your issues and hopefully fix them.
@@ -138,6 +131,10 @@ If that doesn’t work for you, try the fixes below.
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run a full scan of your PC
 
  If all else fails, it’s time you check whether you have missing or corrupted system files, which will negatively affect your system’s performance and even trigger some errors. In this situation, you can use the System File Checker (SFC) tool to run the command sfc /scannow. But most of the time it only scans major files and may miss minor issues.
@@ -149,8 +146,9 @@ If that doesn’t work for you, try the fixes below.
 3. If it detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
@@ -167,8 +165,6 @@ If that doesn’t work for you, try the fixes below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +172,22 @@ If that doesn’t work for you, try the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-effective-financial-gains-through-youtube-shorts/"><u>[New] Exploring Effective Financial Gains Through YouTube Shorts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>[New] Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-efficient-data-storage-showdown-advantages-and-disadvantages-of-tape-vs-disk-backups/"><u>1. Efficient Data Storage Showdown: Advantages & Disadvantages of Tape Vs. Disk Backups</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unmasking-how-to-locate-my-comments-posts-online/"><u>2024 Approved Unmasking How To Locate My Comments Posts Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-hd-8-8th-gen-review-an-entry-level-tablet-that-lives-up-to-its-price-tag/"><u>Amazon Fire HD 8 (8Th Gen) Review: An Entry-Level Tablet That Lives up to Its Price Tag</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-shadows-effective-solutions-to-tackle-star-wars-battlefront-2s-menacing-black-screens/"><u>Banishing Shadows: Effective Solutions to Tackle Star Wars Battlefront 2’S Menacing Black Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-repairing-the-nwstore-applications-executable-glitches/"><u>Comprehensive Tips for Repairing the NW_Store Application's Executable Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/detailed-guide-to-resolve-razer-synapse-not-opening-errors-quickly/"><u>Detailed Guide to Resolve Razer Synapse Not Opening Errors Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unwanted-black-visual-interruption-while-playing-persona-a-players-handbook/"><u>Fixing the Unwanted Black Visual Interruption While Playing Persona 지가스터즈 - A Player's Handbook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>In 2024, Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-past-the-dota-2-vac-error-comprehensive-solutions-troubleshooting/"><u>Navigate Past the Dota 2 VAC Error - Comprehensive Solutions Troubleshooting</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-past-deadly-js-error-a-solution-guide-for-win-11-users/"><u>Navigating Past Deadly JS Error: A Solution Guide for Win 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006133540-successful-rainbow-six-siege-launch-after-fix-implementation/"><u>Successful Rainbow Six Siege Launch After Fix Implementation</u></a></li>
+<li><a href="https://win-able.techidaily.com/together-at-last-the-story-of-it-takes-twos-marked-launch-event/"><u>Together at Last: The Story of 'It Takes Two's' Marked Launch Event</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-honor-70-lite-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Honor 70 Lite 5G Device</u></a></li>
+</ul></div>
 

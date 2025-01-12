@@ -1,7 +1,7 @@
 ---
 title: Lost Ark Quiet Problems? Here's What You Need To Know About Troubleshooting Sound!
-date: 2024-12-31T02:08:28.272Z
-updated: 2025-01-05T16:04:24.208Z
+date: 2025-01-07T16:53:15.521Z
+updated: 2025-01-12T17:29:36.467Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
@@ -57,10 +61,6 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 2. Click**Apps and Features > Optional features > Add a feature** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Search or select**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the sound.
 
@@ -70,18 +70,14 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
 2. Click**View features** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Relaunch the game and check the audio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -99,9 +95,17 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Then, reboot your PC and relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run as Administrator
 
@@ -113,11 +117,11 @@ Then, reboot your PC and relaunch the game to check.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Relaunch the game and check you have sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify game files
 
@@ -127,15 +131,11 @@ Then, reboot your PC and relaunch the game to check.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hope this post would help. Since gamers have various PC specs and environments, we can’t expect these fixes would work for everyone. If no fixes help, try the troubleshooting over at [Microsoft Support](https://www.amazongames.com/en-us/forward-link?id=windows-10-sound-problems) .
@@ -155,24 +155,24 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-restore-noise-to-silent-twitter-video-posts/"><u>[Updated] In 2024, Restore Noise to Silent Twitter Video Posts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamlining-your-mac-5-best-screen-shot-approaches-for-2024/"><u>[Updated] Streamlining Your Mac 5 Best Screen Shot Approaches for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/add-on-effectiveness-implementing-end-cuts-on-vimeo-for-2024/"><u>Add-On Effectiveness Implementing End Cuts on Vimeo for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-practices-for-dynamic-and-dramatic-ae-titles-for-2024/"><u>Best Practices for Dynamic and Dramatic AE Titles for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-frame-rate-problem-solutions-and-fixes/"><u>Dying Light Frame Rate Problem: Solutions & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-crashing-issues-with-metro-exodus-on-computer/"><u>Effective Solutions for Continuous Crashing Issues with Metro Exodus on Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-premier-pro-freezing-issues-on-windows-11-and-10/"><u>Fixing Premier Pro Freezing Issues on Windows 11 and 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-problem-of-stardew-valley-not-loading-properly/"><u>How to Overcome the Problem of Stardew Valley Not Loading Properly</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-when-resident-evil-village-wont-start/"><u>How to Resolve When Resident Evil Village Won't Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/illuminate-your-gameplay-overcoming-minecrafts-black-screen-challenge-in-2/"><u>Illuminate Your Gameplay: Overcoming Minecraft's Black Screen Challenge in 2지급되다</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-visual-brilliance-mastering-luts-in-ae/"><u>In 2024, Crafting Visual Brilliance Mastering LUTs in AE</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-lava-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Lava Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolving Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/stuck-with-no-doom-eternal-release-in-sight-this-fix-will-get-you-game-time/"><u>Stuck with No DOOM Eternal Release in Sight? This Fix Will Get You Game Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailoring-the-perfect-experience-on-google-photos/"><u>Tailoring the Perfect Experience on Google Photos</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-fix-to-uncover-arise-in-epic-games-engine/"><u>The Definitive Fix to Uncover Arise in Epic Games Engine</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972469213-unleash-gaming-potential-easy-guide-to-finding-and-installing-the-latest-amd-vega-drivers/"><u>Unleash Gaming Potential - Easy Guide to Finding & Installing the Latest AMD Vega Drivers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro/"><u>Updated 2024 Approved S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-transforming-imovie-projects-into-youtube-shows/"><u>[Updated] 2024 Approved Transforming iMovie Projects Into YouTube Shows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens/"><u>[Updated] Exploring the Merits of OBS Studio & Fraps for Recording Screens</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rhythm-and-reels-instagram-music-secrets/"><u>[Updated] In 2024, Rhythm & Reels Instagram Music Secrets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-space-optimization-mastery-premium-storage-reviews/"><u>[Updated] In 2024, Space Optimization Mastery Premium Storage Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs2-crashes-resolved-master-the-latest-fixes-to-ensure-uninterrupted-gaming-on-your-pc-2024-edition/"><u>CS2 Crashes Resolved: Master the Latest Fixes to Ensure Uninterrupted Gaming on Your PC - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-when-bloodhunt-keeps-hiccuping-or-crashing-during-gameplay/"><u>Easy Fixes for When Bloodhunt Keeps Hiccuping or Crashing During Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ferramenta-on-line-sem-custo-mudando-arquivos-jpeg-para-jpg-facilmente-atraves-do-servico-da-movavi-imaging-software/"><u>Ferramenta On-Line Sem Custo: Mudando Arquivos JPEG Para JPG Facilmente Através Do Serviço Da Movavi Imaging Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-event-id-1000-issues-on-various-windows-versions-including-win7-and-win10/"><u>Fixing Event ID 1000 Issues on Various Windows Versions, Including Win7 & Win10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-maplestory-issues-on-windows-10-top-strategies/"><u>Fixing Persistent MapleStory Issues on Windows 10 (Top Strategies )</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-the-most-out-of-your-division-2-gameplay-overcoming-low-fps-challenges-in-the-2024-version/"><u>Get The Most Out of Your Division 2 Gameplay: Overcoming Low FPS Challenges in the 2024 Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-on-windows-10-solutions-explored/"><u>How to Fix Unresponsive File Explorer on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-glitches-in-jurassic-world-evolution-ultimate-crash-solution-revealed/"><u>No More Glitches in Jurassic World Evolution – Ultimate Crash Solution Revealed!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/obs-and-zoom-synchronization-techniques/"><u>OBS & Zoom Synchronization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-woes-when-steam-friend-list-is-inaccessible/"><u>Resolving Connection Woes: When Steam Friend List Is Inaccessible</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-dragon-age-origins-crashes-on-windows-11-with-these-tips-and-fixes/"><u>Troubleshoot Dragon Age: Origins Crashes on Windows 11 with These Tips and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-the-oculus-link-black-screen-with-these-fast-and-easy-methods/"><u>Troubleshoot the Oculus Link Black Screen with These Fast and Easy Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-undetected-steam-vr-devices-on-windowsmac/"><u>Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-restoring-msi-mystic-light-capabilities-in-windows-environment/"><u>Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment</u></a></li>
 </ul></div>
 

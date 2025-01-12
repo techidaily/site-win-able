@@ -1,7 +1,7 @@
 ---
 title: How to Fix Microsoft Edge Stability Issues in Windows 10
-date: 2025-01-03T20:16:18.010Z
-updated: 2025-01-05T16:51:38.737Z
+date: 2025-01-05T16:31:19.204Z
+updated: 2025-01-12T17:32:28.342Z
 tags:
   - win11
   - win10
@@ -22,14 +22,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -43,6 +43,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -52,13 +56,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -76,11 +80,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -106,14 +114,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. Reboot the browser to check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -148,10 +152,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -163,7 +163,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
@@ -194,24 +194,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-crafting-cinematic-audio-in-inshot-videos/"><u>[New] Crafting Cinematic Audio in InShot Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rom-script-to-screen-the-compreeved-guide-to-youtube-video-edits-for-2024/"><u>[New] From Script to Screen The Compreeved Guide to YouTube Video Edits for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>[Updated] The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-checklist-for-protecting-your-digital-assets/"><u>[Updated] The Ultimate Checklist for Protecting Your Digital Assets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet/"><u>2024 Approved Pushing Boundaries in Film The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024-updates-how-to-stop-state-of-decay-2-from-crashing-on-your-pcconsole/"><u>2024 Updates: How to Stop State of Decay 2 From Crashing on Your PC/Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-a-malfunctioning-msi-dragon-centre/"><u>Easy Fixes for a Malfunctioning MSI Dragon Centre</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-seamless-viewing-7-crucial-tweaks-for-a-flawless-twitch-experience/"><u>Ensure Seamless Viewing: 7 Crucial Tweaks for a Flawless Twitch Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-must-see-upgrades-in-vr-armor/"><u>In 2024, Must-See Upgrades in VR Armor</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-stream-and-save-a-guide-to-xbox-broadcasting/"><u>In 2024, Stream and Save A Guide to Xbox Broadcasting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpts-troubleshooting-swift-solutions-for-errors/"><u>Mastering GPT's Troubleshooting: Swift Solutions for Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008734801-netflix-access-restored-for-xbox-one-users-bid-goodbye-to-buffering-and-start-watching/"><u>Netflix Access Restored for Xbox One Users – Bid Goodbye to Buffering and Start Watching!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mac-video-editing-made-easy-slideshows-home-videos-and-more-with-ezvid/"><u>New 2024 Approved Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-black-ops-cold-war-error-0xc00e-effective-strategies-unveiled/"><u>Overcoming the Black Ops Cold War Error 0xC00e – Effective Strategies Unveiled</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/premier-playwriting-for-podcasts-and-radios/"><u>Premier Playwriting for Podcasts & Radios</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-cyberpunk-2077-performance-issues-no-more-lag-or-stutters/"><u>Resolved: Cyberpunk 2077 Performance Issues - No More Lag or Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-stuttering-in-mass-effect-legendary-edition/"><u>Resolved: Troubleshooting Stuttering in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-stability-problems-with-rainbow-six-extraction-on-pc/"><u>Troubleshooting Guide: Resolving Stability Problems with Rainbow Six Extraction on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-pc-gaming-files/"><u>Ultimate Guide: Repairing Damaged PC Gaming Files</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-step-by-step-for-launching-your-own-livestream-channel/"><u>[New] 2024 Approved Step-by-Step for Launching Your Own Livestream Channel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-easy-speech-alteration-for-sony-playstation-devices/"><u>[New] Easy Speech Alteration for Sony PlayStation Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-masterful-techniques-for-swift-blurring-in-picture-editing-for-2024/"><u>[New] Masterful Techniques for Swift Blurring in Picture Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-best-underwater-cameras-for-deep-blue-explorations/"><u>[New] Unveiling Best Underwater Cameras for Deep Blue Explorations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-exclusive-list-top-sandbox-experiences/"><u>[Updated] 2024 Approved Exclusive List Top Sandbox Experiences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-adding-descriptive-tags-to-your-images-on-pcs-and-macs/"><u>[Updated] Adding Descriptive Tags to Your Images on PCs and Macs</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-clutter-with-a-sleek-setup-using-your-android-tab-in-w11/"><u>Avoiding Clutter with a Sleek Setup: Using Your Android Tab in W11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragons-dogma-2-low-fps-and-stutters-how-to-fix/"><u>Dragon's Dogma 2 Low FPS and Stutters: How to Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-speedy-conversion-from-weba-to-mp3-audio/"><u>Easy Steps: Speedy Conversion From WEBA to MP3 Audio</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-techniques-for-creating-mp3-files-on-your-computer/"><u>Efficient Techniques for Creating MP3 Files on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-downloading-of-bilibili-media-in-mp4-format-a-step-by-step-tutorial/"><u>Effortless Downloading of Bilibili Media in MP4 Format – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-hd-video-grabber-seamless-streaming-content-capture-and-conversion/"><u>Effortless HD Video Grabber: Seamless Streaming Content Capture and Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-superior-sound-fidelity-steps-for-transforming-audio-to-top-tier-wav/"><u>Ensuring Superior Sound Fidelity: Steps for Transforming Audio to Top-Tier WAV</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-review-top-rated-dvd-transformers-convert-your-discs-into-various-media-formats-with-ease/"><u>Expert Review: Top Rated DVD Transformers - Convert Your Discs Into Various Media Formats with Ease!</u></a></li>
+<li><a href="https://win-able.techidaily.com/firefoxmp4/"><u>FirefoxにおけるMP4形式動画の再生不能:解決法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722876110310-fixing-glitches-in-samsung-televisions-application-software-easily/"><u>Fixing Glitches in Samsung Televisions' Application Software Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-your-websites-blueprint-exploring-the-importance-of-a-well-designed-sitemap/"><u>Guide to Your Website's Blueprint: Exploring the Importance of a Well-Designed Sitemap</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-audio-only-plays-during-mp4-videos-on-a-pc/"><u>How to Resolve Audio-Only Plays During MP4 Videos on a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/winning-strategy-for-prime-day-shopping-essential-hack-to-secure-your-must-haves-before-they-sell-out-zdnet/"><u>Winning Strategy for Prime Day Shopping: Essential Hack to Secure Your Must-Haves Before They Sell Out | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How the Reconnect Loop Issue in LoL 2Er 2024 Was Successfully Addressed
-date: 2024-12-30T17:50:36.165Z
-updated: 2025-01-06T00:25:45.885Z
+date: 2025-01-05T16:25:39.263Z
+updated: 2025-01-12T17:21:35.401Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3\. Update your graphics driver
 
  If you are using the wrong or outdated graphics driver, it can cause launch issues especially in new game titles such as Football Manager 2022\. So, it is recommended to keep your graphics driver up to date. The updated driver should solve the crashing at launch issues and it can also help to boost up the overall game’s performance.
@@ -67,23 +71,15 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -109,10 +105,14 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6\. Run the game executable file as admin
@@ -136,13 +136,17 @@ Once complete, launch the game to check if your game is working again.
  1) Right-click on Football Manager 2021 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8\. Repair your system files
@@ -171,16 +175,12 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -195,10 +195,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -208,6 +204,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -266,22 +266,24 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-video-capture-pro-for-windows-10-ultimate-quality/"><u>[New] 2024 Approved Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-key-applications-for-superior-vtuber-audible-identity/"><u>[Updated] 2024 Approved Key Applications for Superior Vtuber Audible Identity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertly-selected-best-gimbals-for-ultimate-camera-stability/"><u>[Updated] Expertly Selected Best Gimbals for Ultimate Camera Stability</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond/"><u>2024 Approved Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-internal-audio-on-android-video-or-gameplay/"><u>2024 Approved How to Record Internal Audio on Android [Video or Gameplay]</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-gopro-timelapse-a-step-by-step-guide/"><u>2024 Approved Mastering GoPro Timelapse A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-eliminate-crashes-in-your-diablo-iv-game-pc-ps5-and-xbox-edition/"><u>Expert Tips to Eliminate Crashes in Your Diablo IV Game – PC, PS5 & Xbox Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-destiny-2-overcoming-the-centipede-error-challenge/"><u>Fixing Destiny 2: Overcoming the Centipede Error Challenge</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-outriders-not-starting-problem-on-your-computer-a-comprehensive-guide-for-pc-gamers/"><u>How to Fix Outriders Not Starting Problem on Your Computer: A Comprehensive Guide for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-modern-warfare-from-freezing-on-your-computer-solutions-implemented-successfully/"><u>How to Stop Modern Warfare From Freezing on Your Computer - Solutions Implemented Successfully</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-standard-edition-review-of-djis-drone-model-3/"><u>In 2024, The Standard Edition Review of DJI's Drone Model 3</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mastering-online-crypto-exchanges-safety-protocols-and-techniques-with-yl-softwares-expert-advice/"><u>Mastering Online Crypto Exchanges: Safety Protocols and Techniques with YL Software's Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-freezes-and-crashes-masterclass-on-keeping-alan-wake-2-stable/"><u>Overcoming Freezes and Crashes: Masterclass on Keeping Alan Wake 2 Stable</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-obstacles-in-our-progress-as-a-species/"><u>Overcoming Obstacles in Our Progress as a Species</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-a-seamless-start-of-evil-genius-2-after-facing-setbacks/"><u>Unlocking the Secrets to a Seamless Start of Evil Genius 2 After Facing Setbacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-stability-hacks-how-to-eliminate-game-freezing-problems-on-pc-latest-tips/"><u>Warzone Stability Hacks: How to Eliminate Game-Freezing Problems on PC – Latest Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>[New] Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-hidden-techniques-for-clear-ppt-transcriptions-for-2024/"><u>[New] Unveiling Hidden Techniques for Clear PPT Transcriptions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing-for-2024/"><u>[Updated] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-best-fixes-for-call-of-duty-warzone-lag-and-freezes-on-personal-computers/"><u>2024'S Best Fixes for Call of Duty Warzone Lag and Freezes on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-fixes-for-stardew-valley-wont-open-a-step-by-step-solution/"><u>Common Fixes for 'Stardew Valley Won't Open': A Step-by-Step Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/crack-down-on-iphone-delays-discover-the-6-main-causes-and-how-to-correct-them/"><u>Crack Down on iPhone Delays - Discover the 6 Main Causes and How to Correct Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-battlefield-4-not-starting-up-tips-and-fixes-for-gamers/"><u>Dealing with Battlefield 4 Not Starting Up: Tips & Fixes for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-firefox-lag-and-freezes-the-definitive-2024-solution-guide/"><u>Defeating Firefox Lag & Freezes: The Definitive 2024 Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-techniques-and-secrets-for-success-in-roller-champions-pc-multiplayer-edition-guide-updated-for-216/"><u>Essential Techniques & Secrets for Success in Roller Champions PC Multiplayer Edition (Guide Updated for 2^16)</u></a></li>
+<li><a href="https://win-able.techidaily.com/from-silent-dragons-to-roaring-battles-solving-skyrims-sound-malfunctions/"><u>From Silent Dragons to Roaring Battles: Solving Skyrim's Sound Malfunctions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supercharge-your-screens-with-video-enhancer-v22/"><u>In 2024, Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezes-in-path-of-exile-easy-solutions-and-tips-for-smooth-gaming/"><u>No More Freezes in Path of Exile: Easy Solutions & Tips for Smooth Gaming</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/seamless-mov-to-wma-transformation-guide-for-pc-users/"><u>Seamless MOV to WMA Transformation Guide for PC Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/selecting-the-right-flight-stabilizer-drones-edition/"><u>Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-retrieving-data-post-iphone-restoration/"><u>Step-by-Step Guide: Retrieving Data Post-iPhone Restoration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-filmmakers-almanac-of-cinematic-mastery-in-24-for-2024/"><u>The Filmmaker's Almanac of Cinematic Mastery in '24 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-insiders-guide-to-dominating-first-person-shooter-rewards-in-mass-effect-legendary-edition/"><u>The Insider's Guide to Dominating First-Person Shooter Rewards in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-language-beyond-words-interpreting-icons-and-symbols-on-fb/"><u>The Language Beyond Words: Interpreting Icons and Symbols on FB</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-11-solutions-for-overcoming-borderlands-3-startup-issues/"><u>Top 11 Solutions for Overcoming Borderlands 3 Startup Issues</u></a></li>
 </ul></div>
 

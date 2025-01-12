@@ -1,7 +1,7 @@
 ---
 title: How to Eliminate Frame Drops and Visual Hitches in Warzone
-date: 2025-01-03T01:50:11.123Z
-updated: 2025-01-05T22:16:56.949Z
+date: 2025-01-09T16:38:50.925Z
+updated: 2025-01-12T17:40:03.381Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -43,17 +47,25 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
@@ -62,7 +74,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -92,7 +104,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -100,10 +112,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -115,7 +123,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Shut down unnecessary applications
@@ -125,10 +133,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **1)** Right-click the taskbar and click**Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click the application you want to close and click**End task** .
 
@@ -152,17 +156,9 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
@@ -179,6 +175,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
 
@@ -230,21 +230,20 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-title-your-photos-quickly-captioning-techniques-in-photos-app-win-11/"><u>[New] In 2024, Title Your Photos Quickly Captioning Techniques in Photos App Win 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-stay-on-top-of-your-streaks-must-try-techniques/"><u>[Updated] Stay on Top of Your Streaks Must-Try Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-sounding-off-instagrams-copyright-rules/"><u>2024 Approved Sounding Off Instagram's Copyright Rules</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-subnautica-below-zero-pc-game-crashing-problems-efficiently/"><u>How to Fix Persistent Subnautica (Below Zero) PC Game Crashing Problems Efficiently</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-13-miniipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 13 mini/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-deskjet-3630-drivers-download-for-windows-11/"><u>HP Deskjet 3630 Drivers Download for Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/maximizing-money-via-online-video-platforms/"><u>Maximizing Money via Online Video Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-wont-boot-up-discover-easy-fixes-for-the-2022-pc-edition/"><u>Outriders Won't Boot Up? Discover Easy Fixes for the 2022 PC Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-yahoo-mail-hurdles-a-comprehensive-guide-for-missing-emails-fixes/"><u>Overcoming Yahoo Mail Hurdles: A Comprehensive Guide for Missing Emails Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-playstation-to-pc-compatibility-mastering-yakuza-6-performance-fixes/"><u>Resolving PlayStation to PC Compatibility: Mastering Yakuza 6 Performance Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-the-puzzling-dark-screens-in-re8-on-your-desktop-gaming-rig/"><u>Solutions to the Puzzling Dark Screens in RE8 on Your Desktop Gaming Rig</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-to-overcome-the-notorious-minecraft-black-screen-error/"><u>Top Strategies to Overcome the Notorious Minecraft Black Screen Error</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-handbrake-hevc-h265-encode-issues-fixes-and-tips/"><u>Troubleshooting HandBrake HEVC (H.265) Encode Issues - Fixes & Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-night-mode-is-unresponsive-in-windows-11/"><u>Troubleshooting Steps When Night Mode Is Unresponsive in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wi-fi-calling-explained-everything-you-ever-wanted-to-ask/"><u>Wi-Fi Calling Explained: Everything You Ever Wanted to Ask</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-over-witcher-woes-strategies-to-stop-the-witcher-3-from-crashing-on-your-pc/"><u>Winning Over Witcher Woes: Strategies to Stop The Witcher 3 From Crashing on Your PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-on-screen-caption-composer/"><u>[New] 2024 Approved On-Screen Caption Composer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pixel-powerhouse-the-ultimate-game-collection/"><u>[Updated] Pixel Powerhouse The Ultimate Game Collection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-channels-with-powerful-visual-branding-strategies/"><u>[Updated] Transforming Channels with Powerful Visual Branding Strategies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2648050-9780752493046-haunted-farnham/"><u>Haunted Farnham | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x100-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-variations-america-vs-britain/"><u>Language Variations: America vs Britain</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp3-to-aiff-transformation-tutorial-for-all-your-devices-learn-how-now/"><u>MP3 to AIFF Transformation Tutorial for All Your Devices – Learn How Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4-to-wav-windows-1011/"><u>MP4 to WAV: 最適なコツがわかるWindows 10/11における高速変換手法</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-the-nuances-of-wpl-vs-m3u-files-understanding-differences-and-mastering-conversions/"><u>Navigating the Nuances of WPL Vs. M3U Files: Understanding Differences & Mastering Conversions</u></a></li>
+<li><a href="https://win-able.techidaily.com/nhkfm/"><u>NHKのFMラジオを記録するステップバイステップ: ウィンドウズ・アイフォン・アンドロイド対策</u></a></li>
+<li><a href="https://win-able.techidaily.com/pagina-no-encontrada-404-busca-con-foxingenioso/"><u>Página No Encontrada (404) | Busca Con FoxIngenioso</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
+<li><a href="https://win-special.techidaily.com/solve-your-speakers-silence-a-step-by-step-audio-repair-tutorial-for-windows-users-by-yl-software/"><u>Solve Your Speakers’ Silence: A Step-by-Step Audio Repair Tutorial for Windows Users - By YL Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-playbook-seamless-hulu-saving-on-winmacmobile-for-2024/"><u>The Ultimate Playbook Seamless Hulu Saving on Win/Mac/Mobile for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dead By Daylight Playable Again? Your Ultimate Fix for Error 8014
-date: 2025-01-02T22:15:59.217Z
-updated: 2025-01-05T17:55:33.680Z
+date: 2025-01-07T17:39:20.698Z
+updated: 2025-01-12T16:57:07.364Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ _Dead by Daylight (DBD)_ keeps crashing on startup, or it constantly closes to d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Select your gaming platform
 
@@ -95,8 +91,16 @@ Before you move on, select your gaming platform first:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Relaunch Steam and _DBD_ to test your issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can hopefully run the game without crashing now. If your problem still exists, then move on to the fix below.
 
@@ -128,10 +132,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -172,15 +172,11 @@ If your issue persists, then move on and try the next fix.
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch _DBD_ after the process is complete. If your game still crashes**,** unfortunately, try the fix below.
@@ -197,10 +193,6 @@ Follow the instructions below to see how to fix it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 3. Select **Power Options.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 4. Select **High Performance** .  
@@ -237,6 +229,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 4. Under **View by,** click **Large icons** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -247,20 +243,12 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 7. Follow the on-screen instructions to uninstall your Steam.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 9. Right-click your **Steam icon**  and select **Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 10. Move the backup **steamapps folder**  you create before to your current directory location.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 11. Restart_Dead by Daylight_ to see if this fixed your issue.
@@ -270,10 +258,6 @@ If this didn’t work for you, check the fix, below.
 ### Xbox One
 
  If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -313,11 +297,15 @@ If this didn’t work for you, check the fix, below.
 3. Select **System** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
@@ -331,12 +319,12 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
@@ -346,6 +334,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After resetting your console, restart Dead by Daylight to test your issue. If your problem persists, check the fix below.
 
@@ -380,6 +372,10 @@ If this didn’t work for you, check the fix, below.
 ### PlayStation 4
 
  If the Dead by Daylight crashing issue happens while gaming on your PlayStation 4, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -454,6 +450,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
@@ -485,17 +485,18 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comprehensive-mac-recorder-plus-audio/"><u>[Updated] Comprehensive Mac Recorder Plus Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-essential-skills-for-effective-discord-message-pinning/"><u>[Updated] In 2024, Essential Skills for Effective Discord Message Pinning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mirthmaker-join-and-start-your-humor-storytelling/"><u>2024 Approved MirthMaker Join & Start Your Humor Storytelling</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/academic-archiving-ranking-the-top-10-educators-video-capturers/"><u>Academic Archiving Ranking the Top 10 Educator's Video Capturers</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-xcover-6-pro-tactical-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy XCover 6 Pro Tactical Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-persistent-crashing-issues-in-assassins-creed-valhalla-on-windows/"><u>Fixes for Persistent Crashing Issues in Assassin's Creed: Valhalla on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/la-noire-arrives-on-pc-overcoming-previous-hurdles-to-launch-successfully/"><u>L.A. Noire Arrives on PC – Overcoming Previous Hurdles to Launch Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-controller-recognition-glitches-for-pc-gamers-using-steam-and-windows/"><u>Overcoming Controller Recognition Glitches for PC Gamers Using Steam and Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-ultimate-guide-to-resolve-game-crashing-issues/"><u>PC Gamers Rejoice: Ultimate Guide to Resolve Game Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guides-addressing-and-correcting-the-0xc0000022-launch-issue-for-adobe-products/"><u>Solution Guides: Addressing and Correcting the 0xC0000022 Launch Issue for Adobe Products</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-frustrating-twitch-error-code-4000/"><u>Ultimate Guide: Resolving the Frustrating Twitch Error Code 4000</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-creating-polished-composites-with-skillful-modes-use/"><u>[New] Creating Polished Composites with Skillful Modes Use</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-invisible-impact-how-to-amplify-artwork-effectively/"><u>[Updated] In 2024, Invisible Impact How to Amplify Artwork Effectively</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-speech-recognition-the-pinnacle-of-googles-translation/"><u>[Updated] In 2024, Seamless Speech Recognition The Pinnacle of Google's Translation</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-optimization-strategies-to-overcome-sudden-declines-in-frames-per-second-fps/"><u>Cyberpunk 2077 Optimization: Strategies to Overcome Sudden Declines in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/download-essential-video-intros-for-beginners/"><u>Download Essential Video Intros for Beginners</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-page-privacy-control-mastery/"><u>Facebook Page Privacy Control Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-constant-freezes-and-crashes-for-necromunda-hired-gun-on-windows-pcs/"><u>Fixing Constant Freezes and Crashes for Necromunda: Hired Gun on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fps-improvements-in-red-dead-redemption-2-overcoming-stuttering-issues-now-resolved/"><u>FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-life-is-strange-true-colors-game-crashes-effectively/"><u>How To Resolve Life Is Strange: True Colors Game Crashes Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-google-pixel-7a-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Google Pixel 7a to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hue-alignment-assistant-for-2024/"><u>Hue Alignment Assistant for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-a-broken-logitech-c920-a-guide-for-resolving-webcam-issues/"><u>Reviving a Broken Logitech C920: A Guide for Resolving Webcam Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-dev-error-5573-on-windows-playstation-and-xbox/"><u>Troubleshooting Steps for Resolving Dev Error 5573 on Windows, PlayStation, and Xbox</u></a></li>
 </ul></div>
 

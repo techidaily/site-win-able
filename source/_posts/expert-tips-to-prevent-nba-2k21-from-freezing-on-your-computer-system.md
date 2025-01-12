@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent NBA 2K21 From Freezing on Your Computer System
-date: 2024-08-13T10:08:14.244Z
-updated: 2024-08-14T10:08:14.244Z
+date: 2025-01-09T16:48:27.881Z
+updated: 2025-01-12T16:13:09.222Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Before you move on to the troubleshooting steps below, check if your PC specs surpass the[minimum requirements](https://www.epicgames.com/store/en-US/product/hitman-3/home) of Hitman 3\. If not, you’ll have to upgrade your components to play the game normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Stop overclocking
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
@@ -44,34 +45,26 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Exit the NVIDIA Control Panel.
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
@@ -79,8 +72,9 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Verify the integrity of game files
 
  Hitman 3 crashing may also indicate an integrity issue with your game files, so it’s necessary for you to check and repair the missing or damaged game files.
@@ -88,14 +82,20 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. Open your Epic Games Launcher and navigate to the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  Graphics driver is essential to your gaming experience. If you’re using a faulty or outdated graphics driver, Hitman 3 is more likely to crash at startup and during the gameplay. To fix this, you should update your graphics driver to the latest, and here are two options for you:
@@ -107,16 +107,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -134,23 +128,23 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 5. Select the**C drive** and click**Custom size** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -167,8 +161,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +168,26 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-incorporating-youtubes-creative-commons-in-video-making/"><u>[Updated] Incorporating YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unleashing-creative-potential-in-gopro-4k-edits-for-2024/"><u>[Updated] Unleashing Creative Potential in GoPro 4K Edits for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clarifying-ai-chatbot-facts-the-definitive-list-of-top-myths-busted/"><u>Clarifying AI Chatbot Facts: The Definitive List of Top Myths Busted</u></a></li>
+<li><a href="https://common-error.techidaily.com/geforce-experience-restored-successful-retrieval-of-preferences-and-customization-options/"><u>GeForce Experience Restored - Successful Retrieval of Preferences and Customization Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-strategy-for-broadcasting-via-obs-on-fb-live/"><u>In 2024, Optimal Strategy for Broadcasting via OBS on FB Live</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-rule-based-cell-highlights-a-step-by-step-guide-to-conditional-formatting-in-excel/"><u>Mastering Rule-Based Cell Highlights: A Step-by-Step Guide to Conditional Formatting in Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-solutions-for-arise-game-crashes-unveiled/"><u>Mastering Stability: Solutions for Arise Game Crashes Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-summation-the-ultimate-guide-to-adding-numbers-with-microsoft-excel/"><u>Mastering Summation: The Ultimate Guide to Adding Numbers with Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-treemaps-in-excel-techniques-for-designing-tailored-data-diagrams/"><u>Mastering Treemaps in Excel: Techniques for Designing Tailored Data Diagrams</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-xlookup-a-step-by-step-guide-to-leveraging-microsoft-excels-powerful-search-tool/"><u>Mastering XLOOKUP: A Step-by-Step Guide to Leveraging Microsoft Excel's Powerful Search Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/mobile-methods-adding-image-based-info-to-your-ms-excel-sheets/"><u>Mobile Methods: Adding Image-Based Info to Your MS Excel Sheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/modify-your-desktop-experience-customizing-icon-shortcuts-and-managing-notifications-on-mobile-devices-insights-from-how-to-geek/"><u>Modify Your Desktop Experience: Customizing Icon Shortcuts & Managing Notifications on Mobile Devices - Insights From How-To Geek</u></a></li>
+<li><a href="https://win-able.techidaily.com/newly-enhanced-microsoft-365-basic-affordable-access-to-additional-tools-and-services/"><u>Newly Enhanced Microsoft 365 Basic: Affordable Access to Additional Tools and Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-excel-limitations-create-effective-substitutes-for-missing-bookmarks/"><u>Overcoming Excel Limitations: Create Effective Substitutes for Missing Bookmarks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/retrieve-past-excel-workbook-versions-easily-and-securely/"><u>Retrieve Past Excel Workbook Versions Easily and Securely</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-valorant-continuously-stops-working-on-pc/"><u>Troubleshooting Steps When Valorant Continuously Stops Working on PC</u></a></li>
+</ul></div>
 

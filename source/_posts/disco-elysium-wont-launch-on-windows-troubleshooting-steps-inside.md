@@ -1,7 +1,7 @@
 ---
 title: Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside
-date: 2025-01-04T17:44:17.222Z
-updated: 2025-01-06T01:18:27.932Z
+date: 2025-01-09T16:58:32.026Z
+updated: 2025-01-12T16:14:50.610Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -45,14 +49,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -65,15 +69,11 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,16 +92,12 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
@@ -121,11 +117,15 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -162,19 +162,20 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-spotlight-todays-1-10-music-vids-for-2024/"><u>[Updated] Facebook Spotlight Today’s #1-#10 Music Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[Updated] Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/15-best-tools-to-capture-classroom-learning-moments-for-2024/"><u>15 Best Tools to Capture Classroom Learning Moments for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-11-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 11 without the Previous Owner?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000647867-dealing-with-desperate-pc-crashes-in-necromunda-hired-gun-gameplay-fix-them-now/"><u>Dealing with Desperate PC Crashes in Necromunda: Hired Gun Gameplay – Fix Them Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-clearing-up-minecraft-crossbow-error-code-glitches/"><u>Expert Advice: Clearing Up Minecraft Crossbow Error Code Glitches</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/guia-completa-migracion-exitosa-de-archivos-desde-la-unidad-flash-extrana-a-ssd-samsung/"><u>Guía Completa: Migración Exitosa De Archivos Desde La Unidad Flash Extraña a SSD Samsung</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-unable-to-connect-errors-when-playing-minecraft/"><u>How to Overcome 'Unable to Connect' Errors When Playing Minecraft</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-patch-successfully-addresses-cod-warzone-pacific-map-bug/"><u>Latest Patch Successfully Addresses COD: Warzone Pacific Map Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/overwatch-performance-tuning-maximizing-frame-rate-for-ultimate-gameplay/"><u>Overwatch Performance Tuning: Maximizing Frame Rate for Ultimate Gameplay</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-online-content-the-power-of-time-stamps-for-2024/"><u>Revolutionizing Online Content The Power of Time-Stamps for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/surge-to-subscriber-success-with-strategic-tactics-for-2024/"><u>Surge to Subscriber Success with Strategic Tactics for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/video-anonymity-tips-for-blurring-private-data/"><u>Video Anonymity Tips for Blurring Private Data</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-engaging-your-audience-with-fb-live/"><u>[New] In 2024, Engaging Your Audience with FB Live</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>2024 Approved Secure Storage Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-2022-resolving-the-leaf-error-code-issue/"><u>Apex Legends 2022: Resolving the 'Leaf' Error Code Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/basics-of-engaging-narratives/"><u>Basics of Engaging Narratives</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-overcoming-minecraft-not-opening-hurdles/"><u>Comprehensive Troubleshooting: Overcoming Minecraft Not Opening Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-release-delayed-no-pc-version-yet/"><u>Diablo Immortal Release Delayed: No PC Version Yet</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-oculus-link-back-on-track-a-six-step-guide-to-fixing-screen-issues-quickly/"><u>Getting Oculus Link Back on Track: A Six-Step Guide to Fixing Screen Issues Quickly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y28-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y28 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-gt-neo-5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme GT Neo 5 Without PUK Codes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-uncover-hidden-youtube-discussions/"><u>In 2024, Uncover Hidden YouTube Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-verifying-medical-info-navigating-through-ai-and-chatgpt-insights/"><u>Mastering the Art of Verifying Medical Info: Navigating Through AI & ChatGPT Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/restez-dans-le-coup-transformez-vos-images-dpx-en-jpg-sans-frais-decouvrez-les-trucs-de-movavi/"><u>Restez Dans Le Coup : Transformez Vos Images DPX en JPG Sans Frais - Découvrez Les Trucs De Movavi!</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-ui-dll-not-found-correct-the-root-causes-behind-steams-terminal-mishap/"><u>Steam UI DLL Not Found? Correct the Root Causes Behind Steam’s Terminal Mishap</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-lost-drives-in-windows-systems-with-insights-from-yl-software-experts/"><u>Troubleshooting Lost Drives in Windows Systems with Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-strategies-overcoming-discords-high-cpu-consumption-challenge/"><u>Ultimate Strategies: Overcoming Discord's High CPU Consumption Challenge</u></a></li>
 </ul></div>
 

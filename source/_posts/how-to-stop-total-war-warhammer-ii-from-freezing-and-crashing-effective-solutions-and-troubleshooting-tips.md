@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-12-30T20:59:52.016Z
-updated: 2025-01-05T20:41:51.954Z
+date: 2025-01-05T16:53:28.401Z
+updated: 2025-01-12T17:59:50.748Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Warframe Freezing
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 Your game still freezes? Try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Lower in-game graphics settings
 
  If you’re gaming on an old computer, try lowering the graphics settings a little bit so your game can run smoother. Here’s how to do it:
@@ -120,10 +116,6 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -132,7 +124,15 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -171,18 +171,22 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-speed-filled-guide-to-double-exposure-methods/"><u>[Updated] Speed-Filled Guide to Double Exposure Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-a05s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy A05s to iPhone | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cure-windows-10-sounds-try-audio-driver-reinstallation/"><u>Cure Windows 10 Sounds: Try Audio Driver Reinstallation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-tripods-the-best-8-for-4k-video-capture/"><u>Elite Tripods The Best 8 for 4K Video Capture</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-lagging-problems-in-outriders/"><u>Expert Solutions to Overcome Lagging Problems in Outriders</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-moto-g04-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Moto G04 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-tips-for-clearing-blank-youtube-playback/"><u>In 2024, Tips for Clearing Blank YouTube Playback</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-a25-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy A25 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-tactics-for-preventing-fps-drops-on-pcs/"><u>Optimizing Gameplay: Effective Tactics for Preventing FPS Drops on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-steps-to-correctly-repair-outlook-connection-issues/"><u>Resolved: Steps to Correctly Repair Outlook Connection Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-battlefield-v-a-comprehensive-guide-for-launch-failures/"><u>Troubleshoot Your Battlefield V: A Comprehensive Guide for Launch Failures</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unleash-your-creativity-top-free-video-editing-software-for-32-bit-windows-for-2024/"><u>Unleash Your Creativity Top Free Video Editing Software for 32-Bit Windows for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/zoom-on-windows-beating-black-screen-glitches-with-this-ultimate-fix-guide/"><u>Zoom on Windows - Beating Black Screen Glitches with This Ultimate Fix Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-android-3d-player-showcase/"><u>[New] Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-engineering-an-impactful-trailer-triumph-for-2024/"><u>[Updated] Engineering an Impactful Trailer Triumph for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-overview-of-whatsapp-voice-calls/"><u>2024 Approved Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-why-chatgpt-stands-out-amongst-advanced-ai-chat-bots/"><u>Comprehensive Analysis: Why ChatGPT Stands Out Amongst Advanced AI Chat Bots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-selection-of-high-performance-gaming-ssds-for-ps5-xbox-and-pc-expert-picks-from-zdnet/"><u>Discover the Ultimate Selection of High-Performance Gaming SSDs for PS5, Xbox, & PC - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-easy-peasy-reaction-videos-a-beginners-guide-to-filmora/"><u>New In 2024, Easy Peasy Reaction Videos A Beginners Guide to Filmora</u></a></li>
+<li><a href="https://win-able.techidaily.com/shrink-your-digital-footprints-mastering-smaller-video-sizes-with-windows-movie-maker-tutorials/"><u>Shrink Your Digital Footprints: Mastering Smaller Video Sizes with Windows Movie Maker Tutorials</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-mp4-videos-playing-only-sound/"><u>Solving the Issue: MP4 Videos Playing Only Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-integrating-the-watchnixtoonz-plugin-into-your-kodi-device-to-access-premier-anime-shows/"><u>Step-by-Step Tutorial: Integrating the WatchNixtoonz Plugin Into Your Kodi Device to Access Premier Anime Shows</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-superior-replacements-for-kodi-exodus-stream-your-favorite-movies-tv-series-and-sporting-events/"><u>Top 5 Superior Replacements for Kodi Exodus: Stream Your Favorite Movies, TV Series & Sporting Events</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-free-compatible-enhancements-for-kodi-20-and-19-boost-your-experience/"><u>Top Free Compatible Enhancements for Kodi 20 & 19: Boost Your Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-free-gospel-songs-effortless-downloading-from-youtube-and-more/"><u>Ultimate Guide to FREE Gospel Songs: Effortless Downloading From YouTube & More!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-installation-tips-for-streaming-classic-sweet-and-salty-treats-on-your-kodi-device-with-leia-and-krypton-themes/"><u>Ultimate Installation Tips for Streaming Classic Sweet and Salty Treats on Your Kodi Device with Leia and Krypton Themes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-mystery-a-comprehensive-guide-to-apples-freeform-app-usage/"><u>Unveiling the Mystery: A Comprehensive Guide to Apple’s Freeform App Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows/"><u>Windows上で動画形式のファイルサイズ調整ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Stability Issues: How to Keep Samurai Warriors 5 Running Smoothly on Your Computer"
-date: 2024-08-13T10:06:05.433Z
-updated: 2024-08-14T10:06:05.433Z
+date: 2025-01-10T16:14:26.087Z
+updated: 2025-01-12T16:44:01.016Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![Halo Infinite freezing PC how to fix](https://cdn.akamai.steamstatic.com/steam/apps/1240440/ss_df472c9be04184fae305b8fee28fa384a2d18846.1920x1080.jpg?t=1639025793)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Download & install all Windows updates
 
  Before delving into any advanced tweaks, you should make sure that you have installed Windows updates. Microsoft makes available updates on a regular basis to patch any security hole and to improve the functionality of the operating system.
@@ -40,10 +44,11 @@ We understand how frustrating it can be to run into the freezing issue when play
 1. In the Search box, type **check for updates** . Then click **Check for updates**  from the list of results.  
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -73,8 +78,9 @@ We understand how frustrating it can be to run into the freezing issue when play
 If updating drivers doesn’t help, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete temp files
 
  Temp files are referred to temporary files, which are files that your operating system only needed to exist temporarily while in use. But they are now just wasting space. This can slow down your PC and significantly affects the performance. To fix it, you can delete the files and it won’t cause any problems. Below are the steps you can follow.
@@ -83,26 +89,18 @@ If updating drivers doesn’t help, try the next fix below.
 2. Enter**%temp%** into the box and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
@@ -115,20 +113,22 @@ If updating drivers doesn’t help, try the next fix below.
 2. From here, you can take a look at all the programs that are eating up your memory.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, e.g. glitched graphics. If you encounter the freezing issue, verify the cache files of Halo Infinite, which can help ensure that the installation is up-to-date and if necessary, repair any bad or corrupted game data. Thus, this can help you rule out the cause of your problem and fix it.
@@ -142,11 +142,12 @@ To verify the integrity of your game files, follow the steps below:
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall Multiplayer High-Res Textures
 
@@ -159,15 +160,13 @@ To verify the integrity of your game files, follow the steps below:
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable in-game overlay
 
  Halo Infinite’s in-game overlay is a feature that aims to improve your gaming experience. But sometimes they just do the opposite of that, eating up bandwidth or introducing compatibility problems. In this case, you’ll need to disable it. Follow the instructions below to do so.
@@ -176,9 +175,6 @@ If this doesn’t help, try the next fix below.
 2. Under the**LIBRARY** section, right-click**Halo Infinite** and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
@@ -195,6 +191,10 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When it’s completed, launch Halo Infinite and test the gameplay.
 
 ---
@@ -209,8 +209,6 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +216,26 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-directing-attention-how-to-eradicate-background-from-your-virtual-conferences/"><u>[New] In 2024, Directing Attention How to Eradicate Background From Your Virtual Conferences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids-for-2024/"><u>[New] Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-discord-camera-not-working/"><u>[Solved] Discord Camera Not Working</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-depths-of-asmr-content/"><u>[Updated] 2024 Approved Exploring the Depths of ASMR Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-and-overcoming-recurring-crashes-in-the-world-of-tanks-blitz-game/"><u>Addressing and Overcoming Recurring Crashes in the World of Tanks Blitz Game</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-dvd16/"><u>Digiarty製品サポートブログ - DVDコピーガイドランキング【第16頁】</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-cod-modern-warfares-new-weapons-and-environments-for-fps-gaming/"><u>Discover COD: Modern Warfare's New Weapons and Environments for FPS Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-game-crashes-a-guide-to-running-dirt-naturally-on-windowsmac/"><u>Fixing Game Crashes - A Guide to Running Dirt Naturally on Windows/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-back-online-expert-tips-for-connecting-your-stadia-gaming-headset/"><u>Getting Back Online: Expert Tips for Connecting Your Stadia Gaming Headset</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/increase-your-fps-on-tainted-grail-conquest-top-strategies-revealed/"><u>Increase Your FPS on Tainted Grail: Conquest - Top Strategies Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-expat-networks-facebooks-upsides-and-limitations/"><u>Navigating Expat Networks: Facebook's Upsides and Limitations</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-ahead-uncover-the-ultimate-6-fixes-for-solving-terrarias-lost-connection-issues/"><u>Smooth Gaming Ahead! Uncover the Ultimate 6 Fixes for Solving Terraria's Lost Connection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-tfla00ebx-end-of-semester-issue/"><u>Step-by-Step Solutions to Overcome TFLA00ebx End of Semester Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-the-instance-connection-failure-on-path-of-exile-update-guide-for-2nd4/"><u>Tackling the Instance Connection Failure on Path of Exile - Update Guide for 2nD4</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-continuous-outlook-program-failures/"><u>Troubleshooting Steps for Continuous Outlook Program Failures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia XR21 | Dr.fone</u></a></li>
+</ul></div>
 

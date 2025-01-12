@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Disruptions: Eliminating Stutters and Freezes During Fortnite Sessions on PC"
-date: 2024-12-30T18:38:37.892Z
-updated: 2025-01-05T21:41:57.432Z
+date: 2025-01-10T16:44:11.031Z
+updated: 2025-01-12T17:57:09.337Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
@@ -61,7 +65,7 @@ Check your region and language settings on your computer:
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -76,17 +80,9 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -114,11 +110,11 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-4) Reboot your Windows 10 and try Cortana again to see if it works.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 ## Method 5: Reset your Cortana
 
@@ -129,19 +125,23 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
@@ -164,18 +164,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-reno-8t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Reno 8T Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/controlling-the-intrusion-of-game-bar-activity-in-windows-11/"><u>Controlling the Intrusion of Game Bar Activity in Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-nintendo-switch-brawlers-guidebook-max-156-for-2024/"><u>Essential Nintendo Switch Brawlers Guidebook (Max 156) for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fenty-mysteries-solved-immortals-fenyx-rising-ready-to-roll-out/"><u>Fenty Mysteries Solved - Immortals Fenyx Rising Ready to Roll Out</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27e-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V27e Pattern Lock Screen</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-properly-setup-your-3dconnexion-controller/"><u>How To Properly Setup Your 3Dconnexion Controller</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-exclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>In 2024, Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/order-of-exploration-your-guide-to-the-complete-star-trek-film-series/"><u>Order of Exploration: Your Guide to the Complete Star Trek Film Series</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-stutters-and-lag-in-video-games-a-comprehensive-fix-for-pc-users/"><u>Resolve Stutters and Lag in Video Games: A Comprehensive Fix for PC Users</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-8-techniques-for-converting-mts-files-to-mp4-on-windows-and-mac/"><u>Top 8 Techniques for Converting MTS Files to MP4 on Windows and Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-house-flipper-2-heres-how-to-resolve-pc-malfunctions-and-enjoy-gaming/"><u>Trouble with House Flipper 2? Here's How to Resolve PC Malfunctions and Enjoy Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repair-how-to-stop-your-kodi-from-crashing-continuously/"><u>Troubleshooting and Repair: How to Stop Your Kodi From Crashing Continuously</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-error-code-84/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite (Error Code #84)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-gourmet-cookies-for-every-palate/"><u>[Updated] In 2024, The Ultimate Guide to Gourmet Cookies for Every Palate</u></a></li>
+<li><a href="https://win-able.techidaily.com/freshly-updated-game-no-more-freezing/"><u>Freshly Updated Game - No More Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-elex-ii-from-crashing-on-your-computer/"><u>How to Prevent Elex II From Crashing on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nubia-red-magic-8s-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Red Magic 8S Pro Fingerprint Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensively-understanding-manual-signal-recognition/"><u>In 2024, Comprehensively Understanding Manual Signal Recognition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpts-intelligence-10-methods-for-enhancing-your-linkedin-career-searches/"><u>Leverage ChatGPT's Intelligence: 10 Methods for Enhancing Your LinkedIn Career Searches</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-obstacle-correcting-the-apex-legends-leaf-code-glitch/"><u>Overcome the Obstacle: Correcting the Apex Legends Leaf Code Glitch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-spellbreak-from-crashing-on-your-pc-expert-troubleshooting-steps-revealed/"><u>Stop Spellbreak From Crashing on Your PC - Expert Troubleshooting Steps Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-affordable-luxury-of-silent-cooling-an-insightful-review-into-scythes-mugen-6-air-conditioner-and-6-black-edition/"><u>The Affordable Luxury of Silent Cooling: An Insightful Review Into Scythe's Mugen #6 Air Conditioner & #6 Black Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-long-awaited-debut-it-takes-two-is-out/"><u>The Long-Awaited Debut: 'It Takes Two' Is Out!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-fall-guys-freezing-on-load/"><u>Troubleshooting Guide: How to Fix Fall Guys Freezing on Load</u></a></li>
 </ul></div>
 

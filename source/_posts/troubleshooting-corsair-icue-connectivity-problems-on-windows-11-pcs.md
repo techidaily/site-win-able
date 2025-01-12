@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs
-date: 2025-01-01T21:12:25.725Z
-updated: 2025-01-05T16:31:28.840Z
+date: 2025-01-05T17:24:54.298Z
+updated: 2025-01-12T17:35:49.669Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ It’s frustrating when you experience the launching problem when playing Age of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -35,10 +35,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 3. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Run the game as an administrator
 
@@ -52,10 +48,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-2.jpg)
@@ -65,6 +57,10 @@ It’s frustrating when you experience the launching problem when playing Age of
 **4)** Right-click**Steam icon** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
@@ -77,10 +73,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **7)** Restart your game to test your issue.
 
 If AoE still won’t launch, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -104,6 +96,10 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
@@ -118,16 +114,12 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -155,13 +147,13 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -175,9 +167,17 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-51-27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Age of Empires** , then**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
@@ -187,10 +187,6 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
 **6)** Try launching AoE 2 to see if this helped.
@@ -198,7 +194,7 @@ If the issue continues to occur, go to the next solution.
 If your game still won’t load, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
@@ -212,6 +208,10 @@ If your game still won’t load, then move on to the next fix below.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -238,21 +238,24 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-guide-downloading-and-setting-up-vrecord/"><u>[New] 2024 Approved Quick Guide Downloading & Setting Up VRecord</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-free-youtube-audio-extractors-for-pc-mac-ios-and-android/"><u>[New] In 2024, Top Free YouTube Audio Extractors for PC, Mac, iOS & Android</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-overcoming-obstacles-to-display-videos-prominently-for-2024/"><u>[New] Overcoming Obstacles to Display Videos Prominently for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>2024 Approved Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battling-lag-for-a-smoother-experience-in-new-avatar-fixing-pandoras-woes/"><u>Battling Lag for a Smoother Experience in New Avatar - Fixing Pandora's Woes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-chatgpt-and-ubuntu-mastering-shell-interactions-for-enhanced-dialogue/"><u>Bridging ChatGPT and Ubuntu: Mastering Shell Interactions for Enhanced Dialogue</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-past-a-hang-up-ultimate-guide-to-fixing-dota-2-loading-delays/"><u>Getting Past a Hang-Up: Ultimate Guide to Fixing Dota 2 Loading Delays</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-stabilizing-palworld-game-performance-on-pcs/"><u>Guide to Stabilizing PalWorld Game Performance on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-fnaf-security-breach-pc-errors-a-step-by-step-guide/"><u>Solve Your FNaF Security Breach PC Errors - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-issues-with-pathfinder-wrath-of-the-righteous-troubleshooting-game-start-up-problems/"><u>Solving Issues with Pathfinder: Wrath of the Righteous - Troubleshooting Game Start-Up Problems</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-itel-s23-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Itel S23 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c12-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C12 for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-files-pc-2024/"><u>Ultimate Guide: Repairing Damaged Video Game Data Files (PC) - 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-in-red-dead-redemption-ii-by-resolving-fps-drops-and-stuttering-issues/"><u>Unlock Seamless Gameplay in Red Dead Redemption II by Resolving FPS Drops & Stuttering Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-essential-blueprint-for-obtaining-premium-visuals-for-free/"><u>[New] 2024 Approved The Essential Blueprint for Obtaining Premium Visuals for Free</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[New] In 2024, Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-successful-podcast-covers-revealed/"><u>[New] Secrets of Successful Podcast Covers Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-for-the-tech-sleuth-dissecting-the-best-top-10-fb-videos-downloaders/"><u>[Updated] 2024 Approved For the Tech Sleuth Dissecting the Best Top 10 FB Videos Downloaders</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-stability-solutions-top-fixes-for-game-crashing-glitches-updated-guide/"><u>Arma 3 Stability Solutions: Top Fixes for Game-Crashing Glitches - Updated Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468064262-cant-enjoy-depth-effect-at-iphone-xsxr-lock-screen-in-ios-16-here-are-7-fixes-to-try-now/"><u>Can't Enjoy Depth Effect at iPhone XS/XR Lock Screen in iOS 16? Here Are 7 Fixes to Try Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/critical-exchange-repair-a-comprehensible-analysis/"><u>Critical Exchange Repair: A Comprehensible Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficiently-combat-high-cpu-utilization-issues-in-the-elder-scrolls-online-modern-fixes-unveiled/"><u>Efficiently Combat High-CPU Utilization Issues in The Elder Scrolls Online: Modern Fixes Unveiled</u></a></li>
+<li><a href="https://win-news.techidaily.com/effortless-font-size-adjustments-on-your-windows-11-pc-learn-with-yl-computings-expert-solutions/"><u>Effortless Font Size Adjustments on Your Windows 11 PC – Learn with YL Computing's Expert Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010038016-elevate-your-gaming-session-strategies-for-fps-boost-and-smooth-playing-in-the-ascent/"><u>Elevate Your Gaming Session: Strategies for FPS Boost & Smooth Playing in The Ascent</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-overwatchs-first-time-boot-dilemma-no-image-showed/"><u>Fixing Overwatch's First-Time Boot Dilemma – No Image Showed</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-terraria-from-crashing-expert-guidance-and-tips/"><u>How to Stop Terraria From Crashing : Expert Guidance and Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-meizu-21-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Meizu 21 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nubia-red-magic-8s-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nubia Red Magic 8S Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-approaches-to-documenting-facetime-talks-for-2024/"><u>Innovative Approaches to Documenting FaceTime Talks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-to-helldivers-2-pc-crash-issues/"><u>Proven Solutions to Helldivers 2 PC Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-solution-to-prevent-mordhau-from-exiting-unexpectedly-troubleshooting-steps-inside/"><u>The Definitive Solution to Prevent Mordhau From Exiting Unexpectedly - Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-issues-troubleshooting-and-fixes/"><u>Ubisoft Connect Issues : Troubleshooting and Fixes</u></a></li>
 </ul></div>
 

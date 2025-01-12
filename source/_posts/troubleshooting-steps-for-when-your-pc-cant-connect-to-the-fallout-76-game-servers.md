@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for When Your PC Can't Connect to the Fallout 지정기 76 Game Servers
-date: 2024-12-29T21:51:36.625Z
-updated: 2025-01-05T19:29:01.917Z
+date: 2025-01-05T17:25:29.111Z
+updated: 2025-01-12T17:47:18.082Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 fixes that have helped other Fortnite PC players get Fortnite working again. You may not have to try them all; just work your way down the list until you find one that works for you.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 1. Right-click on your task bar, and select**Task Manger** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7fe50b1fe.jpg)
 2. Scroll through and end each**NVIDIA** task.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
@@ -99,7 +95,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -110,16 +114,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for account issues
@@ -155,19 +155,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-extensive-review-gecata-recording-device-analysis/"><u>[New] Extensive Review Gecata Recording Device Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-secrets-of-crafting-captivating-instagram-videos/"><u>[New] The Secrets of Crafting Captivating Instagram Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-how-apple-could-outshine-competitors-like-microsoft-and-google-in-the-upcoming-wwdc-2024-a-strategic-analysis-zdnet/"><u>1. How Apple Could Outshine Competitors Like Microsoft & Google in the Upcoming WWDC 2024: A Strategic Analysis - ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/az-screen-recorder-review-series-for-2024/"><u>AZ Screen Recorder Review Series for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210791322-9798987760338-chopping-down-the-tree-of-knowledge/"><u>Chopping Down the Tree of Knowledge | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/csgo-optimization-guide-resolving-fluctuating-fps-issues-for-a-smoother-gameplay-experience/"><u>CS:GO Optimization Guide: Resolving Fluctuating FPS Issues for a Smoother Gameplay Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-repair-techniques-when-counter-strike-2-wont-launch/"><u>DIY Repair Techniques When Counter-Strike 2 Won't Launch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-premium-cameras-a-2024-guide/"><u>Exploring Premium Cameras A 2024 Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-delete-all-data-from-your-windows-pc-a-step-by-step-guide-cost-free-techtips/"><u>How to Securely Delete All Data From Your Windows PC: A Step-by-Step Guide (Cost-Free) | TechTips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s24-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S24 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quadruple-your-speed-expert-advice-for-resolving-fps-issues-in-escape-from-tarkov-top-6-fixes/"><u>Quadruple Your Speed: Expert Advice for Resolving FPS Issues in Escape From Tarkov (Top 6 Fixes)</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-eliminating-input-lag-in-cyberpunk-2077/"><u>Resolved: Eliminating Input Lag in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-ahead-resolving-game-crashes-on-sea-of-thieves/"><u>Smooth Sailing Ahead - Resolving Game Crashes on Sea of Thieves</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-directdraw-error-in-windows-applications/"><u>Step-by-Step Solution: Overcoming DirectDraw Error in Windows Applications</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dive-into-the-deep-end-of-facebook-meme-culture-for-2024/"><u>[Updated] Dive Into The Deep End of Facebook Meme Culture for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ghostly-pause-recorder-tutorial/"><u>[Updated] Ghostly Pause Recorder Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-go-live-with-recorded-material-on-the-worlds-largest-social-network/"><u>[Updated] How to Go Live with Recorded Material on the World's Largest Social Network</u></a></li>
+<li><a href="https://win-able.techidaily.com/armored-core-6-on-windows-diagnosing-and-repairing-sudden-game-crashes-in-the-fires-of-rubicon/"><u>Armored Core 6 on Windows: Diagnosing and Repairing Sudden Game Crashes in the Fires of Rubicon</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-overwatchs-graphic-glitches-for-a-smooth-gaming-experience/"><u>Eliminating Overwatch's Graphic Glitches for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/full-launch-of-god-of-war-action-shooter-game-on-pc-platforms-breaking-down-the-features/"><u>Full Launch of God of War Action Shooter Game on PC Platforms - Breaking Down the Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-insignia-bluetooth-device-in-windows/"><u>How to Install Updated Drivers for Your Insignia Bluetooth Device in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010088167-how-to-rapidly-resolve-your-slowing-down-google-chrome-issues/"><u>How to Rapidly Resolve Your Slowing Down Google Chrome Issues!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-hardware-showdown-discover-what-toms-experts-say/"><u>The Ultimate Hardware Showdown: Discover What Tom's Experts Say</u></a></li>
 </ul></div>
 

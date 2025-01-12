@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings 2 Not Loading Properly? Here's What To Do
-date: 2024-08-13T10:07:32.880Z
-updated: 2024-08-14T10:07:32.880Z
+date: 2025-01-11T16:26:00.140Z
+updated: 2025-01-12T16:38:42.415Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
 Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 6 solutions to try.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,9 +28,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 5. **[Reinstall your game and/or game launche](https://tools.techidaily.com/drivereasy/download/)** [**r**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your PC
 
  If you’re running multiple programs on your PC, chances are one or more programs are conflicting with_Crusader Kings 2_ or your game launcher, causing this issue for you. In this case, try restarting your computer to turn off unnecessary programs completely, then restart your game to test your issue.
@@ -51,8 +45,9 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 **2)**  Right-click **Steam**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-51-56.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Compatibility tab** .
@@ -62,18 +57,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 **4)**  Check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-21-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click **Apply** , then **OK** .
 
@@ -82,8 +65,9 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 **6)**  Right-click**Crusader Kings 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-11-15.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Click the **Compatibility tab** .
@@ -94,17 +78,26 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)** Relaunch**Crusader Kings 2** test your issue.
 
 If your problem still exists, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of your game files
 
  If your game still won’t launch at all, you may have one or more corrupted game files that are conflicting with the game. Try verifying the integrity of your game files to see if that’s the core issue. Here is how to do it:
@@ -122,10 +115,6 @@ If your problem still exists, try the fix below.
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-20-58.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 **5)** Relaunch your game to test your issue.
 
@@ -157,17 +146,14 @@ If your game still won’t launch, then go ahead with the next fix.
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -185,6 +171,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Crusader Kings II** , then click**Manage> Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-40-14.jpg)
@@ -193,12 +183,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-33-24-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** On your keyboard, press the**Windows logo key** and**E** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_15-16-16.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Double-click**Documents>Paradox Interactive** .
 
@@ -208,15 +199,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_15-22-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Download and reinstall the game from Steam.
 
 **9)** Try launching_Crusader Kings 2_ again.
 
  If_Crusader Kings 2_ still won’t respond when you launch it, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s probable that a recent update is preventing_Crusader Kings 2_ from launching correctly, and a new update is needed to fix it. So, you should check if there are any updates available. Here is how to do it:
@@ -224,16 +216,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-24.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
 **3)** Restart your computer and your game after the update is complete.
 
@@ -251,8 +237,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +244,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-trailblazing-the-mobile-app-landscape/"><u>[New] Trailblazing the Mobile App Landscape</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>[Updated] Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894497284-download-free-chat-apps-compatible-with-iphone-and-ipod-touch-today/"><u>Download Free Chat Apps Compatible with iPhone & iPod Touch Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-when-your-wallpaper-engine-keeps-crashing-in-windows-1110/"><u>Effective Fixes When Your Wallpaper Engine Keeps Crashing in Windows 11/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-amazon-prime-video-glitches-expert-tips-for-uninterrupted-viewing/"><u>Fixing Amazon Prime Video Glitches: Expert Tips for Uninterrupted Viewing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-creativity-top-10-yt-reaction-hacks/"><u>In 2024, Mastering Creativity Top 10 YT Reaction Hacks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-social-splendor-leading-story-filter-hits/"><u>In 2024, Social Splendor Leading Story Filter Hits</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-solutions-for-reducing-god-of-wars-cpu-drain/"><u>Optimizing Performance: Solutions for Reducing God of War's CPU Drain</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-display-faults-in-call-of-duty-wwii-tips-for-windows-users/"><u>Overcoming Display Faults in Call of Duty: WWII - Tips for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-eliminating-wow-latency-problems-with-speed-and-simplicity/"><u>Quick Fixes: Eliminating WoW Latency Problems with Speed and Simplicity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sidestep-graphics-hiccup-amd/"><u>Sidestep Graphics Hiccup, AMD</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ensuring-a-smooth-run-of-back-blood-without-any-more-pc-crashes/"><u>Solved: Ensuring a Smooth Run of Back ^Blood Without Any More PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-for-windows-1110-the-dreaded-ntdlldll-crash-problem/"><u>Step-by-Step Fix for Windows 11/10: The Dreaded ntdll.dll Crash Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-nvidia-geforce-setup-fixing-sudden-shutdown-issues/"><u>Troubleshooting Your NVIDIA GeForce Setup - Fixing Sudden Shutdown Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-every-aspect-of-openai-in-detail/"><u>Understanding Every Aspect of OpenAI in Detail</u></a></li>
+</ul></div>
 

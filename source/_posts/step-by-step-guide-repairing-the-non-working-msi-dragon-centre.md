@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-12-29T20:28:12.264Z
-updated: 2025-01-05T23:15:44.150Z
+date: 2025-01-08T16:59:37.554Z
+updated: 2025-01-12T16:56:43.067Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 
 Hope it works for you, if not, try updating your audio driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update the audio driver
 
  Update your audio driver might fix. Driver is closely related to the audio issue, an outdated or corrupted audio driver would cause sound issue.
@@ -54,17 +50,21 @@ Hope it works for you, if not, try updating your audio driver.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -75,14 +75,14 @@ Hope it works for you, if not, try updating your audio driver.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -106,22 +106,22 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ffortless-youtube-income-computations-for-2024/"><u>[New] Effortless YouTube Income Computations for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastery-in-conflict-the-leading-7-total-war-tactics-for-2024/"><u>[New] Mastery in Conflict The Leading 7 Total War Tactics for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-the-powerhouse-inside-apples-m1-chip/"><u>[New] Understanding the Powerhouse Inside Apple's M1 Chip</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-master-the-art-moviemaker-movie-uploads-on-vimeo/"><u>2024 Approved How To Master the Art Moviemaker Movie Uploads on Vimeo</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-winxvideo-solutions-explained-comprehensive-faq-and-answer-guide/"><u>AI-Powered WinxVideo Solutions Explained: Comprehensive FAQ & Answer Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-darkness-swift-fixes-for-a-non-functional-oculus-link/"><u>Banish the Darkness: Swift Fixes for a Non-Functional Oculus Link</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-valve-counter-strike-2-launch-problems/"><u>Diagnosing and Repairing Valve Counter-Strike 2 Launch Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002259392-elden-ring-optimization-guide-6-rapid-remedies-to-resolve-fps-fluctuations-and-hitches/"><u>Elden Ring Optimization Guide: 6 Rapid Remedies to Resolve FPS Fluctuations & Hitches</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-a1-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo A1 5G? Try These Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-on-pc/"><u>How to Fix 'World of Warcraft Not Starting on PC'</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x50-gt-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X50 GT to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-video-loading-on-facebook-for-2024/"><u>Mastering Video Loading on Facebook for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-dragons-dogma-2-pc-crashes-easy-fix-guide/"><u>Troubleshooting Dragon's Dogma 2 PC Crashes - Easy Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-prevent-call-of-duty-modern-warfare-from-freezing-on-windows-computers/"><u>Troubleshooting Guide: How to Prevent 'Call of Duty: Modern Warfare' From Freezing on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-what-to-do-if-your-qbittorrent-freezes-or-stalls/"><u>Troubleshooting Steps: What to Do If Your qBittorrent Freezes or Stalls</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-my-outlook-keep-closing-solutions-to-persistent-crashing-issues/"><u>Why Does My Outlook Keep Closing? Solutions to Persistent Crashing Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-streamers-dream-unifying-obs-and-zoom-with-steps-for-2024/"><u>A Streamer's Dream Unifying OBS & Zoom with Steps for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-launch-postponement-heres-why-it-happened/"><u>Assassin’s Creed Valhalla Launch Postponement - Here's Why It Happened!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/brighten-your-facetime-experience-a-handy-guide-to-tackling-screen-blackouts/"><u>Brighten Your FaceTime Experience: A Handy Guide to Tackling Screen Blackouts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-3-resolved-fixes-for-prevailing-system-crash-problems/"><u>Dark Souls 3 - Resolved: Fixes for Prevailing System Crash Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-tech-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Tech Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-when-elder-scrolls-online-wont-start-properly/"><u>Fixes & Solutions When 'Elder Scrolls Online' Won’t Start Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-navigate-crash-free-gaming-troubleshooting-tips-for-pc-users/"><u>Forza Horizon Navigate Crash-Free Gaming - Troubleshooting Tips for PC Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/last-chance-with-authy-desktop-apps-transition-your-two-factor-authentication-within-30-days-zdnet-insights/"><u>Last Chance with Authy Desktop Apps: Transition Your Two-Factor Authentication Within 30 Days | ZDNet Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-help-how-to-fix-starfield-crashing-problems/"><u>PC Gaming Help - How to Fix Starfield Crashing Problems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-and-panache-creating-perfect-crossfades-for-2024/"><u>Precision and Panache Creating Perfect Crossfades for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-simple-strategies-to-boost-your-productivity-on-facebook/"><u>Top 5 Simple Strategies to Boost Your Productivity on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gzw-pc-issues-a-comprehensive-guide/"><u>Troubleshooting GZW PC Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-smooth-run-in-arcadegeddon-on-your-computer-issues-resolved/"><u>Troubleshooting Tips for a Smooth Run in Arcadegeddon on Your Computer [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-minecraft-launch-failures/"><u>Troubleshooting Tips: Resolving Minecraft Launch Failures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y78t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y78t IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-issues-with-super-pc-crashes/"><u>Ultimate Guide: Resolving Issues with 'Super Pc' Crashes</u></a></li>
 </ul></div>
 

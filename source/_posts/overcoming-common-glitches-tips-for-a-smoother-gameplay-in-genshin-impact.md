@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Glitches - Tips for a Smoother Gameplay in Genshin Impact
-date: 2025-01-02T21:15:38.736Z
-updated: 2025-01-06T00:43:42.416Z
+date: 2025-01-06T18:00:57.270Z
+updated: 2025-01-12T17:18:13.884Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ Even since its demo, House Flipper 2 has gained popularity and positive reviews 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Make sure your machine meets the system requirements for House Flipper 2
@@ -109,6 +109,10 @@ Here are the requirements for your reference:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use the discrete graphics card
 
  If you have a discrete graphics card, you can set it as the primary so House Flipper 2 can run more smoothly with a more powerful hardware device, and therefore avoid problems like crashing or freezing. To do so:
@@ -128,9 +132,17 @@ Here are the requirements for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-16.png)
 5. In the_Specify the settings for this program:_ section, scroll down to find the**Power management** mode, then select**Prefer maximum performance** .![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Apply** to save the changes.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-18.png)
 
  Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5.2 I have an AMD display card
 
@@ -142,7 +154,7 @@ Here are the requirements for your reference:
 3. Select**Switchable Graphics** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-22.png)
@@ -167,17 +179,9 @@ Here are the requirements for your reference:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch your House Flipper 2 again to see if it still crashes. If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update display card driver
 
@@ -209,7 +213,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -221,10 +225,6 @@ To do so, first visit the website of your GPU manufacturer:
  Launch House Flipper 2 again and see if the latest graphics driver helps it to launch. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Turn off V-Sync
 
@@ -240,26 +240,22 @@ To do so, first visit the website of your GPU manufacturer:
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **If you have an AMD display card, modify the Wait for Vertical Refresh setting:**
 
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
@@ -282,12 +278,12 @@ To tell which drive you have, please view the Task Manager in this way:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-11.png)
 2. Click the second icon (**Performance** ), then check the **Type** field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with House Flipper 2 and are free from the pain of constant crashes, it’s highly recommended that you install the game on your SSD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this still doesn’t fix the crashing problem with House Flipper 2 for you, please move on.
 
@@ -303,6 +299,10 @@ To tell which drive you have, please view the Task Manager in this way:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -329,16 +329,17 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac-for-2024/"><u>[New] Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[Updated] 2024 Approved 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-teaspoon-salt/"><u>1 Teaspoon Salt</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-on-without-glitches-solving-rocket-league-crashing-issues/"><u>Game On Without Glitches: Solving 'Rocket League' Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-memory-crash-resolved/"><u>God of War Memory Crash: Resolved!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-play-7t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Play 7T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-networking-and-hardware-tips-from-toms-electronics-reviews/"><u>Navigating Through Networking and Hardware Tips From Tom’s Electronics Reviews</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-amazonbasics-7-port-usb-30-hub-powerful-connectivity-solutions/"><u>Ultimate Guide to AmazonBasics 7-Port USB 3.0 Hub - Powerful Connectivity Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-for-stable-gameplay-in-mount-and-blade-ii-bannerlord/"><u>Ultimate Solutions for Stable Gameplay in Mount & Blade II: Bannerlord</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-precision-planning-of-collaborative-slack-plus-filmora-meetings/"><u>[New] In 2024, Precision Planning of Collaborative Slack + Filmora Meetings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-media-with-movavi-plus-2024-edition-insights/"><u>[Updated] Mastering Media with Movavi Plus 2024 Edition Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/active-screen-capture-pro-does-it-reign-supreme/"><u>Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-and-correcting-the-palworld-error-a-step-by-step-approach/"><u>Deciphering and Correcting the 'Palworld' Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-smoothing-out-batman-arkham-knight-performance-hiccups-and-glitches/"><u>Expert Advice on Smoothing Out Batman: Arkham Knight Performance Hiccups & Glitches</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p55-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P55 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-a-players-handbook-to-combat-lag-in-naraka-bladepoint/"><u>Optimizing Performance: A Player's Handbook to Combat Lag in Naraka Bladepoint</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985255082-pc-gaming-made-easy-assassins-creed-valhalla-crash-troubleshooted-and-solved/"><u>PC Gaming Made Easy: Assassin’s Creed Valhalla Crash Troubleshooted and Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/prevent-fall-guys-from-crashing-at-launch-effective-tips-and-fixes/"><u>Prevent Fall Guys From Crashing at Launch - Effective Tips & Fixes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/real-time-music-videos-on-douyin-for-2024/"><u>Real-Time Music Videos on Douyin for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-brand-creation-top-titles-for-video-content-craftsmen-max-156-for-2024/"><u>Youtube Brand Creation Top Titles for Video Content Craftsmen (Max 156) for 2024</u></a></li>
 </ul></div>
 

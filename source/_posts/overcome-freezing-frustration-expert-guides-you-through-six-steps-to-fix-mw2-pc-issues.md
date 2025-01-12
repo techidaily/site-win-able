@@ -1,7 +1,7 @@
 ---
 title: "Overcome Freezing Frustration: Expert Guides You Through Six Steps to Fix MW2 PC Issues"
-date: 2024-12-29T18:30:28.010Z
-updated: 2025-01-06T00:54:18.937Z
+date: 2025-01-07T16:19:31.183Z
+updated: 2025-01-12T17:48:36.451Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,11 +54,19 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -77,24 +89,16 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -103,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
  1\. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl, Shift,**  and **Enter**  on your keyboard at the same time to run Command Prompt as administrator. You will be prompted for permission. Click **Yes** to run**Command Prompt** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
@@ -127,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. On the Steam page, log into**the new steam account you created in step One** .  
@@ -152,13 +160,13 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
@@ -181,10 +189,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -192,10 +196,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -228,22 +228,18 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-combat-common-youtube-short-obstacles/"><u>[New] In 2024, Combat Common YouTube Short Obstacles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-market-mastery-strategys-first-impressions/"><u>[New] Market Mastery Strategy's First Impressions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-tailor-made-melodies-your-roadmap-for-playlists/"><u>2024 Approved Tailor-Made Melodies Your Roadmap for Playlists</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-bug-comprehensive-steps-for-successfully-starting-overwatch-2-troubleshooting-guide-2e4/"><u>Beat the Bug: Comprehensive Steps for Successfully Starting Overwatch 2 (Troubleshooting Guide - 2E4)</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-strategies-for-addressing-the-crossbow-problem-in-your-minecraft-adventure/"><u>Comprehensive Strategies for Addressing the 'Crossbow' Problem in Your Minecraft Adventure</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnose-and-fix-stuttering-problems-in-serious-sam-4-for-a-smooth-gaming-experience/"><u>Diagnose and Fix Stuttering Problems in Serious Sam 4 for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-solutions-for-launching-football-manager-2023-successfully/"><u>Easy Solutions for Launching Football Manager 2023 Successfully</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experts-rate-the-poweradd-pilot-pro2-amplified-charging-capabilities-for-your-digital-world/"><u>Experts Rate the POWERADD Pilot Pro2: Amplified Charging Capabilities for Your Digital World</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722989888853-god-of-war-leaps-to-life-as-a-first-person-shooter-now-playable-on-your-computer/"><u>God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capture-in-action-detailed-analysis-of-apowersoft-on-pcs/"><u>In 2024, Capture in Action Detailed Analysis of Apowersoft on PCs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-essential-tutorial-for-fb-video-production/"><u>In 2024, The Essential Tutorial for FB Video Production</u></a></li>
-<li><a href="https://win-able.techidaily.com/revamping-visual-experience-improving-outriders-blurry-display-problems/"><u>Revamping Visual Experience: Improving Outriders' Blurry Display Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-issue-nier-replicante-game-no-longer-experiences-crashes/"><u>Solved Issue: NieR: Replicante Game No Longer Experiences Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-fixing-persistent-zoom-issues-in-windows-operating-systems-windows-1011/"><u>Ultimate Guide: Fixing Persistent Zoom Issues in Windows Operating Systems (Windows 10/11)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-professional-guide-ensuring-imovie-content-shines-on-vimeo/"><u>[New] In 2024, Professional Guide Ensuring iMovie Content Shines on Vimeo</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-perfecting-the-art-of-twitter-broadcasts-for-2024/"><u>[New] Perfecting the Art of Twitter Broadcasts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizable-ai-revolution-crafting-unique-gpt-models-via-chatgpt-upgrade/"><u>Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-netflix-connectivity-problems-tips-for-smooth-viewing/"><u>Diagnosing Netflix Connectivity Problems – Tips for Smooth Viewing</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-issues-in-rainbow-six-siege-expert-tips-and-solutions/"><u>Eliminate Lag Issues in Rainbow Six Siege - Expert Tips & Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-enhance-video-impact-two-tiktok-techniques/"><u>In 2024, Enhance Video Impact Two TikTok Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/"><u>In 2024, Revolutionize Your Laptop Experience Innovative Methods for Screen Capture</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016827385-redragon-microphone-malfunction-heres-how-you-can-fix-it/"><u>Redragon Microphone Malfunction? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-enshrouded-crashes-a-pc-troubleshooting-guide/"><u>Say Goodbye to Enshrouded Crashes - A PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-overcoming-network-errors-in-the-latest-windows-os/"><u>Steps for Overcoming Network Errors in the Latest Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frame-drops-on-steam-v-tips-to-improve-performance-on-pc/"><u>Troubleshooting Frame Drops on Steam 'V': Tips to Improve Performance on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-success-rainbow-six-siege-starts-without-errors/"><u>Troubleshooting Success: Rainbow Six Siege Starts Without Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi 13T? | Dr.fone</u></a></li>
 </ul></div>
 

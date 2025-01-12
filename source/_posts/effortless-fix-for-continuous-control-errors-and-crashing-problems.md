@@ -1,7 +1,7 @@
 ---
 title: Effortless Fix for Continuous Control Errors & Crashing Problems.
-date: 2024-08-13T09:59:02.018Z
-updated: 2024-08-14T09:59:02.018Z
+date: 2025-01-10T17:05:49.143Z
+updated: 2025-01-12T16:00:39.560Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
 If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Quit MSI Afterburner](https://tools.techidaily.com/drivereasy/download/)**
@@ -35,9 +32,6 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Update your graphics driver
 
  The GPU driver might be causing the error ‘**An Unreal process has crashed: UE4-Madness** .’ in Outriders. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver.
@@ -62,6 +56,10 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -77,18 +75,27 @@ There are mainly two methods for you to update the graphics driver:
 
  2) Right-click **OUTRIDERS Demo** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Force Outriders to run in DX11
 
@@ -102,23 +109,21 @@ There are mainly two methods for you to update the graphics driver:
 
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Launch the game in your game folder
 
  This method has helped many players solve the Unreal Game crashes. If you don’t know the exact installation location of your game, here’s how to do it:
 
  1) Go to your game folder (it depends, for me is**D:\\Steam\\SteamApps\\common\\OUTRIDERS Demo** ). Or you can browse the game folder in Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -126,9 +131,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Allow your game to run through Firewall
 
  If the issue persists, you can check if it’s caused by an over-protective Firewall or your Antivirus software (you can temporarily uninstall your antivirus software). To make sure the Windows Defender Firewall is not blocking your game, here’s how:
@@ -139,19 +141,16 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
 
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
@@ -171,8 +170,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +177,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-chill-vibes-top-idle-pc-experiences-for-2024/"><u>[New] Chill Vibes Top Idle PC Experiences for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-cutting-out-distractions-in-photos/"><u>[New] In 2024, Cutting Out Distractions in Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-services-for-youtube-images-extraction/"><u>[New] In 2024, FREE Online Services for YouTube Images Extraction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-proven-methods-for-logging-digital-audio-data/"><u>[New] In 2024, Proven Methods for Logging Digital Audio Data</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-expert-recommendations-top-15-no-cost-audiosite-collections/"><u>[Updated] 2024 Approved Expert Recommendations Top 15 No-Cost Audiosite Collections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-look-into-how-governments-can-implement-controls-on-ai-tools-the-four-major-ways/"><u>A Look Into How Governments Can Implement Controls on AI Tools – The Four Major Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blackout-expert-advice-to-fix-league-of-legends-screen-problems/"><u>Beat the Blackout: Expert Advice to Fix League of Legends Screen Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-six-key-tweaks-to-address-cpu-spikes-in-baldurs-gate-3-update/"><u>Optimizing Performance: Six Key Tweaks to Address CPU Spikes in Baldur's Gate 3 Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012578810-resolving-pc-issues-stop-minecraft-dungeon-from-crashing-now/"><u>Resolving PC Issues: Stop Minecraft Dungeon From Crashing Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-at-hand-resolving-discords-dark-screen-problem-when-sharing-your-display/"><u>Solution at Hand: Resolving Discord's Dark Screen Problem When Sharing Your Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-players-manual-to-dominating-roller-champions-online-play-pc-focus-year-2024/"><u>The Complete Player's Manual to Dominating Roller Champions Online Play - PC Focus (Year 2024)</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996361045-troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-the-secrets-of-zoom-success-for-2024/"><u>Unveiling the Secrets of Zoom Success for 2024</u></a></li>
+</ul></div>
 

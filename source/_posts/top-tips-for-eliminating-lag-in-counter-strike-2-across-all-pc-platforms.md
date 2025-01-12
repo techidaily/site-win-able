@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Eliminating Lag in Counter-Strike 2 Across All PC Platforms
-date: 2024-08-13T10:08:18.622Z
-updated: 2024-08-14T10:08:18.622Z
+date: 2025-01-10T16:14:45.308Z
+updated: 2025-01-12T16:42:33.989Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
@@ -46,9 +50,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -59,23 +60,21 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics card driver
 
  Graphics card is important in determining the video game performance. If your GPU driver is wrong or outdated, you might get a lot of crashes when playing World of Warships. To solve this, you need to get the right and latest graphics driver safely. Here’re two options for you: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -116,8 +115,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -127,8 +127,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
@@ -144,16 +145,13 @@ See if the crashing issue goes away. If not, try the fixes below.
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
@@ -165,9 +163,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -194,8 +189,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +196,20 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-fps-enhancement-choosing-the-best-extensions/"><u>[Updated] Ultimate FPS Enhancement Choosing the Best Extensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-weave-humorous-patterns-with-adobe-tools/"><u>[Updated] Weave Humorous Patterns with Adobe Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-fast-navigation-mastering-menu-searches-across-microsoft-office-suite/"><u>1. Fast Navigation: Mastering Menu Searches Across Microsoft Office Suite</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-mastering-dual-axis-charts-adding-and-removing-secondary-axes-in-excel/"><u>1. Mastering Dual-Axis Charts: Adding & Removing Secondary Axes in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/automate-with-microsoft-excel-access-the-new-automation-tab-across-macos-and-windows/"><u>Automate with Microsoft Excel: Access the New Automation Tab Across macOS & Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/comparative-cost-analysis-owning-a-desktop-printer-vs-utilizing-external-print-services/"><u>Comparative Cost Analysis: Owning a Desktop Printer vs Utilizing External Print Services</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-walkthrough-refreshing-corsair-headset-drivers-using-windows-features/"><u>Comprehensive Walkthrough: Refreshing Corsair Headset Drivers Using Windows Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-methods-to-identify-and-tally-active-worksheets-in-your-excel-spreadsheets/"><u>Easy Methods to Identify and Tally Active Worksheets in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tricks-to-show-all-concealed-rows-in-microsoft-excel/"><u>Easy Tricks to Show All Concealed Rows in Microsoft Excel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-apple-watch-touchscreen-that-wont-respond-expert-solutions/"><u>How to Fix an Apple Watch Touchscreen That Won't Respond – Expert Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigating-obs-setup-for-zoom-streaming-excellence/"><u>Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-steep-discount-on-8tb-samsung-portable-ssd-post-prime-day-shop-now-for-extreme-savings/"><u>Sale Alert: Steep Discount on 8TB Samsung Portable SSD Post-Prime Day - Shop Now for Extreme Savings!</u></a></li>
+</ul></div>
 

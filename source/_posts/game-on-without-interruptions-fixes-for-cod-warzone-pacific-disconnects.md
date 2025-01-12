@@ -1,7 +1,7 @@
 ---
 title: "Game On Without Interruptions: Fixes for Cod: Warzone Pacific Disconnects"
-date: 2024-08-13T10:00:29.318Z
-updated: 2024-08-14T10:00:29.318Z
+date: 2025-01-09T16:55:54.118Z
+updated: 2025-01-12T17:53:18.995Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  If you’re encountering the very same issue, don’t worry. Here’s a handy guide that could help you get rid of the problem. Just navigate your way down the list until you find the one that works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix Steam Friends Network Unreachable
 
 * [Fix 1: Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)
@@ -41,15 +42,20 @@ To clear Steam cache:
 
 1. Launch Steam and sign into your account.
 2. Click**Steam** \>**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Web Browser** , then click**DELETE WEB BROWSER CACHE** and**DELETE ALL BROWSER COOKIES** respectively. Once finished, click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1234.png)
 4. Exit Steam.
 5. Re-launch into Steam, then click if your friends list loads up fine. If yes, then great! If the**Friends Network Unreachable** error still pops up, please move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Join or exit Steam Beta programs
 
@@ -61,20 +67,19 @@ Here’s how to join or exit Steam Beta programs:
 
 1. Launch Steam and sign into your account.
 2. Click**Steam** \>**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Account** , then in Beta participation section, click**Change…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
 5. Exit Steam.
-6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
+
 ### Fix 3: Update your network adapter driver
 
  A network adapter driver is a piece of software that’s pivotal to the communication between your network adapter and your computer system. If the network adapter driver is wrong, outdated or corrupt, you may have unstable or poor internet, which potentially causes the Steam**Friends Network Unreachable** error. So you should update your network adapter driver to see if it solves the problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,18 +90,16 @@ Here’s how to join or exit Steam Beta programs:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 5. Sign into Steam to see if your friends list loads up properly. If yes, you’ve resolved the issue. If it’s no joy, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Revert Steam to an older version
 
@@ -106,19 +109,16 @@ The steps are as below:
 
 1. On your desktop, right-click on Steam and choose**Properties** .
 2. In Properties, click the**Shortcut** tab. In**Target** , leave a space to the end of the field (…steam.exe”), then type**\-nofriendsui** . After that, click**OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123456.png)
 3. Open Steam and see if you can have access to the friends list.
 4. If the problem still persist, then go back to your desktop and repeat step 1 to open the Properties window.
 5. In**Shortcut** tab, locate**Target** , leave a space to the end of the field, (…–nofriendsui), then type **–nochatui** . After that, click**OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/456.png)
 6. Run Steam to check if the**Friends Network Unreachable** error has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Power cycle your modem & router
 
@@ -136,9 +136,6 @@ The steps are pretty easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Is it a server issue?
 
  If you’ve exhausted the options above and yet your chat list is still not coming up, it is likely that the Steam Friends servers are experiencing downtime. In this case, you might have to wait around as the developer staff work on recovering the function.
@@ -155,8 +152,6 @@ The steps are pretty easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +159,22 @@ The steps are pretty easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-thriving-as-a-team-on-youtube-perfect-pairings-for-success/"><u>[New] 2024 Approved Thriving as a Team on YouTube Perfect Pairings for Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>[New] In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-freefall-into-success-top-hashtags-and-vlogging-techniques/"><u>[Updated] FreeFall Into Success Top Hashtags and Vlogging Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-fading-audio-tips-for-better-mixes-in-ableton/"><u>[Updated] In 2024, Fading Audio Tips for Better Mixes in Ableton</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-job-interviews-with-confidence-and-competence/"><u>[Updated] Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-streaming-mp4-videos-on-your-ipad-discover-three-top-techniques/"><u>Successfully Streaming MP4 Videos on Your iPad: Discover Three Top Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-tutorial-on-converting-webm-videos-to-mp4-at-4k-resolution-for-enhanced-playback/"><u>The Complete Tutorial on Converting WebM Videos to MP4 at 4K Resolution for Enhanced Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-acapella-downloads-ideal-choices-for-enhancing-your-dj-mixes/"><u>Top 5 Acapella Downloads: Ideal Choices for Enhancing Your DJ Mixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-bin-file-transformer-seamless-conversion-from-bin-to-mp4-and-avi-for-universal-compatibility/"><u>Top Bin File Transformer: Seamless Conversion From BIN to MP4 & AVI for Universal Compatibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/tweet-upload-failure-effective-solutions/"><u>Tweet Upload Failure - Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-transforming-mkv-files-into-high-quality-mp4-format/"><u>Ultimate Guide: Transforming MKV Files Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-are-the-implications-of-altering-chatgpt/"><u>What Are the Implications of Altering ChatGPT?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/luchshie-specializirovannye-agentstva-po-seo-i-prodvizheniyu-v-varshave-polsha-rejting-s-seo-powersuite/"><u>Лучшие Специализированные Агентства По SEO И Продвижению В Варшаве, Польша: Рейтинг С SEO PowerSuite</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now"
-date: 2024-12-30T16:10:44.404Z
-updated: 2025-01-05T17:22:27.317Z
+date: 2025-01-08T17:39:24.724Z
+updated: 2025-01-12T17:46:47.173Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -52,10 +56,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -66,16 +66,12 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
@@ -94,30 +90,26 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
@@ -148,6 +140,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -159,6 +155,10 @@ If the crashing still happens, continue with the next solution below.
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -187,18 +187,18 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-revitalize-your-content-3-advanced-methods-for-changing-tiktok-backdrops/"><u>[New] 2024 Approved Revitalize Your Content 3 Advanced Methods for Changing TikTok Backdrops</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-close-up-filmmaking-zooming-into-details/"><u>[New] Close-Up Filmmaking Zooming Into Details</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-10-layouts-ae-text-edition/"><u>[Updated] 2024 Approved Premier 10 Layouts AE Text Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-beginners-tutorial-setting-up-your-youtube-presence/"><u>[Updated] In 2024, Beginner's Tutorial Setting Up Your YouTube Presence</u></a></li>
-<li><a href="https://win-able.techidaily.com/black-screen-issue-resolution-tactics-covered-here/"><u>Black Screen Issue Resolution Tactics Covered Here</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964330377-get-better-controls-discover-the-latest-update-for-your-logitech-extreme-3d-pro-drivers/"><u>Get Better Controls – Discover the Latest Update for Your Logitech Extreme 3D Pro Drivers!</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-12-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 12 Activation Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-staring-at-darkness-effective-fixes-for-elden-rings-black-screen-hurdle/"><u>No More Staring at Darkness: Effective Fixes for Elden Ring's Black Screen Hurdle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ops/"><u>Ops</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-valorant-lag-issues-optimize-performance-on-pc-2024-edition/"><u>Solving Valorant Lag Issues - Optimize Performance on PC, 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/tower-of-fantasy-on-pc-ultimate-fix-guide-to-stop-the-constant-crashing/"><u>Tower of Fantasy on PC - Ultimate Fix Guide to Stop the Constant Crashing!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[New] In 2024, The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-enhancing-synchronization-between-cameras-and-obs/"><u>2024 Approved Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>2024 Approved Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beat-the-heat-in-battle-royale-havits-5-fan-cooling-pad-for-gamers-a-comprehensive-review/"><u>Beat the Heat in Battle Royale: HAVIT's 5-Fan Cooling Pad for Gamers - A Comprehensive Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2416121-9780786450879-children-who-remember-previous-lives/"><u>Children Who Remember Previous Lives | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2s-latest-update-beyond-light-pc-version-glitches-resolved/"><u>Destiny 2'S Latest Update - Beyond Light PC Version Glitches Resolved</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-insights-into-synchronizing-desktops-in-google-meet/"><u>Expert Insights Into Synchronizing Desktops in Google Meet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997903683-how-to-fix-starfield-high-cpu-usage-issue-2024-tips/"><u>How to Fix Starfield High CPU Usage Issue - 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-level-resolving-lag-and-hitches-in-grounded-on-your-pc-new-guide/"><u>Master Level: Resolving Lag and Hitches in 'Grounded' On Your PC (New Guide)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-nier-automata-freezing-issues/"><u>Resolved: Fixes for NieR: Automata Freezing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-chrome-and-firefox-issues-how-to-fix-youtube-videos-when-the-audio-keeps-playing-but-video-freezes/"><u>Resolving Chrome and Firefox Issues: How to Fix YouTube Videos When the Audio Keeps Playing but Video Freezes</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-tutorial-on-downloading-closed-captioning-files-for-your-vimeo-content/"><u>Step-by-Step Tutorial on Downloading Closed Captioning Files for Your Vimeo Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985057941-tips-to-amplify-performance-in-horizon-zero-dawn-boost-fps-and-enjoy-seamless-action/"><u>Tips to Amplify Performance in Horizon Zero Dawn – Boost FPS & Enjoy Seamless Action!</u></a></li>
 </ul></div>
 

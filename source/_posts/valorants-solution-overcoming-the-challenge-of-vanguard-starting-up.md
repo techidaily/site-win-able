@@ -1,7 +1,7 @@
 ---
 title: "Valorant's Solution: Overcoming the Challenge of Vanguard Starting Up"
-date: 2024-08-13T10:05:50.184Z
-updated: 2024-08-14T10:05:50.184Z
+date: 2025-01-05T16:15:01.820Z
+updated: 2025-01-12T17:02:58.595Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -44,20 +48,11 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 1. Go to the game’s installation folder.
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  Gaming issues like Immortals Fenyx Rising not launching may indicate you’re using a faulty or outdated graphics driver. To fix it and improve the game performance, you need to install the latest graphics driver.
@@ -71,15 +66,17 @@ There are mainly two ways you can do this:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
@@ -92,15 +89,13 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Use dedicated graphics card
 
  Modern video games are usually graphics-intensive and require decent machines to run with. Make sure your PC specs satisfies the **[minimum requirements for Immortals Fenyx Rising](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5cec210a39798c0870c07684&dwvar%5F5cec210a39798c0870c07684%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)**  , or else it won’t start in the right way. If you have a powerful setup and have more than one GPU, you should run the game on the dedicated graphics card.
@@ -108,26 +103,32 @@ No advertising on the website.
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Click**Browse** and add Immortals Fenyx Rising.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
 
@@ -145,8 +146,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +153,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-download-youtube-videos-directly-for-2024/"><u>[Updated] Download YouTube Videos Directly for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amped-up-rotibox-ear-hat-analysis-the-ultimate-marriage-of-plush-comfort-and-impressive-sound-features/"><u>Amped Up Rotibox Ear Hat Analysis: The Ultimate Marriage of Plush Comfort & Impressive Sound Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-and-correcting-code-41-troubles-in-the-device-manager/"><u>Deciphering and Correcting Code 41 Troubles in the Device Manager</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-potential-risks-and-benefits-of-long-term-cannabinoid-use/"><u>Evaluating the Potential Risks and Benefits of Long-Term Cannabinoid Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-why-isnt-my-call-of-duty-black-ops-4-starting-find-out-here/"><u>Expert Advice: Why Isn't My Call of Duty Black Ops 4 Starting? Find Out Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-cortana-functionality-problems/"><u>Expert Tips for Resolving Cortana Functionality Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-troubleshooting-recurring-crashes-in-beat-saber-game/"><u>Fixed: Troubleshooting Recurring Crashes in Beat Saber Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/geforce-experience-crashes-heres-your-step-by-step-fix/"><u>GeForce Experience Crashes? Here’s Your Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-is-chatgpt-for-checking-spelling-and-grammar-errors/"><u>How Reliable Is ChatGPT For Checking Spelling and Grammar Errors?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-gadget-guide/"><u>Navigating the World of Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-tackling-fallout-4s-sluggish-load-times/"><u>Optimizing Gameplay: Tackling Fallout 4’S Sluggish Load Times</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-headache-solved-restoring-voice-communication-in-among-us/"><u>PC Gaming Headache Solved: Restoring Voice Communication in Among Us</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997949128-revamped-bioshock-2-a-high-definition-visual-upgrade/"><u>Revamped BioShock 2: A High-Definition Visual Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-windows-11s-bluetooth-woes-with-our-proven-fix-guide/"><u>Say Goodbye to Windows 11'S Bluetooth Woes with Our Proven Fix Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-strategy-integrating-linktree-into-your-tiktok-bio-for-2024/"><u>Seamless Strategy Integrating Linktree Into Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-to-resolve-directx-problems-in-fifa-19/"><u>Simple Solutions to Resolve DirectX Problems in FIFA 19</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-ark-pc-crashes-a-comprehensive-guide-to-a-smooth-gaming-experience/"><u>Troubleshooting Lost Ark PC Crashes: A Comprehensive Guide to a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-tips-resolving-your-iphones-inability-to-restore-correctly/"><u>Troubleshooting Tips: Resolving Your iPhone’s Inability to Restore Correctly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/alisdar-algdyd-3-trk-shhyra-ligraaa-nskh-ahtyatya-fy-windows-server-omgmaa-windows-server-o-qnap-nas/"><u>الإصدار الجديد: 3 طرق شهيرة لإجراء نسخ احتياطية في Windows Server ومجمع Windows Server و QNAP NAS</u></a></li>
+</ul></div>
 

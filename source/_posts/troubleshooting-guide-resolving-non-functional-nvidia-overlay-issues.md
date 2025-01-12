@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Non-Functional Nvidia Overlay Issues
-date: 2024-12-31T22:15:50.258Z
-updated: 2025-01-05T18:47:48.615Z
+date: 2025-01-11T17:16:53.917Z
+updated: 2025-01-12T17:29:53.435Z
 tags:
   - win11
   - win10
@@ -47,36 +47,28 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In the pop-up window, delete the**Origin**  folder.
 
@@ -132,12 +124,24 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -151,21 +155,17 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
@@ -191,6 +191,10 @@ Or
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -204,7 +208,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
@@ -219,10 +223,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
@@ -232,6 +232,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -263,21 +267,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -305,24 +305,24 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-brief-overview-understanding-vr-jargon/"><u>[New] A Brief Overview Understanding VR Jargon</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-syncing-your-favorite-tunes-moving-playlists-across-platforms/"><u>[New] In 2024, Syncing Your Favorite Tunes Moving Playlists Across Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-keeping-up-with-aspect-ratios-for-twitter-content/"><u>[Updated] Keeping Up with Aspect Ratios for Twitter Content</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-your-videos-hidden-potential-with-these-top-20-shortcuts/"><u>[Updated] Unlock Your Video's Hidden Potential with These Top 20 Shortcuts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-by-step-fb-video-conversion-to-mp3-format/"><u>2024 Approved Step-by-Step FB Video Conversion to MP3 Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/century-age-of-ashes-pc-issues-resolved-fix-the-games-constant-crashes/"><u>Century: Age of Ashes PC Issues Resolved - Fix the Game's Constant Crashes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-crackling-sounds-in-cyberpunk-2077-tips-and-fixes-for-smooth-gaming/"><u>Eliminating Crackling Sounds in Cyberpunk 2077: Tips & Fixes for Smooth Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-microsoft-flight-simulator-2020-for-pc-players/"><u>How to Fix Persistent Crashes in Microsoft Flight Simulator 2020 for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-network-losses-when-playing-escape-from-tarkov/"><u>How to Resolve Network Losses When Playing Escape From Tarkov</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/how-to-safely-update-your-lenovo-ideapad-330-with-an-ssd/"><u>How to Safely Update Your Lenovo IdeaPad 330 with an SSD</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme Narzo 60 5G Phone that is Locked?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-fongos-call-options-a-detailed-assessment-of-canadas-best-in-class-voip-service/"><u>Navigating Fongo's Call Options - A Detailed Assessment of Canadas Best-in-Class VoIP Service</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-total-breakdown-of-vrchat-tips-for-restoration-and-successful-launching/"><u>Overcoming Total Breakdown of VRChat - Tips for Restoration & Successful Launching</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-crash-fix-optimizing-gameplay-on-your-computer-system/"><u>Rainbow Six Extraction Crash Fix - Optimizing Gameplay on Your Computer System</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-resolving-lag-and-system-hiccups-during-bloodhunt-gameplay/"><u>Smooth Gaming: Resolving Lag & System Hiccups During 'Bloodhunt' Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-overcome-the-outlook-cannot-be-opened-issue/"><u>Solutions to Overcome the 'Outlook Cannot Be Opened' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-your-days-gone-glitches-for-a-smooth-play-tips-and-tricks/"><u>Troubleshooting and Repairing Your 'Days Gone' Glitches for a Smooth Play - Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frozen-screens-in-rocket-league-solutions-inside/"><u>Troubleshooting Frozen Screens in Rocket League – Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-playback-issues-fixing-audio-only-on-youtube-videos-with-chrome-or-firefox/"><u>Troubleshooting Playback Issues: Fixing Audio-Only on YouTube Videos with Chrome or Firefox</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterful-seo-approaches-for-soaring-in-youtube-video-popularity/"><u>[Updated] Masterful SEO Approaches for Soaring in YouTube Video Popularity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-nikon-z7-ii-analysis-deep-dive-for-2024/"><u>[Updated] Nikon Z7 II Analysis Deep-Dive for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-revolutionizing-screen-experience-lgs-2023-bp550-for-2024/"><u>[Updated] Revolutionizing Screen Experience - LG's 2023 BP550 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-leap-into-modern-reading-with-the-kindle-oasis-2019-a-review-for-the-ultimate-book-lover/"><u>A Leap Into Modern Reading with the Kindle Oasis (2019): A Review for the Ultimate Book Lover</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-new-world-connection-error-with-these-proven-fixes/"><u>Bypassing the 'New World Connection Error' With These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003057549-cyberpunk-2amoored-eliminating-stuttering-and-smoothing-out-lags/"><u>Cyberpunk 2Amoored: Eliminating Stuttering and Smoothing Out Lags!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-crypto-limitations-of-chatgpt-analyst-tools/"><u>Decoding Crypto: Limitations of ChatGPT Analyst Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-persistent-settings-in-windows-sound-system/"><u>Fixing Non-Persistent Settings in Windows Sound System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-installupdate-sas-programming-tool-in-windows-operating-systems-windows-11-8-7/"><u>How to Install/Update SAS Programming Tool in Windows Operating Systems (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-big-sur-basics-system-and-hardware-checklist/"><u>In 2024, Big Sur Basics System & Hardware Checklist</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-graphics-tackling-the-sims-4s-video-card-malfunctions-with-ease/"><u>Mastering Graphics: Tackling The Sims 4'S Video Card Malfunctions with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-crash-troubles-solve-them-with-these-6-easy-fixes/"><u>Minecraft Crash Troubles? Solve Them with These 6 Easy Fixes!</u></a></li>
+<li><a href="https://facebook.techidaily.com/pinpointing-the-moment-in-time-when-i-became-a-facebook-user/"><u>Pinpointing The Moment in Time – When I Became a Facebook User</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-tips-to-resolve-lagging-issues-in-the-sims-prises-simulation-an-updated-guide-for-pc-users-now-including-tips-and-tricks-released-up-to-2024/"><u>Pro Tips to Resolve Lagging Issues In The Sims Prise's Simulation: An Updated Guide for PC Users, Now Including Tips and Tricks Released up to 2024.</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-tips-for-a-fluid-fall-guys-adventure-boosting-frame-rates-lowering-latency/"><u>Quick Tips for a Fluid Fall Guys Adventure: Boosting Frame Rates, Lowering Latency</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-fixes-for-deathloops-persistent-stuttering-problem/"><u>Resolving PC Issues: Fixes for Deathloop's Persistent Stuttering Problem</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-duality-of-using-facebook-for-event-organizing/"><u>The Duality of Using Facebook for Event Organizing</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-cyberpunk-2nk7s-pc-stability-issues-fixed/"><u>Ultimate Troubleshooting Tips for Cyberpunk 2Nk7's PC Stability Issues - Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-on-wolcen-lords-of-mayhem-game-release-status-and-community-responses/"><u>Update on Wolcen: Lords of Mayhem Game Release Status and Community Responses</u></a></li>
 </ul></div>
 

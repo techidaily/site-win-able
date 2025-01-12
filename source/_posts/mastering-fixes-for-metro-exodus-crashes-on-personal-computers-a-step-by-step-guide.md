@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fixes for Metro Exodus Crashes on Personal Computers: A Step-by-Step Guide"
-date: 2025-01-01T19:46:29.358Z
-updated: 2025-01-05T17:45:45.647Z
+date: 2025-01-06T16:25:16.539Z
+updated: 2025-01-12T16:03:41.037Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -35,16 +35,12 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Stop overclocking
 
  A successful overclock is expected to bring better gaming performance, but when it’s unstable, the programs on your computer may be freezing and crashing. So if you keep running into Everspace 2 crashing, you should just**turn off overclocking utilities like MSI Afterburner** and**set the clock speed back to the default** . If this trick doesn’t help, move on to more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
@@ -62,6 +58,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
 #### If you’re on GOG
@@ -69,10 +69,6 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Run GOG Galaxy and select Everspace 2 from the Library.
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
 
@@ -110,10 +106,6 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
  How does your game work now? If it crashes again, head to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Set launch options
 
  According to some players, Everspace 2 just crashes in DirectX 12\. In this case, the workaround is to force the game to use DirectX 11 and then everything should be fine.
@@ -124,10 +116,18 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -153,22 +153,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-your-linkedin-presence/"><u>[New] 2024 Approved Elevating Your LinkedIn Presence</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-quick-cure-for-that-persistent-green-pixel-problem-mac-edition/"><u>[Updated] In 2024, Quick Cure for That Persistent Green Pixel Problem (Mac Edition)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-live-stream-to-file-top-performing-obs-recording-tools-for-2024/"><u>[Updated] Live Stream to File Top Performing OBS Recording Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/bioshock-2-ultimate-hd-revisit-updated-fixes-and-enhancements/"><u>BioShock 2: Ultimate HD Revisit - Updated Fixes and Enhancements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-troubleshooting-game-crashes/"><u>Cod: Modern Warfare - Troubleshooting Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-back-in-the-game-fixes-when-multiversus-wont-open-on-your-computer/"><u>Get Back in the Game: Fixes When MultiVersus Won't Open on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-black-screen-glitches-in-mtg-arena-solutions-unveiled/"><u>How to Overcome Black Screen Glitches in MTG Arena - Solutions Unveiled</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-ace-2-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Ace 2 Pro Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-persistent-crash-of-persona-3-on-personal-computers/"><u>How to Resolve the Persistent Crash of Persona 3 on Personal Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elevating-your-show-top-podcast-hosting-services-unveiled/"><u>New In 2024, Elevating Your Show Top Podcast Hosting Services Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/phasmophobia-vr-malfunctions-a-step-by-step-correction-tutorial/"><u>Phasmophobia VR Malfunctions: A Step-by-Step Correction Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/practice-good-hygiene-urinate-frequently-especially-after-sexual-activity-to-help-flush-out-bacteria-from-your-urinary-tract-wipe-from-front-to-back-when-us551/"><u>Practice Good Hygiene: Urinate Frequently, Especially After Sexual Activity, to Help Flush Out Bacteria From Your Urinary Tract. Wipe From Front to Back when Using the Restroom, Which Can Help Prevent Bacteria From Spreading From the Anus to the Urethra.</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-pc-issues-preventing-fallout-4-from-crashing/"><u>Solved: Fixing PC Issues - Preventing Fallout 4 From Crashing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-by-yl-experts-on-picking-a-superior-cryptocurrency-trading-platform/"><u>The Ultimate Guide by YL Experts on Picking a Superior Cryptocurrency Trading Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-v-rising-from-frequent-pc-shutdowns/"><u>Troubleshooting Steps to Stop V-Rising From Frequent PC Shutdowns</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-in-finalcut-pro/"><u>[New] 2024 Approved How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[New] The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-wise-technique-turn-video-upside-down-in-vlc-media-player/"><u>[Updated] Step-Wise Technique Turn Video Upside Down in VLC Media Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-mordhau-game-crash-problem-with-these-simple-steps/"><u>Fix the Mordhau Game Crash Problem with These Simple Steps!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frame-rate-how-cyberpunk-2077s-performance-issues-are-resolved/"><u>Fixing the Frame Rate: How Cyberpunk 2077'S Performance Issues Are Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-utorrent-running-again-explore-these-7-fixes/"><u>How To Get Your Utorrent Running Again? Explore These 7 Fixes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>In 2024, A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nokia-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Nokia to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014135677-obs-screen-capture-woes-heres-how-to-get-it-up-and-running-again/"><u>OBS Screen Capture Woes? Here's How to Get It Up and Running Again!</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/stay-current-a-step-by-step-process-on-how-to-check-for-updates-yl-software-solutions/"><u>Stay Current: A Step-by-Step Process on How to Check for Updates - YL Software Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-activating-graphics-card-for-call-of-duty-warzone-under-windows-11/"><u>Troubleshooting Guide: Activating Graphics Card for Call of Duty Warzone Under Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-resolving-crashes-in-cyberpunk-2077-for-windows-users/"><u>Ultimate Fix: Resolving Crashes in Cyberpunk 2077 for Windows Users</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/uncovering-solutions-how-to-fix-undetected-graphics-cards-expert-advice-from-yl-computing/"><u>Uncovering Solutions: How To Fix Undetected Graphics Cards - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

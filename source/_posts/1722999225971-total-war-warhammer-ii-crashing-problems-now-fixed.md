@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2025-01-01T00:06:35.345Z
-updated: 2025-01-05T20:20:52.269Z
+date: 2025-01-10T16:30:09.954Z
+updated: 2025-01-12T17:47:33.819Z
 tags:
   - win11
   - win10
@@ -59,6 +59,10 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
@@ -73,18 +77,10 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -104,12 +100,20 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -122,27 +126,23 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -168,21 +168,21 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exploring-the-power-of-yi-4k-cameras/"><u>[New] Exploring the Power of YI 4K Cameras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-a-symphony-of-streams-harmonizing-your-multiple-youtube-views/"><u>[New] In 2024, A Symphony of Streams Harmonizing Your Multiple YouTube Views</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-ethereal-editing-in-extended-frame-rate/"><u>[New] In 2024, Ethereal Editing in Extended Frame Rate</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-master-your-edits-with-top-15-affordable-web-based-editors-2023/"><u>[New] In 2024, Master Your Edits with Top 15 Affordable Web-Based Editors, 2023</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>[Updated] 2024 Approved Infusing Fun in Feeds Animating Instagram Text on Stories</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-90-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor 90 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor565/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-steps-seamless-conversion-of-mod-files-into-mp4-format/"><u>Easy Steps: Seamless Conversion of MOD Files Into MP4 Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-microsoft-flight-simulator-2020-update-issues-resolved/"><u>Fixing the Microsoft Flight Simulator 2020: Update Issues Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fixing-stutter-and-crashes-in-fall-guys-on-your-computer/"><u>Guide to Fixing Stutter and Crashes in Fall Guys on Your Computer</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-xs-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone XS Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-why-your-current-cpu-may-not-support-vanguard-software/"><u>Optimizing Performance: Why Your Current CPU May Not Support Vanguard Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-zero-30-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Zero 30 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-cannot-reach-live-config-servers-issue-step-by-step-fixes/"><u>Resolving 'Cannot Reach Live Config Servers' Issue - Step-by-Step Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-issues-with-civilization-vi-on-windows-10/"><u>Troubleshooting Guide: Fixing Launch Issues with Civilization VI on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-fatal-error-ark-challenges/"><u>Troubleshooting Tips for Overcoming Fatal Error Ark Challenges</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-transferring-media-files-flawlessly-w11/"><u>2024 Approved Expert Tips for Transferring Media Files Flawlessly W11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/7-critical-considerations-for-high-end-smart-tvs/"><u>7 Critical Considerations for High-End Smart TVs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-the-challenge-of-a-non-loading-minecraft-game/"><u>Expert Advice: Overcoming the Challenge of a Non-Loading Minecraft Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-completed-reconnecting-to-steams-gaming-network-seamlessly/"><u>Fix Completed: Reconnecting to Steam's Gaming Network Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-failed-to-connect-errors-on-path-of-exile-in-the-new-year-2024-a-complete-walkthrough/"><u>How to Overcome 'Failed To Connect' Errors on Path of Exile in the New Year 2024 - A Complete Walkthrough</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-changing-up-the-sound-how-to-customize-your-iphone-tunes/"><u>In 2024, Changing Up the Sound How to Customize Your iPhone Tunes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-11-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 11 Making It Possible</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-90-lite-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 90 Lite Phone Network-Ready</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-language-of-artificial-intelligence-with-this-keyword-rich-list/"><u>Master the Language of Artificial Intelligence with This Keyword-Rich List</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-android-video-editing-apps-free-and-paid-options-for-2024/"><u>New Best Android Video Editing Apps Free and Paid Options for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preventing-data-exposure-through-custom-chatgpt-variants-best-practices-and-protective-measures/"><u>Preventing Data Exposure Through Custom ChatGPT Variants - Best Practices and Protective Measures</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011402149-solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-10-solved/"><u>Start Menu Not Working in Windows 10 [Solved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-persona-3-fe-pc-game-crashes/"><u>Troubleshooting Steps: Resolving Persona 3 FE PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-success-overcoming-launch-failures-in-dead-space-remake-insights/"><u>Unlocking Success: Overcoming Launch Failures in Dead Space Remake – Insights</u></a></li>
 </ul></div>
 

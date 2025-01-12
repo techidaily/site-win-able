@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Star Citizen Crashing on Windows"
-date: 2024-08-13T10:07:38.166Z
-updated: 2024-08-14T10:07:38.166Z
+date: 2025-01-05T16:23:30.807Z
+updated: 2025-01-12T17:08:43.644Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ Games crashes are not something uncommon. And you might encounter the same issue
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Before getting started
 
  Halo 3 could be crashing because you’re running it beyond your computer’s abilities. So make sure your computer meets the requirements for the game.
@@ -48,28 +49,20 @@ _Halo 3 Minimum System Requirements_
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
 
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
   
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
  2) Click**Privacy** .  
   
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
   
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
@@ -84,9 +77,6 @@ _Halo 3 Minimum System Requirements_
  Under the Choose which apps can run in the background section, manually select the ones you want to stop.  
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/choose-which-apps-can-run-in-the-background-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
   
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
@@ -106,6 +96,10 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your video card drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Halo 3 is no exception. To enjoy smooth gameplay, you should always keep your graphics driver up to date.
@@ -121,8 +115,9 @@ Here’s how to update your drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -153,27 +148,25 @@ To do so:
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Restart your computer and it’ll be in a clean boot environment.
@@ -190,6 +183,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
  4) Relaunch Halo 3.  
@@ -199,8 +197,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Install the latest game patch
 
  When a new game is released, there are still many bugs in it. And those bugs might cause the game crash issues. So developers keep updating the games to fix the bugs and improve the gaming performance.  
@@ -218,9 +217,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  2) Click the**LIBRARY** tab.  
   
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
   
  3) Right-click**Halo 3** and select**Properties** .  
   
@@ -229,10 +225,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
  If the issues haven’t been resolved after you tried all the methods, you can consider uninstalling and reinstalling the game.
@@ -250,8 +248,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,4 +255,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram/"><u>[New] In 2024, The Ultimate Guide to Group Photo and Video Uploads in Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/bluestacks-stability-solutions-a-step-by-step-guide-for-swift-fixes-in-5-steps/"><u>BlueStacks Stability Solutions: A Step-by-Step Guide for Swift Fixes in 5 Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/de-vibratory-techniques-for-drone-video-clarity/"><u>De-Vibratory Techniques for Drone Video Clarity</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-video-projects-with-stable-sony-vegas-overcoming-frequent-crashes/"><u>Enhance Your Video Projects with Stable Sony Vegas: Overcoming Frequent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-the-king-of-fighters-xvs-pc-performance-problems/"><u>Expert Solutions: Overcoming The King of Fighters XV's PC Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997692080-fix-outlook-wont-open/"><u>Fix: Outlook Won't Open</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966146109-get-the-newest-asus-dvd-driver-downloads-here/"><u>Get the Newest Asus DVD Driver Downloads Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-recover-and-fix-broken-game-files-on-a-windows-machine/"><u>How to Recover and Fix Broken Game Files on a Windows Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-y28-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y28 5G Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-aukeys-trendy-usb-30-hub-form-meets-function/"><u>In-Depth Analysis of Aukey's Trendy USB 3.0 Hub - Form Meets Function</u></a></li>
+<li><a href="https://fox-access.techidaily.com/infuse-audiovisual-experience-in-ppt/"><u>Infuse Audiovisual Experience in PPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-tips-eliminating-elden-rings-initial-black-startup-problem/"><u>Solution Tips - Eliminating Elden Ring's Initial Black Startup Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-freezing-problems-in-chrome-on-win10-computers/"><u>Step-by-Step Guide: Overcoming Freezing Problems in Chrome on Win10 Computers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pros-and-cons-of-the-lg-k51-phone-eye-catching-appearance-vs-slow-performance-review/"><u>The Pros and Cons of the LG K51 Phone - Eye-Catching Appearance vs Slow Performance Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-crusader-kings-iii-stability-issues-on-pcs/"><u>Troubleshooting Tips for Crusader Kings III Stability Issues on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-the-missing-msvcr110dll-file-in-helldivers-2/"><u>Troubleshooting Tips for the Missing msvcr110.dll File in HellDivers 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-the-asus-laptop-beats-macbook-in-key-areas-according-to-a-new-zdnet-analysis/"><u>Why the Asus Laptop Beats MacBook in Key Areas, According to a New ZDNet Analysis</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728509049461-windows-11-10-8-7/"><u>Windows 11, 10, 8, 7 ファイル不滅化のための最適手法</u></a></li>
+</ul></div>
 

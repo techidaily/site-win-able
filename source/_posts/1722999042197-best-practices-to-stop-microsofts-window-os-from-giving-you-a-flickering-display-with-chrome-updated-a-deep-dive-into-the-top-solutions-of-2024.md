@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2025-01-04T21:38:36.678Z
-updated: 2025-01-05T17:45:00.398Z
+date: 2025-01-10T17:56:50.084Z
+updated: 2025-01-12T17:05:47.949Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Lately there have been many users complaining about the**flickering issue with G
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not have to try them all. Just work your way down the list until you find the fix that does the charm.
@@ -38,6 +42,10 @@ Lately there have been many users complaining about the**flickering issue with G
 10. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
 11. **[Check for system issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your display cable and passive adapter**
 
  Sometimes, the flickering just comes from your**faulty hardware** . So before you dig into any complicated troubleshooting, you can start from this easy step to check your hardware. Surely you don’t want to spend hours on troubleshooting only to find that there’s something wrong with your rig.
@@ -48,10 +56,6 @@ Lately there have been many users complaining about the**flickering issue with G
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/hdmi-cables.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Display Cables (HDMI)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/dp-hdmi-adapter.jpg)
@@ -59,10 +63,6 @@ Display Cables (HDMI)
 Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
 
@@ -79,6 +79,10 @@ Passive Adapter (DP to HDMI)
 
  If this method doesn’t help your case, you can take a look at the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 3: Make sure it’s not a web page issue**
 
  In some cases, the changing of background color due to the personalization of websites would be mistaken as screen flickering. In other words, it’s the**webpage** other than Chrome that’s flickering.
@@ -88,7 +92,7 @@ Passive Adapter (DP to HDMI)
  If the problem is exclusive to Chrome, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Update your graphics driver**
@@ -102,12 +106,12 @@ Passive Adapter (DP to HDMI)
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -116,7 +120,7 @@ Passive Adapter (DP to HDMI)
 If the issue remains, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check if it’s scroll flickering
@@ -130,10 +134,6 @@ If you don’t know how, simply follow these steps:
 2. In the search box, type or paste**smooth scrolling** . Set**Smooth Scrolling** to**Enabled** or**Disabled** and see which one works best for you. Remember to restart Chrome after changing the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
@@ -150,13 +150,13 @@ If you don’t know how, simply follow these steps:
 
  If you’re already using the latest version of Chrome, please continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Install all Windows updates
 
  Windows updates offer regular**security patches** and sometimes (twice a year) a**performance boost** . If it’s been a while since the last time you checked for system updates, you need to do it now as it might fix your problem right away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable hardware acceleration
 
@@ -176,6 +176,10 @@ If this fix doesn’t work for you, go ahead and try the last one.
 
  According to some users, the flickering issue appears to only happen on some certain builds. If you’ve tried all the methods above and none works, you might want to try**downgrading your Chrome version** . To do this, simply go to the[Slimjet download page](https://www.slimjet.com/chrome/google-chrome-old-version.php) and select the previous version of your choice. Once you’ve installed an old version of Chrome, don’t forget to turn off auto-update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 10: Modify your Registry
 
  Some users reported that the flickering might be caused by dwm.exe (Desktop Window Manager) and is fixed in Windows 11\. And there’s also a Windows 10 workaround. To check if this applies to your case, you can modify your registry and see if this works for you.
@@ -184,23 +188,23 @@ If this fix doesn’t work for you, go ahead and try the last one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar of Registry Editor, type or paste**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\DWM** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm.jpg)
 3. At the empty area of the right pane, right click and create a new**DWORD (32-bit) Value** and name it**OverlayTestMode** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-2.jpg)
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
 
 If the issue lingers on, you can try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 11: Check for system issues
 
@@ -210,10 +214,6 @@ If the issue lingers on, you can try the next solution.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -240,24 +240,19 @@ If the issue lingers on, you can try the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-immediate-fixes-s-facebook-password-woes/"><u>[New] In 2024, Immediate Fixes 'S Facebook Password Woes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-notable-20-anime-series-theme-tracks/"><u>[New] Notable 20 Anime Series Theme Tracks</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/bug-squashed-the-2024-patch-for-league-of-legends-reconnection-issue-explained/"><u>Bug Squashed: The 2024 Patch for League of Legends' Reconnection Issue Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-resolution-issues-fixing-the-games-initial-black-screen/"><u>Elden Ring Resolution Issues: Fixing the Game's Initial Black Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-on-with-no-delay-fixing-input-lag-for-a-smoother-valorant-experience-2024-edition/"><u>Game On with No Delay: Fixing Input Lag for a Smoother Valorant Experience, 2024 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-the-iphone-15s-transition-to-usb-type-c-is-revolutionizing-connectivity/"><u>How the iPhone 15’S Transition to USB Type-C Is Revolutionizing Connectivity</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-content-warning-voice-chat-not-working/"><u>How to Fix Content Warning Voice Chat Not Working</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-stability-issues-a-comprehensive-guide/"><u>How to Resolve Sea of Thieves Stability Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-13-mini-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone 13 mini Data Permanently? | Stellar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-note-30i-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Note 30i Activity | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/pure-reactions-our-customers-video-narratives/"><u>Pure Reactions: Our Customers' Video Narratives</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-for-when-discords-camera-feature-stops-working/"><u>Quick Solutions for When Discord's Camera Feature Stops Working</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixing-cannot-connect-to-server-mistakes-in-lost-ark-gameplay/"><u>Step-by-Step: Fixing 'Cannot Connect to Server' Mistakes in Lost Ark Gameplay</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-edge-2023-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Edge 2023 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/team-fortress-2-stabilization-strategies-for-an-uninterrupted-gaming-experience/"><u>Team Fortress 2 Stabilization Strategies for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-call-of-duty-modern-warfare-3-mw3-launch-failures/"><u>Troubleshooting Guide: How to Resolve Issues with Call of Duty: Modern Warfare 3 (MW3) - Launch Failures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/value-vs-power-in-cooling-tech-a-thorough-review-of-the-frozn-series-by-id-cooling/"><u>Value Vs. Power in Cooling Tech: A Thorough Review of the FROZN Series by ID-Cooling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wireless-networking-made-simple-linking-windows-11-devices-to-a-wi-fi-router/"><u>Wireless Networking Made Simple: Linking Windows 11 Devices to a Wi-Fi Router</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-become-an-instagram-analytics-expert-with-this-ultimate-performance-guide/"><u>[Updated] In 2024, Become an Instagram Analytics Expert with This Ultimate Performance Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-joint-recording-of-webcam-and-desktop-display-for-2024/"><u>[Updated] Joint Recording of Webcam and Desktop Display for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-list-of-twitter-sensations-for-2024/"><u>[Updated] The Ultimate List of Twitter Sensations for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elevate-creativity-in-canva-uncovered-photo-editor-secrets/"><u>2024 Approved Elevate Creativity in Canva Uncovered Photo Editor Secrets</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-guide-upgrading-to-the-newest-windows-defender-edition-step-by-step-instructions-from-yl-computing/"><u>Easy Guide: Upgrading to the Newest Windows Defender Edition - Step-by-Step Instructions From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-tips-to-resolve-launch-problems-with-battlefield-4-game-on-desktop-computers/"><u>Effective Tips to Resolve Launch Problems with Battlefield 4 Game on Desktop Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-and-reset-your-car-audio-pin-a-comprehensive-instructional-guide/"><u>Find and Reset Your Car Audio PIN: A Comprehensive Instructional Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-specific-malfunctions-in-star-citizen-gameplay/"><u>How to Resolve Windows-Specific Malfunctions in Star Citizen Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001694671-how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-effective-solutions-to-play-robocop-rogue-city-on-personal-computers/"><u>Overcome the Hurdle: Effective Solutions to Play 'Robocop: Rogue City' On Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990938542-stardew-valley-error-resolved-now-running-smoothly/"><u>Stardew Valley Error Resolved: Now Running Smoothly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-wow-crashes-effective-methods-for-a-smooth-gaming-experience/"><u>Troubleshooting WoW Crashes: Effective Methods for a Smooth Gaming Experience</u></a></li>
 </ul></div>
 

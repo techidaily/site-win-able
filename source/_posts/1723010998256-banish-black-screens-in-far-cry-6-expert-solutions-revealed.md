@@ -1,7 +1,7 @@
 ---
 title: Banish Black Screens in Far Cry 6 – Expert Solutions Revealed
-date: 2025-01-03T00:09:12.516Z
-updated: 2025-01-06T01:24:06.504Z
+date: 2025-01-09T16:39:00.937Z
+updated: 2025-01-12T16:38:54.106Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 5. **[Switch to windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -90,15 +94,11 @@ If you still encounter black screen issues, check out the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
@@ -112,22 +112,22 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Switch to windowed mode
 
@@ -136,7 +136,7 @@ If this fix doesn’t do the trick, take a look at the next one.
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
@@ -147,8 +147,16 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
@@ -158,10 +166,6 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -179,15 +183,11 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-far-cry-6.jpg)
 2. **Click** the arrow that appears to expand the drop-down menu, then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Epic Games Launcher
@@ -220,19 +220,18 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nstant-adjustment-match-youtube-to-mac-aspects-for-2024/"><u>[New] Instant Adjustment Match YouTube to Mac Aspects for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-the-surge-2-keeps-crashing/"><u>[Solved] The Surge 2 Keeps Crashing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers-for-2024/"><u>[Updated] Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exploring-youtubes-ownership-vs-cc-freedom/"><u>[Updated] In 2024, Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices/"><u>[Updated] In-Depth Analysis of Best No-Fee LiveStream Options on All Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-3dr-solo-unveiling-the-single-user-experience/"><u>2024 Approved '3DR Solo' Unveiling the Single User Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-gameplay-in-me-legendary-edition-with-these-top-tips-for-unlimited-fps-drops/"><u>Boost Your Gameplay in ME Legendary Edition with These Top Tips for Unlimited FPS Drops</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-game-crashing-issues-a-users-solution-manual-for-total-war-warhammer-ii/"><u>Conquering Game Crashing Issues - A User's Solution Manual for Total War: Warhammer II</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/creating-your-own-diy-bluetooth-enabled-smart-speaker-with-raspberry-pi/"><u>Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-7-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 7 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-s17e-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo S17e FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996580199-ultimate-guide-boost-your-war-thunder-game-with-5-key-optimization-strategies-for-higher-fps/"><u>Ultimate Guide: Boost Your War Thunder Game with 5 Key Optimization Strategies for Higher FPS !</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001206207-ultimate-solution-for-dead-by-daylight-error-8014-start-playing-now/"><u>Ultimate Solution for Dead By Daylight Error 8014 – Start Playing Now!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fresh-take-on-sony-s6500-hd-dvd-and-bd-player-for-2024/"><u>[New] Fresh Take on Sony S6500 HD DVD & BD Player for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-eagle-eye-expedition-the-ultimate-guide-to-fps-game-selection/"><u>[Updated] 2024 Approved Eagle-Eye Expedition - The Ultimate Guide to FPS Game Selection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-restoring-rightful-representation-amidst-misguided-chatter/"><u>[Updated] 2024 Approved Restoring Rightful Representation Amidst Misguided Chatter</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unmatched-12-apps-for-endless-screen-saving/"><u>[Updated] 2024 Approved Unmatched 12 Apps for Endless Screen Saving</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-smooth-gameplay-top-fixes-for-starting-warzone-20-on-your-pc-this-year/"><u>Ensuring Smooth Gameplay: Top Fixes for Starting Warzone 2.0 on Your PC This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/launching-with-precision-how-team-collaboration-fuels-market-debuts/"><u>Launching with Precision: How Team Collaboration Fuels Market Debuts</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-online-stability-issues-how-to-prevent-game-crashes-on-your-pc/"><u>Red Dead Online Stability Issues: How to Prevent Game Crashes on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-constant-pc-crashes-in-gas-station-simulator-game/"><u>Resolved: Fixes for Constant PC Crashes in Gas Station Simulator Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restoring-lost-talks-with-chatgpt/"><u>Restoring Lost Talks with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/roller-champions-crossplay-2024-pc-guide/"><u>Roller Champions Crossplay - 2024 PC Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010351393-solve-your-non-working-steam-remote-play-problem-with-these-helpful-fixes/"><u>Solve Your Non-Working Steam Remote Play Problem with These Helpful Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssentials-of-earning-on-youtube-platforms-for-2024/"><u>The Essentials of Earning on YouTube Platforms for 2024</u></a></li>
 </ul></div>
 

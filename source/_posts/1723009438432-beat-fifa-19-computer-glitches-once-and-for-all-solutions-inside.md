@@ -1,7 +1,7 @@
 ---
 title: Beat FIFA 19 Computer Glitches Once and For All - Solutions Inside!
-date: 2024-08-13T10:07:06.976Z
-updated: 2024-08-14T10:07:06.976Z
+date: 2025-01-06T17:17:38.207Z
+updated: 2025-01-12T16:12:46.660Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -55,8 +59,9 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -67,9 +72,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 4. Right-click the game and select**Properties** .
 5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 6. Steam will verify the game’s files – this process may take several minutes.
 
 If you’re on Rockstar game launcher, you can verify integrity by:
@@ -78,18 +80,12 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 * Select Red Dead Online from the list under**My installed games** on the left
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party software
 
  Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -97,10 +93,11 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 1. Right-click the game’s executable file and select**Properties** .
 2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
 
@@ -138,12 +135,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -157,9 +159,6 @@ OR
 1. Right-click the desktop and select**NVIDIA Control Panel** .
 2. Go to**Manage 3D Settings** on the left pane. Then select**Program Settings** \> select**Red Dead Online** /**Red Dead Redemption 2** .  
 ![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
 
 ### Fix 6: Install Graphics Tools
@@ -169,12 +168,14 @@ OR
 1. In the Windows Search bar, start typing **feature** , and select **Manage** **optional features** .
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose **Graphics Tools** from the results list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
@@ -195,8 +196,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +203,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-fortune-makers-top-earning-youtubers/"><u>[New] 2024 Approved Digital Fortune Makers Top Earning YouTubers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-reviews-best-multi-user-call-services/"><u>[New] In 2024, Expert Reviews Best Multi-User Call Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[Updated] 2024 Approved Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[Updated] 2024 Approved Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-delays-in-battlefield-5-discover-our-proven-strategies-to-reduce-lag/"><u>Conquer Game Delays in Battlefield 5: Discover Our Proven Strategies to Reduce Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-beyond-wire-insights-into-otherworldly-crash-events/"><u>Decoding 'The Beyond Wire': Insights Into Otherworldly Crash Events</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-addressing-crashes-in-wwe-2k20-for-a-smoother-gaming-experience/"><u>DIY Techniques: Addressing Crashes in WWE 2K20 for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-cyber-threats-in-the-push-for-green-energy-understanding-the-security-challenges/"><u>Emerging Cyber Threats in the Push for Green Energy: Understanding the Security Challenges</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-580-drivers-instantly-download-and-enhance-performance/"><u>Get the Latest AMD RX 580 Drivers Instantly: Download and Enhance Performance!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-cloud-vaults-ultimate-pick-list/"><u>In 2024, Next-Gen Cloud Vaults Ultimate Pick List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-streamline-your-social-media-video-sharing-with-fb-tech-for-pcandroid/"><u>In 2024, Streamline Your Social Media Video Sharing with FB Tech for PC/Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007098426-insights-into-the-delayed-arrival-of-mafia-full-set-solved-mysteries-unveiled/"><u>Insights Into the Delayed Arrival of Mafia: Full Set - Solved Mysteries Unveiled!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pacific-islanders-flying-problem-in-call-of-duty-warzone-now-fixed/"><u>Pacific Islanders' Flying Problem in Call of Duty: Warzone Now Fixed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-absence-of-display-in-boot-process/"><u>Remedying Absence of Display in Boot Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-cold-war-in-cod-vanguard-a-step-by-step-guide/"><u>Resolving Cold War in COD Vanguard – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/setting-the-record-straight-diablo-immortal-will-be-released-on-windows-and-mac-os-systems/"><u>Setting the Record Straight: Diablo Immortal Will Be Released on Windows & Mac OS Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-app-crash-fixing-steamuidll-not-found-critical-failure/"><u>Steam App Crash: Fixing 'steamui.dll Not Found' Critical Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-launch-problems-overcome-them-with-these-7-effective-fixes/"><u>Warzone 2.0 Launch Problems? Overcome Them with These 7 Effective Fixes</u></a></li>
+</ul></div>
 

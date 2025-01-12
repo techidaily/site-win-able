@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-12-29T21:33:34.709Z
-updated: 2025-01-05T20:06:53.202Z
+date: 2025-01-09T17:24:45.990Z
+updated: 2025-01-12T17:33:03.695Z
 tags:
   - win11
   - win10
@@ -87,15 +87,15 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -119,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -133,19 +137,19 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -159,16 +163,12 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -193,19 +193,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-disseminating-videos-tiktok-content-for-a-wider-facebook-audience/"><u>[New] In 2024, Disseminating Videos TikTok Content for a Wider Facebook Audience</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>[Updated] Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bootstrap-bavarder-onto-your-linux-os/"><u>Bootstrap Bavarder Onto Your Linux OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/city-building-simulator-troubleshooting-stop-your-game-from-crashing-now/"><u>City Building Simulator Troubleshooting: Stop Your Game From Crashing Now!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/clonezilla-success-guide-tips-for-effectively-copying-drives-with-errors-and-extensive-capacities/"><u>Clonezilla Success Guide: Tips for Effectively Copying Drives with Errors and Extensive Capacities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-walkthrough-on-downloading-and-installing-updated-rndis-usb-cable-drivers-in-windows/"><u>Complete Walkthrough on Downloading and Installing Updated RNDIS USB Cable Drivers in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-games-launcher-trouble-heres-your-solution-for-the-persistent-black-screen-error/"><u>Epic Games Launcher Trouble? Here's Your Solution for the Persistent Black Screen Error</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-memetic-masterpieces-a-photo-journey/"><u>In 2024, Memetic Masterpieces A Photo Journey</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/panasonic-hx-a1-wearable-action-camera-review/"><u>Panasonic HX-A1 Wearable Action Camera Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-fixing-the-tower-of-fantasy-game-crashes/"><u>PC Troubleshooting: Fixing the 'Tower of Fantasy' Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-battlefield-2042s-frame-rate-problems-and-stuttering-for-pc-users/"><u>Resolved: How to Fix Battlefield 2042'S Frame Rate Problems & Stuttering for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/reviving-your-gaming-experience-solutions-for-rockstar-games-launcher-malfunction-2024-edition/"><u>Reviving Your Gaming Experience: Solutions for Rockstar Games Launcher Malfunction - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-non-functional-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Functional Windows 11 Taskbar Problems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-engagement-todays-must-use-instagram-hashtags/"><u>[New] 2024 Approved Elevate Engagement Today's Must-Use Instagram Hashtags</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-legends-unite-battle-for-midgard/"><u>[New] 2024 Approved Legends Unite Battle for Midgard</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-facetime-with-your-android-phone-for-2024/"><u>[New] How To Facetime with Your Android Phone for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-reliving-fun-the-vhs-era-of-goof-troop-comedy-for-2024/"><u>[New] Reliving Fun The VHS Era of 'Goof Troop' Comedy for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-audio-festivals-online/"><u>[Updated] Prime Audio Festivals Online</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/access-the-free-taylor-swift-exclusive-with-siriusxm-no-charge-on-mobile-devices-and-vehicles/"><u>Access the Free Taylor Swift Exclusive with SiriusXM - No Charge on Mobile Devices and Vehicles!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-storage-woes-removing-youtube-media-for-2024/"><u>Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/commanding-attention-top-20-creative-tiktok-captions/"><u>Commanding Attention Top 20 Creative TikTok Captions</u></a></li>
+<li><a href="https://win-able.techidaily.com/converting-mov-files-into-efficient-h264-format-a-comprehensive-guide/"><u>Converting MOV Files Into Efficient H.264 Format - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-the-greatest-zero-cost-film-streamers-for-immediate-access-your-guide-to-free-online-cinema-without-setup-hassles/"><u>Discover the Greatest Zero-Cost Film Streamers for Immediate Access: Your Guide to FREE Online Cinema without Setup Hassles</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvd-windows-7/"><u>DVD再生手順: Windows 7マシンの最適化と操作方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-beginners-guide-mastering-video-cropping-techniques-in-davinci-resolve/"><u>Easy Beginners Guide: Mastering Video Cropping Techniques in DaVinci Resolve</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-change-your-lol-replay-from-rofl-to-mp4-format/"><u>Easy Steps to Change Your LoL Replay From .rofl to MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tutorial-convert-any-youtube-video-into-an-animated-gif-file/"><u>Easy Tutorial: Convert Any YouTube Video Into an Animated GIF File</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-transformation-the-ultimate-tutorial-for-converting-webm-to-high-quality-m4a-audio-files/"><u>Effortless Transformation: The Ultimate Tutorial for Converting WebM to High-Quality M4A Audio Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-dvd-ripping-tool-with-zero-watermarks-how-to-transform-your-dvds-perfectly/"><u>Free DVD Ripping Tool with Zero Watermarks - How to Transform Your DVDs Perfectly</u></a></li>
+<li><a href="https://win-able.techidaily.com/gi-joe-retaliation-dvd-unlocks-secure-your-copy-today/"><u>G.I. Joe: Retaliation DVD Unlocks - Secure Your Copy Today!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-3-capabilities-functions-and-uses-explained/"><u>Unveiling Claude 3 Capabilities: Functions & Uses Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the 'Lego Star Wars: The Skywalker Saga' Crash Issue on Windows"
-date: 2024-08-13T10:05:25.625Z
-updated: 2024-08-14T10:05:25.625Z
+date: 2025-01-06T17:18:38.689Z
+updated: 2025-01-12T17:30:06.919Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -39,12 +35,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Run Steam.
 2. Launch the game and click**Option** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 3. Tick the **Windowed** box under Mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
@@ -52,8 +49,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Edit your configuration file
 
  If you follow the guide to install the game correctly, you can edit the configuration file to solve the freezing problem.
@@ -63,9 +61,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
@@ -75,8 +70,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
  The privilege issue might be the reason for Fallout 3 freezing issue. With high integrity access, Fallout 3 can make full use of its features, so run it as an administrator to see if this fixes your freezes.
@@ -86,25 +82,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**Apply** \>**OK** .
 8. Run Fallout 3 to check whether the game is running properly.
 
@@ -137,18 +123,23 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -166,8 +157,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +164,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-techniques-live-streaming-games-via-obs/"><u>[New] 2024 Approved Top Techniques Live-Streaming Games via OBS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-quick-guide-best-free-instagram-to-mp4-tools-windowsmac/"><u>[Updated] 2024 Approved Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-mystery-of-youtubes-monetization-rates/"><u>[Updated] Unveiling the Mystery of YouTube's Monetization Rates</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-lag-and-stutters-a-users-guide-to-optimizing-borderlands/"><u>Fixing Persistent Lag and Stutters: A User's Guide to Optimizing Borderlands</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-technique-for-merging-gopro-videography-with-encompassing-immersive-content/"><u>In 2024, Top Technique for Merging GoPro Videography with Encompassing Immersive Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-fixing-recurring-crashes-while-playing-stardew-valley-on-your-computer/"><u>Mastering Stability: Fixing Recurring Crashes While Playing Stardew Valley on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-stuck-or-non-responsive-top-fixes-for-pc-players/"><u>Minecraft Stuck or Non-Responsive? Top Fixes for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuttering-and-delays-in-dying-light-solutions-for-smooth-play/"><u>Overcoming Stuttering and Delays in Dying Light - Solutions for Smooth Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-errors-solved-eliminate-final-fantasy-xv-crashes-with-these-expert-tips/"><u>PC Gaming Errors Solved: Eliminate Final Fantasy XV Crashes with These Expert Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/push-more-viewers-to-your-channel-with-easy-tricks-2-for-2024/"><u>Push More Viewers to Your Channel with Easy Tricks (2) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-incorrect-installation-of-ryzen-master-drivers/"><u>Troubleshooting Steps: Resolving Incorrect Installation of Ryzen Master Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Tips: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unleashing-the-power-of-fbx-for-in-game-capture-for-2024/"><u>Unleashing the Power of FBX for In-Game Capture for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-power-of-wrist-technology-understanding-smartwatches-and-their-functions/"><u>Unveiling the Power of Wrist Technology: Understanding Smartwatches & Their Functions</u></a></li>
+<li><a href="https://win-able.techidaily.com/warcraft-iii-reforged-freezing-issues-solved-essential-troubleshooting-guide/"><u>Warcraft III: Reforged Freezing Issues Solved – Essential Troubleshooting Guide</u></a></li>
+</ul></div>
 

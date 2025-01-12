@@ -1,7 +1,7 @@
 ---
 title: "Regain Control of Your Profile: The Web Portal Is Active Once More"
-date: 2024-12-31T17:48:34.118Z
-updated: 2025-01-05T21:49:23.804Z
+date: 2025-01-05T16:52:38.784Z
+updated: 2025-01-12T17:08:35.871Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -76,11 +72,19 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
@@ -88,11 +92,19 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -110,17 +122,25 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -140,33 +160,17 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -185,10 +189,6 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -218,7 +218,7 @@ Here are the system requirements for Control:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
@@ -242,7 +242,7 @@ Here are the system requirements for Control:
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
@@ -284,21 +284,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-best-5-gif-to-video-converters-online-no-need-to-download/"><u>[New] In 2024, Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>[New] The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>[Updated] 2024 Approved A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-entrepreneurs-guide-to-snapchat-advertising/"><u>[Updated] The Entrepreneur's Guide to Snapchat Advertising</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-co-op-connectivity-issues-how-to-get-online-play-running-smoothly-again/"><u>Elden Ring Co-Op Connectivity Issues - How to Get Online Play Running Smoothly Again</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-performance-advanced-techniques-for-windows-10/"><u>Enhance Performance Advanced Techniques for Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/everspace-2-stability-enhanced-top-tips-for-a-seamless-gaming-session-on-your-computer/"><u>Everspace #2 Stability Enhanced: Top Tips for a Seamless Gaming Session on Your Computer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/experience-freedom-in-viewing-free-movie-player-software/"><u>Experience Freedom in Viewing FREE MOVIE PLAYER Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-versus-android-determining-the-best-tech-companion-for-you/"><u>IPhone Versus Android: Determining The Best Tech Companion For You</u></a></li>
-<li><a href="https://win-able.techidaily.com/r-type-final-groo-how-to-prevent-pc-game-from-unexpectedly-shutting-down/"><u>R-Type Final Groo: How to Prevent PC Game From Unexpectedly Shutting Down</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/this-chrome-extension-makes-chatgpt-prompting-easy/"><u>This Chrome Extension Makes ChatGPT Prompting Easy</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-no-user-logged-in-issue-in-cs-go/"><u>Top 5 Solutions for Resolving 'No User Logged In' Issue in CS: GO</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nwstoreexe-software-failures-effectively/"><u>Troubleshooting and Solving NW_store.exe Software Failures Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-travelers-guide-transforming-journeys-into-shareable-content/"><u>[Updated] 2024 Approved The Traveler’s Guide Transforming Journeys Into Shareable Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-removing-unwanted-audio-from-videos-essential-steps/"><u>[Updated] Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-introduction-mastering-zoom-sessions-split/"><u>2024 Approved Introduction Mastering Zoom Sessions Split</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-prime-alternatives-to-gopro-selecting-the-ultimate-camera/"><u>2024 Approved Prime Alternatives to GoPro Selecting the Ultimate Camera</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-reasons-why-obs-doesnt-record-screenshots-or-gameplay-solutions-inside/"><u>Common Reasons Why OBS Doesn't Record Screenshots or Gameplay – Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-to-prevent-gta-v-from-crashing-during-playtime/"><u>Expert Tips and Fixes to Prevent GTA V From Crashing During Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-valheim-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop Valheim From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-with-dragon-age-origins-game-crashes-in-windows-11/"><u>Fixing Issues with Dragon Age: Origins Game Crashes in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-days-gone-pc-launch-issues-a-comprehensive-guide/"><u>How to Fix 'Days Gone' PC Launch Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-15-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 15 iCloud Activation Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-moments-essential-cameras-reviewed/"><u>In 2024, Capturing Moments Essential Cameras Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators/"><u>In 2024, Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-update-a-guide-for-upgrading-your-minecraft-launcher-smoothly/"><u>Mastering the Update: A Guide for Upgrading Your Minecraft Launcher Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-valheim-experience-fix-network-latency-for-peak-performance-on-windows/"><u>Optimize Your Valheim Experience: Fix Network Latency for Peak Performance on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-speed-on-avatar-frontiers-of-pandora-how-to-fix-lagging/"><u>Optimizing Gameplay Speed on Avatar: Frontiers of Pandora - How to Fix Lagging</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-now-wrath-of-the-righteous-pathfinder-game-stabilized-and-safe-from-previous-crashes/"><u>Update Now! 'Wrath of the Righteous' Pathfinder Game Stabilized & Safe From Previous Crashes</u></a></li>
 </ul></div>
 

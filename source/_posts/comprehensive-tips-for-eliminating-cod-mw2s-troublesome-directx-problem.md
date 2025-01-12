@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem
-date: 2025-01-04T01:59:11.950Z
-updated: 2025-01-05T17:07:31.305Z
+date: 2025-01-07T16:25:31.072Z
+updated: 2025-01-12T17:58:15.673Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ The Epic Games Launcher is such a wonderful platform that you can play your favo
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset your screen resolution
 
  Your screen resolution adjusts to fit the screen but it might default to the wrong view. In this case, you can reset it.
@@ -55,13 +51,13 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down to**Display resolution** and click on the**down arrow** button.
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down and choose**1280×768** .
 
@@ -89,6 +85,10 @@ Here’s how you can do this:
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
@@ -107,14 +107,14 @@ Here’s how you can do this:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -123,7 +123,7 @@ Here’s how you can do this:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Adjust compatibility mode
@@ -142,6 +142,10 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Run compatibility troubleshooter
 
  Running the compatibility troubleshooter can help you find out the root of the problem and probably fix it. Here’s how to do this:
@@ -149,10 +153,6 @@ Here’s how you can do this:
  1) Right-click on the launcher shortcut and select**Properties** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2? Select the tab**Compatibility** and click**Run compatibility troubleshooter** . (Make sure that you’ve unchecked any boxes under the Compatibility tab.)
 
@@ -165,6 +165,10 @@ Here’s how you can do this:
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
@@ -193,20 +197,20 @@ Here’s how you can do this:
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  11) Click**Yes, save these settings for this program** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 12) Now, the issue is fixed.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
@@ -224,10 +228,6 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go through the list and check if**Epic Games Launcher** is added to it.
 
  If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
@@ -237,10 +237,6 @@ Here’s how you can do this:
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Change your DNS server to the Google Public DNS
 
@@ -266,13 +262,13 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
@@ -282,6 +278,10 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Flush the DNS cache
 
@@ -358,17 +358,20 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-boomerang-edge-captivating-your-instagram-audience/"><u>[New] In 2024, The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-visionary-video-download-engine-capture-and-save-anywhere-for-2024/"><u>[Updated] Visionary Video Download Engine - Capture & Save Anywhere for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/adobe-launch-malfunction-solve-the-error-code-0xc0000022-problem-today/"><u>Adobe Launch Malfunction - Solve the Error Code 0xC0000022 Problem Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-speeding-up-your-steam-gameplay-experience/"><u>Expert Advice on Speeding Up Your Steam Gameplay Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-hardware-innovations-with-toms-technological-review/"><u>Exploring Hardware Innovations with Tom's Technological Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-experts-choice-best-action-cameras-for-winter-sports/"><u>In 2024, Expert's Choice Best Action Cameras for Winter Sports</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016360291-onikuma-mic-problems-discover-these-fixes-and-regain-voice-control/"><u>Onikuma Mic Problems? Discover These Fixes and Regain Voice Control!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overwatch-stutters-and-jumps-discover-how-to-ensure-uninterrupted-gameplay/"><u>Overwatch Stutters and Jumps? Discover How to Ensure Uninterrupted Gameplay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pcavi/"><u>PC用AVIファイルが再生または表示出来ない場合の解決策！</u></a></li>
-<li><a href="https://windows11.techidaily.com/strip-onedrive-of-microsoft-id-integration-in-windows/"><u>Strip OneDrive of Microsoft ID Integration in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-for-resolving-repeated-hiccups-in-your-warframe-gaming-experience/"><u>Tips for Resolving Repeated Hiccups in Your Warframe Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-slow-chromium-performance-with-these-quick-fixes/"><u>Troubleshoot Slow Chromium Performance with These Quick Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-pro-freefire-compiling-premier-gaming-vids-and-hashtags/"><u>[New] 2024 Approved Pro-FreeFire Compiling Premier Gaming Vids and Hashtags</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-laughs-in-a-click-building-hilarious-memes/"><u>[New] Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-life-with-precision-an-overview-of-advanced-camera-modes/"><u>[Updated] Capturing Life with Precision An Overview of Advanced Camera Modes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cam-protection-the-ultimate-10-guide/"><u>[Updated] In 2024, Cam Protection The Ultimate 10 Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mirroring-mastery-the-craft-of-comical-mocks/"><u>[Updated] Mirroring Mastery The Craft of Comical Mocks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smartphone-cinematics-samsungs-guide-to-time-lapse/"><u>2024 Approved Smartphone Cinematics Samsung's Guide to Time-Lapse</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-to-prevent-dreamlight-valley-from-crashing-on-windows-computers/"><u>Essential Tips to Prevent Dreamlight Valley From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-a-perpetually-buffering-discord-live-broadcast/"><u>Fixing a Perpetually Buffering Discord Live Broadcast</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-playback-errors-in-microsofts-latest-operating-systems/"><u>Fixing Dolby Atmos Playback Errors in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-persistent-black-screen-issue-in-fortnite-on-pc/"><u>Fixing the Persistent Black Screen Issue in Fortnite on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-slow-microsoft-edge-on-windows-10-and-windows-11/"><u>How to Fix a Slow Microsoft Edge on Win­dows 10 and Win­dows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-wallpaper-engine-from-crashing-on-your-pc-windows-1110/"><u>How to Stop the Wallpaper Engine From Crashing on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/next-level-photography-smart-hdr-and-beyond-for-2024/"><u>Next-Level Photography Smart HDR and Beyond for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-common-causes-of-the-infamous-black-screen-problem/"><u>Resolved: Overcoming Common Causes of the Infamous 'Black Screen' Problem</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-find-x6-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Find X6 Screen | Dr.fone</u></a></li>
 </ul></div>
 

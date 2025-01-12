@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-12-29T17:32:47.463Z
-updated: 2025-01-05T16:41:25.355Z
+date: 2025-01-08T17:38:17.654Z
+updated: 2025-01-12T17:36:18.430Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
@@ -69,7 +69,7 @@ There are mainly two ways to update your drivers:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
@@ -78,10 +78,6 @@ There are mainly two ways to update your drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -92,6 +88,10 @@ There are mainly two ways to update your drivers:
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if the issue persists. If yes, continue to the next solution.
 
@@ -105,14 +105,18 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -125,10 +129,6 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -168,21 +168,15 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/ring-of-elysium-stability-tweaks-how-to-eliminate-disruptive-crashes-once-and-for-all/"><u>'Ring of Elysium' Stability Tweaks: How to Eliminate Disruptive Crashes Once and For All</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-demystifying-youtube-shorts-template-design-principles/"><u>[New] 2024 Approved Demystifying YouTube Shorts Template Design Principles</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiled-revelation-of-hidden-shorts/"><u>[New] 2024 Approved Unveiled Revelation of Hidden Shorts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-browse-and-download-top-free-extractors-for-your-pinterest-content/"><u>[New] Browse & Download Top Free Extractors for Your Pinterest Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-creating-an-impactful-film-short-summary/"><u>[Updated] Creating an Impactful Film Short Summary</u></a></li>
-<li><a href="https://win-able.techidaily.com/adobe-premiere-pro-and-windows-1110-effective-techniques-to-prevent-freezing-and-crashes/"><u>Adobe Premiere Pro and Windows 11/10: Effective Techniques to Prevent Freezing & Crashes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/androids-best-free-mp3-extraction-tools/"><u>Android's Best Free MP3 Extraction Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/counter-strike-2-not-opening-easy-repair-methods-inside/"><u>Counter-Strike 2 Not Opening? Easy Repair Methods Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-the-constant-breakdown-of-back-4-blood-on-pc-expert-fixing-guide/"><u>Cure the Constant Breakdown of 'Back 4 Blood' On PC - Expert Fixing Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/digital-domain-decision-which-platform-for-your-videos-in-2024/"><u>Digital Domain Decision Which Platform for Your Videos, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-youtubes-persistent-audio-with-frozen-videos-a-guide-for-users-of-chrome-and-firefox-web-browsers/"><u>Fix Youtube's Persistent Audio with Frozen Videos: A Guide for Users of Chrome and Firefox Web Browsers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Play 7T Phone without Google Account?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-seamless-browsing-try-these-7-android-adblockers/"><u>In 2024, Seamless Browsing? Try These 7 Android AdBlockers</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-steam-remote-play-challenges-top-fixes-to-restore-your-gaming-fun/"><u>Overcoming Steam Remote Play Challenges: Top Fixes to Restore Your Gaming Fun</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-skyline-builders-2-failed-initialization-problems/"><u>Solving Skyline Builders 2 Failed Initialization Problems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[New] Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>[Updated] Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-game-recordings-in-the-era-of-win10/"><u>2024 Approved Efficient Game Recordings in the Era of Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-strategies-for-reducing-battlefield-5-game-lag/"><u>Efficient Strategies for Reducing Battlefield #5 Game Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-modern-warfare-2-experience-overcoming-windowed-woes-steady-fps-and-smooth-action-guaranteed/"><u>Enhance Your Modern Warfare 2 Experience: Overcoming Windowed Woes – Steady FPS and Smooth Action Guaranteed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-ios-n-contact-poster-creation-and-distribution-with-namedrop-feature/"><u>Master the Art of iOS N Contact Poster Creation & Distribution with NameDrop Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/screen-flickering-gone-discover-how-you-can-achieve-a-stable-display/"><u>Screen Flickering Gone! Discover How You Can Achieve a Stable Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-fps-issues-in-fallout-76-with-easy-to-follow-fixes-players/"><u>Solve FPS Issues in Fallout 76 with Easy-to-Follow Fixes Players</u></a></li>
 </ul></div>
 

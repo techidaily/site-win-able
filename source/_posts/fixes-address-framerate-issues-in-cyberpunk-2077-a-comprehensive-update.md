@@ -1,7 +1,7 @@
 ---
 title: "Fixes Address Framerate Issues in Cyberpunk 2077: A Comprehensive Update"
-date: 2025-01-02T21:35:34.554Z
-updated: 2025-01-05T23:48:49.260Z
+date: 2025-01-11T16:32:10.385Z
+updated: 2025-01-12T17:21:59.369Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -42,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
@@ -61,18 +69,10 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
   
 ![change the Steam download server location](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Region** section, choose another download region in the drop-down menu. According to the tests, Asian servers can substantially increase your download speed. It’s probably because there’s less traffic congestion.  
   
 ![change Steam download server](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location-donwnload-region.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, resume your download to check if this boosts your download speed.
 
@@ -88,25 +88,25 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Processes** tab, locate**Steam Client Bootstrapper** . Right-click it and select**Go to details** .  
   
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, your game’s unpacking speed should be boosted.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network adapter driver
 
@@ -138,7 +138,7 @@ Here’s how it works:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Clear download cache
@@ -167,13 +167,13 @@ Here’s how it works:
   
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you should be able to download your game at a faster speed.
 
@@ -196,22 +196,22 @@ Now you should be able to download your game at a faster speed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-vlog-victory-visions-2024/"><u>[New] Vlog Victory Visions 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cutting-edge-zoom-recording-techniques-for-2024/"><u>[Updated] Cutting-Edge Zoom Recording Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screenshot-supreme-in-depth-recorder-reviews-for-2024/"><u>[Updated] Screenshot Supreme In-Depth Recorder Reviews for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-to-resolving-vrchat-load-failures-for-an-uninterrupted-experience/"><u>Complete Guide to Resolving VRChat Load Failures for an Uninterrupted Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digiarty-software-macxdvd-dvd/"><u>Digiarty Software MacXDVD 発表記事 - DVDオペレーティングシステムソフトウェア</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-enhance-your-music-production-with-focusrite-scarlett-18i20-drivers-for-windows-systems/"><u>Download and Enhance Your Music Production with Focusrite Scarlett 18I20 Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intels-top-tier-nvme-drivers-quick-simple-steps-inside/"><u>Download Intel's Top-Tier NVMe Drivers - Quick, Simple Steps Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-fixes-for-the-notorious-steam-steamuidll-error-a-complete-guide/"><u>Essential Fixes for the Notorious Steam 'steamui.dll' Error: A Complete Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-correct-minecraft-crossbow-errors-effectively/"><u>Expert Tips to Correct Minecraft Crossbow Errors Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-4-black-screen-glitch-discover-simple-fixes-to-get-you-back-in-action/"><u>Fallout 4 Black Screen Glitch? Discover Simple Fixes to Get You Back in Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-login-woes-bypass-the-frustration-with-our-quick-fix-tips/"><u>Fortnite Login Woes? Bypass the Frustration with Our Quick Fix Tips!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-funny-fictional-frequencies/"><u>In 2024, The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users-for-2024/"><u>New DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overwatch-2-troubleshooting-guide-fixes-for-launch-failures-1-7/"><u>Overwatch 2 Troubleshooting Guide : Fixes for Launch Failures #1-7</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996924193-pubg-mobile-blackscreen-issues-heres-how-you-can-resolve-them/"><u>PUBG Mobile Blackscreen Issues? Here's How You Can Resolve Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-elder-scrolls-online-trouble-how-to-fix-unloading-errors/"><u>The Elder Scrolls Online Trouble: How to Fix Unloading Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-s-ultimate-magsafe-wallets-comprehensive-expert-reviews/"><u>Top Picks 'S Ultimate MagSafe Wallets - Comprehensive Expert Reviews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-strategic-use-of-instagram-story-sections-for-brands/"><u>[New] 2024 Approved The Strategic Use of Instagram Story Sections for Brands</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-essential-design-modifications/"><u>[New] Essential Design Modifications</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rom-vision-to-reality-personal-animation-mastery-for-2024/"><u>[New] From Vision to Reality Personal Animation Mastery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-steam-crashes-instantly-ultimate-troubleshooting-guide/"><u>Fix Steam Crashes Instantly: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-a-non-responsive-nvidia-overlay-on-your-computer-screen/"><u>How to Repair a Non-Responsive Nvidia Overlay on Your Computer Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oneplus-11-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix OnePlus 11 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-media-summit-twitters-top-10-tweets/"><u>In 2024, Social Media Summit Twitter’s Top 10 Tweets</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-prevent-minecraft-disruptions-now/"><u>Master the Art of Troubleshooting: Prevent Minecraft Disruptions Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-for-age-of-ashes-how-to-prevent-unwanted-pc-crashes/"><u>Mastering Stability for 'Age of Ashes': How to Prevent Unwanted PC Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screen-captures-on-your-hp-device/"><u>Mastering the Art of Screen Captures on Your HP Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-fixing-stuck-or-hanging-minecraft-sessions-on-personal-computers/"><u>Solutions for Fixing Stuck or Hanging Minecraft Sessions on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-confirming-your-gamee-data-accuracy-for-a-trouble-free-startup/"><u>Step-by-Step: Confirming Your Game'e Data Accuracy for a Trouble-Free Startup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-g24-power-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola G24 Power Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-tips-for-perfect-gopro-time-lapse-for-2024/"><u>The Essential Tips for Perfect GoPro Time Lapse for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-constant-kodi-crash-issues/"><u>Troubleshooting and Resolving Constant Kodi Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-when-scavengers-keeps-crashing-on-your-computer/"><u>Ultimate Fixes When Scavengers Keeps Crashing on Your Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-10top5-n/"><u>Windows 10専用の最適なビデオキャプチャーツールTOP5 - 無料版提�n</u></a></li>
 </ul></div>
 

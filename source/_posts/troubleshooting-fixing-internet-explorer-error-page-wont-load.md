@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing 'Internet Explorer' Error - Page Won't Load"
-date: 2024-08-13T09:59:51.066Z
-updated: 2024-08-14T09:59:51.066Z
+date: 2025-01-05T17:33:31.592Z
+updated: 2025-01-12T16:56:12.809Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
  **Get infinite loading circle when you launch Apex Legends? Don’t worry when Apex Legends not loading…** Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily!
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Apex players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -48,15 +49,20 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  This issue may also be caused by the outdated or missing drivers on your PC. If there is something wrong with your network driver or graphics driver, this issue may occur. In this case, you can try updating the drivers on your PC to the latest version to see if you can resolve this issue.
@@ -75,22 +81,20 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  2\. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Flush your DNS
 
  Flushing your DNS is another fix that may help you resolve this issue. If you don’t know how to do it, you can follow the steps below:
@@ -115,16 +119,14 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  3\. Open the browsing history in your browser, then search_<https://accounts.respawn.com/steam\_login.php?securityToken>_ to locate the URL of the page you used when linking your EA and Steam account. Click that URL to open it. Normally, you should see a page like the following:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Sign in through Steam** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
  5\. On the Steam page, log into**the new steam account you created in step One** .  
@@ -134,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -145,16 +144,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  2\. Go to**My Game Library** , then**right-click** **Apex Legends** and select**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
 3\. Wait until the verifying process completes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
@@ -177,10 +170,11 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  3\. Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
@@ -191,8 +185,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -215,8 +214,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +221,26 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/1723008217090-days-gone-the-ultimate-survival-horror-game-drops-today-get-ready-to-ride-on-your-pc/"><u>'Days Gone': The Ultimate Survival Horror Game Drops Today – Get Ready to Ride on Your PC!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-bringing-text-to-life-dynamic-animated-content-on-ig-stories-for-2024/"><u>[New] Bringing Text to Life Dynamic Animated Content on IG Stories for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-from-beginner-to-champion-essential-drone-races-tips-and-best-models-for-2024/"><u>[New] From Beginner to Champion Essential Drone Races Tips and Best Models for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-yt-presence-and-skyrocket-to-1000plus-fans/"><u>[Updated] Elevate Your YT Presence and Skyrocket To 1000+ Fans</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tracing-your-instagram-fanbase-shifts-for-2024/"><u>[Updated] Tracing Your Instagram Fanbase Shifts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-code-vein-crashing-on-your-desktop-computer/"><u>Comprehensive Guide to Resolve 'Code Vein' Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-loading-errors-with-in-game-visual-elements-on-call-of-dutys-warzone/"><u>Effective Solutions for Loading Errors with In-Game Visual Elements on Call of Duty's Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-getting-the-thaumaturge-program-running-smoothly-on-pcs-again/"><u>Expert Tips for Getting the Thaumaturge Program Running Smoothly on PCs Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-optimize-preventing-star-citizen-from-crashing-in-windows-environments/"><u>Fix and Optimize: Preventing Star Citizen From Crashing in Windows Environments</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-sencilla-para-crear-una-unidad-de-arranque-bootable-con-clonacion-del-ssd-en-windows-10-y-11/"><u>Guía Sencilla Para Crear Una Unidad De Arranque Bootable Con Clonación Del SSD en Windows 10 Y 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harmonyhook-screen-recordings-a-review-for-2024/"><u>HarmonyHook Screen Recordings A Review for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frame-rate-fluctuations-for-a-smoother-warzone-experience/"><u>Resolving Frame Rate Fluctuations for a Smoother Warzone Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-frame-drops-and-speech-hiccups-in-naraka-bladepoint-a-step-by-step-guide/"><u>Solving Frame Drops & Speech Hiccups in Naraka: Bladepoint - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-8-free-videography-programs-perfect-for-indie-filmmakers/"><u>Top 8 Free Videography Programs Perfect For Indie Filmmakers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-apex-legends-loading-problems-instantly/"><u>Troubleshoot Apex Legends Loading Problems Instantly!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-nord-ce-3-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus Nord CE 3 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-lightest-and-sleek-laptops-of-2024-featured/"><u>Ultimate Guide to the Lightest & Sleek Laptops of 2024, Featured</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-cufflink-fix-ultimate-guide-to-solving-pc-game-crashes-in-2k22/"><u>WWE Cufflink Fix: Ultimate Guide to Solving PC Game Crashes in 2K22</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2025-01-02T01:50:32.012Z
-updated: 2025-01-05T18:33:48.765Z
+date: 2025-01-05T17:23:02.843Z
+updated: 2025-01-12T16:44:20.740Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Official Fix](https://tools.techidaily.com/drivereasy/download/)  
@@ -34,10 +30,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
   * [Step 3: Install beta patch](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Official Fix
 
@@ -68,17 +60,21 @@ Follow the steps below to fix the crashing issue.
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
 
@@ -95,6 +91,10 @@ Restart your computer for the changes to take effect.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Lower your graphics settings
 
  Some players have reported that dropping their graphics to the lowest as they can go and running the game in windowed mode would fix the issue.
@@ -110,14 +110,10 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
@@ -128,15 +124,15 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
@@ -147,13 +143,17 @@ Restart your computer for the changes to take effect.
 7. For Maximum size, you need to check your Ram of PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -174,22 +174,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-igtv-video-placement-to-facebook-networks-5-ways/"><u>[New] In 2024, IGTV Video Placement to Facebook Networks (5 Ways)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-evaluating-screen-recording-software-obs-vs-bandicam/"><u>[Updated] 2024 Approved Evaluating Screen Recording Software OBS vs Bandicam</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-enable-quiet-youtube-bgplay-for-iphone-and-android/"><u>2024 Approved Enable Quiet YouTube BGPlay for iPhone & Android</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comparative-study-economical-yet-effective-pet-cameras/"><u>A Comparative Study: Economical Yet Effective Pet Cameras</u></a></li>
-<li><a href="https://win-able.techidaily.com/eradicate-your-call-of-duty-global-offensive-lag-in-minutes/"><u>Eradicate Your Call of Duty: Global Offensive Lag in Minutes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2023-update-successfully-resolves-launch-problems/"><u>Football Manager 2023 Update Successfully Resolves Launch Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-logitech-g-prodigy-g403-mouse-drivers-and-latest-updates-for-windows/"><u>Free Logitech G Prodigy (G403) Mouse Drivers & Latest Updates for Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/hogwarts-legacy-not-opening-heres-what-you-need-to-know/"><u>Hogwarts Legacy Not Opening? Here's What You Need to Know !</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-critical-review-of-best-screen-capture-tools-in-linux/"><u>In 2024, Critical Review of Best Screen Capture Tools in Linux</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stream-stability-essential-troubleshooting-steps-for-twitch-glitches/"><u>Mastering Stream Stability: Essential Troubleshooting Steps for Twitch Glitches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/music-that-fuels-movement-top-rated-workout-anthems-for-2024/"><u>Music that Fuels Movement Top-Rated Workout Anthems for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-successfully-solving-your-fortnite-technical-problems-easily/"><u>PC Gaming Successfully: Solving Your Fortnite Technical Problems Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-trouble-solving-problems-when-your-thaumaturge-software-wont-start-up-correctly/"><u>PC Trouble: Solving Problems When Your Thaumaturge Software Won't Start Up Correctly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-tips-for-resolving-issues-with-your-iphones-home-button-malfunction/"><u>Quick Tips for Resolving Issues with Your iPhone's Home Button Malfunction</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-dota-2-crashing-for-good-expert-fix-tips-and-techniques/"><u>Stop Dota 2 Crashing for Good – Expert Fix Tips & Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-safety-a-look-at-potential-cyber-threats-in-openais-chatgpt/"><u>Understanding the Safety: A Look at Potential Cyber Threats in OpenAI's ChatGPT</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-k11x-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo K11x Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-visibility-with-youtube-branding-techniques/"><u>[New] Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-yourselfie-instagrams-verification-essentials-for-2024/"><u>[New] Mastering Yourselfie Instagram's Verification Essentials for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>[Updated] How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigate-metaverse-success-7-crucial-tech-gadgets/"><u>[Updated] Navigate Metaverse Success 7 Crucial Tech Gadgets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-x-audio-studio-pro-for-computer-users/"><u>[Updated] X-Audio Studio Pro for Computer Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/alien-fireteam-elite-on-pc-top-fixes-for-game-crashes-and-uninterrupted-gaming-experience/"><u>Alien: Fireteam Elite on PC - Top Fixes for Game Crashes and Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-major-event-highlights-the-arrival-of-powerful-ipad-lineup-featuring-m4-ipad-pro-expanded-ipad-air-and-the-next-gen-apple-pencil-tech-analysis/"><u>Apple's Major Event Highlights: The Arrival of Powerful iPad Lineup Featuring M4 iPad Pro, Expanded iPad Air, and the Next-Gen Apple Pencil | Tech Analysis</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tips-on-acquiring-profitable-yt-channels-for-2024/"><u>Essential Tips on Acquiring Profitable YT Channels for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-steam-game-library-up-and-running-again-on-win-10-devices/"><u>How to Get Your Steam Game Library Up and Running Again on Win 10 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-stardew-valley-from-crashing-on-your-windows-or-mac/"><u>How to Stop Stardew Valley From Crashing on Your Windows or Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-conversation-game-mastering-the-art-of-sending-gifs-in-snapchat/"><u>In 2024, Elevate Your Conversation Game Mastering the Art of Sending GIFs in Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-csglobal-offensive-initialization-failures-a-guide-to-fixing-the-issue/"><u>Overcoming CS:Global Offensive Initialization Failures - A Guide to Fixing the Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27e-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27e Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

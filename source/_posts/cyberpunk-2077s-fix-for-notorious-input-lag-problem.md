@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077'S Fix for Notorious Input Lag Problem
-date: 2024-12-29T23:55:06.920Z
-updated: 2025-01-05T23:01:21.672Z
+date: 2025-01-05T16:57:13.983Z
+updated: 2025-01-12T16:39:17.950Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ These days, players have reported the issue of black screen when loading a save 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -34,10 +30,6 @@ These days, players have reported the issue of black screen when loading a save 
 2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update Windows 10 to version 20H2](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Allow your game through firewall
 
@@ -60,12 +52,16 @@ These days, players have reported the issue of black screen when loading a save 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-the-game-through-windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click**Add** .  
   
@@ -86,10 +82,6 @@ These days, players have reported the issue of black screen when loading a save 
  Both [NVIDIA](https://www.nvidia.com/en-us/geforce/news/cyberpunk-2077-game-ready-driver/) and [AMD](https://www.amd.com/en/support/kb/release-notes/rn-rad-win-20-12-1) had just released new drivers for Cyberpunk 2077 to make sure gamers get the definitive experience. To get them, please read on.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -117,10 +109,6 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and load your game to check if the issue has been resolved.
@@ -128,7 +116,7 @@ Here’s how it works:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update Windows 10 to version 20H2
@@ -143,25 +131,29 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
 
 ![download Windows updates assistant to update windows](https://images.drivereasy.com/wp-content/uploads/2020/12/forcily-update-windows-10-to-version-20H2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the download is finished, double-click on the installation file and install it. Once done, the application should be opening. Simply click**Update Now** and then follow the on-screen instructions to finish the process. This may take some minutes so you just need to wait patiently. Once done, you’ll get the latest version, which is 20H2.  
   
 ![use windows 10 updates assistant to update to version 20H2](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-update-assistant-update-now.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve updated your Windows to version 20H2, your issue should be resolved.
 
@@ -181,13 +173,13 @@ Here’s how it works:
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-Properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Properties window, select the tab**LOCAL FILES** . Then click**VERIFY INTEGRITY OF GAME FILES…** . This may take some minutes. Just wait for the process to complete.  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
 
@@ -196,6 +188,14 @@ Here’s how it works:
  2) Click on the settings icon next to the Play button. Then from the menu, select**Manage installation > Verify / Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Epic Games Launcher
 
@@ -230,18 +230,20 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-master-commanders-unleashed-ranking-7-total-war-champions/"><u>[Updated] Master Commanders Unleashed Ranking 7 Total War Champions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-versus-dailymention-identifying-key-gaps-for-2024/"><u>[Updated] YouTube Versus DailyMention Identifying Key Gaps for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mp35web/"><u>無料で簡単! MP3ファイルの変換が得意な5つのWebサイトをご紹介</u></a></li>
-<li><a href="https://win-able.techidaily.com/freeze-no-more-effective-solutions-for-optimizing-assassins-creed-odyssey-on-pc/"><u>Freeze No More: Effective Solutions for Optimizing Assassin's Creed Odyssey on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-optimal-minecraft-performance-by-updating-your-device-drivers/"><u>How to Ensure Optimal Minecraft Performance by Updating Your Device Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-error-code-0xc19001e1-in-windows-11-detailed-solutions-and-tips/"><u>How to Fix Error Code 0XC19001E1 in Windows 11 - Detailed Solutions and Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-digital-diaries-reviewing-the-best-personal-devices/"><u>In 2024, Digital Diaries Reviewing the Best Personal Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/latest-tips-to-get-league-of-legends-running-smoothly-again-202n-update/"><u>Latest Tips to Get League of Legends Running Smoothly Again - 202N Update</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-dying-light-mastering-the-art-of-parkour-and-teamwork-for-ultimate-survival-gaming/"><u>Review of Dying Light: Mastering the Art of Parkour and Teamwork for Ultimate Survival Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-nier-replicant-remaster-may-not-start-up/"><u>Troubleshooting Guide: Why NieR Replicant Remaster May Not Start Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-continuous-crashes-in-outlook-software/"><u>Troubleshooting Tips: Resolving Continuous Crashes in Outlook Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-starfield-games-excessive-cpu-drain-problem/"><u>Ultimate Guide: Resolving the Starfield Game's Excessive CPU Drain Problem</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-mac-system-all-in-one-screen-and-sound-capture-tool-for-2024/"><u>Ultimate Mac System All-in-One Screen & Sound Capture Tool for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>[New] Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-secrets-of-advanced-camera-settings/"><u>[Updated] Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlock-exclusive-youtube-visuals-top-5-tools-reviewed/"><u>2024 Approved Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-enabled-analytics-solutions/"><u>Cookiebot-Enabled Analytics Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dall-e-3-enhances-with-new-editing-features-room-for-improvement-ahead/"><u>DALL-E 3 Enhances with New Editing Features - Room for Improvement Ahead</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-shadowplay-recording-glitches-in-windows-environments/"><u>Effective Solutions for Resolving Shadowplay Recording Glitches in Windows Environments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-using-manycams-cutting-edge-virtual-camera-solutions/"><u>Enhance Your Broadcasts Using ManyCam's Cutting-Edge Virtual Camera Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/exclusive-sniper-rounds-and-weaponry-now-available-in-cod-mw-fps-drop/"><u>Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y100 5G FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 14 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-initialization-hurdles-for-players-of-armored-core-vi-fires-of-rubicon/"><u>Overcoming Initialization Hurdles for Players of Armored Core VI - Fires of Rubicon</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-for-unending-anthem-startup-no-more-loading-frustration/"><u>Solution for Unending Anthem Startup: No More Loading Frustration</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-addressing-and-fixing-hearthstone-crashes-on-desktop-systems/"><u>Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solve-tormented-souls-constant-crashes-on-pc/"><u>Troubleshooting Guide: Solve Tormented Souls' Constant Crashes on PC</u></a></li>
 </ul></div>
 

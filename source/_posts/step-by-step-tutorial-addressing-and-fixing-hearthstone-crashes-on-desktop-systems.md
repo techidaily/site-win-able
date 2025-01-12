@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems"
-date: 2025-01-03T01:54:28.940Z
-updated: 2025-01-05T19:36:20.874Z
+date: 2025-01-08T17:15:42.800Z
+updated: 2025-01-12T16:16:32.009Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +42,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
  Game developers always keep releasing patches to improve their games and fix existing issues, so you should manually check for updates of your game and game launcher. Keep your Starcraft 2 up to date to avoid any existing game bugs.
 
  Also, many users find that installing the latest Windows 10 gets rid of the Starcraft 2 crashing issue. Therefore, you’ll need to check for updates and always keep your OS up to date for a smoothing gaming experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Scan and Repair for Starcraft 2
 
@@ -91,13 +83,13 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-5.png)
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
 
@@ -115,10 +107,14 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset your Starcraft 2 in-game options
@@ -129,16 +125,16 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options-1.png) and select**Game settings** .
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Reset** .
 5. Click **Done** , then relaunch the game.
 
  This will revert the game video options to default and allow you to load in.
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
@@ -147,7 +143,7 @@ _Note: This method applies only to the_ non-reference model cards_._
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Run Starcraft 2 as administrator
@@ -184,10 +180,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 10: Perform a clean boot
 
  There might be other background software or services conflicting with your Starcraft 2\. To see if that’s the culprit of your Starcraft 2 crashing issue, you need to perform a clean boot to find out the problematic software.
@@ -203,14 +195,22 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -235,20 +235,20 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-visual-verve-essential-guide-for-iphones-photo-cropping/"><u>[New] In 2024, Visual Verve Essential Guide for iPhone's Photo Cropping</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-new-world-keeps-crashing-on-pc/"><u>[SOLVED] New World Keeps Crashing on PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-aural-clarity-unleashed-secrets-to-high-quality-audio-for-2024/"><u>[Updated] Aural Clarity Unleashed Secrets to High-Quality Audio for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enhancing-presence-how-to-effortlessly-eliminate-borders/"><u>2024 Approved Enhancing Presence How to Effortlessly Eliminate Borders</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-lag-top-techniques-for-a-seamless-minecraft-experience-on-pc-2023-update/"><u>Eliminating Lag: Top Techniques for a Seamless Minecraft Experience on PC - 2023 Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-resolving-zoom-compatibility-issues-with-new-updates-for-windows-1011-2024-edition/"><u>Expert Advice: Resolving Zoom Compatibility Issues with New Updates for Windows 10/11 - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-when-your-gpu-isnt-detected-by-cyberpunk-2077-on-windows-10/"><u>Fixing the Issue When Your GPU Isn’t Detected by Cyberpunk 2077 on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-game-error-expert-guide-to-fixing-and-preventing-sudden-shutdowns/"><u>Football Manager 2020 Game Error: Expert Guide to Fixing and Preventing Sudden Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-and-prevent-game-integrity-threats-a-comprehensive-solution/"><u>How to Address & Prevent Game Integrity Threats – A Comprehensive Solution</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>In 2024, Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-powershot-sx620-hs-efficient-and-effective-photography/"><u>The PowerShot SX620 HS: Efficient and Effective Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726223452341-mka-mp3/"><u>무료 MKA MP3 변환 - 컴퓨터, 스마트폰에서 사용하는 최고의 툴</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-all-encompassing-evaluation-gecatas-live-recording/"><u>[Updated] All-Encompassing Evaluation Gecata's Live Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/embedded-cast/"><u>「Embedded Castセッションの完璧な記録方法:上達のための３コツ」</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-tutorial-on-utilizing-the-features-of-nokia-video-converter-factory-pro/"><u>Complete Tutorial on Utilizing the Features of Nokia Video Converter Factory Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-for-successfully-installing-hades-add-on-on-your-kodi-device/"><u>Comprehensive Tutorial for Successfully Installing Hades Add-On on Your Kodi Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-the-leading-5-music-downloader-websites-a-comprehensive-guide/"><u>Discover the Leading 5 Music Downloader Websites: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-for-reducing-playback-speed-on-youtube-videos/"><u>Effective Methods for Reducing Playback Speed on YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-track-your-editing-with-swift-avchd-to-h264-format-change/"><u>Fast Track Your Editing with Swift AVCHD to H.264 Format Change</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-100-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor 100 Pro Face Lock?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-effective-is-windows-defender-in-blocking-malicious-threats-expert-insights-from-yl-computing/"><u>How Effective Is Windows Defender in Blocking Malicious Threats? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-efficiently-transform-your-avi-videos-into-mkv-the-ultimate-guide-of-4-proven-methods/"><u>How to Efficiently Transform Your AVI Videos Into MKV: The Ultimate Guide of 4 Proven Methods</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-fast-snapfinders-handbook/"><u>In 2024, Fast Snapfinder's Handbook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-multi-image-compositions-photo-montages-guide-for-2024/"><u>Mastering Multi-Image Compositions Photo Montages Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resurgence-of-apples-enigmatic-homeos-seen-again-in-latest-tvos-development-leak-insights-from-zdnet/"><u>Resurgence of Apple's Enigmatic homeOS Seen Again in Latest tvOS Development Leak - Insights From ZDNet</u></a></li>
 </ul></div>
 

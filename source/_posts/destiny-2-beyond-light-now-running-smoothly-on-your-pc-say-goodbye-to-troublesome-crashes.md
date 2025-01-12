@@ -1,7 +1,7 @@
 ---
 title: Destiny 2 Beyond Light Now Running Smoothly on Your PC - Say Goodbye to Troublesome Crashes
-date: 2024-12-30T01:03:14.907Z
-updated: 2025-01-05T19:37:14.656Z
+date: 2025-01-05T16:39:21.371Z
+updated: 2025-01-12T16:55:00.216Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  We’ve collected 5 working fixes for Destiny 2 Beyond Light crashing. You don’t have to try them all; just work from the top down until you find the one that does the trick.
@@ -34,6 +38,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Verify the integrity of your game files
 
  Missing or damaged game files is a common cause of most gaming issues. So if your Destiny 2 Beyond Light keeps crashing, it’s a good idea to validate the game files first.
@@ -45,15 +53,19 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -81,10 +93,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-4.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,10 +102,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Set high priority
 
  Setting high priority for Beyond Light allows it to access more system resources than other programs and thus run more smoothly. Here’s how:
@@ -106,6 +110,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-4.jpg)
 2. Select the**Details** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
 
@@ -113,7 +121,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 4. Click**Change priority** to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
@@ -129,15 +137,11 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
@@ -145,10 +149,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Destiny 2: Beyond Light
 
@@ -189,16 +189,16 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-skype-quality-with-obs-studio-plugins-for-2024/"><u>[New] Maximizing Skype Quality with OBS Studio Plugins for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995536902-solved-apex-legends-not-loading-quickly-and-easily/"><u>[Solved] Apex Legends Not Loading | Quickly & Easily!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-s2t-integration-with-powerpoint/"><u>[Updated] Mastering S2T Integration with PowerPoint</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001289286-days-gone-action-packed-adventure-now-available-for-pc-official-launch-announcement/"><u>Days Gone Action-Packed Adventure Now Available for PC – Official Launch Announcement!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013240994-dayz-stability-solutions-effortless-ways-to-stop-the-crashes/"><u>DayZ Stability Solutions: Effortless Ways to Stop the Crashes!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/effective-file-backup-techniques-on-ntbackup-server-2n-2012/"><u>Effective File Backup Techniques on NTBackup Server 2N 2012</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-god-of-war-high-cpu-usage/"><u>How to Fix God of War High CPU Usage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-x-fold-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo X Fold 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-discord-malfunction-during-live-broadcasts/"><u>Resolved: Fixes for Discord Malfunction During Live Broadcasts</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-on-device-driver-restoration-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Device Driver Restoration with YL Software Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-file-accessibility-syncing-from-pc-to-iphone/"><u>[New] Instant File Accessibility Syncing From PC to iPhone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourney-through-time-the-best-history-yt-channels-ranked-1-10/"><u>[New] Journey Through Time The Best History YT Channels Ranked #1-10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-making-impeccable-square-videos-in-imovie-for-instagram/"><u>[Updated] In 2024, Making Impeccable Square Videos in iMovie for Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mobile-identification-showdown-iphone-x-and-galaxy/"><u>2024 Approved Mobile Identification Showdown IPhone X and Galaxy</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-origin-running-again-on-your-windows-nk-problem-solved/"><u>How to Get Origin Running Again on Your Windows Nk: Problem Solved!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-11-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus 11 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007586333-league-of-legends-stable-connection-guide-a-comprehensive-fix/"><u>League of Legends Stable Connection Guide – A Comprehensive FIX</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lightning-lingers-quick-and-fluid-gaming-choices-for-laptops/"><u>Lightning Lingers Quick & Fluid Gaming Choices for Laptops</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987938488-mastering-optimal-performance-in-csgo-end-the-battle-with-frame-rate-hiccups-today/"><u>Mastering Optimal Performance in CS:GO - End the Battle with Frame Rate Hiccups Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-vanguards-launch-problem-in-valorant-expert-advice-and-solutions/"><u>Overcoming Vanguard's Launch Problem in Valorant: Expert Advice and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-cod-vanguard-error-0x00001338-on-pc-step-by-step-guide/"><u>Resolved: How to Fix CoD Vanguard Error 0X00001338 on PC - Step-by-Step Guide</u></a></li>
 </ul></div>
 

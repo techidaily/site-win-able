@@ -1,7 +1,7 @@
 ---
 title: "Solving Corsair iCUE Issues in Windows 11: A Step-by-Step Guide"
-date: 2024-08-13T10:07:20.796Z
-updated: 2024-08-14T10:07:20.796Z
+date: 2025-01-05T16:35:51.416Z
+updated: 2025-01-12T16:00:16.638Z
 tags:
   - win11
   - win10
@@ -40,17 +40,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  1) Click**the gear button** to open**User Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
@@ -65,9 +58,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -75,20 +65,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -99,22 +94,25 @@ See if this issue reappears. If not, you have fixed this issue.
  1) Open your**Discord** , Click **the gear button** to open **User Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -125,6 +123,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -132,6 +134,10 @@ See if this issue reappears. If not, you have fixed this issue.
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -143,9 +149,6 @@ iv. Restart your PC.
 
 See if this issue reappears. If not, you have fixed this issue!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: How to fix Discord connection errors?
 
  It’s very frustrating to run into the voice connection issue when playing the game. But don’t worry, most voice connection errors can be fixed by configuring a VPN connection.
@@ -163,9 +166,6 @@ See if this issue reappears. If not, you have fixed this issue!
  3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
@@ -184,8 +184,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +191,22 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-essentials-of-xbox-live-recording-for-2024/"><u>[New] The Essentials of Xbox Live Recording for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-zero-cost-maximum-impact-mastering-your-characters-voice-in-free-fire-gameplay/"><u>[Updated] 2024 Approved Zero Cost, Maximum Impact Mastering Your Character's Voice in Free Fire Gameplay</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-discover-the-7-most-wanted-apps-to-boost-your-youtube-live-quality-for-2024/"><u>[Updated] Discover the 7 Most Wanted Apps to Boost Your YouTube LIVE Quality for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-uav-connoisseurs-guide-to-essential-equipment/"><u>[Updated] In 2024, The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-elden-ring-gaming-experience-solving-fps-drop-and-stutter-issues-in-minutes/"><u>Boost Your Elden Ring Gaming Experience: Solving FPS Drop & Stutter Issues in Minutes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-14-pro-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 14 Pro Lock Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-why-tribes-of-midgard-may-experience-crashes/"><u>Fixing Issues: Why 'Tribes of Midgard' May Experience Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-stability-issues-top-strategies-for-a-smooth-gaming-experience/"><u>Garry's Mod Stability Issues? Top Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-configure-your-amd-ryzen-master-software/"><u>How to Successfully Reinstall and Configure Your AMD Ryzen Master Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>New 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-macos-sierra-tools-for-video-changeovers-for-2024/"><u>Premier macOS Sierra Tools for Video Changeovers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reimagine-imagery-best-online-wallpaper-changer-list/"><u>Reimagine Imagery Best Online Wallpaper Changer List</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rainbow-six-siege-error-code-3-0x0001000b-step-by-step-solution/"><u>Ultimate Fix for Rainbow Six Siege Error Code 3-0X0001000B – Step by Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-eradicating-minecraft-error-message-exit-code-solved/"><u>Ultimate Solution: Eradicating Minecraft Error Message 'Exit Code [SOLVED]'</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-launch-origin-comprehensive-solutions-for-windows-1011-playstation-gamers/"><u>Why Can't I Launch Origin? Comprehensive Solutions for Windows 10/11 PlayStation Gamers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Stop 'The King of Fighters XV' From Frequent PC Malfunctions and Enjoy Uninterrupted Playtime
-date: 2024-08-13T10:07:18.720Z
-updated: 2024-08-14T10:07:18.720Z
+date: 2025-01-08T17:02:59.454Z
+updated: 2025-01-12T17:53:52.981Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
  Minecraft Dungeons keeps crashing on your PC? You’re not alone. Recently, many players have reported this issue. But don’t worry. In this post, we’ll show you all the fixes you can try!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Make sure your PC meets the minimum requirements](https://tools.techidaily.com/drivereasy/download/)**
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 7. **[Reinstall Minecraft Dungeons](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot the game crashing issue, you’ll need to make sure your PC meets the minimum requirements to run Minecraft Dungeons properly.
@@ -54,7 +59,16 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 2. At the top right corner, click the**three dots** , then select**Downloads and Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/downloads-updates-1.jpg)
 3. Click**Get Updates** . Then all your applications should update (including Minecraft Dungeons).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/get-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After updating your game, relaunch Minecraft Dungeons to see if your problem is resolved.
 
@@ -77,9 +91,6 @@ If the crashing issue remains, continue to the next fix.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -91,8 +102,9 @@ If the crashing issue remains, continue to the next fix.
 If the issue persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Windows updates often bring new features and security improvements. If you don’t remember the last time you updated your system, you can try to check for updates manually and see if it helps. Here’s how:
@@ -102,18 +114,15 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Minecraft Dungeons to see if the crashing issue is resolved.
 
 If this fix doesn’t do the trick, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair your game
 
  The crashing issue in Minecraft Dungeons may occur due to the corrupted game files. If you’re on Windows 10, you can try repairing the game without reinstalling it. The game’s data won’t be affected. Here’s how:
@@ -125,9 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-options.jpg)
 4. Scroll down the page, then click**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/repair-minecraft-dungeons.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can relaunch Minecraft Dungeons to check if the game works properly.
 
@@ -140,18 +146,8 @@ If this fix doesn’t work for you, check out the next one.
 1. Open Minecraft Dungeons and go to**Settings** .
 2. Click**Display / Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-display-graphics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 3. Select**Advanced Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-graphics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Turn off** V-sync, Anti-Aliasing Quality, Shadow Quality and Bloom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off.jpg)
 
@@ -159,9 +155,6 @@ Check if Minecraft Dungeons still crashes.
 
 If this fix doesn’t help, check out the last one.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall Minecraft Dungeons
 
  If none of the fixes above stops the crash in Minecraft Dungeons, you may need to consider reinstalling the game. Sometimes this might help you get rid of the crashing issue. To do so:
@@ -170,11 +163,17 @@ If this fix doesn’t help, check out the last one.
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 3. Under Apps & features, click**Minecraft Dungeons** and select**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-minecraft-dungeons.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-minecraft-dungeons.jpg)
 4. Go to **[Minecraft Dungeon’s official website](https://www.minecraft.net/en-us/about-dungeons)**  to download and install the latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if Minecraft Dungeons works properly.
 
@@ -191,8 +190,6 @@ Check if Minecraft Dungeons works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +197,22 @@ Check if Minecraft Dungeons works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-softening-audio-fl-basics/"><u>[New] 2024 Approved Softening Audio FL Basics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-discover-the-leading-cover-photo-makers-for-facebook-profiles-for-2024/"><u>[New] Discover the Leading Cover Photo Makers for Facebook Profiles for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-secret-of-superiority-in-photo-hue-modification/"><u>[New] In 2024, The Secret of Superiority in Photo Hue Modification</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reversed-video-techniques-for-instagram-savvy-users-for-2024/"><u>[New] Reversed Video Techniques for Instagram Savvy Users for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-instagrams-secrets-detailed-guide-to-user-engagement-and-reach/"><u>[Updated] Unlocking Instagram's Secrets Detailed Guide to User Engagement and Reach</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-infamous-no-user-logon-error-in-counter-strike-global-offensive/"><u>Bypassing The Infamous No User Logon Error in Counter Strike Global Offensive</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-5573-cracked-in-depth-guide-to-resolve-it-in-call-of-duty-vanguard/"><u>Error Code 5573 Cracked: In-Depth Guide to Resolve It in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-guide-fixing-problems-with-seagate-external-drives-that-freeze-computers/"><u>Expert Guide: Fixing Problems with Seagate External Drives That Freeze Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-nightmares-enabling-avatar-frontiers-of-pandora-launch/"><u>Fix Your Game Nightmares: Enabling Avatar – Frontiers of Pandora Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-compatible-fixes-for-enshrouded-no-more-crashes/"><u>PC Compatible Fixes for 'Enshrouded' - No More Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-discord-installation-has-failed-issues/"><u>Quick Fixes: Resolving 'Discord Installation Has Failed' Issues</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ssd-migration-guide-on-windows-11-step-by-step-transfer-process/"><u>SSD Migration Guide on Windows 11: Step-by-Step Transfer Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-new-world-crash-dilemma-on-windows-computers-is-finally-solved-heres-what-changed/"><u>The 'New World' Crash Dilemma on Windows Computers Is Finally Solved - Here's What Changed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-vivo-y28-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y28 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solutions-for-dragon-quest-xi-crashes-a-complete-guide/"><u>Troubleshooting and Solutions for Dragon Quest XI Crashes: A Complete Guide</u></a></li>
+</ul></div>
 

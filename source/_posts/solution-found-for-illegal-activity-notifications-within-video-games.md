@@ -1,7 +1,7 @@
 ---
 title: Solution Found for 'Illegal Activity' Notifications Within Video Games
-date: 2024-12-31T21:31:47.890Z
-updated: 2025-01-05T17:52:58.777Z
+date: 2025-01-11T16:41:53.710Z
+updated: 2025-01-12T16:01:29.938Z
 tags:
   - win11
   - win10
@@ -48,14 +48,14 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Normally you should see a significant performance improvement after you update all the device drivers on your computer. But if not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Close unnecessary background programs
 
@@ -65,21 +65,17 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program and click**End task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If no programs are consuming your CPU or GPU but FPS drops reoccur, try the third fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Change the PC power plan
@@ -90,7 +86,15 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1-1.jpg)
 2. Select**High** **performance** . (If you don’t see it, expand**Hide additional plans** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re on a high-end PC, the**Ultimate Performance** mode may help you fully unleash the potential of your machine. Here’s how to enable this mode.
 
@@ -99,7 +103,7 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 2. In the command prompt, type or paste the following command and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
@@ -110,6 +114,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  Check how the game works. If the issue persists, proceed to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Disable fullscreen optimizations
 
  Fullscreen optimization is supposed to optimize the performance of games or apps in fullscreen. However, certain games might stutter with FPS drops when this feature is enabled, and turning it off could effectively mitigate the problem.
@@ -119,20 +127,20 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-0.jpg)
 3. Select the**Compatibility** tab and tick**Disable full-screen optimisations** . Then, click**Change high DPI settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-1.jpg)
 4. Tick**Override high DPI scaling behaviour** and choose**Application** from the drop-down menu. Then, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
 
- Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
 
 ### Fix 5 – Adjust the in-game graphics settings
 
@@ -152,10 +160,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  Test the issue again. If you’re still facing low FPS in Escape from Tarkov, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Configure the graphics card settings
 
  To gain better Escape from Tarkov FPS, you’ll also need to optimize your graphics card settings. If you don’t know how to do this, follow the instruction below.
@@ -165,10 +169,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Navigate to the**Program Settings** and select the**EscapeFromTarkov.exe file** from the drop-down list.  
@@ -219,18 +219,24 @@ Restart the game to test, and you should find the FPS increases now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-custom-mcb-banner-packs/"><u>[Updated] 2024 Approved Download Custom MCB Banner Packs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-download-all-youtube-images-for-free/"><u>[Updated] In 2024, Download All YouTube Images for Free!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-perfect-color-balancing-for-free-leveraging-luts-within-obs-studio-environment-for-2024/"><u>[Updated] Perfect Color Balancing for Free Leveraging LUTs Within OBS Studio Environment for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-overcoming-darkness-issues-in-far-cry-6/"><u>Expert Solutions for Overcoming Darkness Issues in Far Cry 6</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-graphic-driver-crashes-in-valorant-issue-quickly/"><u>Fix the 'Graphic Driver Crashes in Valorant' Issue Quickly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/framefusion-media-suite/"><u>FrameFusion Media Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-steam-remote-play-isnt-working-quick-and-effective-methods/"><u>How to Fix 'Steam Remote Play Isn't Working': Quick and Effective Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-warzone-freezing-on-pc-2024-tips/"><u>How to Fix Warzone Freezing on PC - 2024 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-connection-with-your-vpn-on-the-go-revive-it-in-seven-simple-steps-on-your-iphone/"><u>Lost Connection with Your VPN on the Go? Revive It in Seven Simple Steps On Your iPhone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-best-in-class-text-tracking-and-animation-software-2023/"><u>New Best in Class Text Tracking and Animation Software 2023</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-of-video-editing-software-for-mac/"><u>New In 2024, The Ultimate List of Video Editing Software for Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-guilty-gear-strive-pc-game-crashes/"><u>Troubleshooting Steps to Resolve Guilty Gear Strive PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-new-world-keep-crashing-on-your-pc-common-causes-and-how-to-resolve-them/"><u>Why Does 'New World' Keep Crashing on Your PC? Common Causes & How to Resolve Them</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-dungeons-deep-and-deeper-old-school-and-hybrid-games-for-2024/"><u>[New] Dungeons Deep & Deeper Old School and Hybrid Games for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-inside-out-the-explanation-for-youtubes-unlisted-media/"><u>[New] Inside Out The Explanation for YouTube's Unlisted Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[Updated] Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-12-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 12 4G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-pc-stability-essential-fixes-for-smooth-gaming/"><u>Dragon's Dogma 2 PC Stability: Essential Fixes for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-for-recurring-freezing-and-crashes-on-world-of-tanks-blitz/"><u>Expert Solutions for Recurring Freezing and Crashes on World of Tanks Blitz</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-constant-pc-freezes-in-euro-truck-simulator-2-game/"><u>How to Fix Constant PC Freezes in Euro Truck Simulator 2 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-windows-11-error-0xc19001e1-for-smooth-operations/"><u>How to Fix Windows 11 Error 0xC19001E1 for Smooth Operations</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-speed-up-your-sluggish-chrome-in-minutes/"><u>How to Speed Up Your Sluggish Chrome in Minutes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-m34-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy M34 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-revolutionize-how-you-interact-with-tech-best-mac-tts-programs-reviewed/"><u>In 2024, Revolutionize How You Interact with Tech Best Mac TTS Programs Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-tips-for-a-smooth-uninterrupted-diablo-iii-playthrough/"><u>Resolved: Tips for a Smooth, Uninterrupted Diablo III Playthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-unwanted-superhero-characters-appearing-on-your-game-screen/"><u>Resolving Unwanted Superhero Characters Appearing on Your Game Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-battles-await-cutting-edge-solutions-for-addressing-lag-and-minimizing-ping-in-chivalry-2/"><u>Seamless Battles Await: Cutting-Edge Solutions for Addressing Lag and Minimizing Ping in Chivalry 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-for-unfreezing-your-chrome-browser-on-windows-11/"><u>Simple Solutions for Unfreezing Your Chrome Browser on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlining-group-chats-on-skype-for-dual-os-environments-for-2024/"><u>Streamlining Group Chats on Skype for Dual OS Environments for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-ranked-avcd-to-digital-video-format-translator-software-for-windows-11-users-2024-edition/"><u>Top-Ranked AVCd to Digital Video Format Translator Software for Windows 11 Users, 2024 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/transforming-facebook-into-a-reflective-mirror-of-you/"><u>Transforming Facebook Into a Reflective Mirror of You</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-get-pro-level-stability-for-free-top-online-video-stabilizers/"><u>Updated In 2024, Get Pro-Level Stability for Free Top Online Video Stabilizers</u></a></li>
 </ul></div>
 

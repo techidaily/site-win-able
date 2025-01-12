@@ -1,7 +1,7 @@
 ---
 title: "PC Users Rejoice: Sword Stories Volume 7 Crash Issues Now Fixed on Desktop Gaming"
-date: 2024-08-13T10:07:46.600Z
-updated: 2024-08-14T10:07:46.600Z
+date: 2025-01-08T17:26:20.754Z
+updated: 2025-01-12T16:15:29.930Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
@@ -32,6 +29,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,23 +42,18 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **1)** Open the Steam client. Then, navigate to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -68,9 +64,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -105,16 +98,17 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -124,9 +118,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -136,6 +127,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
@@ -151,13 +146,12 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
@@ -195,8 +189,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +196,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ultimate-10-audio-elevators-on-computersmobile/"><u>[New] 2024 Approved Ultimate 10 Audio Elevators on Computers/Mobile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-zoom-engagement-unlocking-communication-success/"><u>[New] The Ultimate Guide to Zoom Engagement Unlocking Communication Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-the-potential-of-your-webcam-for-slideshows/"><u>[New] Unleash the Potential of Your Webcam for Slideshows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ios-compatible-ps2-games-simulator-roundup/"><u>[Updated] 2024 Approved IOS-Compatible PS2 Games Simulator Roundup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-10-visual-gratification-tools-for-instagram-grids/"><u>[Updated] Top 10 Visual Gratification Tools for Instagram Grids</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-helldivers-2-on-computer-expert-fixes-for-uninterrupted-gaming-bliss/"><u>Beat Helldivers 2 on Computer: Expert Fixes for Uninterrupted Gaming Bliss</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-diablo-ii-resurrected-stability-problems-fixes-unveiled/"><u>Beating Diablo II Resurrected Stability Problems – Fixes Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exhaustive-overview-insights-into-googles-podcast-application/"><u>Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-keep-manor-lords-running-without-interruption-on-windows-machines/"><u>Expert Tips to Keep Manor Lords Running Without Interruption on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-officejet-pro-6970-driver-for-windows-systems-here/"><u>Get Updated HP OfficeJet Pro ˈ6970 Driver for Windows Systems Here</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-laughters-legacy-the-process-of-parody-film-making/"><u>In 2024, Laughter's Legacy The Process of Parody Film-Making</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-stuttering-issues-in-sifu-on-pc-effective-solutions-inside/"><u>Overcome Stuttering Issues in Sifu on PC - Effective Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-in-counter-strike-2-tips-for-a-smoother-play/"><u>Overcoming Lag in Counter-Strike 2: Tips for a Smoother Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-address-long-waiting-periods-launching-the-force-unleashed-battlefront-ii-on-pc/"><u>Quick Fixes to Address Long Waiting Periods Launching The Force Unleashed: Battlefront II on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-problem-of-non-detectable-gpu-with-msi-afterburner-in-windows-1110/"><u>Resolving the Problem of Non-Detectable GPU with MSI Afterburner in Windows 11/10</u></a></li>
+<li><a href="https://discover-great.techidaily.com/servicios-profesionales-de-reparacion-y-apoyo-tecnologico/"><u>Servicios Profesionales De Reparación Y Apoyo Tecnológico</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-destiny-2-issues-a-guide-to-overcoming-the-centipede-glitch/"><u>Solve Your Destiny 2 Issues: A Guide to Overcoming the Centipede Glitch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-digital-world-the-motorola-one-5g-ace-sets-new-standards-with-its-breathtaking-speed-capabilities-and-robust-battery-duration/"><u>Transform Your Digital World - The Motorola One 5G Ace Sets New Standards with Its Breathtaking Speed Capabilities & Robust Battery Duration</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-battlenet-launcher-issues-on-windows-pcs/"><u>Troubleshooting Guide: Fixing 'Battle.net Launcher' Issues on Windows PCs</u></a></li>
+</ul></div>
 

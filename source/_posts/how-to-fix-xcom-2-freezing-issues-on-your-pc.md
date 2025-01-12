@@ -1,7 +1,7 @@
 ---
 title: How to Fix XCOM 2 Freezing Issues on Your PC
-date: 2024-08-13T10:07:42.346Z
-updated: 2024-08-14T10:07:42.346Z
+date: 2025-01-08T16:07:29.826Z
+updated: 2025-01-12T16:12:36.346Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
  Before we dive into anything advanced, make sure you tried to reboot your PC in case the crash was a random glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Run the game executable as administrator
 
  The first quick fix you can try is to run the game executable as administrator. Many players reported that providing the required administrator rights to Forza Horizon 5 has solved the crashing issue for them.
@@ -66,10 +63,18 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the graphics driver doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Check your antivirus software
 
@@ -92,13 +97,18 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Refresh your network
 
  Some players have also been able to solve the crashing issue by resetting their network, so it’s definitely worth a try. The quickest way is to restart your network adapter, and this works for both wireless and wired connections. Here’s how:
@@ -109,11 +119,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 3. Find the network adapter you’re using. Right-click it and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  In addition to resetting the network adapter, you can also try some basic troubleshooting steps.
 
@@ -127,8 +139,9 @@ If updating the graphics driver doesn’t help, try the next fix.
  If refreshing your network doesn’t solve the problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Perform a clean boot
 
  If the above fixes didn’t help, you may need to take a look at system services to see if there are any conflicting ones. By doing a clean boot, you can identify if any background services are interfering with Forza Horizon 5.
@@ -140,28 +153,12 @@ If updating the graphics driver doesn’t help, try the next fix.
 1. On your keyboard, hold down the Windows Logo key and press R to invoke the Run box.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 6. Restart your PC.
 
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
@@ -171,15 +168,14 @@ No advertising on the website.
 1. On your keyboard, hold down the Windows Logo key and press R to invoke the Run box.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 3. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
 5. Repeat steps 2 and 3 above until you find the service that conflicts with the game.  
 
@@ -190,6 +186,11 @@ No advertising on the website.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
 4. Repeat until you find the startup item that’s conflicting with the game.
@@ -207,15 +208,14 @@ No advertising on the website.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -227,8 +227,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +234,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>[New] Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/aktualisierung-von-trim-einstellungen-bei-ssds-unter-windows-11-aktivierendeaktivieren/"><u>Aktualisierung Von TRIM Einstellungen Bei SSDs Unter Windows 11: Aktivieren/Deaktivieren</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-reach-oculus-runtime-service-how-to-fix-your-oculus-rift/"><u>Can't Reach Oculus Runtime Service? How to Fix Your Oculus Rift</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-f25-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo F25 Pro 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhancing-your-printers-output-a-comprehensive-guide-by-yl-computing/"><u>Enhancing Your Printer's Output: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-steams-critical-failure-steps-to-resolve-failed-to-load-steamuidll/"><u>Fixing Steam's Critical Failure: Steps to Resolve 'Failed To Load steamui.dll'</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-solve-iphone-call-drop-issues-a-step-by-step-guide/"><u>How to Solve iPhone Call Drop Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-speed-up-slow-startup-times-in-star-wars-battlefront-ii-on-windows-machine/"><u>How To Speed Up Slow Startup Times In Star Wars Battlefront II On Windows Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-repair-black-screen-glitch-in-rainbow-six-siege-pc-version/"><u>How To Troubleshoot and Repair Black Screen Glitch in Rainbow Six Siege PC Version</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-troubleshoot-and-resolve-cpu-problems-expert-advice-from-yl-computing/"><u>How to Troubleshoot and Resolve CPU Problems: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-adding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>In 2024, Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-instant-impression-audiovisual-capture/"><u>In 2024, Instant Impression Audiovisual Capture</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-mystic-light-malfunction-on-pc-heres-how-to-restore-its-performance-under-windows/"><u>MSI Mystic Light Malfunction on PC? Here's How to Restore Its Performance Under Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-vanguard-with-easy-fix-tips/"><u>Overcoming Freezing Glitches in Call of Duty: Vanguard with Easy Fix Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quantum-hdr-unveiled-industry-insights/"><u>Quantum HDR Unveiled Industry Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issue-overcoming-failed-to-connect-warning-in-steam-client/"><u>Resolved Issue: Overcoming 'Failed to Connect' Warning in Steam Client</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-glitch-busting-how-to-overcome-freezing-problems-during-play/"><u>Rocket League Glitch Busting: How to Overcome Freezing Problems During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996460176-smooth-gaming-on-your-pc-with-these-fixes-for-wrc-10-the-official-fia-world-rally-championship/"><u>Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-smooth-street-fighter-6-gameplay-with-low-latency-and-ping-issues/"><u>Ultimate Troubleshooting for Smooth Street Fighter 6 Gameplay with Low Latency & Ping Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2025-01-01T22:42:07.416Z
-updated: 2025-01-05T17:19:35.118Z
+date: 2025-01-07T17:58:50.629Z
+updated: 2025-01-12T17:18:50.029Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 methods that have helped other players solve Diablo 2 Resurrected crashing on PC. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 4. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
@@ -54,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -71,16 +75,8 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -95,10 +91,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
@@ -116,10 +108,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
@@ -134,7 +122,15 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -142,10 +138,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -172,18 +172,19 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplestrecorder-user-friendly-screen-capture/"><u>2024 Approved SimplestRecorder User-Friendly Screen Capture</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-10-best-4k-camera-phone/"><u>2024 Approved Top 10 Best 4K Camera Phone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-the-top-5-facebook-video-downloaders-today/"><u>2024 Approved Unveiling the Top 5 Facebook Video Downloaders Today</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-13c-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi 13C Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-fallout-76-lag-eliminating-gameplay-interruptions-successfully/"><u>Fix Your Fallout ^76 Lag: Eliminating Gameplay Interruptions Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-half-life-alyx-performance-issues-lags-and-stutters-solved/"><u>Fixes for 'Half-Life: Alyx' Performance Issues - Lags & Stutters Solved</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/hide-and-seek-with-fb-episodes-for-2024/"><u>Hide-and-Seek with FB Episodes for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-for-downloads-and-peer-connections-in-utorrent/"><u>How to Restore Functionality for Downloads & Peer Connections in uTorrent</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-online-not-working-solve-persistent-pc-game-crashing-problems-here/"><u>Red Dead Online Not Working? Solve Persistent PC Game Crashing Problems Here!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-qb-data-with-stellars-latest-breakthrough-tool/"><u>Revive Your QB Data with Stellar's Latest Breakthrough Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revolutionize-your-ios-connectivity-discover-8-tips-to-elevate-wi-fi-performance/"><u>Revolutionize Your iOS Connectivity: Discover 8 Tips to Elevate Wi-Fi Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-stop-your-pc-from-continuously-crashing-during-frontier-sessions/"><u>Step-by-Step Strategies to Stop Your PC From Continuously Crashing During Frontier Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-manor-lords-game-from-freezing-on-pc/"><u>Troubleshoot and Stop Manor Lords Game From Freezing on PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-dialing-up-engagement-youtube-thumbnails-that-convert/"><u>[New] In 2024, Dialing Up Engagement YouTube Thumbnails That Convert</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-50-must-try-virtual-bikes-for-riders/"><u>[New] The 50 Must-Try Virtual Bikes for Riders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-art-of-laughter-no-10-memes-ranked-by-fun/"><u>[Updated] In 2024, The Art of Laughter No. 10 Memes Ranked by Fun</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-dynamics-of-gopros-burst-capture-capabilities/"><u>[Updated] In 2024, The Dynamics of GoPro's Burst Capture Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-10-popular-and-free-email-providers-our-picks/"><u>Explore These 10 Popular and Free Email Providers – Our Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-prevent-and-resolve-palworld-from-crashing-on-desktop-systems/"><u>Guide: Prevent and Resolve PalWorld From Crashing on Desktop Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Reno 11 5G Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 12</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimizing-youtube-and-twitch-with-obs-streaming-techniques-for-2024/"><u>Optimizing YouTube & Twitch with OBS Streaming Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-performance-optimized-overcoming-pc-gameplays-frame-rate-decreases/"><u>Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-metro-exodus-pc-game-crashes/"><u>Troubleshooting Guide: Resolving Metro Exodus PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pathway-to-stellar-intros-on-mobile-devices-for-2024/"><u>Your Pathway to Stellar Intros on Mobile Devices for 2024</u></a></li>
 </ul></div>
 

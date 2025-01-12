@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Overwatch's Persistent Black Screen Problem"
-date: 2025-01-03T17:13:33.412Z
-updated: 2025-01-05T21:13:36.650Z
+date: 2025-01-11T17:29:51.186Z
+updated: 2025-01-12T16:25:46.039Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -61,7 +61,7 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
@@ -80,6 +80,10 @@ Restart your computer for the changes to take effect.
 
 7. Check the issue is persist or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -89,25 +93,17 @@ Restart your computer for the changes to take effect.
 2. Scroll down to find**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your computer and check to see if the problem resolves.
 
@@ -119,6 +115,10 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and check to see if the problem still persists.
 
@@ -141,24 +141,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[New] In 2024, How to Stand Out YT Thumbnail Size and Engagement Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-visibility-with-youtube-branding-techniques/"><u>[Updated] Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/catch-the-hottest-sales-on-oneplus-gadgets-this-prime-day-sale/"><u>Catch the Hottest Sales on OnePlus Gadgets This Prime Day Sale</u></a></li>
-<li><a href="https://win-able.techidaily.com/divide-and-conquer-fixing-your-dying-division-2-game-rapidly-and-easily/"><u>Divide and Conquer: Fixing Your Dying Division 2 Game Rapidly & Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-fixes-for-overcoming-the-directx-error-in-fifa-19-gameplay/"><u>DIY Fixes for Overcoming the DirectX Error in FIFA 19 Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013282204-expert-tips-for-fixing-ghostrunner-malfunctions-in-windows-11-no-more-crashes/"><u>Expert Tips for Fixing GhostRunner Malfunctions in Windows 11 - No More Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-get-rid-of-the-elden-ring-startup-black-screen-glitch-once-and-for-all/"><u>Expert Tips to Get Rid of the Elden Ring Startup Black Screen Glitch Once and For All!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-unloading-dilemma-top-7-techniques-to-conquer-steam-black-screens/"><u>Fixing the Unloading Dilemma: Top 7 Techniques to Conquer Steam Black Screens</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fortnite-crashes-on-pc-try-these-essential-troubleshooting-steps/"><u>Fortnite Crashes on PC? Try These Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-13t-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi 13T</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-cutting-edge-guide-to-youtube-video-distribution-via-facebook/"><u>In 2024, Cutting-Edge Guide to YouTube Video Distribution via Facebook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-12-pro-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 Pro Device from iCloud</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-redmi-note-12r-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi Redmi Note 12R Easily?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-connectivity-problems-in-path-of-exile-essential-tips-and-solutions/"><u>Overcoming Connectivity Problems in Path of Exile – Essential Tips and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-network-delays-a-comprehensive-guide-to-improving-your-gameplay-experience-in-back-4-blood/"><u>Overcoming Network Delays: A Comprehensive Guide to Improving Your Gameplay Experience in 'Back 4 Blood'</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/prime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>Prime Phone Video & Image Capturing Best Apps for iPhones and Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-query-troubleshooting-the-missing-vanguard-setup-in-valorant/"><u>Solved Query: Troubleshooting the Missing Vanguard Setup in Valorant</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-tips-for-efficient-film-recording-on-pc-and-mobile/"><u>Top Tips for Efficient Film Recording on PC & Mobile</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-naraka-path-of-the-warrior-issues/"><u>Troubleshooting Steps For Resolving Naraka: Path of the Warrior Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/beyond-light-for-pc-a-crash-free-adventure-in-destiny-2-the-updates-that-worked/"><u>Beyond Light for PC: A Crash-Free Adventure in Destiny 2 - The Updates That Worked</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortlessly-merge-mac-directories-with-google-drive-using-drivesync/"><u>Effortlessly Merge Mac Directories with Google Drive Using DriveSync</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-shifting-auditory-feedback-patterns-in-the-latest-adobe-rush-software-update/"><u>In 2024, Shifting Auditory Feedback Patterns in the Latest Adobe Rush Software Update</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/installation-guide-pour-le-pilotage-dubuntu-sur-un-pc-neuf-sans-systeme-dexploitation/"><u>Installation Guide Pour Le Pilotage D'Ubuntu Sur Un PC Neuf Sans Système D'Exploitation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kann-adobe-premiere-pro-av1-videodateien-importieren-und-exportieren/"><u>Kann Adobe Premiere Pro AV1-Videodateien Importieren Und Exportieren?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/logitechs-high-end-webcam-an-all-inclusive-review/"><u>Logitech’s High-End Webcam An All-Inclusive Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-romantic-gestures-how-to-make-a-stunning-valentines-day-video-for-your-partner/"><u>New 2024 Approved Romantic Gestures How to Make a Stunning Valentines Day Video for Your Partner</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-pc-crash-issues-in-call-of-duty-modern-warfare-3-with-these-simple-solutions/"><u>Overcome PC Crash Issues in Call of Duty: Modern Warfare 3 with These Simple Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013942899-resolved-issues-with-launching-rainbow-six-siege-fixed/"><u>Resolved: Issues with Launching Rainbow Six Siege Fixed!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-blaze-curve-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Blaze Curve 5G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-input-lag-challenges-in-valorant-on-pc-as-of-march-2024/"><u>Solving Input Lag Challenges in Valorant on PC as of March 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-when-your-pc-cant-connect-to-the-fallout-76-game-servers/"><u>Troubleshooting Steps for When Your PC Can't Connect to the Fallout 지정기 76 Game Servers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-download-guide-logiteche-g29-wheel-control-software-for-various-windows-versions-10-11-and-7/"><u>Ultimate Download Guide: Logiteche G29 Wheel Control Software for Various Windows Versions (10, 11 & 7)</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-stardew-valley-continuous-crashes-on-your-pc/"><u>Ultimate Guide to Fixing Stardew Valley Continuous Crashes on Your PC</u></a></li>
 </ul></div>
 

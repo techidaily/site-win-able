@@ -1,7 +1,7 @@
 ---
 title: How to Stop Starfield From Freezing or Crashing During Playtime on Your Computer
-date: 2024-08-13T09:59:37.454Z
-updated: 2024-08-14T09:59:37.454Z
+date: 2025-01-05T17:08:56.847Z
+updated: 2025-01-12T16:10:00.474Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
@@ -33,8 +30,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,19 +43,25 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**World of Warships** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -68,6 +72,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -101,16 +109,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -128,9 +130,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
@@ -145,17 +144,14 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
@@ -193,8 +189,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +196,21 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-popular.techidaily.com/1-mastering-the-art-of-microsoft-word-recovery-a-step-by-step-guide/"><u>1. Mastering the Art of Microsoft Word Recovery: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-against-league-of-legends-connectivity-problems-overcoming-the-202reconnect-loop/"><u>Battle Against League of Legends Connectivity Problems: Overcoming the 202^Reconnect Loop</u></a></li>
+<li><a href="https://win-able.techidaily.com/bug-free-gaming-experience-achieved-with-fixes-for-disco-elysium-on-pc/"><u>Bug-Free Gaming Experience Achieved with Fixes for Disco Elysium on PC</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/collaborate-with-winxdvd-boost-your-business-and-growth/"><u>Collaborate with WinXDVD: Boost Your Business and Growth</u></a></li>
+<li><a href="https://win-able.techidaily.com/fps-stutter-solved-enhancing-smooth-performance-in-precision-games/"><u>FPS Stutter Solved? Enhancing Smooth Performance in Precision Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-resident-evil-village-pc-performance-lags-a-complete-guide/"><u>How To Fix Resident Evil Village PC Performance Lags: A Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 8 | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/major-shift-at-southwest-airlines-redefines-privileges-and-exclusivity-unveiled-by-zdnet/"><u>Major Shift at Southwest Airlines Redefines Privileges & Exclusivity - Unveiled by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-mind-games-top-trivia-channels-for-24/"><u>Mastering Mind Games – Top Trivia Channels for '24</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-xcom-2-windows-crashes-a-comprehensive-solution-guide/"><u>Say Goodbye to XCOM 2 Windows Crashes: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/take-preventative-medications-if-you-are-prone-to-recurrent-utis-talk-to-your-doctor-about-the-possibility-of-taking-a-low-dose-of-antibiot5-day-regimen-for604/"><u>Take Preventative Medications: If You Are Prone to Recurrent UTIs, Talk to Your Doctor About the Possibility of Taking a Low Dose of Antibiot#5-Day Regimen for Women with Frequent UTIs and May Be Beneficial in Preventing Future Episodes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unleashing-full-potential-of-zoom-with-chromebook/"><u>Unleashing Full Potential of Zoom with Chromebook</u></a></li>
+</ul></div>
 

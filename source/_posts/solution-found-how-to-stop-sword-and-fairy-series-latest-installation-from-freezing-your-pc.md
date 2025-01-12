@@ -1,7 +1,7 @@
 ---
 title: Solution Found! How to Stop Sword & Fairy Series' Latest Installation From Freezing Your PC
-date: 2024-08-13T10:05:47.124Z
-updated: 2024-08-14T10:05:47.124Z
+date: 2025-01-11T16:39:12.228Z
+updated: 2025-01-12T16:16:18.728Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  If you’re running into the same issue, don’t worry! You’ve come to the right place. After reading this post, you should be able to resovle this issue on your own quickly and easily!
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Ghost Recon Breakpoint players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -36,9 +37,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Delete “DataPC\_TGT\_WorldMap.forge”
 
  You can try deleting the game file “_DataPC\_TGT\_WorldMap.forge_ ” if Ghost Recon Breakpoint crashes at launch on your computer. Here’s how to do it:
@@ -54,9 +52,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -76,8 +71,16 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-2.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -87,8 +90,9 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest game patches
 
  The developers of Ghost Recon Breakpoint release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -116,13 +120,14 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 3. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent the game crash issues, you should reset the CPU or the graphics card to the manufacturer specifications.
@@ -131,9 +136,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Lower in-game settings
 
  If your PC fails to meet the recommended system requirements for Ghost Recon Breakpoint, you should**use a reduced settings profile for graphics related features** , because higher settings will increase the workload for your PC, which may even lead to game crash issue.
@@ -177,9 +179,6 @@ Here are the system requirements for Ghost Recon Breakpoint:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall the game
 
  If none of the fixes works for you, it’s time to reinstall the game. Usually after reinstalling, you should be able to play Ghost Recon Breakpoint smoothly.
@@ -197,8 +196,6 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +203,20 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-assessment-parrot-ar-drone-20-enhanced-edition/"><u>[New] Assessment Parrot AR Drone 2.0 Enhanced Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfecting-channel-art-a-step-by-step-instructional-manual-for-2024/"><u>[New] Perfecting Channel Art A Step-by-Step Instructional Manual for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-list-12-great-sources-for-no-cost-image-shots/"><u>[Updated] 2024 Approved Ultimate List 12 Great Sources for No-Cost Image Shots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-androidiphone-top-10-vr-gaming-picks-for-2024/"><u>[Updated] Android/iPhone Top 10 VR Gaming Picks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-treat-tracks-review-exhaustive-guide-on-frozen-food-filming-for-2024/"><u>[Updated] Treat Tracks Review Exhaustive Guide on Frozen Food Filming for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-when-fifa-21-refuses-to-start/"><u>Common Problems & Solutions When FIFA 21 Refuses to Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-fix-stability-issues-with-outpost-infinity-siege-on-windows-pcs/"><u>Expert Tips to Fix Stability Issues with Outpost: Infinity Siege on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-load-screen-in-fortnite-a-comprehensive-guide/"><u>Fixing the Unresponsive Load Screen in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-asus-rog-phone-8-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Asus ROG Phone 8 Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-playthrough-success-story-overcoming-memory-glitch-12707/"><u>Modern Warfare ‪3‬ Playthrough Success Story - Overcoming Memory Glitch 12707</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010633866-shadowplay-not-capturing-gameplay-solve-the-issue-on-windows-now/"><u>ShadowPlay Not Capturing Gameplay? Solve the Issue on Windows Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solutions-eliminating-packet-loss-on-discord/"><u>Troubleshooting Solutions: Eliminating Packet Loss on Discord</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726225244632-mpeg-movavi/"><u>オンラインで使いやすくて安価なMPEGファイルをリアルタイム変換: Movavi</u></a></li>
+</ul></div>
 

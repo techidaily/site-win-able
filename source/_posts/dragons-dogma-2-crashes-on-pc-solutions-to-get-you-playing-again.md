@@ -1,7 +1,7 @@
 ---
 title: "Dragon's Dogma 2 Crashes on PC: Solutions to Get You Playing Again"
-date: 2024-08-13T10:06:47.388Z
-updated: 2024-08-14T10:06:47.388Z
+date: 2025-01-11T17:01:11.534Z
+updated: 2025-01-12T16:39:02.308Z
 tags:
   - win11
   - win10
@@ -19,8 +19,9 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
  Here are a few methods that can help you get rid of this freezing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,10 +39,12 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 1. Run Steam.
 2. Launch the game and click**Option** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 3. Tick the **Windowed** box under Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
@@ -49,6 +52,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -59,23 +66,22 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
  The privilege issue might be the reason for Fallout 3 freezing issue. With high integrity access, Fallout 3 can make full use of its features, so run it as an administrator to see if this fixes your freezes.
@@ -83,9 +89,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 1. Run Steam. Right-click on Fallout 3 and choose**Properties** .
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click on Fallout 3.exe and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
@@ -124,15 +127,14 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Relaunch the game and check whether it will freeze or not.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -156,8 +158,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-direction-whats-the-right-angle/"><u>[New] FB Video Direction What's the Right Angle?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>[New] Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-eq-adjustments-in-ableton/"><u>[New] Perfecting EQ Adjustments in Ableton</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>[New] Streamline Visuals Integrating Filters Into Videos (PC/Mobile)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-premier-hash-trackers-fb-tweet-instagram-edition/"><u>2024 Approved Premier Hash Trackers FB, Tweet, Instagram Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-starts-with-a-blank-slate-heres-your-comprehnensive-solution/"><u>Elden Ring Starts With a Blank Slate? Here's Your Comprehnensive Solution!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-when-dragon-age-origins-fails-to-load-on-a-windows-tenth-system/"><u>Expert Fixes for When Dragon Age: Origins Fails to Load on a Windows Tenth System</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-does-soil-texture-affect-plant-growth/"><u>How Does Soil Texture Affect Plant Growth?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/in-depth-analysis-of-access-violation-in-civil-litigation-case-civ-6-and-its-rectification-roadmap/"><u>In Depth Analysis of Access Violation in Civil Litigation - Case CIV 6 and Its Rectification Roadmap</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-ghostrunner-game-errors-on-windows-11-expert-solutions/"><u>Troubleshooting Ghostrunner Game Errors on Windows 11 - Expert Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-is-monster-hunter-stories-2-wings-of-ruin-failing-to-start/"><u>Troubleshooting Guide: Why Is Monster Hunter Stories 2: Wings of Ruin Failing to Start?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-preventing-wallpaper-engine-errors-in-windows-operating-systems-v11-and-v10/"><u>Ultimate Fixes for Preventing Wallpaper Engine Errors in Windows Operating Systems - V11 and V10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds
-date: 2025-01-02T17:32:24.110Z
-updated: 2025-01-05T21:11:09.223Z
+date: 2025-01-08T17:17:56.241Z
+updated: 2025-01-12T17:09:24.104Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CoD Vanguard Crashing
 
@@ -56,7 +60,7 @@ Here’s how to use Fortect to run a Windows repair:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -94,19 +98,15 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -130,6 +130,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
@@ -139,7 +143,7 @@ To check the specs of your PC:
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
@@ -151,11 +155,11 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -176,11 +180,11 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -191,10 +195,6 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -222,20 +222,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-can-your-tv-play-facebook-content-like-youtube-now/"><u>[New] 2024 Approved Can Your TV Play Facebook Content Like YouTube Now?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-basketball-enthusiasts-guide-to-online-viewing/"><u>[New] Basketball Enthusiast's Guide to Online Viewing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-thumbnail-design-journey-today-in-2024/"><u>[Updated] Streamline Your Thumbnail Design Journey Today, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-shadows-expert-fixes-to-minecrafts-ominous-black-screen-problem-2024-solutions-revealed/"><u>Banish the Shadows: Expert Fixes to Minecraft's Ominous Black Screen Problem - 2024 Solutions Revealed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/dead-by-daylight-help-comprehensive-guide-to-fixing-ea-error-code-8014-permanently/"><u>Dead by Daylight Help - Comprehensive Guide to Fixing EA Error Code #8014 Permanently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-and-use-remote-functionality-on-your-samsung-smarttv-a-comprehensive-guide/"><u>How to Enable and Use Remote Functionality on Your Samsung SmartTV: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-find-yourself-lost-facebook-posts-against-all-odds/"><u>How to Find Yourself Lost Facebook Posts Against All Odds</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 4G To Phone | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-selection-5-elite-webcams-with-audio-features/"><u>In 2024, The Ultimate Selection 5 Elite Webcams With Audio Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-correcting-disk-write-failures-on-steam-platform/"><u>Master the Art of Correcting Disk Write Failures on Steam Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/outlook-crash-woes-addressed-proven-strategies-to-keep-it-running-smoothly/"><u>Outlook Crash Woes Addressed: Proven Strategies to Keep It Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-strategies-for-enhancing-fps-on-tainted-grail-conquest-gaming/"><u>Step-by-Step Strategies for Enhancing FPS on Tainted Grail: Conquest Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tame-your-overflowing-google-drive-how-an-ingenious-tool-rescued-me-from-a-clutter-catastrophe-as-seen-on-zdnet/"><u>Tame Your Overflowing Google Drive: How an Ingenious Tool Rescued Me From a Clutter Catastrophe, as Seen on ZDNET!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-eliminating-black-display-errors-during-zoom-calls-on-your-computer-expert-guide-2024/"><u>Ultimate Troubleshooting Tips: Eliminating Black Display Errors During Zoom Calls on Your Computer - Expert Guide 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-puzzles-in-cyberpunk-2077-solving-pc-stability-issues-for-an-uninterrupted-experience/"><u>Unraveling Puzzles in Cyberpunk 2077: Solving PC Stability Issues for an Uninterrupted Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-excellent-ios-options-for-emulating-top-notch-psp-games/"><u>[New] Excellent iOS Options for Emulating Top-Notch PSP Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-aspect-ratios-unveiled-your-guide-to-stellar-yt-images/"><u>[Updated] In 2024, Aspect Ratios Unveiled Your Guide to Stellar YT Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-guide-to-mastering-streamlabs-obs-usage-for-2024/"><u>[Updated] Step-by-Step Guide to Mastering Streamlabs OBS Usage for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressed-and-improved-gaming-performance-reducing-unwanted-fps-decreases/"><u>Addressed and Improved Gaming Performance: Reducing Unwanted FPS Decreases</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-freezing-issues-in-the-latest-update-tips-for-a-smooth-new-world-experience/"><u>Battling Freezing Issues in the Latest Update: Tips for a Smooth New World Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-gaming-pace-proven-methods-to-tackle-frame-drops-and-lag-issues-in-valheim-new-insights/"><u>Enhance Gaming Pace: Proven Methods to Tackle Frame Drops and Lag Issues in Valheim (New Insights)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-problem-with-non-responsive-google-chrome-browser/"><u>How to Fix the Problem with Non-Responsive Google Chrome Browser</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/locating-flip-softwares-assistance-documentation-to-enhance-control-of-flipoffice-pro-flipbuildercom/"><u>Locating Flip Software’s Assistance Documentation to Enhance Control of FlipOffice Pro [FlipBuilder.com]</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/making-sense-of-smartphone-needs-with-the-google-pixel-4a-review/"><u>Making Sense of Smartphone Needs with the Google Pixel 4a Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-pc-launch-issues-resolved-for-e2024-release/"><u>Modern Warfare (PC) Launch Issues Resolved for E2024 Release</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/potential-problems-with-extended-names-in-file-management-systems/"><u>Potential Problems with Extended Names in File Management Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-unwanted-pc-crashes-with-these-6-effective-methods/"><u>Resolve Unwanted PC Crashes with These 6 Effective Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-fixing-the-clownfish-voice-alteration-device/"><u>Step-by-Step Solutions for Fixing the Clownfish Voice Alteration Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-step-by-step-solutions/"><u>Troubleshooting PC Issues with 'Sons of the Forest' - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-stability-no-more-black-desert-online-pc-game-crashes/"><u>Ultimate Fix for Stability: No More Black Desert Online PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-risk-of-rain-2-how-to-ensure-no-more-game-crashes/"><u>Ultimate Troubleshooting for Risk of Rain 2 - How to Ensure No More Game Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-rapid-system-restart-windows-11-edition/"><u>Unlocking the Secrets of Rapid System Restart: Windows 11 Edition</u></a></li>
 </ul></div>
 

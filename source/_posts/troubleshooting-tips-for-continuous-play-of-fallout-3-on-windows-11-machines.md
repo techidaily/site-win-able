@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Continuous Play of Fallout 3 on Windows 11 Machines
-date: 2024-08-13T10:00:05.161Z
-updated: 2024-08-14T10:00:05.161Z
+date: 2025-01-07T16:21:27.379Z
+updated: 2025-01-12T17:32:49.775Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -50,9 +46,6 @@ The outdated or broken graphics driver often crashes the game.
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
@@ -60,7 +53,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -69,16 +70,14 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -92,18 +91,17 @@ The outdated or broken graphics driver often crashes the game.
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
 
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -112,13 +110,15 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -140,8 +140,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +147,26 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ideal-techniques-for-noiseless-recording/"><u>[New] 2024 Approved Ideal Techniques for Noiseless Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-djis-aviation-innovation-meets-gaming-mavic-air-versus-spark/"><u>[New] DJI’s Aviation Innovation Meets Gaming Mavic Air Versus Spark</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-premium-15-ultra-mobile-video-devices/"><u>[New] In 2024, Premium 15 Ultra-Mobile Video Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>[New] In 2024, The Reddit Post Playbook A Methodical Approach to Engagement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-what-is-the-best-mp4-cutter-for-youtubers-on-mac/"><u>[Updated] 2024 Approved What Is the Best MP4 Cutter for YouTubers On Mac?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-windows-11-revolutionary-techniques-for-efficient-video-trimming/"><u>[Updated] Master Window's 11 Revolutionary Techniques for Efficient Video Trimming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-essential-handbook-for-iphone-time-reversal/"><u>2024 Approved The Essential Handbook for iPhone Time-Reversal</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-gratuita-de-archivos-mp4-a-flv-online-con-movavi/"><u>Conversión Gratuita De Archivos MP4 a FLV Online Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-and-sync-e-books-to-your-iphone-at-your-own-pace-no-itunes-needed/"><u>Download and Sync E-Books to Your iPhone at Your Own Pace – No iTunes Needed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-the-ultimate-list-of-free-flv-converters-the-top-10-choices-for-seamless-conversion/"><u>Download the Ultimate List of Free FLV Converters: The Top 10 Choices for Seamless Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-for-downloading-content-from-tiktok-a-comprehensive-guide/"><u>Effective Strategies for Downloading Content From TikTok: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-methods-mastering-the-art-of-converting-51-surround-sound-to-stereo-in-three-straightforward-strategies/"><u>Efficient Methods: Mastering the Art of Converting 5.1 Surround Sound to Stereo in Three Straightforward Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-audio-removal-for-windows-11-users-a-comprehensive-guide-with-bulk-file-support/"><u>Effortless Audio Removal for Windows 11 Users: A Comprehensive Guide with Bulk File Support</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-conversion-guide-transforming-mpg-to-mov-files-across-pc-mac-and-web-platforms/"><u>Effortless Conversion Guide: Transforming MPG to MOV Files Across PC, Mac & Web Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-transformation-converting-iso-videos-into-avi-format/"><u>Effortless Transformation: Converting ISO Videos Into AVI Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-viewing-experience-top-5-tweaks-for-better-x-video-playback/"><u>Enhance Your Viewing Experience: Top 5 Tweaks for Better X Video Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-not-working-errors-with-dvd-shrink-software-on-your-windows-11-pc/"><u>Fixing 'Not Working' Errors with DVD Shrink Software on Your Windows 11 PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-troubleshoot-and-fix-msstdfmtdll-absence-or-non-discovery-problems/"><u>How to Troubleshoot and Fix Msstdfmt.dll Absence or Non-Discovery Problems</u></a></li>
+</ul></div>
 

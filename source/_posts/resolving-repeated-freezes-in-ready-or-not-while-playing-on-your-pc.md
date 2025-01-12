@@ -1,7 +1,7 @@
 ---
 title: Resolving Repeated Freezes in 'Ready or Not' While Playing on Your PC
-date: 2024-08-13T10:00:32.245Z
-updated: 2024-08-14T10:00:32.245Z
+date: 2025-01-06T16:14:30.946Z
+updated: 2025-01-12T16:57:39.974Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -34,8 +31,9 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -48,18 +46,12 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -69,9 +61,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  If this didn’t resolve your issue, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Steam as an administrator
 
  Risk of Rain 2 might not have full access to your PC’s game files or folders in normal user mode. To check if this is the cause of the crashing issue, try running Steam with administrator privileges.
@@ -88,6 +77,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable your antivirus temporarily
 
  Sometimes, antivirus software can interfere with game performance. Temporarily disabling your antivirus can help determine if it’s causing the problem. You can consult your antivirus documentation for instructions on disabling it.
@@ -95,6 +88,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  If disabling your antivirus resolves the issue, consider contacting the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -112,18 +109,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
@@ -140,21 +125,23 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -162,16 +149,14 @@ If your problem still exists, go ahead with the fix below.
 
 **1)** Right-click the**Steam icon** and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
@@ -186,17 +171,22 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -213,8 +203,6 @@ If your problem still exists, go ahead with the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +210,26 @@ If your problem still exists, go ahead with the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-single-frame-solution-separate-and-save-pics-from-video-in-windows-photos/"><u>[New] 2024 Approved Single-Frame Solution Separate and Save Pics From Video in Windows Photos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-acid-pro-revisited-exploring-equivalent-tools/"><u>[Updated] 2024 Approved ACID Pro Revisited Exploring Equivalent Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-basics-of-fading-effects-for-clearer-audio-output/"><u>[Updated] Basics of Fading Effects for Clearer Audio Output</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>[Updated] In 2024, Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/10-essential-tips-for-achieving-wealth-through-youtube-video-views/"><u>10 Essential Tips for Achieving Wealth Through YouTube Video Views</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/9-top-rated-laptop-screenshot-tools-compatible-with-windows/"><u>9 Top-Rated Laptop Screenshot Tools Compatible with Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/6kal44kj44km44gq44ge5yuv55s744gu5zwp6agm77yf44gt44gt44gr5pya5asn44gu5y6f5zug44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw5pa55rov/"><u>見られない動画の問題？ここに最大の原因とトラブルシューティング方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/all-in-one-digital-content-guard-video-and-picture-watermarking-solutions/"><u>All-in-One Digital Content Guard: Video & Picture Watermarking Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-12-complimentary-video-editing-apps-on-instagram-top-picks-for-pc-online-and-mobile-use/"><u>Best 12 Complimentary Video Editing Apps on Instagram: Top Picks for PC, Online & Mobile Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-guide-using-top-rated-windows-1011-dvd-decode-software-to-watch-any-movie/"><u>Best Guide: Using Top-Rated Windows 10/11 DVD Decode Software to Watch Any Movie</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-effortless-techniques-for-ripping-burning-and-duplicating-dvdcd-content/"><u>Comprehensive Guide: Effortless Techniques for Ripping, Burning & Duplicating DVD/CD Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-upkeep-package-for-enhancing-your-kodi-indigo-xmb-channel-experience/"><u>Comprehensive Upkeep Package for Enhancing Your Kodi Indigo XMB Channel Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/cost-free-guide-mastering-simple-techniques-in-editing-your-screenshots/"><u>Cost-Free Guide: Mastering Simple Techniques in Editing Your Screenshots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-correcting-the-flickering-display-problem-on-your-microsoft-surface/"><u>Diagnosing & Correcting the Flickering Display Problem on Your Microsoft Surface</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-hangouts-demystified-what-was-it-designed-for/"><u>Google Hangouts Demystified: What Was It Designed For?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-updated-drivers-for-your-samsung-960-evo-in-windows/"><u>How to Download and Install Updated Drivers for Your Samsung 960 EVO in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/44oh44kk44kv44og44kt44ol44o844gn5qw944gx44gp5yip55so44gz44kl44gf44kb44gu44ob44o844oi44k344o844oi44go5pya5paw5yws6kqn44kz44o844oj6ygp55so5pa55rov/"><u>メイクムキューで楽しく利用するためのチートシートと最新公認コード適用方法</u></a></li>
+</ul></div>
 

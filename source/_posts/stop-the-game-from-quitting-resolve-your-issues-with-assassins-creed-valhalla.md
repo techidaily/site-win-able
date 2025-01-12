@@ -1,7 +1,7 @@
 ---
 title: "Stop the Game From Quitting: Resolve Your Issues with Assassin's Creed Valhalla"
-date: 2024-12-30T21:56:13.475Z
-updated: 2025-01-05T23:53:34.586Z
+date: 2025-01-06T17:05:57.227Z
+updated: 2025-01-12T16:55:03.183Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  If the game seems too demanding for your computer, then maybe you need to get ready for the upcoming Black Friday.
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -127,15 +131,11 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -144,7 +144,7 @@ If the crash happens again, you can take a look at the next fix.
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
@@ -160,6 +160,10 @@ If the crash happens again, you can take a look at the next fix.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
@@ -167,16 +171,12 @@ If the crash happens again, you can take a look at the next fix.
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -201,24 +201,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-cut-the-red-tape-simplify-xboxfb-broadcasting-for-2024/"><u>[New] Cut the Red Tape Simplify Xbox/FB Broadcasting for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-precision-recording-perfecting-video-captures-on-your-android-phone-for-2024/"><u>[New] Precision Recording Perfecting Video Captures on Your Android Phone for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>2024 Approved Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
-<li><a href="https://win-able.techidaily.com/batman-arkham-knight-stutter-free-gaming-guide-how-to-fix-critical-malfunctions-quickly/"><u>Batman: Arkham Knight Stutter-Free Gaming Guide: How to Fix Critical Malfunctions Quickly</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-maplestory-bugs-a-comprehensive-fix-guide-for-players-using-windows-11/"><u>Beat MapleStory Bugs : A Comprehensive Fix Guide for Players Using Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-display-troubles-fixing-screen-sharing-issues-that-cause-a-black-outage-on-screens/"><u>Discord Display Troubles: Fixing Screen Sharing Issues That Cause a Black Outage on Screens</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-and-fix-no-ping-to-halos-data-centers-error-a-step-by-step-guide/"><u>How to Address and Fix 'No Ping to Halo's Data Centers' Error - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 iOS? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-continuous-crashes-in-elex-ii-on-your-computer/"><u>How to Resolve Continuous Crashes in Elex II on Your Computer</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-se-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone SE Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-70-lite-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor 70 Lite 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-assassins-creed-odyssey-stability-expert-troubleshooting-tips/"><u>Master Assassin's Creed Odyssey Stability : Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-compatibility-hurdles-making-logitech-options-work-seamlessly-in-windows-environment/"><u>Overcoming Compatibility Hurdles: Making Logitech Options Work Seamlessly in Windows Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/soil-testing-identifies-specific-soil-needs-allowing-for-targeted-amendments-which-improves-crop-yields-reduces-waste-and-minimizes-environmental-harm-from-613/"><u>Soil Testing Identifies Specific Soil Needs, Allowing for Targeted Amendments, Which Improves Crop Yields, Reduces Waste, and Minimizes Environmental Harm From Over-Fertilization.</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-redred2-errgfxstate-issue-a-comprehensive-guide/"><u>Troubleshooting the RED_RED2 ERR_GFX_STATE Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweetturnstile-how-video-trends-surge-online-for-2024/"><u>TweetTurnstile How Video Trends Surge Online for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/unlocking-pc-potentials-a-guide-to-key-functions-via-registry-tweaks-with-yl-computing-tools/"><u>Unlocking PC Potentials: A Guide to Key Functions via Registry Tweaks with YL Computing Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-user-interface-an-insight/"><u>Windows 11 User Interface: An Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tips-downloading-and-installing-obs-for-mac-users-for-2024/"><u>[New] Essential Tips Downloading & Installing OBS for Mac Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-ideal-podcast-title-creation/"><u>[New] The Ultimate Checklist for Ideal Podcast Title Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-7-fixes-for-overwatch-2-not-launching-2024/"><u>[Solved] 7 Fixes for Overwatch 2 Not Launching 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-complete-unpacking-of-ricohs-theta-vr-solution-for-2024/"><u>[Updated] Complete Unpacking of Ricoh's Theta VR Solution for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freeing-up-youtube-views-no-more-grey-lines-for-2024/"><u>[Updated] Freeing Up YouTube Views No More Grey Lines for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-haul-videos-tips-and-tricks-for-editors/"><u>[Updated] Mastering Haul Videos Tips & Tricks for Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premier-directory-of-economical-visual-content-providers/"><u>[Updated] Premier Directory of Economical Visual Content Providers</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-teardown-crash-troubleshooting-the-complete-manual/"><u>Comprehensive Teardown Crash Troubleshooting - The Complete Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-in-depth-fixes-for-cod-warzone-dev-error-6634/"><u>Cracking the Code: In-Depth Fixes for COD Warzone Dev Error 6634</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/economical-skydrive-vault-mass-file-management-on-a-dime/"><u>Economical Skydrive Vault Mass File Management on a Dime</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-problems-with-non-responsive-amd-radeon-software-application/"><u>Fixing Problems with Non-Responsive AMD Radeon Software Application</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-persona-cuarto-ultimate-guide-to-fix-pc-instability-and-crash-issues/"><u>Mastering Persona Cuarto: Ultimate Guide to Fix PC Instability and Crash Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>Mirth Mechanics Gratis Tools to Amuse and Entertain</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-playing-steam-titles-on-windows-11-after-upgradation-woes/"><u>Troubleshooting Guide for Playing Steam Titles on Windows 11 After Upgradation Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-poor-fps-issues-for-new-games-a-comprehensive-guide/"><u>Troubleshooting Poor FPS Issues for New Games – A Comprehensive Guide</u></a></li>
 </ul></div>
 

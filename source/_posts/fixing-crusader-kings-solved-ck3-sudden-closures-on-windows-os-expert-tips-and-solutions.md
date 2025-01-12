@@ -1,7 +1,7 @@
 ---
 title: Fixing Crusader Kings ([SOLVED] CK3) Sudden Closures on Windows OS - Expert Tips and Solutions
-date: 2025-01-01T20:15:53.469Z
-updated: 2025-01-05T17:27:20.101Z
+date: 2025-01-05T17:05:11.071Z
+updated: 2025-01-12T17:31:09.914Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Games crashes are not something uncommon. And you might encounter the same issue
 6. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Before getting started
 
  Halo 3 could be crashing because you’re running it beyond your computer’s abilities. So make sure your computer meets the requirements for the game.
@@ -53,16 +49,16 @@ _Halo 3 Minimum System Requirements_
 
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
 
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
@@ -76,7 +72,7 @@ _Halo 3 Minimum System Requirements_
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
@@ -85,7 +81,7 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OR  
@@ -96,12 +92,16 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -145,10 +145,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Perform a clean boot
 
  Your game might suddenly close without giving you any error message. If you’re experiencing this kind of issue even after updating the graphics drivers, then we suggest you try performing Clean Boot. It can be a great way to troubleshoot the Halo 3 crashing issues.
@@ -161,14 +157,14 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
@@ -193,6 +189,10 @@ To do so:
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
@@ -214,6 +214,10 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Verify the integrity of game files
 
  Halo 3 is available on PC through Steam. But players have been experiencing sudden crashes in Halo 3 on Steam. It can be caused by a bad game cache, so you need to ensure that the integrity of game files is intact.  
@@ -224,10 +228,6 @@ To do so:
   
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click**Halo 3** and select**Properties** .  
   
@@ -240,7 +240,7 @@ To do so:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
@@ -269,17 +269,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-enhancing-visual-narratives-through-vsco-editing/"><u>[New] Enhancing Visual Narratives Through VSCO Editing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-identifying-the-top-12-easiest-to-use-flip-screen-cams/"><u>[New] In 2024, Identifying the Top 12 Easiest to Use Flip Screen Cams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-harmonizing-history-best-theme-songs-in-anime-for-2024/"><u>[Updated] Harmonizing History Best Theme Songs in Anime for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-summit-of-virtual-reality-resolution/"><u>[Updated] Summit of Virtual Reality Resolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-the-error-effective-fixes-for-continuous-crashes-of-ready-or-not-on-desktops-and-laptops/"><u>Banishing the Error: Effective Fixes for Continuous Crashes of 'Ready or Not' On Desktops and Laptops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cant-access-chatgpt-on-iphone-here-are-9-effective-fixes/"><u>Can't Access ChatGPT on iPhone? Here Are 9 Effective Fixes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/captivating-content-conquerors-manual-for-stellar-tiktok-reactions-with-filmora/"><u>Captivating Content Conqueror’s Manual for Stellar TikTok Reactions with Filmora</u></a></li>
-<li><a href="https://win-able.techidaily.com/hogwarts-legacy-launch-troubles-top-strategies-to-overcome-game-failures/"><u>Hogwarts Legacy Launch Troubles? Top Strategies to Overcome Game Failures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Nokia Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-fortnite-play-errors-with-this-simple-permission-denied-fix/"><u>Troubleshoot Fortnite Play Errors with This Simple 'Permission Denied' Fix</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-behind-alan-wake-2s-postponed-debut/"><u>Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-earning-potential-revenue-from-youtube-advertisements/"><u>[New] 2024 Approved Exploring Earning Potential Revenue From YouTube Advertisements?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-insiders-choice-best-picks-for-snappable-soundtracks/"><u>[New] 2024 Approved Insider's Choice Best Picks for Snappable Soundtracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-avoid-facebooks-invasion-keeping-feeds-free-of-ads/"><u>[Updated] 2024 Approved Avoid Facebook's Invasion Keeping Feeds Free of Ads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-narzo-n53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme Narzo N53 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/describe-a-symbiotic-relationship-between-photoautotrophs-and-heterotrophs-in-agriculture/"><u>Describe a Symbiotic Relationship Between Photoautotrophs and Heterotrophs in Agriculture.</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-launches-solving-problems-with-steam-on-windows-10-systems/"><u>Mastering Game Launches: Solving Problems with Steam on Windows 10 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-google-pixel-8-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Google Pixel 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-successfully-installing-age-of-empires-iv-via-microsoft-store/"><u>Solution Found: Successfully Installing Age of Empires IV via Microsoft Store</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-a-guide-for-windows-users/"><u>Solving 'No Rest for the Wicked' Game Crashes: A Guide for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-valorant-wont-start-on-your-pc/"><u>Solving the Problem: Valorant Won't Start on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-preventing-and-fixing-crashes-in-stardew-valley-on-your-computer/"><u>Step-by-Step: Preventing and Fixing Crashes in Stardew Valley on Your Computer</u></a></li>
+<li><a href="https://solve-news.techidaily.com/telechargement-gratuit-de-macx-video-converter-pro-sur-internet/"><u>Téléchargement Gratuit De MacX Video Converter Pro Sur Internet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oneplus-nord-n30-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 OnePlus Nord N30 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solutions-to-cod-black-ops-4s-lag-spikes-and-fps-issues/"><u>Troubleshooting Solutions to COD Black Ops 4'S Lag Spikes & FPS Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlimited-christmas-classics-9-films-available-for-no-charge-in-2024/"><u>Unlimited Christmas Classics 9 Films Available for No Charge, In 2024</u></a></li>
 </ul></div>
 

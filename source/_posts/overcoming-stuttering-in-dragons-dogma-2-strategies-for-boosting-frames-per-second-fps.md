@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Stuttering in Dragon's Dogma 2: Strategies for Boosting Frames per Second (FPS)"
-date: 2024-12-29T19:38:10.494Z
-updated: 2025-01-05T23:46:31.886Z
+date: 2025-01-08T17:33:51.585Z
+updated: 2025-01-12T17:31:27.973Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  VR games tend to be graphically demanding, not to mention this long anticipated AAA title. So before you can fully experience the well-crafted dystopia in Half Life: Alyx, first you need to make sure your gaming rig meets the minimum requirements. Because if it doesn’t, then maybe it’s time for an upgrade.
@@ -47,10 +51,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -61,27 +61,31 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
 
@@ -92,10 +96,6 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -110,6 +110,10 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -127,12 +131,12 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -146,7 +150,7 @@ Here’s how you can check for updates manually:
 If this method failed to fix the lag, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
@@ -162,10 +166,6 @@ To do so, follow these steps:
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,14 +186,24 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>[New] 2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-virtual-reality-grips-the-ultimate-selection/"><u>[Updated] In 2024, Virtual Reality Grips The Ultimate Selection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-gear-in-motion-top-5-professional-grade-action-cameras-ranked/"><u>Best Gear in Motion: Top 5 Professional-Grade Action Cameras Ranked</u></a></li>
-<li><a href="https://network-issues.techidaily.com/comwin-stability-after-security-patches/"><u>ComWin Stability After Security Patches</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999961120-half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-mastering-youtube-studio-ultimate-video-edits-techniques/"><u>In 2024, Mastering YouTube Studio Ultimate Video Edits Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-jurassic-world-evolutions-crash-problems-tips-and-tricks/"><u>Mastering the Fix for Jurassic World Evolution's Crash Problems: Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-your-scanning-problems-with-these-expert-fixing-strategies/"><u>Overcome Your Scanning Problems with These Expert Fixing Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-persona-3-reload-pc-game-crashes/"><u>Solved: Fixing PERSONA 3 RELOAD PC Game Crashes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-perfect-vlog-title-best-free-name-generators/"><u>[New] 2024 Approved Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-leveraging-modern-ios-features-for-seamless-task-management/"><u>[New] 2024 Approved Leveraging Modern iOS Features for Seamless Task Management</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-native-chrome-os-screen-snapper-for-2024/"><u>[New] Native Chrome OS Screen Snapper for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>[Updated] In 2024, Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>[Updated] Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unboxing-t5s-capability-as-a-sports-recorder/"><u>[Updated] Unboxing T5's Capability as a Sports Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/cutting-through-the-buffering-proven-solutions-to-your-lol-bandwidth-woes/"><u>Cutting Through the Buffering: Proven Solutions to Your LoL Bandwidth Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-black-ops-cold-war-issue-error-887a0005-demystified/"><u>Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-lost-ark-experience-fixing-lag-issues-maximizing-fps-gain/"><u>Enhance Your Lost Ark Experience: Fixing Lag Issues, Maximizing FPS Gain</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-you-reverse-an-apple-vision-pro-purchase-discover-tips-with-zdnets-assistance/"><u>How Do You Reverse an Apple Vision Pro Purchase? Discover Tips with ZDNet's Assistance</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-counter-strike-2-from-crashing-ultimate-guide-updated-2vew/"><u>How to Stop Counter-Strike 2 From Crashing: Ultimate Guide (Updated 2Vew)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lunar-client-stability-issues-effective-strategies-for-preventing-pc-crashes/"><u>Lunar Client Stability Issues: Effective Strategies for Preventing PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-latency-free-performance-in-obs-broadcasts-and-video-capture-sessions/"><u>Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-troubleshooting-guide-to-fix-game-crashes/"><u>Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-pc-gaming-nightmares-tips-to-stop-outriders-from-freezing-and-stuttering/"><u>Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-call-of-duty-black-ops-cold-war-fixing-user-interface-error-27711/"><u>Resolved: Call of Duty Black Ops Cold War - Fixing User Interface Error 27711</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232456-9781644112687-the-path-of-the-warrior-mystic/"><u>The Path of the Warrior-Mystic | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Nord N30 SE | Dr.fone</u></a></li>
 </ul></div>
 

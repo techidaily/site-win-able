@@ -1,7 +1,7 @@
 ---
 title: "Rust Development Hacks: Proven Solutions to Tackle 'Not Responding' Issues (Updated )"
-date: 2024-08-13T10:05:17.231Z
-updated: 2024-08-14T10:05:17.231Z
+date: 2025-01-09T16:54:19.026Z
+updated: 2025-01-12T17:27:44.161Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You might not need to try all of them; simply work your way down until you find the one that gives you luck.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your specs meet the requirements
 
  Just like the notorious Watch Dogs: Legion, Assassin’s Creed Valhalla is one of the best offerings of Ubisoft in 2020\. And when it comes to AAA titles in a Ray Tracing era, having a great gaming setup becomes a must for all the aficionados out there. So before you dive into any advance troubleshooting below, first**make sure your PC specs meets the minimum game requirements** :
@@ -65,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -76,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -85,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  If verifying game files didn’t help your case, simply check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -95,9 +92,6 @@ You can use these steps to check for Windows updates manually:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -132,10 +126,16 @@ If the crash happens again, you can take a look at the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -155,6 +155,10 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick failed to solve your problem, you can move on to the next one.
 
 ### Fix 6: Disable peripherals
@@ -163,9 +167,6 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
@@ -184,8 +185,6 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +192,24 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unleash-creativity-with-these-top-free-slideshow-templates/"><u>[New] In 2024, Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-mass-effect-legendary-edition-stuttering/"><u>[SOLVED] Mass Effect Legendary Edition Stuttering</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-launchpad-essentials-your-first-steps-in-streaming/"><u>[Updated] Launchpad Essentials Your First Steps in Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-discover-hotel-tech-upgrade-enjoy-apple-airplay-streaming-in-selected-accommodations-a-simple-guide-to-using-the-feature/"><u>1. Discover Hotel Tech Upgrade: Enjoy Apple AirPlay Streaming in Selected Accommodations – A Simple Guide to Using the Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-stutter-and-lag-expert-fixes-for-uninterrupted-diablo-4-playtime-on-xbox-ps5-and-pc/"><u>Conquer Stutter and Lag: Expert Fixes for Uninterrupted Diablo 4 Playtime on Xbox, PS5 & PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/direct-engagement-syncing-instagram-with-facebook-for-2024/"><u>Direct Engagement Syncing Instagram with Facebook for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicle-purchasing-guide-a-list-of-nine-insightful-questions-every-potential-buyer-should-ask/"><u>Electric Vehicle Purchasing Guide: A List of Nine Insightful Questions Every Potential Buyer Should Ask</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-updating-dell-inspiron-g7-graphics-drivers/"><u>Fast and Simple Guide: Updating Dell Inspiron G7 Graphics Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ghostrunners-critical-crashes-in-windows-11-step-by-step-guide/"><u>Fixing GhostRunner's Critical Crashes in Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scripting-striking-film-epilogues/"><u>In 2024, Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-black-screens-the-latest-fixes-for-lol-players/"><u>Overcoming Black Screens: The Latest Fixes for LoL Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/"><u>PC Gaming Made Simple: Resolve 'Disco Elysium' Game Crash Issues Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-cures-for-glitchy-playthrough-of-mass-effect-legacy-edition/"><u>Troubleshooting Cures for Glitchy Playthrough of Mass Effect Legacy Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminate-sims-4-sluggishness-and-enhance-gameplay-pc-expert-strategies/"><u>Ultimate Guide: Eliminate Sims 4 Sluggishness & Enhance Gameplay (PC) – Expert Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-full-potential-of-firefox-x-pie-mode/"><u>Unleashing Full Potential of Firefox X-Pie Mode</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991483283-why-the-delay-mafia-definitive-eds-official-launch-date-revealed/"><u>Why the Delay? Mafia: Definitive Ed.'s Official Launch Date Revealed!</u></a></li>
+</ul></div>
 

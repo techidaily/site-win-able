@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Game Library: Resolve Warzone Disc Read Errors [5.0, 3.1] for PC Users"
-date: 2025-01-03T23:12:46.367Z
-updated: 2025-01-05T20:01:08.394Z
+date: 2025-01-09T16:01:36.387Z
+updated: 2025-01-12T16:34:44.484Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Star Wars Squadrons crashing
 
@@ -53,6 +49,10 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 Check if the game runs normally now. If not, move on to the second fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of your game files
 
  Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -62,10 +62,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 **1)** Launch the Steam client, and navigate to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
@@ -84,12 +80,16 @@ Check if the game runs normally now. If not, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -120,10 +120,6 @@ There are mainly two ways you can do the driver update:
 
  If all the device drivers are up-to-date but the crashes don’t stop, there are more methods to try below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Turn off overlays
 
  If you’re using the overlay feature, that might be the reason for Star Wars Squadrons crashing. You can follow the instruction below to turn it off on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Origin](https://tools.techidaily.com/drivereasy/download/)**  and **[NVIDIA GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -142,10 +138,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### On Origin
 
 **1)** Launch the Origin game launcher.
@@ -154,21 +146,21 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1200x625.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**settings icon** and click**Game Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On GeForce Experience
 
@@ -183,14 +175,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -206,13 +194,25 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
@@ -241,18 +241,17 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-picks-ultimate-portable-devices-for-cutting-edge-editing/"><u>[New] 2024 Approved Top Picks Ultimate Portable Devices for Cutting-Edge Editing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speech-to-text-magic-free-edition/"><u>[New] Speech-to-Text Magic Free Edition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-speaking-shifts-a-guide-to-free-fire-voices/"><u>[Updated] In 2024, Speaking Shifts A Guide to Free Fire Voices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-magix-video-mastery/"><u>[Updated] Unveiling MAGIX Video Mastery</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-top-10-rated-gopro-cases-revisited/"><u>2024 Approved Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-to-mastering-lut-utilization-for-2024/"><u>A Step-by-Step Approach to Mastering LUT Utilization for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-mouse-driver-downloads-compatible-with-windows-os/"><u>Free Logitech Mouse Driver Downloads Compatible with Windows OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/kernelbasedll-dilemma-overcome-instant-crashing-issues-now/"><u>KernelBase.dll Dilemma? Overcome Instant Crashing Issues Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterful-maneuvers-resolving-stuck-update-problems-in-the-minecraft-native-launcher/"><u>Masterful Maneuvers: Resolving Stuck Update Problems in the Minecraft Native Launcher</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-top-11-ways-to-get-borderlands-3-running-smoothly/"><u>Solving the Puzzle: Top 11 Ways to Get Borderlands 3 Running Smoothly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-complete-breakdown-of-ankers-superspeed-usb-30-hub-a-user-must-have/"><u>The Complete Breakdown of Anker's SuperSpeed USB 3.0 Hub – A User Must-Have</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-gpu-activation-issues-for-call-of-duty-warzone-players-on-windows-11-systems/"><u>Troubleshooting GPU Activation Issues for Call of Duty: Warzone Players on Windows 11 Systems</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/winx-dvd-ripperdvd/"><u>WinX DVD Ripperのセキュリティについて学び、安全なDVDコピー手法を探求:ご利用者の皆様の信頼の証とします</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complementing-narratives-with-skillful-b-roll-usage/"><u>[New] Complementing Narratives with Skillful B-Roll Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>[New] The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-leveraging-desktop-for-maximum-tiktok-exposure/"><u>[Updated] Leveraging Desktop for Maximum TikTok Exposure</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>[Updated] Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-design-for-beginners-premiere-pro-templates-free/"><u>Cutting-Edge Design for Beginners Premiere Pro Templates (Free!)</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-rectify-failed-downloadspeer-connections-on-utorrent/"><u>Effective Ways to Rectify Failed Downloads/Peer Connections on uTorrent</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-tribes-landscape-solutions-to-cataclysm-game-crashes/"><u>Mastering the Tribe's Landscape: Solutions to Cataclysm Game Crashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solutions-facilement-accessibles-pour-les-difficultes-de-lecture-des-dvd-et-disques-sur-votre-playstation-4/"><u>Solutions Facilement Accessibles Pour Les Difficultés De Lecture Des DVD Et Disques Sur Votre PlayStation 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-recording-problems-top-6-strategies-for-a-fixed-obs-microphone/"><u>Solve Your Recording Problems: Top 6 Strategies for a Fixed OBS Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-resolving-connectivity-problems-between-bluetooth-keyboard-and-pc/"><u>Step-by-Step Fix: Resolving Connectivity Problems Between Bluetooth Keyboard & PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/street-saga-best-gaming-matches-to-gta-v/"><u>Street Saga Best Gaming Matches to GTA V</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-players-handbook-overcoming-lag-and-boosting-fps-in-valorant-2024-edition/"><u>The Ultimate Player's Handbook: Overcoming Lag and Boosting FPS in Valorant - 2024 Edition</u></a></li>
 </ul></div>
 

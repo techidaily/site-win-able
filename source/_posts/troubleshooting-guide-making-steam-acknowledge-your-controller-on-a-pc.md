@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2025-01-02T22:10:23.901Z
-updated: 2025-01-05T17:17:52.598Z
+date: 2025-01-09T16:26:12.866Z
+updated: 2025-01-12T16:29:36.340Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Dauntless Crash On PC
@@ -49,13 +49,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
 
@@ -67,7 +67,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -84,13 +84,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -128,15 +128,15 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -171,14 +171,20 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>[New] Unleash Creativity The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[Updated] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-12-best-video-players-and-apps-for-pc-and-mobile-devices/"><u>2024 Approved FREE 12 Best Video Players and Apps for PC and Mobile Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/battling-lags-in-the-virtual-realm-of-avatar-tips-for-seamless-gameplay/"><u>Battling Lags in the Virtual Realm of 'Avatar': Tips for Seamless Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-launch-problems-master-these-simple-fixes/"><u>Fortnite Launch Problems? Master These Simple Fixes!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-tips-updating-and-downloading-epson-drivers-for-optimal-performance-on-windows-10/"><u>Latest Tips: Updating and Downloading Epson Drivers for Optimal Performance on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-left-4-dead-cued-end-of-an-era-beginning-of-a-new-chapter/"><u>Troubleshooting Left 4 Dead Cued: End of an Era, Beginning of a New Chapter</u></a></li>
-<li><a href="https://win-able.techidaily.com/unravel-the-mystery-centurions-age-of-ashes-crash-problem-expert-fix-solutions-for-gaming-on-pc/"><u>Unravel the Mystery: Centurion's Age of Ashes Crash Problem - Expert Fix Solutions for Gaming on PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-detailed-walkthrough-implementing-look-up-tables-in-creative-suite/"><u>[New] 2024 Approved Detailed Walkthrough Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-directvid-capture-kit-fb-version/"><u>[New] 2024 Approved DirectVid Capture Kit, FB Version</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-filming-blending-into-new-backgrounds-easily/"><u>[New] 2024 Approved Instagram Filming Blending Into New Backgrounds Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-nostalgic-compassion-preferred-android-emulators-for-3ds/"><u>[New] 2024 Approved Nostalgic Compassion Preferred Android Emulators for 3DS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expert-strategies-for-flawless-green-screen-videos/"><u>[Updated] Expert Strategies for Flawless Green-Screen Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>2024 Approved Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-troubleshooting-guide-eliminating-game-crashes-and-ensuring-smooth-running/"><u>ARMA 3 Troubleshooting Guide: Eliminating Game Crashes and Ensuring Smooth Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-and-pc-compatibility-woes-heres-how-you-can-keep-your-game-running-smoothly/"><u>Crusader Kings III & PC Compatibility Woes? Here's How You Can Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-access-gpeditmsc-on-your-windows-home-pc/"><u>Fix Guide: How to Access gpedit.msc on Your Windows Home PC</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reinstating-deleted-windows-update-service/"><u>Guide to Reinstating Deleted Windows Update Service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-70-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor 70 Lite 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-battlefield-ebootstraps-launch-issue-guide/"><u>Mastering the Fix: Battlefield Ebootstraps Launch Issue Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010972963-no-more-wow-disruptions-easy-solutions-to-game-crashing-issues/"><u>No More WoW Disruptions: Easy Solutions to Game Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-glitches-optimizing-your-persona-4-golden-experience/"><u>Resolving Frequent Glitches: Optimizing Your Persona 4 Golden Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/slack-vs-discord-selecting-teams-ideal-chat-platform/"><u>Slack Vs. Discord Selecting Teams' Ideal Chat Platform</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fallout 3 Running Issues Resolved: Tips and Fixes to Prevent Freezing on New Windows 11 Devices"
-date: 2024-08-13T10:08:13.219Z
-updated: 2024-08-14T10:08:13.219Z
+date: 2025-01-06T17:10:41.232Z
+updated: 2025-01-12T17:08:55.164Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  If Google Chrome has been freezing your computer since Windows 10 updates, you’ve come to the right place! This article gives practical solutions to your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
@@ -62,18 +60,21 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run System File Checker
 
  If some system files get corrupted after Windows 10 updates, you can run the System File Checker tool to repair those files and help unfreeze your computer. Here’s how to run System File Checker:
 
 1. In the Windows search box, type**cmd** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
@@ -89,10 +90,12 @@ OR
 1. At the top right in Chrome, click the**three dots** \>**More tools** \>**Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
@@ -101,45 +104,42 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable your extensions
 
  Extensions are also known to cause Chrome to freeze. Sometimes they may have compatibility issues with your Chrome browser. You can disable all your extensions in Chrome and see if this solves your problem.
 
 1. Type **chrome://extensions** in the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc3f96a48a.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 2. **Toggle off** all extensions to disable them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reset Chrome settings to default
 
  If Chrome conflicts with some other program on your computer, it may also cause Chrome to freeze. You can reset Chrome to its default settings to better troubleshoot the problem.
 
 1. At the top right in Chrome, click the**three dots** \>**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 2. At the bottom, click**Advanced** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -149,10 +149,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart Chrome to check the issue.
 
 ---
@@ -174,8 +176,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +183,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-underrated-gems-this-year-films/"><u>[New] 2024 Approved Discovering Underrated Gems This Year (Films)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-collection-best-anime-channels-to-watch-youtube/"><u>[New] The Ultimate Collection Best Anime Channels to Watch Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unwind-and-learn-your-guide-to-podcasting-multitasking/"><u>[New] Unwind and Learn Your Guide to Podcasting Multitasking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-youtube-channel-url-a-quick-guide-for-2024/"><u>[Updated] Crafting the Perfect YouTube Channel Url A Quick Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigate-the-excellent-world-of-top-vr-cycling/"><u>[Updated] Navigate the Excellent World of Top VR Cycling</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-updated-nvidia-rtx-2080-drivers-compatible-with-windows-11-7-and-8/"><u>Get Updated Nvidia RTX 2080 Drivers Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-vector-databases-enhance-machine-learning/"><u>How Do Vector Databases Enhance Machine Learning?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y78t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y78t to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/metaverse-jokes-and-gems-how-to-make-your-own-funny-memes-for-2024/"><u>Metaverse Jokes & Gems How to Make Your Own Funny Memes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-integration-setting-up-microsoft-forms-and-excel-online-auto-sync/"><u>Seamless Integration: Setting Up Microsoft Forms & Excel Online Auto-Sync</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-transition-mastering-the-art-of-transferring-contacts-from-outlook-to-gmail/"><u>Seamless Transition: Mastering the Art of Transferring Contacts From Outlook to Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-on-switching-between-row-and-column-formats-in-excel/"><u>Step-by-Step Guide on Switching Between Row and Column Formats in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-page-x-out-of-y-text-to-excel-headerfooter/"><u>Step-by-Step Guide: Adding 'Page X Out of Y' Text to Excel Header/Footer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-bullet-point-lists-to-your-excel-worksheets/"><u>Step-by-Step Guide: Adding Bullet Point Lists to Your Excel Worksheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-an-effective-combination-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting an Effective Combination Chart Using Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-effortlessly-converting-excel-formulas-across-languages/"><u>Step-by-Step Guide: Effortlessly Converting Excel Formulas Across Languages</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-organizing-your-data-chronologically-using-microsoft-excel/"><u>Step-by-Step Guide: Organizing Your Data Chronologically Using Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-removing-protection-from-your-ms-excel-file/"><u>Step-by-Step Guide: Removing Protection From Your MS Excel File</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/the-ace-guide-to-user-friendly-streaming-apps-for-boosting-your-youtube-presence/"><u>The Ace Guide to User-Friendly Streaming Apps for Boosting Your YouTube Presence</u></a></li>
+</ul></div>
 

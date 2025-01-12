@@ -1,7 +1,7 @@
 ---
 title: Logitech G403 Driver & Software Upgrade for PC – Get It Here!
-date: 2024-08-13T09:59:22.414Z
-updated: 2024-08-14T09:59:22.414Z
+date: 2025-01-05T16:51:05.284Z
+updated: 2025-01-12T17:07:19.063Z
 tags:
   - win11
   - win10
@@ -31,22 +31,24 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart Origin completely
 
  This is the first thing you should try when you’re experiencing the “login unavailable” error. Just restart Origin completely:
 
 1. Right click the**Origin** icon in the notification area, then click**Quit Origin** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2edf1f0d.jpg)
 2. Open Origin and try logging in your account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fixes your Origin error, great! But if not, move on to Fix 2.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Check your system date and time
 
  The wrong date or time can cause the “online login is currently unavailable” error. You should check the date and time on your computer. If they’re not right, follow the instructions below to correct them:
@@ -54,20 +56,19 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
@@ -76,6 +77,10 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 10. Click**OK** .
 
  Now the date and time on your computer is in sync with an Internet time server. Try logging in Origin and see if the error is gone. Hopefully it is. But if not, then try Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -91,24 +96,23 @@ or
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to your device to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reset your Internet Explorer settings
 
  You may get the Origin error because you’re having some**wrong Internet Explorer’s settings** . To reset these settings to the default:
@@ -116,31 +120,31 @@ or
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
 5. Click**Internet Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfea0ea859.jpg)
 6. Select the**Advanced** tab, then click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff147f315.jpg)
 7. Click the**Reset** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
 
  Now restart your computer and check to see if this fixed your Origin error.
@@ -167,8 +171,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +178,23 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-economical-audience-expansion-buy-subscribers-not-time/"><u>[New] 2024 Approved Economical Audience Expansion Buy Subscribers, Not Time</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-budget-friendly-gaming-capture-software-revealed/"><u>[New] 2024 Approved Top Budget-Friendly Gaming Capture Software Revealed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>[New] 2024 Approved Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond-for-2024/"><u>[New] Seamless Strategies Downloading Graphics Images From Facebook & Beyond for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-zoom-for-effective-fb-live-broadcasts/"><u>[Updated] Mastering Zoom for Effective FB Live Broadcasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-videoeditorpro-comprehensive-analysis-and-reviews-for-2024/"><u>[Updated] VideoEditorPro Comprehensive Analysis & Reviews for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-pc-stability-issues-solved-release/"><u>Call of Duty: Black Ops Cold War PC Stability Issues Solved Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-unexpected-shutdowns-getting-your-modern-warfare-3-game-running-smoothly-again/"><u>Fixes for Unexpected Shutdowns: Getting Your Modern Warfare 3 Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-farming-simulator-22s-decreased-frames-per-second-fps-on-your-computer-system/"><u>Fixing Farming Simulator 22'S Decreased Frames Per Second (FPS) on Your Computer System</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006512572-horizon-zero-dawn-pc-performance-errors-fixed-no-more-crashes/"><u>Horizon Zero Dawn PC Performance Errors Fixed – No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-make-cyberpunk-2077-utilize-gpus-for-gaming-on-windows-10-platform/"><u>How to Make Cyberpunk 2077 Utilize GPUs for Gaming on Windows 10 Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/la-noire-now-available-for-pc-release-issue-resolved/"><u>L.A. Noire Now Available for PC - Release Issue Resolved!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/libera-e-facile-conversione-mov-a-wma-tramite-il-servizio-di-conversione-on-line-offerto-da-movavi/"><u>Libera E Facile Conversione MOV a WMA Tramite Il Servizio Di Conversione On-Line Offerto Da Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-issues-for-dragon-age-origins-gaming-on-windows-11-systems/"><u>Resolving Stability Issues for Dragon Age: Origins Gaming on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-travel-planning-apple-maps-and-windows/"><u>Streamlining Travel Planning: Apple Maps & Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-list-of-8-youtube-mistakes-to-evade/"><u>The Ultimate List of 8 Youtube Mistakes to Evade</u></a></li>
+</ul></div>
 

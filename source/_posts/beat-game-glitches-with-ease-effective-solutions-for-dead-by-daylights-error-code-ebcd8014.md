@@ -1,7 +1,7 @@
 ---
 title: "Beat Game Glitches with Ease: Effective Solutions for Dead by Daylight's Error Code Ebcd8014"
-date: 2024-08-13T10:00:35.168Z
-updated: 2024-08-14T10:00:35.168Z
+date: 2025-01-08T17:27:53.110Z
+updated: 2025-01-12T17:57:17.972Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ For game players, Steam is the window to the world of gaming. But there are situ
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 7. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. If you do encounter the Steam black screen issue, updating your drivers especially the video card driver is a good step in troubleshooting.
@@ -44,19 +41,12 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,27 +57,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Delete web browser cache
 
  The Steam desktop client has a built-in browser that can show you details of a game. So users use it quite frequently. But the problem is, Steam doesn’t automatically clear its web browser cache. This would in turn cause Steam not to load properly. To fix it, you should clear the cache.
@@ -98,31 +83,41 @@ Here’s how you can do this:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
   
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-web-browser-cache-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Delete app cache
 
  The app cache in your Steam directory stores various data about your Steam apps and setup essentially it remembers small details each time you open Steam ensuring that the next time you run Steam, things will work that little bit faster. However, things can go wrong with the cache. It can miss remembering things which may be a cause for Steam not loading properly. To fix this, try deleting the app cache folder. And you don’t need to worry because this will be recreated the next time you open Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
  2) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
  3) Copy and paste the**appcache folder** to a safe location just in case something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/appcache-folder.jpg)
 
  4) Now you can**delete the appcache folder** in your Steam directory. Then try starting Steam again. If it works well, you can then go and delete the original backup appcache folder as a healthy new one will be created in its place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Participate in the Steam Client beta
 
@@ -132,17 +127,15 @@ To participate in the Steam Client beta, follow the instructions below:
 
  1) With Steam running, click**Steam** in the upper left, then select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the “Steam Beta Update” from the drop-down list and click “OK”.  
  You will be prompted to restart Steam, please select the “Restart Steam” button.
@@ -161,6 +154,10 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try opening Steam client to check if it works.
 
 ## Fix 6: Reinstall Steam
@@ -170,12 +167,13 @@ Now try opening Steam client to check if it works.
  1) Exit Steam.  
  To make sure you completely exit Steam, open Task Manager and look for**Steam Client Service** and**Steam Client WebHelper** . Right-click on them and select**End task** .  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
@@ -208,8 +206,6 @@ Now try opening Steam client to check if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +213,24 @@ Now try opening Steam client to check if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools/"><u>[New] Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitterize-your-tiktok-posts/"><u>[New] In 2024, Twitterize Your TikTok Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-essentials-of-navigating-ez-grabber-interface/"><u>[New] The Essentials of Navigating EZ Grabber Interface</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>Affordable Cloud Keep Optimal Pricing for Huge Archives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/androids-new-wave-of-conversation-with-chatgpt/"><u>Android's New Wave of Conversation – With ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-ideas-a-compilation-of-top-5-ai-writers/"><u>Enhance Ideas: A Compilation of Top 5 AI Writers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>New Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-utilizing-zune-video-converter-factory-at-no-cost/"><u>Step-by-Step Tutorial on Utilizing Zune Video Converter Factory at No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/to-encode-or-not-to-encode-determining-the-role-of-adobe-media-encoder-in-your-workflows/"><u>To Encode or Not to Encode: Determining the Role of Adobe Media Encoder in Your Workflows</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-audio-files-quick-and-simple-steps-for-switching-from-flac-to-ogg/"><u>Transforming Audio Files: Quick and Simple Steps for Switching From FLAC to Ogg</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-av1-video-playback-with-vlc-expert-tips-and-tricks/"><u>Ultimate Guide: Mastering AV1 Video Playback with VLC - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-video-downloads-from-videa-with-ease/"><u>Ultimate Guide: Mastering Video Downloads From Videa with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrpc/"><u>VRムービーの見た目いかんでもPCでスムーズ再生するプレイヤー選び方</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-is-the-ideal-batch-size-for-concurrent-video-conversion-without-lagging-issues/"><u>What Is the Ideal Batch Size for Concurrent Video Conversion Without Lagging Issues?</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-to-watch-after-kissanimes-shutdown-top-notch-free-anime-websites-as-replacements-or-mirrors/"><u>What to Watch After KissAnime's Shutdown? Top-Notch Free Anime Websites as Replacements or Mirrors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connection-guide-integrating-your-apple-homepod-with-television/"><u>Wireless Connection Guide: Integrating Your Apple HomePod with Television</u></a></li>
+</ul></div>
 

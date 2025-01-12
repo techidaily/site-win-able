@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Battlefield: Avoid Low FPS Woes in War Thunder (Tips & Tricks)"
-date: 2024-12-31T20:26:34.199Z
-updated: 2025-01-05T18:31:02.907Z
+date: 2025-01-06T18:03:11.747Z
+updated: 2025-01-12T16:43:42.774Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -75,10 +79,6 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -99,22 +99,18 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -124,6 +120,10 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -131,7 +131,7 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
@@ -143,7 +143,7 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
@@ -157,7 +157,7 @@ If not, try the next fix.
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
@@ -184,22 +184,17 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-logitech-options-not-working-on-windows/"><u>[SOLVED] Logitech Options Not Working on Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capture-mastery-top-picks-of-free-pcmac-desktop-recorders-for-2024/"><u>[Updated] Capture Mastery Top Picks of Free PC/Mac Desktop Recorders for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-your-workspace-a-step-by-step-screenrec-guide-for-2024/"><u>[Updated] Capturing Your Workspace A Step-by-Step ScreenRec Guide for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unparalleled-selection-best-of-the-10-vimeo-download-sites/"><u>[Updated] In 2024, Unparalleled Selection Best of the 10 Vimeo Download Sites</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-video-splitting-wins-ranking-recorder-titans/"><u>[Updated] In 2024, Video Splitting Wins Ranking Recorder Titans?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-this-years-finest-pc-vr-devices/"><u>2024 Approved Discovering This Year's Finest PC VR Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-nk-2077-how-to-eliminate-stuttering-and-smooth-performance/"><u>Cyberpunk Nk 2077: How to Eliminate Stuttering and Smooth Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-why-cant-i-start-origin-in-windows-1011/"><u>Easy Fixes: Why Can't I Start Origin in Windows 10/11?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-tech-for-your-next-journey-zdnets-top-gadgets-of-2024/"><u>Essential Tech for Your Next Journey: ZDNet's Top Gadgets of 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-pc-stability-issues-resolved-game-no-longer-crashes/"><u>God of War PC Stability Issues Resolved: Game No Longer Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/guilty-gear-strive-pc-version-diagnosing-and-fixing-continuous-crashes-for-smoother-gameplay/"><u>Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-wwe-2k22-pc-game-crashes-expert-fix-and-optimization-tips/"><u>Overcome WWE 2K22 PC Game Crashes: Expert Fix and Optimization Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-preventing-granblue-fantasy-relinks-from-crashing/"><u>PC Troubleshooting Tips: Preventing Granblue Fantasy Relinks From Crashing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-superior-transfer-techniques-for-moving-dvd-content-onto-ipad-air/"><u>Quick & Superior Transfer Techniques for Moving DVD Content Onto iPad Air</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-finding-best-participant-friendly-discords/"><u>Strategies for Finding Best Participant-Friendly Discords</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-haul-videos-tips-and-tricks-for-editors/"><u>[Updated] Mastering Haul Videos Tips & Tricks for Editors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/creating-revenue-streams-on-snapchat/"><u>Creating Revenue Streams on Snapchat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-yoga-routines-youtubes-leading-fitness-sites/"><u>Elite Yoga Routines YouTube's Leading Fitness Sites</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-controller-connection-problems-in-steam-on-windows-pcs/"><u>Expert Tips to Resolve Controller Connection Problems in Steam on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/farming-simulator-22-now-running-smoothly-on-pc-fps-drops-solved/"><u>Farming Simulator 22 Now Running Smoothly on PC - FPS Drops Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-explained/"><u>How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-v30t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme V30T to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/slashing-zooms-resource-demand-proven-methods-to-reduce-cpu-load-expertise/"><u>Slashing Zoom's Resource Demand - Proven Methods to Reduce CPU Load (Expertise)</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-troubleshooting-assassins-creed-unity-game-crashes/"><u>Top Strategies for Troubleshooting Assassin's Creed Unity Game Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trabajando-con-av1-en-adobe-premiere-pro-posibilidades-de-transferencia-entre-archivos/"><u>Trabajando Con AV1 en Adobe Premiere Pro: Posibilidades De Transferencia Entre Archivos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-your-mobile-network-provider-what-defines-a-telecommunications-carrier/"><u>Understanding Your Mobile Network Provider: What Defines a Telecommunications Carrier?</u></a></li>
 </ul></div>
 

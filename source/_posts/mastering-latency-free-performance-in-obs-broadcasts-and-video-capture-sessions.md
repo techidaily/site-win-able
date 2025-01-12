@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2025-01-05T01:28:19.249Z
-updated: 2025-01-06T01:50:26.350Z
+date: 2025-01-08T17:17:44.660Z
+updated: 2025-01-12T16:05:33.496Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for FPS drops in games
 
  You don’t have to try all 7 methods listed here: simply work your way down the list until you find the one that helps to stop the FPS drops in games for you.
@@ -37,7 +41,7 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -51,10 +55,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  When you’re sure that your machine meets (or better,**way above** ) the minimum system requirements to run the games, but you’re still experiencing FPS dopping problems, please move on to the other fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
 
@@ -76,20 +76,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -121,6 +113,14 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.2 Switch to a public DNS server
 
  Then please use a public DNS server to see if helps to improve the FPS in games. Here we’ll use the Google DNS server as an example since it’s fast and secure:
@@ -129,31 +129,39 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -201,10 +209,6 @@ and your network card manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Modify the Power Mode
 
  The default power plan by Windows strikes a balance between power consumption and PC performance, which is a good choice most of the time, especially when you’re not using resource-hungry applications a lot. But games usually need more resources than other regular software programs, so it’s not a bad idea to switch to the **High performance**  plan to improve your game performance. This is even more true when you’re dealing with the FPS dropping problem.
@@ -216,15 +220,11 @@ To change the power mode:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -255,16 +255,22 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichier-pcx-a-bmp-en-ligne-movavi/"><u>Conversion Gratuite De Fichier PCX À BMP en Ligne - Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-steam-remote-play-problems-now-top-troubleshooting-tips/"><u>Fix Your Steam Remote Play Problems Now – Top Troubleshooting Tips!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-12-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme 12 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-musical-matchmaking-top-tunes-for-dynamic-montage-videos-for-2024/"><u>New The Ultimate Guide to Musical Matchmaking Top Tunes for Dynamic Montage Videos for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993990815-oculus-link-display-malfunction-correct-it-quickly-with-these-6-tips/"><u>Oculus Link Display Malfunction? Correct It Quickly with These 6 Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-mobile-and-desktop-mkv-software/"><u>Premier Mobile & Desktop MKV Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-windows-services-command-prompt-tool-a-list-of-7-remedies/"><u>Reviving Windows Services Command Prompt Tool: A List of 7 Remedies</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-startup-problems-for-far-cry-6/"><u>Solved! Overcoming PC Startup Problems for Far Cry 6</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-avi-player-the-perfect-match-for-pcmobile-for-2024/"><u>Ultimate AVi Player The Perfect Match for PC/Mobile for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-blind-faith-in-ai-can-be-risky-top-6-concerns/"><u>Why Blind Faith in AI Can Be Risky: Top 6 Concerns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginner-to-expert-choose-studio-or-beta-for-2024/"><u>[Updated] From Beginner to Expert Choose Studio or Beta for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-online-livestream-frameworks/"><u>2024 Approved Elite Online Livestream Frameworks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unseen-video-on-sony-a6400-whats-going-wrong/"><u>2024 Approved Unseen Video on Sony A6400 What's Going Wrong?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-steps-to-overcome-amazon-prime-video-functionality-glitches/"><u>Effective Steps to Overcome Amazon Prime Video Functionality Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-stop-the-crash-in-tribes-of-midgard-heres-how/"><u>Enhancing Performance: Stop the Crash in Tribes of Midgard, Here's How</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-improper-installation-of-ryzen-master-drivers/"><u>Fixing the Issue: Improper Installation of Ryzen Master Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-overcoming-common-battlenet-launcher-errors-in-windows-1011/"><u>Guide: Overcoming Common Battlenet Launcher Errors in Windows 10/11</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/high-definition-f1-ferrari-racing-team-wallpaper-collection-ultimate-car-enthusiasts-imagery-library/"><u>High-Definition F1 Ferrari Racing Team Wallpaper Collection - Ultimate Car Enthusiasts' Imagery Library</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-x-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone X and iPad?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>In 2024, Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-trilogy-troubleshooting-techniques-to-fix-mass-effects-gameplay-hiccups/"><u>Mastering the Trilogy: Troubleshooting Techniques to Fix Mass Effect's Gameplay Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-slowdowns-solving-the-lag-issues-of-resident-evil-village-for-a-smooth-pc-gaming-experience/"><u>No More Slowdowns! Solving the Lag Issues of Resident Evil Village for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/share-wisdom-top-strategies-for-video-sharing-on-instagram/"><u>Share Wisdom Top Strategies for Video Sharing on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-for-nioh-2-complete-version-persistent-crashing-problems/"><u>Step-by-Step Fix for Nioh 2 (Complete Version) Persistent Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-ultimate-guide-prevent-escape-from-tarkov-game-crashes-on-desktop/"><u>Troubleshooting Ultimate Guide: Prevent Escape From Tarkov Game Crashes on Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-performance-on-a-budget-with-acers-latest-model-featuring-an-incredible-nvidia-pressing-the-limits-of-affordability-in-high-end-gpu-computing/"><u>Unleash Performance on a Budget with Acer's Latest Model Featuring an Incredible Nvidia Pressing the Limits of Affordability in High-End GPU Computing</u></a></li>
 </ul></div>
 

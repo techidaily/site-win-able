@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Preventing Risk of Rain 2 From Crashing"
-date: 2024-08-13T10:05:40.720Z
-updated: 2024-08-14T10:05:40.720Z
+date: 2025-01-08T17:48:35.124Z
+updated: 2025-01-12T16:15:27.991Z
 tags:
   - win11
   - win10
@@ -30,9 +30,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | Storage          | 20 GB                             |
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,8 +43,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -54,11 +55,16 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -72,8 +78,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -101,9 +108,6 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -120,9 +124,6 @@ OR
 1. Press the**Windows logo key + I (i)** together to open**Settings** .
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -141,8 +142,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +149,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-5-filters-boosting-oceanic-imaging/"><u>[Updated] Premium 5 Filters Boosting Oceanic Imaging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-complete-guide-on-which-tabletlaptop-fits-you-best-zdnet-tech-analysis/"><u>Choosing Between iPad Pro and MacBook Air: A Complete Guide on Which Tablet/Laptop Fits You Best | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-borderlands-3-ls-0013-error/"><u>How To Fix Borderlands 3 LS-0013 Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-league-of-legends-server-connection-woes/"><u>How to Overcome League of Legends Server Connection Woes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-gameplay-on-xbox-one-for-2024/"><u>How to Record Gameplay on Xbox One for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-speech-recording-experience-with-shortcuts-in-win-11/"><u>Revolutionize Your Speech Recording Experience with Shortcuts in Win 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-process-for-installing-the-latest-audio-technica-sound-card-drivers/"><u>Step-by-Step Process for Installing the Latest Audio-Technica Sound Card Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-eradicate-flashing-screens-in-chrome-on-windows-systems-a-top-guide/"><u>Step-by-Step Strategies to Eradicate Flashing Screens in Chrome on Windows Systems: A Top Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-picks-for-gaming-displays-on-xbox-series-x-console-for-2024/"><u>Top Picks for Gaming Displays on Xbox Series X Console for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-fluctuating-frame-rates-solutions-and-tips/"><u>Unraveling the Mystery Behind Fluctuating Frame Rates: Solutions and Tips</u></a></li>
+</ul></div>
 

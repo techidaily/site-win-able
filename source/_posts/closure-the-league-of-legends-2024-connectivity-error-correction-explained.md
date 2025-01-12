@@ -1,7 +1,7 @@
 ---
 title: "Closure: The League of Legends 2024 Connectivity Error Correction Explained"
-date: 2024-12-29T18:41:39.677Z
-updated: 2025-01-05T23:56:09.664Z
+date: 2025-01-06T16:47:31.736Z
+updated: 2025-01-12T17:35:21.688Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Connection issues can happen in every online game and bother many players. The L
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  Here’re 7 fixes that prove to be useful for many LOL players. Just work your way down the list to find out the one that solves your problem!
@@ -49,7 +45,7 @@ Connection issues can happen in every online game and bother many players. The L
 2. Wait at least 30 seconds to let the two machines cool down a bit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
@@ -62,6 +58,10 @@ Connection issues can happen in every online game and bother many players. The L
 
  Admittedly, a wireless network is not as stable as a wired one. To solve this problem, you could swap Wi-Fi to an Ethernet connection but this is not practical for everyone.  
  Or, you can buy a **[powerline Ethernet adapter](https://www.amazon.com/NETGEAR-Powerline-Adapter-Ethernet-Passthrough/dp/B0778Y6K6N/ref=sr%5F1%5F4?keywords=powerline+ethernet+adapter&qid=1568199231&s=gateway&sr=8-4&tag=drivereasycom-20)**  which extends the reach of your home network to places with poor wireless coverage. Once your network problem is solved, your connection issue in LOL can also be fixed once and for all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Check for Windows Firewall
 
@@ -91,10 +91,6 @@ Connection issues can happen in every online game and bother many players. The L
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 5: Update your device drivers
 
  Outdated network drivers may cause a connection issue. So you can try to update your network adapter driver to fix the problem.
@@ -111,7 +107,7 @@ Connection issues can happen in every online game and bother many players. The L
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
@@ -133,7 +129,7 @@ Connection issues can happen in every online game and bother many players. The L
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
@@ -145,10 +141,6 @@ Connection issues can happen in every online game and bother many players. The L
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 7: Change your DNS server
 
  Try to switch your ISP’s DNS server to the Google Public DNS address. This may improve the resolution time and provide you with greater online security. Here’s how:
@@ -158,25 +150,33 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
@@ -205,22 +205,19 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-harnessing-zoom-for-impactful-youtube-livestream-presentations/"><u>[New] Harnessing Zoom for Impactful YouTube Livestream Presentations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>[New] In 2024, Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-perfecting-iphone-timelapse-techniques/"><u>[New] Perfecting iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-5-performance-boost-a-10-step-guide-to-reducing-latency/"><u>Battlefield 5 Performance Boost: A 10-Step Guide to Reducing Latency</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-minecrafts-persistent-lag-expert-tips-for-smooth-gaming-on-your-pc/"><u>Beat Minecraft's Persistent Lag: Expert Tips for Smooth Gaming on Your PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-vector-design-the-most-popular-apps-reviewed/"><u>Cutting-Edge Vector Design The Most Popular Apps Reviewed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fallout-4-black-screen-issue-fix-and-enjoy-uninterrupted-gaming/"><u>Fallout 4 Black Screen Issue: Fix and Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-overwatch-2-running-smoothly-a-guide-to-7-crucial-fixes/"><u>How to Get Overwatch 2 Running Smoothly : A Guide to 7 Crucial Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-optimize-and-lower-discords-cpu-demand-latest-tips/"><u>How to Optimize and Lower Discord's CPU Demand - Latest Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimized-storage-analysis-how-many-videos-on-a-64128gb-drive-in-2024/"><u>Optimized Storage Analysis How Many Videos on a 64/128GB Drive, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-gamers-resolving-multiversus-launch-failures-on-windows-machines/"><u>Quick Fixes For Gamers: Resolving MultiVersus Launch Failures on Windows Machines</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-viewing-at-no-extra-charge-free-vob-for-pc-and-mac-for-2024/"><u>Seamless Viewing at No Extra Charge Free VOB for PC & Mac for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/shedding-light-on-videography-excellence-for-2024/"><u>Shedding Light on Videography Excellence for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009546290-stardew-valley-wont-load-here-are-the-proven-remedies/"><u>Stardew Valley Won't Load? Here Are the Proven Remedies</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-not-working-heres-how-to-stabilize-your-game-launcher-swiftly/"><u>Steam Not Working? Here's How to Stabilize Your Game Launcher Swiftly</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-risk-of-rain-2-game-crashes-effective-strategies-inside/"><u>Troubleshoot and Repair Risk of Rain 2 Game Crashes – Effective Strategies Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-to-the-ue4-madness-repair-steps-for-the-unreal-engine-4-crash-error-in-outriders-gameplay/"><u>Ultimate Solution to the 'UE4-Madness': Repair Steps for the Unreal Engine 4 Crash Error in Outriders Gameplay</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[New] From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-android-flips-video-frames-for-the-ages/"><u>[New] How Android Flips Video Frames for the Ages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-proven-steps-to-elevate-webinar-video-quality/"><u>[New] In 2024, Proven Steps to Elevate Webinar Video Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-teamwork-in-video-production-boosting-channel-size/"><u>[Updated] Teamwork in Video Production, Boosting Channel Size</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-windows-11-gaming-performance-essential-adjustments-and-tweaks/"><u>Elevate Your Windows 11 Gaming Performance – Essential Adjustments & Tweaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-a-complete-guide/"><u>Fixing the 'Black Screen' Problem in Halo Infinite: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2019-no-more-freezes-the-ultimate-guide-to-stable-gameplay/"><u>Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-textbook-costs-to-tech-savings-claiming-your-microsoft-student-discount/"><u>From Textbook Costs to Tech Savings: Claiming Your Microsoft Student Discount.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-script-zip-up-creating-srt-from-video-archives-fastly/"><u>In 2024, Script Zip-Up Creating SRT From Video Archives Fastly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-data-management-on-windows-11/"><u>Mastering Data Management on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-5-starting-difficulties-on-pc-comprehensive-fix-guide-available-now/"><u>Resident Evil 5 Starting Difficulties on PC: Comprehensive Fix Guide Available Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-battlefield-2042-tips-and-tricks/"><u>Troubleshooting DirectX Problems in Battlefield 2042 – Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-effective-solutions-for-permanent-blackout-dilemmas-on-screens/"><u>Unveiling Effective Solutions for Permanent Blackout Dilemmas on Screens</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unlock-chromecast-how-to-play-any-video-file-format/"><u>Updated In 2024, Unlock Chromecast How to Play Any Video File Format</u></a></li>
 </ul></div>
 

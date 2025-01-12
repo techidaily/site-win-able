@@ -1,7 +1,7 @@
 ---
 title: "Anthem Game Fix: How to Stop That Persistent Loading Screen"
-date: 2024-08-13T10:07:45.582Z
-updated: 2024-08-14T10:07:45.582Z
+date: 2025-01-05T16:48:06.966Z
+updated: 2025-01-12T17:02:46.464Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Solution 1: Move your game to another drive
 
  Origin enables players to move games to another drive easily. Coping and pasting your game files and folders doesn’t move your games completely, so you’ll need to do it via Origin.
@@ -50,13 +47,14 @@ Make sure that Anthem is closed and not running in the background.
 3) Type**taskmgr** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
 
@@ -69,16 +67,14 @@ Make sure that Anthem is closed and not running in the background.
 2) Click**My Game Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click**Anthem** , and click**Move game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
  For instance, Anthem is saved in C drive, then you can move it to any other drive except for C drive.
@@ -89,9 +85,6 @@ Make sure that Anthem is closed and not running in the background.
 
 All good now? That’s great!
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -106,9 +99,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
@@ -135,8 +136,9 @@ OR
  2) Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
@@ -144,15 +146,16 @@ OR
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -167,9 +170,6 @@ Now launch Anthem on your computer, and your game should be loading.
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Switch it to**Off** .
 
@@ -179,9 +179,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 Hopefully this will fix your Anthem not loading issue.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Run Anthem as an administrator
 
  If Anthem keeps sticking on infinite loading screen, running it as an administrator will help.
@@ -198,6 +195,10 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
@@ -212,14 +213,15 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -236,8 +238,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +245,21 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-advanced-methods-for-capturing-system-sounds-on-pcs/"><u>[New] Advanced Methods for Capturing System Sounds on PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-e-learning-sites-that-dont-fit-udemy/"><u>[New] Cutting-Edge E-Learning Sites That Don't Fit Udemy</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ultimate-fcp-tutorial-for-new-users/"><u>[New] In 2024, Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-launch-free-dvd-playback-capabilities-on-windowsmac-laptops/"><u>[New] Launch Free DVD Playback Capabilities on Windows/Mac Laptops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>[Updated] JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-crashes-steady-play-for-madden-21-on-windows-systems/"><u>Conquer Game Crashes: Steady Play for Madden '21 on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-gameplay-resolving-dragons-dogma-2-pc-malfunctions/"><u>How to Ensure Smooth Gameplay: Resolving Dragon's Dogma 2 PC Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/install-and-enable-virtualization-with-hyper-v-a-guide-for-windows-11-users/"><u>Install and Enable Virtualization with Hyper-V: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-zoom-video-problems-with-these-5-proven-strategies/"><u>Overcome Zoom Video Problems with These 5 Proven Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-stop-your-cult-of-the-lamb-game-from-crashing-on-desktop-pcs/"><u>Quick Fixes to Stop Your 'Cult of the Lamb' Game From Crashing on Desktop PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-overcoming-startup-glitches-in-far-cry-6-gameplay-on-windows-platform/"><u>Successfully Overcoming Startup Glitches in Far Cry 6 Gameplay on Windows Platform</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-managing-directories-without-renaming-feature-in-win-11/"><u>The Ultimate Guide to Managing Directories Without Renaming Feature in Win 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/verschiedene-wege-deutschsprachige-grussformeln-zu-finden/"><u>Verschiedene Wege, Deutschsprachige Grußformeln Zu Finden</u></a></li>
+</ul></div>
 

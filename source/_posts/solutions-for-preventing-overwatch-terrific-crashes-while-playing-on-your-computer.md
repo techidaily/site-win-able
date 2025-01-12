@@ -1,7 +1,7 @@
 ---
 title: Solutions for Preventing Overwatch Terrific Crashes While Playing on Your Computer
-date: 2024-12-29T22:20:53.316Z
-updated: 2025-01-06T00:22:32.325Z
+date: 2025-01-11T16:46:05.617Z
+updated: 2025-01-12T17:54:49.594Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
@@ -91,10 +95,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable fullscreen optimizations on Windows 10
 
  If you’re on Windows 10, disabling fullscreen optimizations might be able to fix Overwatch black screen issue. Here is how to do it:
@@ -106,10 +106,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **2)** Click the**Compatibility tab** , then check the box next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-727.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch Overwatch to see if this has resolved your issue. If not, read on and try the fix below.
 
@@ -125,13 +121,13 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-684.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**Reset** .
 
@@ -167,9 +163,17 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -186,10 +190,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -219,17 +219,21 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Type **%ProgramData%** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click the**Blizzard Entertainment folder** and select **Delete** . Then delete the**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-709.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Relaunch Overwatch.
 
@@ -279,13 +283,13 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game after the update is complete.
 
@@ -294,7 +298,7 @@ If your problem persists, check the fix 10, below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 10: Uninstall Razer Synapse
@@ -306,7 +310,7 @@ If your problem persists, check the fix 10, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under**View by** , select**Category** .
@@ -318,7 +322,7 @@ If your problem persists, check the fix 10, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-721.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Right-click**Razer Synapse** , then click**Uninstall** .
@@ -330,10 +334,6 @@ If you’re prompted about permissions, select Continue
 **5)** If you wish to keep the program, click**MODIFY** . Or, you can just uninstall Razer Synapse by clicking**UNINSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-724-1024x640.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Relaunch Overwatch to test your issue.
 
@@ -361,20 +361,22 @@ If you’re prompted about permissions, select Continue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-create-news-style-outro/"><u>[New] 2024 Approved How To Create News Style Outro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-boosting-gaming-engagement-with-high-quality-steam-captures/"><u>[New] Boosting Gaming Engagement with High Quality Steam Captures</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-strategic-timestamp-use-for-increased-youtube-traction/"><u>[Updated] Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
-<li><a href="https://win-news.techidaily.com/local-drive-backup-from-network-drive-on-windows-7-easy-guide/"><u>「Local Drive Backup From Network Drive on Windows 7 - Easy Guide」</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-hiding-while-livestreaming-on-instagram/"><u>2024 Approved The Art of Hiding While Livestreaming on Instagram</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-your-loss-of-access-to-blizzard-online-services/"><u>Fixing Your Loss of Access to Blizzard Online Services</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-jumpstart-societal-advancement-and-fix-humans-not-launching/"><u>How To Jumpstart Societal Advancement and Fix 'Humans Not Launching'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-the-cause-of-excessive-network-activity-in-svchostexe-services-host/"><u>Identifying the Cause of Excessive Network Activity in svchost.exe (Services Host)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-setting-up-windows-11-for-automatic-hdr-activation/"><u>In 2024, Setting Up Windows 11 for Automatic HDR Activation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transform-into-a-hdr-photography-wizard-via-photoshop/"><u>In 2024, Transform Into a HDR Photography Wizard via Photoshop</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009103402-lost-ark-performance-optimization-for-windows-users-say-goodbye-to-game-interruptions/"><u>Lost Ark Performance Optimization for Windows Users: Say Goodbye to Game Interruptions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-call-of-duty-warzone-gameplay-by-activating-your-gpu-on-windows-10/"><u>Maximize Call of Duty: Warzone Gameplay by Activating Your GPU on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-resolving-windows-10s-critical-error-code-0xc19001e1/"><u>Overcome the Hurdle: Resolving Windows 10'S Critical Error Code 0xC19001E1</u></a></li>
-<li><a href="https://win-able.techidaily.com/reviving-the-sounds-of-tamriel-solutions-for-skyrims-muted-woes/"><u>Reviving the Sounds of Tamriel: Solutions for Skyrim's Muted Woes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-color-correction-mastering-luts-in-after-effects/"><u>[New] Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audience-enhancement-with-audition-fades/"><u>[New] Audience Enhancement with Audition Fades</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[New] The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-crashes-expert-advice-on-handling-the-fatal-error-ark/"><u>Avoiding Crashes: Expert Advice on Handling the 'Fatal Error Ark'</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-valheim-experience-by-eliminating-high-latency-on-windows-systems/"><u>Boost Your Valheim Experience by Eliminating High Latency on Windows Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/compiling-top-ios-recording-utilities/"><u>Compiling Top iOS Recording Utilities</u></a></li>
+<li><a href="https://win-great.techidaily.com/decouvrez-les-4-techniques-certaines-pour-convertir-un-fichier-raccourci-en-fichier-complet/"><u>Découvrez Les 4 Techniques Certaines Pour Convertir Un Fichier Raccourci en Fichier Complet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-applied-to-stop-mass-effect-legendary-edition-from-stuttering/"><u>Fixes Applied to Stop Mass Effect Legendary Edition From Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-slowdown-why-your-f1-2021-game-might-be-lagging/"><u>Fixing the Slowdown: Why Your F1 2021 Game Might Be Lagging</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f04-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F04 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-designing-engaging-instagram-feature-film-posts/"><u>In 2024, Designing Engaging Instagram Feature Film Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-browser-blues-resolve-firefox-stalls-and-glitches-with-ease/"><u>Overcoming Browser Blues: Resolve Firefox Stalls & Glitches with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-terraria-from-freezing-proven-troubleshooting-steps-for-gamers/"><u>Stop Terraria From Freezing: Proven Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-rust-crashes-a-comprehensive-guide/"><u>Troubleshooting Rust Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-rocket-league-not-starting-up/"><u>Troubleshooting: How to Fix 'Rocket League Not Starting Up'</u></a></li>
 </ul></div>
 

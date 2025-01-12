@@ -1,7 +1,7 @@
 ---
 title: Fixing FPS Drops and Stuttering in Dying Light 2 on Windows Platforms
-date: 2024-08-13T10:05:15.118Z
-updated: 2024-08-14T10:05:15.118Z
+date: 2025-01-05T16:18:27.085Z
+updated: 2025-01-12T16:07:02.965Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game. The game is super great but not perfect, there’re bugs, glitches, and weird issues happened, one of the issues is lagging. Don’t worry, these fixes may help.
 
  Before start doing fixes, make sure your PC specs have reached the[requirement](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -73,17 +77,9 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
  Both NVIDIA and AMD released specific updates for their graphics cards on Cyberpunk 2077’s launch day. You can[update](https://tools.techidaily.com/drivereasy/download/) your AMD or NVIDIA with the latest update, it will improve the gaming performance on your PC.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Lower in-game graphic settings
 
  One common fix for lagging is to change the in-game graphic settings. This fix has been proved by some gamers, it works for them. If you’re playing on PS4 and Xbox One, why not have a try. It may help.
@@ -92,23 +88,23 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Go to the GAMEPLAY tab. Set**Crowd Density** as**Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE** : Ray Tracing is not for the AMD cards right now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Back to the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, move to the next one.
 
@@ -132,9 +128,6 @@ If this fix doesn’t work, move to the next one.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -144,9 +137,6 @@ If this fix doesn’t work, move to the next one.
 
  Reboot your PC and check how’s the game running. If it doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Turn off the Xbox game bar
 
  Windows 10 OS will automatically running its gaming geature when you’re running a game. You can ignore the program when playing other games, while Cyberpunk 2077 may be affected by this feature. Turning off the utility if you don’t need it.
@@ -158,9 +148,9 @@ If this fix doesn’t work, move to the next one.
 4. Relaunch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Shut down unnecessary apps
 
  If you can play the game, but it’s lagging and viewers get spikes, shutting down unnecessary background applications is a good option. It’s because Stream requires some CPU power too, the less other stuff, the more power for Cyberpunk 2077.
@@ -177,8 +167,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +174,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/2023-tips-how-to-fix-maplestory-crashing-on-windows-11/"><u>[2023 Tips] How to Fix MapleStory Crashing on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>[New] Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-recording-your-display-essential-tips-for-effective-screen-capture/"><u>[New] Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-google-ar-stickers-explained-with-comparative-alternatives/"><u>[Updated] 2024 Approved Google AR Stickers Explained with Comparative Alternatives</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-selecting-the-perfect-cam-mic-the-essentials/"><u>[Updated] 2024 Approved Selecting the Perfect Cam Mic, The Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bringing-still-images-to-life-a-step-by-step-guide-for-slow-motion-videos-with-photos/"><u>[Updated] Bringing Still Images to Life A Step-by-Step Guide for Slow-Motion Videos with Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-filmmakers-toolbox-in-depth-guide-to-cinematic-techniques-in-24/"><u>2024 Approved The Filmmaker’s Toolbox In-Depth Guide to Cinematic Techniques in '24</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-data-consolidation-essentials-uniting-various-tables-with-ease/"><u>Excel Data Consolidation Essentials: Uniting Various Tables with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-tecno-spark-20c-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Tecno Spark 20C Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-controller-connectivity-a-comprehensive-guide-to-repairing-ds4-windows-errors/"><u>Mastering Controller Connectivity: A Comprehensive Guide to Repairing DS4 Windows Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-rainbow-six-sieges-server-linkage-hurdles/"><u>Mastering the Fix for Rainbow Six Siege's Server Linkage Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-dying-light-latency-effective-fixes-to-restore-optimal-gameplay/"><u>Overcome Dying Light Latency: Effective Fixes to Restore Optimal Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011814536-overwatch-stuttering-heres-the-fix/"><u>Overwatch Stuttering? Here's the Fix!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-common-sound-issues-in-halo-infinite-a-step-by-step-guide/"><u>Resolving Common Sound Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-playthrough-of-half-life-alyx-solutions-to-eliminate-pc-stuttering-and-lags/"><u>Smooth Playthrough of Half-Life: Alyx - Solutions to Eliminate PC Stuttering & Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-no-match-found-issue-in-warzone-on-your-pc/"><u>Solving the 'No Match Found' Issue in Warzone on Your PC</u></a></li>
+</ul></div>
 

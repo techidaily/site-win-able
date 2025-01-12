@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solve Tormented Souls' Constant Crashes on PC"
-date: 2024-12-29T23:03:16.341Z
-updated: 2025-01-05T16:29:21.645Z
+date: 2025-01-05T16:06:20.012Z
+updated: 2025-01-12T17:26:24.816Z
 tags:
   - win11
   - win10
@@ -25,16 +25,12 @@ Are your getting the ‘**HP My Display has stopped working**‘ error on your W
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here’s how
 
 Step 1: **[Uninstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)** Step 2: **[Update your graphics card driver and HP monitor driver](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Reinstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Firstly, uninstall HP My Display on your computer
 
@@ -44,11 +40,19 @@ To do so:
 2. Type**control** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b89010276b4b.png)
 3. Select**Programs and Features** when selected to**View by Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890184befeb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click**HP My Display** to select**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8901cc8a421.jpg)
 5. Click **Yes**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Then, update your graphics card driver and HP monitor driver
@@ -60,11 +64,7 @@ You can choose to update your device drivers through**Device Manager**to let Win
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the**Pro version** which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)**Note:** You can also do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890b1f40fe3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Last, download the latest version of HP My Display to install it on your computer
@@ -93,16 +93,21 @@ HP My Display should then be running without problem after the installation. Do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-vr-solutions-for-drone-flying-for-2024/"><u>[New] Ideal VR Solutions for Drone Flying for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-elite-battle-royale-contenders/"><u>[Updated] Top 10 Elite Battle Royale Contenders</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-microsoft-edges-exe-error-problem-on-windows-devices/"><u>Expert Solutions to Microsoft Edge's .exe Error Problem on Windows Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-overcoming-chilling-glitches-in-borderlands-3-and-enhancing-your-gaming-journey/"><u>Expert Tips: Overcoming Chilling Glitches in Borderlands 3 and Enhancing Your Gaming Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop SnowRunner From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-kinemaster-tutorials-for-amazing-memes/"><u>In 2024, KineMaster Tutorials for Amazing Memes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-master-your-fb-video-archive-with-1-5-choices/"><u>In 2024, Master Your FB Video Archive with #1-5 Choices</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cod-black-ops-cold-war-glitch-tips-for-handling-code-80070057/"><u>Solving Cod: Black Ops Cold War Glitch: Tips for Handling Code 80070057</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-principle-of-operation-involving-charging-particles-and-collecting-them-on-plates-with-an-opposite-charge/"><u>The Principle of Operation Involving Charging Particles and Collecting Them on Plates with an Opposite Charge</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nubia-red-magic-9-proplus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nubia Red Magic 9 Pro+ without backup.</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/understanding-youtubes-privacy-options-for-viewers/"><u>Understanding YouTube's Privacy Options for Viewers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-concept-to-reality-selecting-top-3d-animators-software/"><u>[New] From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm5yuv55s75zcm5pyf77ya44ox44ot44gu44ki44oj44oq44kk44k544ks5l244gj44gm44cb5pig5yop44go5aow44gu44k44kk44of44oz44kw44ks44oe44k544k44o844gz44kl5pa55rov44cn/"><u>「動画同期：プロのアドバイスを使って、映像と声のタイミングをマスターする方法」</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm44ou44oz44k44os44k544oi44gn55s75yop44cb5yuv55s744ks5a6j5ywo44gr5lplusd566h44gz44kl5oml6acg44cn/"><u>「ピンタレストで画像、動画を安全に保管する手順」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-no-cost-avi-to-flash-video-transformers-web-and-desktop-solutions/"><u>1. No-Cost AVI to Flash Video Transformers: Web and Desktop Solutions</u></a></li>
+<li><a href="https://win-net.techidaily.com/comment-librement-copier-avec-efficacite-un-volume-hors-site-sur-le-stockage-materiel-donnee/"><u>Comment Librement Copier Avec Efficacité Un Volume Hors-Site Sur Le Stockage Matériel Donnée</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-storytelling-harnessing-the-power-of-chatgpt/"><u>Elevate Storytelling: Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a18-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A18 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-v29e-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo V29e online without jailbreak</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-opening-doors-creating-an-account-on-youtube/"><u>In 2024, Opening Doors Creating an Account on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pushing-perceptions-with-the-advanced-dell-p2715q-display-review-for-2024/"><u>Pushing Perceptions with the Advanced Dell P2715Q Display Review for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-plex-for-mkv-files-quick-fixes-and-tips/"><u>Troubleshooting Plex for MKV Files - Quick Fixes and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-diy-audiophile-techniques-for-mastering-quick-edits-and-trimming-sounds-with-audacity-software/"><u>Ultimate DIY Audiophile Techniques for Mastering Quick Edits & Trimming Sounds with Audacity Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-seamlessly-combining-videos-using-imovie/"><u>Ultimate Guide: Seamlessly Combining Videos Using iMovie</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028958612-vlc/"><u>VLCプレーヤーで文字稿が表示されない場合の解決手順</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-hack-abruptly-delete-non-responsive-printers/"><u>Windows 10/11 Hack: Abruptly Delete Non-Responsive Printers</u></a></li>
 </ul></div>
 

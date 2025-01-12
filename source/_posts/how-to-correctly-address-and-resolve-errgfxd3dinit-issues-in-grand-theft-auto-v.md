@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Resolve ERR_GFX_D3D_INIT Issues in Grand Theft Auto V
-date: 2024-08-13T10:06:32.279Z
-updated: 2024-08-14T10:06:32.279Z
+date: 2025-01-06T16:04:50.110Z
+updated: 2025-01-12T16:30:32.019Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -28,9 +29,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -47,9 +45,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -63,19 +58,24 @@ There are mainly two ways you can update the graphics driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -87,6 +87,10 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -96,13 +100,14 @@ There are mainly two ways you can update the graphics driver:
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -120,9 +125,6 @@ If it’s not working, move to the next fix.
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Change NVIDIA resolution
 
  Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
@@ -139,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,26 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-benefits-unveiled-your-mental-gain/"><u>2024 Approved ASMR Benefits Unveiled – Your Mental Gain</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-dvds-effortlessly-with-windows-11-dvd-ripper-top-rated-free-app-compatible-with-ios-android-and-tablets/"><u>Convert Your DVDs Effortlessly with Windows 11 DVD Ripper - Top-Rated Free App Compatible With iOS, Android, and Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-capabilities-of-dts-virtualx-audio-systems/"><u>Decoding the Capabilities of DTS Virtual:X Audio Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-resolve-forza-horizon-4-crashes-on-windows/"><u>Fixing Issues: How to Resolve Forza Horizon 4 Crashes on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-web-based-conversion-of-mxf-video-format-movavis-quick-guide/"><u>Free Web-Based Conversion of MXF Video Format - Movavi's Quick Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-kodi-cant-reach-the-library-a-guide-to-resolving-connection-errors/"><u>How to Fix Kodi 'Can't Reach the Library': A Guide to Resolving Connection Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-12-mini-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 12 mini online without jailbreak</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-smart-8-hd-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Smart 8 HD Device SIM</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-revolutionizing-smartphone-photography-iphone-xs-features-explored/"><u>In 2024, Revolutionizing Smartphone Photography IPhone X's Features Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-siftu-on-pc-overcoming-stuttering-enhancing-fps-drops-fixes/"><u>Mastering SIFTU on PC: Overcoming Stuttering, Enhancing FPS Drops Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-a-comprehensive-tutorial-for-repairing-pacific-drive-stability-issues/"><u>No More Crashes: A Comprehensive Tutorial for Repairing Pacific Drive Stability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-oculus-graphics-glitches-optimizing-your-drivers-effectively/"><u>Overcoming Oculus Graphics Glitches: Optimizing Your Drivers Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-internet-explorer-unable-to-show-website-problem/"><u>Resolving 'Internet Explorer Unable to Show Website' Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/serious-sam-4-performance-issues-troubleshooting-pc-crashes-and-frame-drops/"><u>Serious Sam 4 Performance Issues: Troubleshooting PC Crashes and Frame Drops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supercharge-your-pc-gaming-upgrade-to-the-latest-asus-rx-5-new-best-seo-titles-suitable-for-google-search-engine-that-convey-similar-meanings-to-enhance-you112/"><u>Supercharge Your PC Gaming: Upgrade to the Latest Asus RX 5 New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Enhance Your PC's Graphics with a New ASUS ROG Strix GeForce GTX 1660 Ti</u></a></li>
+<li><a href="https://win-able.techidaily.com/taking-down-tarkov-obstacle-mastering-the-art-of-resolving-error-code-103003-on-your-device/"><u>Taking Down Tarkov Obstacle - Mastering the Art of Resolving Error Code 103003 on Your Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-resolve-warzone-20-not-starting-on-your-computer/"><u>Ultimate Fixes to Resolve Warzone 2.0 Not Starting on Your Computer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/word-whizzes-discover-ultimate-term/"><u>Word Whizzes Discover Ultimate Term</u></a></li>
+</ul></div>
 

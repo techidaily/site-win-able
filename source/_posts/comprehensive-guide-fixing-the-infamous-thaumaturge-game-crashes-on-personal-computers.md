@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Fixing the Infamous Thaumaturge Game Crashes on Personal Computers"
-date: 2024-08-13T10:07:03.779Z
-updated: 2024-08-14T10:07:03.779Z
+date: 2025-01-05T16:56:08.710Z
+updated: 2025-01-12T17:32:49.334Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 
 If you’re stuck in the endless Everspace 2 crashing and looking for some tried-and-true methods, you’ve come to the right place. In this post, we’ll walk you through 4 easy and quick fixes for the issue and help you get back to the game right away!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Simply work from the top down until you find the one that solves your problem.
@@ -26,16 +30,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 1 – Stop overclocking
 
  A successful overclock is expected to bring better gaming performance, but when it’s unstable, the programs on your computer may be freezing and crashing. So if you keep running into Everspace 2 crashing, you should just**turn off overclocking utilities like MSI Afterburner** and**set the clock speed back to the default** . If this trick doesn’t help, move on to more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  Missing or damaged game files is also a common cause of Everspace 2 crashing, but fortunately you can let the game launchers validate the game files automatically. Here’s how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and[**GOG**](https://tools.techidaily.com/drivereasy/download/) .
@@ -44,27 +42,13 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Right-click Everspace 2 from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
@@ -74,8 +58,9 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Run GOG Galaxy and select Everspace 2 from the Library.
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
@@ -115,8 +100,9 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  How does your game work now? If it crashes again, head to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Set launch options
 
  According to some players, Everspace 2 just crashes in DirectX 12\. In this case, the workaround is to force the game to use DirectX 11 and then everything should be fine.
@@ -129,6 +115,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -145,8 +135,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +142,22 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ourly-high-stakes-views-yts-1-to-10-rankings-for-2024/"><u>[New] Hourly High-Stakes Views YT's #1 to #10 Rankings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-process-of-downloading-instagram-videos-pcmac/"><u>[New] In 2024, Unveiling the Process of Downloading Instagram Videos (PC/Mac)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-converting-your-srt-files-to-text-format-today/"><u>[Updated] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-strategies-for-resolving-developer-issue-6068-on-the-mw-warzone-platform/"><u>2024 Strategies for Resolving Developer Issue #6068 on the MW Warzone Platform</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/adjusting-font-sizes-easily-through-windows-control-panel-a-step-by-step-guide/"><u>Adjusting Font Sizes Easily Through Windows Control Panel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-using-driver-easy-the-compact-edition/"><u>Comprehensive Tips for Using Driver Easy - The Compact Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disable-continuous-listening-in-apple-music-a-step-by-step-tutorial/"><u>Disable Continuous Listening in Apple Music - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fourfold-responsibility-of-governments-to-monitor-ai-progress/"><u>Fourfold Responsibility of Governments to Monitor AI Progress</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-dark-display-error-in-magic-the-gathering-online-platform/"><u>How to Overcome the Dark Display Error in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-audio-in-your-minecraft-game-on-a-personal-computer/"><u>How to Restore Audio in Your Minecraft Game on a Personal Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369512280-ifas-best-laptops-of-2023-now/"><u>IFA's Best Laptops of 2023, Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993337940-step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating & Setting Up Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-5-best-arguments-for-choosing-netflix/"><u>The 5 Best Arguments for Choosing Netflix</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-corsair-icue-issues-in-windows-1011/"><u>Troubleshooting Tips: Resolving Corsair iCUE Issues in Windows 10/11</u></a></li>
+</ul></div>
 

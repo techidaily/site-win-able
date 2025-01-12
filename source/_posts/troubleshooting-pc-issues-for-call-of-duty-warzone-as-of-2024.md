@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues for Call of Duty: Warzone as of 2024"
-date: 2025-01-04T21:53:10.432Z
-updated: 2025-01-05T16:24:52.665Z
+date: 2025-01-08T17:10:51.480Z
+updated: 2025-01-12T18:03:58.804Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -56,14 +56,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
@@ -108,18 +104,18 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -131,6 +127,10 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -158,19 +158,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-accelerate-your-fb-video-game-the-top-apps-and-plugins-guide-for-2024/"><u>[New] Accelerate Your FB Video Game The Top Apps & Plugins Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-integration-for-the-tech-savvy-mac-user/"><u>[Updated] In 2024, Snapchat Integration for the Tech-Savvy Mac User</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-multimedia-production-a-guide-to-editing-videos-on-windows-10/"><u>[Updated] Mastering Multimedia Production A Guide to Editing Videos on Windows 10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-things-you-should-know-about-youtube-live-thumbnails/"><u>[Updated] Things You Should Know About YouTube Live Thumbnails</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-craftsman-studio-evaluation/"><u>2024 Approved Apex Craftsman Studio Evaluation</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-preventing-guilty-gear-strive-pc-game-crashes/"><u>Comprehensive Fixes for Preventing Guilty Gear Strive PC Game Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/early-orders-show-promising-future-my-insights-on-the-anticipated-launch-of-apple-vision-pro-as-covered-by-zdnet/"><u>Early Orders Show Promising Future: My Insights on the Anticipated Launch of Apple Vision Pro, as Covered by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/ghostwire-tokyo-pc-freeze-fix-masterful-methods-to-maintain-smooth-gameplay-on-your-computer/"><u>Ghostwire: Tokyo PC Freeze Fix? Masterful Methods to Maintain Smooth Gameplay on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-ds4-windows-not-working-guide-to-correctly-update-the-device-driver/"><u>Solved! Overcoming 'DS4 Windows Not Working' - Guide to Correctly Update the Device Driver</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-creating-engaging-video-posts/"><u>The Ultimate Guide to Creating Engaging Video Posts</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003070729-tiny-tinas-wonderlands-crashing-on-pc-fixed/"><u>Tiny Tina’s Wonderlands Crashing on PC [Fixed]</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2021-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2021 File Not Opening Error | Stellar</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixes-for-amazon-prime-video-playback-issues/"><u>Troubleshooting Steps: Fixes for Amazon Prime Video Playback Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/wave-off-the-screen-jitters-top-tips-for-a-stable-display-viewing-experience/"><u>Wave Off the Screen Jitters - Top Tips for a Stable Display Viewing Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/oosting-traffic-on-youtube-mastering-the-art-of-video-outros/"><u>[New] Boosting Traffic on YouTube Mastering the Art of Video Outros</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unraveling-the-mystery-of-disappearing-youtube-shorts-thumbnails/"><u>[Updated] 2024 Approved Unraveling the Mystery of Disappearing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-android-the-ultimate-recorder-at-no-cost/"><u>[Updated] Capture Android The Ultimate Recorder at No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-guilty-gear-strive-continuous-crashing-on-desktop-pcs/"><u>Comprehensive Fix for Guilty Gear Strive Continuous Crashing on Desktop PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-analysis-strategy-for-music-video-creation/"><u>Cost Analysis Strategy for Music Video Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enable-your-xboxps-controller-connection-for-gaming-in-steam-windows-fix/"><u>How to Enable Your Xbox/PS Controller Connection for Gaming in Steam (Windows Fix)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ice-capped-inspiration-chinas-sports-spectacle/"><u>Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revival-artisan-selection/"><u>In 2024, Revival Artisan Selection</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-reduce-high-ping-enhancing-your-multiplayer-gaming-experience-in-back-4-blood/"><u>Quick Fixes to Reduce High Ping: Enhancing Your Multiplayer Gaming Experience in Back 4 Blood</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/reflex-toolbox-bundle-for-2024/"><u>Reflex Toolbox Bundle for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/spatial-audio-not-playing-on-win11-or-win10-quick-fixes-and-solutions/"><u>Spatial Audio Not Playing on Win11 or Win10: Quick Fixes and Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-kid-friendly-ipads-the-ultimate-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : The Ultimate Guide (ZDNet)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-the-issue-of-multiversus-not-starting-on-your-pc/"><u>Troubleshooting Steps: Resolving the Issue of MultiVersus Not Starting on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2025-01-02T16:42:13.874Z
-updated: 2025-01-05T19:31:38.127Z
+date: 2025-01-10T17:55:45.458Z
+updated: 2025-01-12T16:05:28.167Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -72,19 +68,19 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -105,8 +101,16 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -147,10 +151,14 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
@@ -173,14 +181,10 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 3. Restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -191,10 +195,6 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -222,20 +222,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hannel-your-creativity-convert-youtube-clips-into-dynamic-gifs-for-2024/"><u>[New] Channel Your Creativity Convert YouTube Clips Into Dynamic Gifs for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-simplify-life-the-best-5-chrome-tools-for-scrapping-fb-videos/"><u>[New] Simplify Life The Best 5 Chrome Tools for Scrapping FB Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram/"><u>[Updated] Mastering GIF Transformation To Stickers on WhatsApp, Discord & Telegram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-phone-editors-for-gopro-content/"><u>[Updated] Ultimate List of Phone Editors for GoPro Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>2024 Approved Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
-<li><a href="https://win-able.techidaily.com/bust-the-glitch-7-effective-solutions-for-smoothing-out-freezes-in-halo-infinite-on-pc/"><u>Bust the Glitch: 7 Effective Solutions for Smoothing Out Freezes in Halo Infinite on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-flicker-no-more-master-the-fixes-on-windows-os-comprehensive-manual-for-202n-a-step-by-step-process/"><u>Chrome Flicker No More: Master the Fixes on Windows OS (Comprehensive Manual for 202N) - A Step-by-Step Process</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-solutions-for-overcoming-minecrafts-exit-code-1-issue-in-windows-environment/"><u>Effective Solutions for Overcoming Minecraft's Exit Code 1 Issue in Windows Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013684860-get-unstuck-in-no-time-resolve-your-madden-22-load-screen-problems-instantly/"><u>Get Unstuck in No Time: Resolve Your Madden 22 Load Screen Problems Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-a79-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo A79 5G Phones with/without a PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-helldivers-2-bsod-blue-screen-of-death-a-comprehensive-guide/"><u>Solving the 'Helldivers 2' BSOD (Blue Screen Of Death) - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-running-crusader-kings-ii-solutions-to-game-not-launching-problems/"><u>Successfully Running Crusader Kings II: Solutions to Game Not Launching Problems</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/syncing-twitter-to-snapchat-video-uploading-techniques/"><u>Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-gzw-crashes-a-comprehensive-guide-for-smooth-pc-gaming-experience/"><u>Troubleshooting GZW Crashes: A Comprehensive Guide for Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-apex-workplace-data-sphere/"><u>[New] In 2024, Apex Workplace Data Sphere</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>[New] Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-diablo-2-resurrected-crashing/"><u>[SOLVED] Diablo 2 Resurrected Crashing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/behind-the-scenes-with-intova-edge-x-for-2024/"><u>Behind the Scenes with Intova Edge X for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/disco-elysium-wont-launch-on-windows-troubleshooting-steps-inside/"><u>Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009050571-easily-solved-how-to-stop-your-division-2-game-from-crashing/"><u>Easily Solved: How to Stop Your Division 2 Game From Crashing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>In 2024, Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-sharing-stories-that-resonate-with-a-digital-audience-yt/"><u>In 2024, Sharing Stories that Resonate with a Digital Audience YT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-into-codegpt-a-potential-game-changer-for-dev-teams/"><u>Peering Into CodeGPT: A Potential Game-Changer for Dev Teams</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-enhancements-unsticking-and-streamlining-shaders-for-star-wars-battlefront-ii/"><u>Rapid Enhancements: Unsticking and Streamlining Shaders for Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-fix-detailed-tips-for-restoring-ds4-failed-to-load-on-your-pc/"><u>Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-steam-game-file-access-issue/"><u>Resolved: Fixing the Steam Game File Access Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-counter-strike-2-boot-problems-for-smoother-gaming-experience/"><u>Resolving Counter-Strike 2 Boot Problems for Smoother Gaming Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-quintessential-queries-a-highlight-of-reddits-best-threads/"><u>The Quintessential Queries A Highlight of Reddit's Best Threads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-motherboard-cmos-checksum-problem-expert-advice/"><u>Troubleshooting Motherboard CMOS Checksum Problem: Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-thaumaturge-game-freezing-issue-on-your-pc/"><u>Troubleshooting the Thaumaturge Game Freezing Issue on Your PC</u></a></li>
 </ul></div>
 

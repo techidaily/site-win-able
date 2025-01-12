@@ -1,7 +1,7 @@
 ---
 title: BlueStacks Stability Boosted in Just 5 Quick and Easy Steps
-date: 2024-08-13T10:05:32.354Z
-updated: 2024-08-14T10:05:32.354Z
+date: 2025-01-06T16:53:41.471Z
+updated: 2025-01-12T16:22:47.074Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 4. **[Turn off antivirus](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Enable Virtualization for BlueStacks](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 1: Adjust the game settings
 
  First, you need to make sure that you have allocated enough RAM and CPU cores in BlueStacks Settings. This will increase performance and avoid game crashing/lagging. Here’s how to do it:
@@ -37,11 +34,18 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **CPU** : 4 Cores  
    * **RAM** : 4 GB (this will require a restart, so you can leave it to the last step)  
    * **Graphics Engine** : Performance  
@@ -50,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
    * **ASTC** : Hardware decoding
 4. Click the**Save** button to preserve all changes made.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-changes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your Bluestacks will be restarted, and your game won’t be crashing again now. But if it does, please try the next fix below.
 
@@ -83,8 +84,9 @@ There are mainly two ways for you to update the graphics driver:
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -103,8 +105,9 @@ There are mainly two ways for you to update the graphics driver:
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Turn off antivirus
 
  It’s possible that your antivirus program will interfere with the BlueStacks. To check if this is causing your BlueStacks crashing issue, you can disable it or uninstall it temporarily because sometimes disabling it won’t work.
@@ -112,15 +115,13 @@ There are mainly two ways for you to update the graphics driver:
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to open the Run box.
 2. Type**appwiz.cpl** and hit**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
 4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Enable Virtualization for BlueStacks
 
  If the methods above didn’t do the trick, you can run a quick check before reinstalling the whole software. If this feature is turned off, your BlueStacks would become very laggy and even start crashing a lot.
@@ -142,8 +143,6 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +150,26 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-game-video-a-detailed-tool-analysis/"><u>[New] 2024 Approved In-Game Video A Detailed Tool Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-alchemy-converting-ordinary-into-extraordinary/"><u>[New] Image Alchemy Converting Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-quirks-of-professional-photo-editing/"><u>[New] Quick Quirks of Professional Photo Editing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uniting-social-networks-sharing-tiktok-on-facebook-for-2024/"><u>[New] Uniting Social Networks Sharing TikTok on Facebook for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-praey-how-to-stop-praey-for-the-gods-from-crashing-on-your-pc/"><u>Fix Praey: How to Stop Praey for the Gods From Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gta-vs-online-functionality-a-step-by-step-guide-for-gamers/"><u>Fixing GTA V's Online Functionality: A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-serious-crashes-solutions-for-ark-players/"><u>How to Address Serious Crashes - Solutions for Ark Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-hitman-3-running-smoothly-on-your-computer/"><u>How to Get Hitman 3 Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-issues-when-outlook-fails-to-start-correctly/"><u>How to Resolve Issues When Outlook Fails to Start Correctly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-note-12-proplus-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi Note 12 Pro+ 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-ark-audio-restoration-tips-and-fixes-for-soundless-gameplay/"><u>Lost Ark Audio Restoration: Tips and Fixes for Soundless Gameplay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-live-tiktok-sessions-via-integrated-zoom-platforms/"><u>Mastering Live TikTok Sessions via Integrated Zoom Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-steam-is-unresponsive-issue-a-comprehensive-guide/"><u>Resolving the 'Steam Is Unresponsive' Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-youtube-sound-issues-overcoming-audio-rendering-glitches-in-windows-1nk/"><u>Resolving YouTube Sound Issues: Overcoming Audio Rendering Glitches in Windows 1Nk</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-troubleshooting-the-missing-sounds-of-lost-ark/"><u>Solved! Troubleshooting the Missing Sounds of Lost Ark</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stylizing-strings-for-cinematic-results/"><u>Stylizing Strings for Cinematic Results</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo S18e? | Dr.fone</u></a></li>
+</ul></div>
 

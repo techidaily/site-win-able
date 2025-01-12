@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting MSI Afterburner to Detect Your GPU on Windows 10 & 11 Systems"
-date: 2024-12-30T17:17:42.442Z
-updated: 2025-01-05T21:04:13.727Z
+date: 2025-01-07T17:10:37.625Z
+updated: 2025-01-12T16:45:29.041Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,7 +49,15 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
@@ -53,17 +65,9 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -97,6 +101,10 @@ There’re mainly two ways you can update your graphics drivers:
 
 **Or**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -115,7 +123,7 @@ There’re mainly two ways you can update your graphics drivers:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -137,12 +145,12 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -159,24 +167,16 @@ There’re mainly two ways you can update your graphics drivers:
 4. Launch After Effects to see if this issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If After Effects still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall codecs and plugins
 
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
 
@@ -210,19 +210,20 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-play-7t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor Play 7T to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-in-call-of-duty-mobile-winning-techniques-for-gamers/"><u>Beat Dev Error 6068 in Call of Duty Mobile - Winning Techniques for Gamers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2191911-9781943427659-e-squared-by-pam-grout-key-takeaways-analysis-review/"><u>E-Squared: by Pam Grout | Key Takeaways, Analysis & Review | Free Book</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-tutorial-on-video-transcoding-a-beginners-roadmap-for-easy-conversion/"><u>Essential Tutorial on Video Transcoding: A Beginner's Roadmap for Easy Conversion</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-the-mass-effect-legendary-edition-not-starting-dilemma/"><u>Expert Tips on Resolving the 'Mass Effect Legendary Edition Not Starting' Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/facing-launch-errors-in-lol-discover-the-best-fixes-and-tips-for-a-smooth-game/"><u>Facing Launch Errors in LoL? Discover the Best Fixes and Tips for a Smooth Game</u></a></li>
-<li><a href="https://win-info.techidaily.com/guia-paso-a-paso-para-realizar-copias-de-seguridad-incrementales-y-diferenciales-en-windows-11-mejoras-respecto-a-versiones-anteriores/"><u>Guía Paso a Paso Para Realizar Copias De Seguridad Incrementales Y Diferenciales en Windows 11: Mejoras Respecto a Versiones Anteriores</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-8-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 8 Pattern Lock Screen</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-huion-software-updates-and-driver-installation-for-optimal-pc-compatibility/"><u>Mastering Huion Software Updates and Driver Installation for Optimal PC Compatibility</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-teamgees-portable-duo-monitors-save-an-extra-120-on-zdnet-exclusive-deal/"><u>Maximize Productivity with TeamGee's Portable Duo Monitors – Save an Extra $120 on ZDNet Exclusive Deal!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-nvidias-0x0003-error-on-your-geforce-experience-software/"><u>Resolving Nvidia's 0X0003 Error on Your GeForce Experience Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/transform-lives-10-cinematic-inspirations-for-2024/"><u>Transform Lives 10 Cinematic Inspirations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-hyper-scape-keep-crashing-fix-it-now-for-a-smoother-gaming-experience/"><u>Why Does Hyper Scape Keep Crashing? Fix It Now for a Smoother Gaming Experience!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam/"><u>[Updated] In 2024, Perfect Slide Sharing Techniques The Best Ways to Use a Webcam</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-11-wallet-friendly-vlogging-tools-compiled/"><u>[Updated] In 2024, Top 11 Wallet-Friendly Vlogging Tools Compiled</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-file-retriever-restore-photos-and-more/"><u>Android File Retriever: Restore Photos & More</u></a></li>
+<li><a href="https://facebook.techidaily.com/confirm-your-credibility-with-us-metacredentials/"><u>Confirm Your Credibility with U.S. Metacredentials</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995168707-deathloop-performance-hitches-solved-smooth-gaming-on-pc-guaranteed/"><u>Deathloop Performance Hitches Solved - Smooth Gaming on PC Guaranteed!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-youtube-live-gameplay-even-when-numbers-are-low/"><u>Elevate Your Youtube Live Gameplay – Even when Numbers Are Low</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990615529-how-to-fix-new-world-connection-error/"><u>How to Fix ‘New World Connection Error’</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-optimize-your-gameplay-by-cutting-down-on-battlefield-5-lag-a-must-read-list-of-10-solutions/"><u>How to Optimize Your Gameplay by Cutting Down on Battlefield 5 Lag: A Must-Read List of 10 Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-utilizing-picture-in-picture-on-chrome-everywhere/"><u>In 2024, Utilizing Picture In Picture on Chrome Everywhere</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-inbox-the-art-of-categorizing-gmail-messages-with-labels/"><u>Mastering Your Inbox: The Art of Categorizing Gmail Messages with Labels</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-lag-in-cities-skylines-on-windowspc-systems/"><u>Overcoming Game Lag in Cities: Skylines on Windows/PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/sims-4-latency-problem-solutions-on-pc-professional-strategies-you-must-try/"><u>Sims 4 Latency Problem Solutions on PC? Professional Strategies You Must Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-error-message-fixing-your-geforce-experience-issues/"><u>Solving the 'Error' Message - Fixing Your GeForce Experience Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-optimizing-world-of-warcraft-performance-how-to-solve-low-fps-issues/"><u>Ultimate Guide to Optimizing World of Warcraft Performance: How to Solve Low FPS Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-xs-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone XS in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2025-01-04T21:13:06.704Z
-updated: 2025-01-05T16:02:20.982Z
+date: 2025-01-08T17:47:00.243Z
+updated: 2025-01-12T16:43:44.729Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
@@ -75,7 +79,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -98,13 +102,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
@@ -116,15 +120,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -145,6 +141,10 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -172,22 +172,18 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-adobes-quest-for-giggles-and-grins/"><u>[New] Adobe's Quest for Giggles and Grins</u></a></li>
-<li><a href="https://win-able.techidaily.com/sovled-back-4-blood-ue4-gobi-fatal-error/"><u>[SOVLED] Back 4 Blood UE4-Gobi Fatal Error</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-light-to-shadow-premiere-pro-transitions/"><u>[Updated] From Light to Shadow Premiere Pro Transitions</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>2024 Approved Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieving-stability-in-a-total-war-saga-troy-fixed-bugs-for-an-uninterrupted-adventure-on-pc/"><u>Achieving Stability in A Total War Saga: Troy - Fixed Bugs For an Uninterrupted Adventure on PC!</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-rust-programming-challenges-fixing-non-responsive-code-with-proven-methods/"><u>Addressing Rust Programming Challenges: Fixing Non-Responsive Code with Proven Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-ways-to-resolve-battlefield-1-game-crashes/"><u>Effortless Ways to Resolve Battlefield 1 Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-graphics-driver-glitch-on-oculus-devices/"><u>Fixing the Graphics Driver Glitch on Oculus Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-track-down-vanished-mobile-numbers-on-android-comprehensive-strategies-revealed/"><u>How to Track Down Vanished Mobile Numbers on Android - Comprehensive Strategies Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-views-on-tiktok-unboxing-content/"><u>In 2024, Maximizing Views on TikTok Unboxing Content</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-moto-g-stylus-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secrets-to-preventing-photo-app-problems-in-windows-11/"><u>Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-download-speeds-on-origin-proven-tips-and-tricks-for-gamers-in-202n4/"><u>Speeding Up Download Speeds on Origin - Proven Tips and Tricks for Gamers in 202N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-preventing-and-fixing-last-epoch-errors-on-your-pc-top-tips-and-tricks-updated/"><u>The Definitive Guide to Preventing and Fixing Last Epoch Errors on Your PC: Top Tips & Tricks (Updated )</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-ultimate-guide-to-the-finest-70-tvs-features-and-reviews/"><u>Top Picks: Ultimate Guide to the Finest 70 TVs - Features and Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-freezing-chrome-browsers-easily-on-your-windows-10-pc/"><u>Troubleshoot Freezing Chrome Browsers Easily on Your Windows 10 PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>[Updated] Tranquil Sleep Soundtrack Expertly Selected Voices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-video-avancee-avec-winx-deluxe-transformez-et-reduisez-votre-contenu-multimedia-rapidement-grace-a-lacceleration-du-gpu/"><u>Conversion Vidéo Avancée Avec WinX Deluxe: Transformez Et Réduisez Votre Contenu Multimédia Rapidement Grâce À L'Accélération Du GPU</u></a></li>
+<li><a href="https://win-able.techidaily.com/dead-by-daylight-fixed-how-to-overcome-error-code-8014-on-your-game/"><u>Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 14 Pro Max Activation Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-xs-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone XS Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inviting-photo-sharing-success-accepting-shared-albums-on-apple-iphone/"><u>Inviting Photo Sharing Success: Accepting Shared Albums on Apple iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-low-ping-and-smooth-play-a-step-by-step-cs2-fix/"><u>Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-overcoming-gameplay-hiccups-in-assassins-creed-valhalla-for-desktop-systems/"><u>Optimizing Performance: Overcoming Gameplay Hiccups in Assassin's Creed Valhalla for Desktop Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/protecting-your-macbook-pro-without-breaking-the-bank-a-critical-look-at-procases-affordable-option/"><u>Protecting Your MacBook Pro Without Breaking the Bank: A Critical Look at ProCase's Affordable Option</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-splitgate-performance-issues-increase-your-fps-and-eliminate-stutter/"><u>Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-7-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 7 Plus</u></a></li>
 </ul></div>
 

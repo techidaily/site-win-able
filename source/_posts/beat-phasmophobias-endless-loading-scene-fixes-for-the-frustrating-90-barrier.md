@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2025-01-04T18:40:57.692Z
-updated: 2025-01-05T16:29:23.215Z
+date: 2025-01-08T17:22:37.188Z
+updated: 2025-01-12T17:55:04.789Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -73,7 +77,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
@@ -94,10 +98,6 @@ OR
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -109,6 +109,10 @@ OR
  After updating your drivers, restart your computer and launch your game to check if the issue is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -137,7 +141,7 @@ OR
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Locate the**saveData.txt** file and delete it.
@@ -164,17 +168,9 @@ OR
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this didn’t work, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -186,6 +182,10 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
@@ -195,7 +195,7 @@ Here’s how you can do this:
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now restart your computer and your problem should be fixed.
@@ -211,7 +211,7 @@ Take these steps:
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
@@ -219,7 +219,7 @@ Take these steps:
 ![uninstall and reinstall Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Delete everything in the**Kinetic Games folder** .
@@ -252,18 +252,22 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>[Updated] 2024 Approved Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-explore-novel-tiktok-profile-features-to-elevate-your-status-for-2024/"><u>[Updated] Explore Novel TikTok Profile Features to Elevate Your Status for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-future-of-immersion-insights-on-lgs-360-vr-headset/"><u>[Updated] The Future of Immersion Insights on LG's 360 VR Headset</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-uninterrupted-immersion-fixing-game-hiccups-for-a-fluid-high-fps-experience-today/"><u>Achieve Uninterrupted Immersion: Fixing Game Hiccups for a Fluid, High-FPS Experience Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-errors-and-how-to-overcome-them-getting-past-the-blockage-in-persona-3-reload/"><u>Common Errors and How to Overcome Them: Getting Past the Blockage in Persona 3 Reload</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-overcoming-common-fortnite-load-failures/"><u>Effortless Solutions: Overcoming Common Fortnite Load Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-errors-a-guide-to-fixing-v-rising-pc-compatibility-problems/"><u>Fixing Persistent Errors: A Guide to Fixing V Rising PC Compatibility Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-surface-laptop-studio-2-review-almost-the-perfect-creator-tool/"><u>Microsoft Surface Laptop Studio 2 Review: Almost the Perfect Creator Tool</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades-for-2024/"><u>Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/syma-x8c-performance-breakdown/"><u>Syma X8C Performance Breakdown</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-get-past-madden-22s-loading-screen-glitch/"><u>The Ultimate Guide to Get Past Madden 22’S Loading Screen Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-overcome-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Guide: How to Overcome FPS Drops & Stutters in Call of Duty Modern Warfare 2 on PC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ultimate-guide-top-20-cost-free-video-editing-websites/"><u>Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-overcoming-crusader-kings-3-shutdowns-and-restarts-on-your-computer/"><u>[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-dont-miss-these-youtube-seo-tools-to-boost-your-video/"><u>[Updated] 2024 Approved Don't Miss These YouTube SEO Tools to Boost Your Video</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-art-of-photo-refreshment-how-to-tidy-up-images-on-canva-for-2024/"><u>[Updated] The Art of Photo Refreshment How to Tidy Up Images on Canva for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-the-error-6-challenge-tips-and-fixes-for-modern-warfare-and-warzone-players/"><u>Decode the Error 6 Challenge – Tips and Fixes for Modern Warfare & Warzone Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nokia-g42-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Nokia G42 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-your-scanners-detection-problem-with-documents-expert-advice-by-yl-software/"><u>How to Fix Your Scanner's Detection Problem with Documents - Expert Advice by YL Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014023468-master-the-art-of-quick-repairs-for-apex-legends-load-failures-top-techniques-inside/"><u>Master the Art of Quick Repairs for Apex Legends Load Failures - Top Techniques Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-lag-in-street-fighter-6-top-solutions-to-combat-high-latency-for-pc-players/"><u>No More Lag in Street Fighter 6: Top Solutions to Combat High Latency for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-in-the-division-2-solutions-for-increased-frame-rates-and-smoother-gameplay/"><u>Optimizing Performance in 'The Division 2' – Solutions for Increased Frame Rates and Smoother Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-unexpected-closure-errors-in-frostpunk-gameplay-a-step-by-step-guide/"><u>Overcoming Unexpected Closure Errors in Frostpunk Gameplay: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-explore-pandora-universe-with-an-updated-avatar-experience/"><u>PC Users, Explore Pandora Universe with an Updated Avatar Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-lag-problems-head-on-how-to-optimize-your-connection-and-improve-back-4-blood-performance/"><u>Tackling Lag Problems Head-On: How to Optimize Your Connection and Improve 'Back 4 Blood' Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-power-peaks-controlling-wlanext-usage/"><u>Taming Power Peaks: Controlling WLANEXT Usage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1079455-9781420924381-the-astral-plane/"><u>The Astral Plane | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-solve-logitech-c615-driver-complications-in-no-time/"><u>Troubleshoot and Solve Logitech C615 Driver Complications in No Time</u></a></li>
 </ul></div>
 
