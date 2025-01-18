@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Boost Your Splitgate Gameplay with Higher FPS"
-date: 2025-01-06T16:31:03.826Z
-updated: 2025-01-12T17:36:09.609Z
+date: 2025-01-11T05:01:25.756Z
+updated: 2025-01-18T04:49:59.329Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 1. **[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**
@@ -38,15 +34,15 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 6. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: **Restart your computer**
 
  Sometimes a game can crash or stop responding because of a temporary issue that you can fix by restarting your device.
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: **Disable your antivirus temporarily**
 
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If this didn’t help in resolving your problem, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -73,6 +65,10 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -98,9 +94,17 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -112,7 +116,7 @@ If this didn’t help in resolving your problem, try the fix below.
  If_Terraria_ still crashes, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
@@ -125,17 +129,33 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Terraria** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to see if your problem has been resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run your game in compatibility mode
 
@@ -159,10 +179,6 @@ If not, try the next fix.
 
 If this didn’t work for you, check the fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Reinstall your game and/or Steam
 
  If none of the fixes worked for you, your issue might be caused by corrupted or damaged game files. In this case, reinstalling**_Terraria_** and/or Steam is very likely the solution to your issue. Here is how to do it:
@@ -179,10 +195,6 @@ If this didn’t work for you, check the fix, below.
 **3)** Right-click**Terraria** , then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click**DELETE** .
 
@@ -206,17 +218,9 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -239,16 +243,12 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -275,24 +275,22 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>[New] 2024 Approved Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-essential-top-8-video-collage-apps-balancing-android-costs/"><u>[New] Essential Top 8 Video Collage Apps Balancing Android Costs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-newest-compatible-cameras-to-match-samsung-gear-360/"><u>[Updated] Newest Compatible Cameras to Match Samsung Gear 360</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-restore-noise-to-silent-twitter-video-posts/"><u>[Updated] Restore Noise to Silent Twitter Video Posts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[Updated] The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-directx-hiccups-effective-fixes-for-fifa-20-players/"><u>Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/chivalry-ii-stability-enhancements-resolving-game-breaking-glitches/"><u>Chivalry II Stability Enhancements: Resolving Game-Breaking Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-high-cpu-use-with-zoom-discover-these-6-strategies-now/"><u>Conquer High CPU Use with Zoom - Discover These 6 Strategies Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-graphics-errors-in-grand-theft-auto-v-overcoming-the-d3d-initialization-issue-errgfxd3dinit/"><u>Fixing Graphics Errors in Grand Theft Auto V: Overcoming the D3D Initialization Issue (ERR_GFX_D3D_INIT)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-started-with-zebra-print-devices-fresh-driver-downloads-for-windows-systems/"><u>Getting Started with Zebra Print Devices: Fresh Driver Downloads for Windows Systems</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-effective-data-retrieval-techniques-with-yl-software-solutions/"><u>Mastering Effective Data Retrieval Techniques with YL Software Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/premium-e-reading-experience-on-a-silver-platter-an-in-depth-look-at-amazon-kindle-oasis/"><u>Premium E-Reading Experience on a Silver Platter: An In-Depth Look at Amazon Kindle Oasis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx92ndll-a-step-by-step-guide-to-solving-the-file-not-found-issue/"><u>Resolving d3dx9_2n.dll: A Step-by-Step Guide to Solving the File Not Found Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-addressing-google-chromes-inability-to-launch-successfully/"><u>Solution Guide: Addressing Google Chrome's Inability to Launch Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-football-manager-2020-stability-issues-and-enjoy-uninterrupted-gaming-experience/"><u>Solve Football Manager 2020 Stability Issues & Enjoy Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-repairing-the-non-working-msi-dragon-centre/"><u>Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-addressing-pc-fps-drops-for-a-smooth-playthrough-of-resident-evil-village-fixed/"><u>Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-black-screen-issues-in-star-wars-battlefront-ii/"><u>Troubleshooting Guide: Resolving Black Screen Issues in Star Wars Battlefront II</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-behind-the-illusion-buying-non-existent-youtube-backers-for-2024/"><u>Truth Behind the Illusion Buying Non-Existent YouTube Backers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-addressing-youtube-shorts-no-image-upload-issue/"><u>[Updated] Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-garrys-mod-resolve-persistent-crashing-with-these-2024-expert-tips-and-tricks/"><u>Conquer Garry's Mod: Resolve Persistent Crashing with These 2024 Expert Tips & Tricks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989810274-dark-souls-iii-stability-patched-stop-the-unexpected-shutdowns-now/"><u>Dark Souls III Stability Patched – Stop the Unexpected Shutdowns Now!</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/enhancing-automation-intelligence-the-synergy-of-abbyy-and-blue-prism-in-transforming-digital-labor/"><u>Enhancing Automation Intelligence: The Synergy of ABBYY & Blue Prism in Transforming Digital Labor</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-fix-guide-overcoming-3-0x0001000b-in-rainbow-six-siege/"><u>Error Fix Guide: Overcoming 3-0X0001000B in Rainbow Six Siege</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fabios-video-guide-for-winning-exchange-customer-feedback/"><u>Fabio's Video Guide for Winning Exchange Customer Feedback</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-video-magic-best-tools-for-effortless-webm-conversion/"><u>In 2024, YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-ac-3160-wifi-card-seamless-driver-update-and-installation-guide/"><u>Intel AC 3160 WiFi Card - Seamless Driver Update & Installation Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-rainbow-six-siege-overcoming-connection-hurdles/"><u>Quick Fixes for Rainbow Six Siege - Overcoming Connection Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-response-fixing-shader-optimization-challenges-in-star-wars-battlefront-ii/"><u>Rapid Response: Fixing Shader Optimization Challenges in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-gameplay-solving-cod-black-ops-cold-wars-freezing-glitch/"><u>Revive Your Gameplay: Solving COD: Black Ops Cold War's Freezing Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-discord-failing-to-start-up/"><u>Troubleshooting Guide: Resolving Issues with Discord Failing to Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solve-your-gta-v-crashing-issues-now/"><u>Troubleshooting Tips - Solve Your GTA V Crashing Issues Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-reno-10-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 10 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-cause-behind-error-0x80370102-in-wsl-distribution/"><u>Unraveling the Cause Behind Error 0X80370102 in WSL Distribution</u></a></li>
 </ul></div>
 

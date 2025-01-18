@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing Persistent PC Crashes in Dreamlight Valley Gameplay"
-date: 2024-08-13T10:02:31.168Z
-updated: 2024-08-14T10:02:31.168Z
+date: 2025-01-12T22:03:11.553Z
+updated: 2025-01-17T20:53:57.058Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 Starcraft 2 has been played by millions of people and thousands of esports professionals globally. Many players reported that**Starcraft 2 crashing** issues can sometimes make their game unplayable…
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  If StarCraft 2 keeps giving you a hard time, such as crashing to desktop, crashing with no error, or getting lockups and freezes in-game, you can try the following fixes:
@@ -41,10 +42,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 
  Also, many users find that installing the latest Windows 10 gets rid of the Starcraft 2 crashing issue. Therefore, you’ll need to check for updates and always keep your OS up to date for a smoothing gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Scan and Repair for Starcraft 2
 
  If you run into any Blizzard in-game problems, you can try the**Scan and Repair** feature in the**Battle.net application** , which automatically scans and repairs the problems in your game. To scan and repair your Starcraft 2, here’s how to do it:
@@ -53,16 +50,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Select your Starcraft 2.
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
-5. Wait for the repair to finish.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Wait for the repair to finish.
+
 ### Fix 3: Update your graphics card driver
 
  If you’re an avid gamer, you must know how important a graphics card driver means, and how an outdated or corrupt graphics card driver causes your game to crash, lag or load forever, etc. Therefore, you should always check the current driver version and keep your graphics card driver up-to-date.
@@ -92,17 +86,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-5.png)
 3. Click the Update button next to the flagged video card to automatically download the correct version of their driver (you can do this with the FREE version), then install the driver manually on your computer.  
 
-**OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Stop overclocking
 
  Overclocking your video cards is not supported and may cause**performance or crash issues in StarCraft 2** . To undo the overclocking, you’ll need to enter the CMOS and BIOS settings of the system and reverse all the changes back to default.
@@ -114,14 +110,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 1. Right-click your desktop and select NVIDIA Control Panel.  
 ![Open NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-control-panel.jpg)
 2. Expand the**Help** menu, and check the**Debug Mode** option.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
@@ -131,11 +119,13 @@ _Note: This method applies only to the_ non-reference model cards_._
  Sometimes Starcraft 2 will fail to recognize your graphics driver since it’s been changed or whatsoever. Resetting your in-game options can always do the trick if this is the culprit of your Starcraft 2 crashing.
 
 1. Open your Blizzard launcher.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options-1.png) and select**Game settings** .
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Reset** .
 5. Click **Done** , then relaunch the game.
 
@@ -143,9 +133,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
  If you have any third-party antivirus app installed, you might need to uninstall it temporarily or you can try **adding Starcraft 2 as an exception to your third-party antivirus application** .
@@ -162,17 +149,9 @@ _Note: This method applies only to the_ non-reference model cards_._
 4. Check the**Run this program as administrator** box.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Set Affinity for Starcraft 2
 
  Most users have reported that Starcraft 2 can’t utilize all of the CPU cores. So, the best fix for this is to set the affinity for the game from the Task Manager.
@@ -187,9 +166,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this temporary method works for you, you’ll need to repeat these steps every time you start your game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Run Starcraft 2 in windowed mode
 
  Switching from the full-screen mode to windowed mode can sometimes work for many gamers.
@@ -200,6 +176,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 4. Type **\-Displaymode 0**
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: Perform a clean boot
 
@@ -218,6 +198,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  There you have it – 10 ways for you to solve the Starcraft 2 crashing issue. Did any of the fix work for you? Feel free to share your experience with other users below!
@@ -231,8 +215,6 @@ _Note: This method applies only to the_ non-reference model cards_._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +222,16 @@ _Note: This method applies only to the_ non-reference model cards_._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-discovering-the-potential-apple-devices-on-your-youtube-channel/"><u>[New] 2024 Approved Discovering the Potential Apple Devices on Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] 2024 Approved How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs/"><u>2024 Approved Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-repairing-and-preventing-future-teardown-issues/"><u>Comprehensive Guide to Repairing and Preventing Future Teardown Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-hitman-3-on-pc-avoid-crashes-and-enjoy-gaming-with-these-tips/"><u>Mastering Hitman 3 on PC - Avoid Crashes and Enjoy Gaming with These Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-launcher-not-working-heres-the-fix-for-error-0x803f8001-on-windows/"><u>Minecraft Launcher Not Working? Here's the Fix for Error 0X803F8001 on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-issues-with-armored-core-vi-fires-of-rubicon-on-your-system/"><u>Overcoming Startup Issues with Armored Core VI: Fires of Rubicon on Your System</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/solutions-for-unrecognized-external-drives-on-windows-expert-tips-from-yl-softwares-team/"><u>Solutions for Unrecognized External Drives on Windows - Expert Tips From YL Software's Team</u></a></li>
+</ul></div>
 

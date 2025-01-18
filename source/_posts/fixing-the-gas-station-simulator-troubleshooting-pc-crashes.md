@@ -1,7 +1,7 @@
 ---
 title: Fixing the Gas Station Simulator - Troubleshooting PC Crashes
-date: 2024-08-18T15:18:27.490Z
-updated: 2024-08-19T15:18:27.490Z
+date: 2025-01-13T02:53:46.340Z
+updated: 2025-01-18T00:42:30.422Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ Jurassic World Evolution is an exciting game where you can create your own park 
 4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Update your graphics driver
 
  Graphics card driver is vital to the game performance. So, to prevent Jurassic World Evolution from crashing and avoid other potential issues, you should keep your graphics driver up to date.
@@ -46,10 +43,11 @@ There are two ways you can update the graphics driver:
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -65,31 +63,45 @@ There are two ways you can update the graphics driver:
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click**Jurassic World Evolution** from the game list and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files.jpg)
 4. Wait until the process finishes and re-open the game to test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Does Jurassic World Evolution return to normal now? If the crashing issue persists, check out[Fix 3](https://tools.techidaily.com/drivereasy/download/) below.
 
 #### On Epic Games Launcher
 
 1. Run the Epic Games Launcher and select the**Library** tab from the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-1.jpg)
 2. Mouse over the Jurassic World Evolution tile and click the**icons with three dots** . Then click**Verify** on the pop-up menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-1.jpg)
 3. After the process completes, restart your game to test.
 
 Do the crashes disappear now? If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Remove conflicting applications
 
@@ -97,9 +109,6 @@ Do the crashes disappear now? If not, try the next fix below.
 
  If you’re still unable to play the game, continue to the next fix then.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Disable overlays
 
  The overlay feature supported by third-party software is also a known culprit for the crashing of many games. Follow the instruction below and make sure overlay is disabled on[Steam](https://tools.techidaily.com/drivereasy/download/) and[Discord](https://tools.techidaily.com/drivereasy/download/) .
@@ -108,29 +117,13 @@ Do the crashes disappear now? If not, try the next fix below.
 
 1. Run the Steam client.
 2. Click**Steam** at the top left corner and click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1-1.jpg)
 3. Navigate to the**In-Game** tab. Then, untick**Enable the Steam Overlay while in-game** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable Discord overlay
 
@@ -141,17 +134,11 @@ Key features:
 
  Check whether Jurassic World Evolution stops crashing or not. If this method doesn’t give any luck, proceed to the last one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the graphics settings
 
  If you’re running Jurassic World Evolution on a low-end PC, it’s suggested you lower the graphics settings for a smoother performance. Here is how:
 
 1. Launch the game and select**Settings** on the main screen.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-0.jpg)
 2. Go to the**Display** section.
 3. Change the Screen Mode to**Windowed** and make sure to**turn off VSync** .  
@@ -175,8 +162,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +169,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-establishing-an-individual-identity-on-youtube-platform/"><u>[New] In 2024, Establishing an Individual Identity on YouTube Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elite-action-video-capture-top-15-handheld-devices/"><u>2024 Approved Elite Action Video Capture Top 15 Handheld Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-speed-in-depth-tp-link-archer-c50-wireless-router-evaluation/"><u>Affordable Speed: In-Depth TP-Link Archer C50 Wireless Router Evaluation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/capture-quality-sound-on-savings-premier-bargains-awaiting-on-tribit-audio-products-this-prime-day/"><u>Capture Quality Sound on Savings: Premier Bargains Awaiting on Tribit Audio Products This Prime Day</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compreenasian-guide-to-beautiful-collage-making-for-2024/"><u>Compreenasian Guide to Beautiful Collage Making for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1744287-9781782795599-crystal-prescriptions/"><u>Crystal Prescriptions | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-pervasive-issue-of-a-purely-black-overwatch-boot-up-screen/"><u>Effective Fixes for the Pervasive Issue of a Purely Black Overwatch Boot-Up Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-reasons-why-oxygen-not-included-cant-start/"><u>Fixing Common Reasons Why Oxygen Not Included Can't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-latency-issues-in-street-fighter-6-ultimate-guide-for-gamers/"><u>Fixing Latency Issues in Street Fighter 6: Ultimate Guide for Gamers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-your-current-ipad-model-falling-behind-the-times/"><u>Is Your Current iPad Model Falling Behind the Times?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-graphics-hiccups-boosting-fps-in-your-game-of-the-division-2/"><u>Overcoming Graphics Hiccups: Boosting FPS in Your Game of 'The Division 2'</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnecting-tips-for-when-youre-cut-off-from-hearthstone-online-gameplay/"><u>Reconnecting Tips for When You're Cut Off From Hearthstone Online Gameplay</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/revolutionizing-youtube-success-through-smart-title-strategy/"><u>Revolutionizing YouTube Success Through Smart Title Strategy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cannot-connect-to-server-in-apexs-lost-ark-expert-tips-and-fixes/"><u>Solving 'Cannot Connect to Server' In APEX's 'Lost Ark': Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-how-to-prevent-constant-failures-in-nox-player-performance-on-laptopspcs/"><u>Step-by-Step Guide: How to Prevent Constant Failures in Nox Player Performance on Laptops/PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-solution-for-failed-to-connect-mastering-steam-client-errors-and-fixes/"><u>The Ultimate Solution for 'Failed to Connect' - Mastering Steam Client Errors & Fixes</u></a></li>
+</ul></div>
 

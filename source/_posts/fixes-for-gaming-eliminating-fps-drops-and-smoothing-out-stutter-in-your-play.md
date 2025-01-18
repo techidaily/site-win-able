@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2025-01-07T17:59:18.291Z
-updated: 2025-01-12T17:40:14.797Z
+date: 2025-01-15T21:46:11.475Z
+updated: 2025-01-18T09:11:05.224Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OBS lags when streaming
 
  When you’re streaming with OBS, network latency is no stranger to live streamers. In order to deliver a smoother watching experience, it’s quite necessary to reduce lag spikes while streaming.
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When Windows asks you to confirm, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
@@ -70,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  If you find no luck getting closer to the solution, you should proceed to Fix 2.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use “flushdns” command
 
@@ -113,10 +117,6 @@ ipconfig /flushdns
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Restart modem & router
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -143,10 +143,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Update network adapter drivers
 
  Your network latency is sometimes caused by an outdated or corrupt driver. If you’re not sure whether your network card driver is up-to-date, you should check.
@@ -166,7 +162,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -175,7 +171,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -183,6 +179,10 @@ wireless router
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Swap Wifi to Ethernet connection
 
@@ -203,10 +203,6 @@ wireless router
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Adjust OBS settings
 
  There’re quite a few guidelines for how to find out the OBS settings that give you the best streaming/recording performance. You can simply google “obs settings for streaming” and follow the instructions ranking high; also keep in mind that you may need to play around with different settings until you find the ones that work wonders. For example, you could start with the settings below:
@@ -224,10 +220,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Update graphics card drivers
 
  Updating drivers is the solution to various issues, including graphics lag. You can update your GPU driver from either Windows Device Manager or the manufacturer’s website. But if you don’t have the time, skills, and patience to do that, simply use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  – a reliable and powerful driver updater tool – to help you manage all the driver updates.
@@ -244,9 +236,17 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -283,15 +283,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame-for-2024/"><u>[New] Perfected Framing for FB Videos Implement Letterbox & Dark Frame for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mts-to-mp4-20248/"><u>「MTS to MP4自由変換ソフトウェア: 2024の最高選考8つを紹介する」</u></a></li>
-<li><a href="https://win-able.techidaily.com/iuoajoodjplusocuoodoeodhuocroocpooditrpjllpn7pjg5xjgqhjgqtjg6vjgplnskhljzjjgavkvzzjgovmlrnms5xjgi0i/"><u>「ハジメテガイド:録音ファイルを簡単に作る方法」</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-top-8-trending-vr-adventures-on-oculus/"><u>2024 Approved Top 8 Trending VR Adventures on Oculus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cleansing-local-disks-in-win11-preserving-your-files-max-156-chars/"><u>Cleansing Local Disks in Win11: Preserving Your Files (Max 156 Chars)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mystery-maneuvers-effortless-enhancement-techniques/"><u>In 2024, Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp43mp4/"><u>MP4ファイルに圧縮しながらスクリーンを記録する究極のガイド：上位3つのMP4レコーダー</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-stable-fps-in-nioh-2/"><u>Optimizing Your PC for Stable FPS in Nioh 2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-in-online-interaction-connect-and-engage-on-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Online Interaction: Connect and Engage on Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/iuocteocpoodnuodqplusodqeocuoocquwpjummsjrjgrpjg4tjgajjg4bjgqjg4vjg4pjgqjgizjg5hjgr3jgrpjg7pjg7vjgrnjg57jg5vnt6jjgi0i/"><u>サイマルラジオ収録:コツとテクニック「パソコン・スマホ編」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-selecting-the-ideal-mac-screenshot-software/"><u>[New] In 2024, Selecting the Ideal Mac Screenshot Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-10-best-facebook-meme-pages-you-never-know-before-for-2024/"><u>[Updated] 10 Best Facebook Meme Pages You Never Know Before for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-engaging-video-audiences-choosing-impactful-youtube-images-for-2024/"><u>[Updated] Engaging Video Audiences Choosing Impactful YouTube Images for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-system-inadequate-cpu-specifications-for-running-vanguard-efficiently/"><u>Enhance Your System: Inadequate CPU Specifications for Running Vanguard Efficiently</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/essential-guidelines-for-a-thorough-computer-cleanse-and-maintenance-by-yl-software-experts/"><u>Essential Guidelines for a Thorough Computer Cleanse & Maintenance by YL Software Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-freeing-up-system-ram-resolved/"><u>Fortnite Freeing Up System RAM - Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001656004-gta-not-working-heres-how-to-get-your-online-adventure-back-on-track/"><u>GTA nOt wOrkIng? Here's How to Get Your Online Adventure Back on Track!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-graphics-on-windows-3-quick-techniques/"><u>Rejuvenate Graphics on Windows - 3 Quick Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/sound-clarity-in-media-paid-vs-free-software-solutions/"><u>Sound Clarity in Media - Paid Vs. Free Software Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-controllers-not-detected-in-windows-here-are-the-solutions/"><u>Steam Controllers Not Detected in Windows? Here Are the Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-low-frames-per-second-fps-issues-in-titanfall-2-a-comprehensive-guide/"><u>Tackling Low Frames Per Second (FPS) Issues in Titanfall 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-free-video-recovery-software-pour-windows-10-testez-le-nouveau-meilleur/"><u>Top Free Video Recovery Software Pour Windows 10 - Testez Le Nouveau Meilleur!</u></a></li>
 </ul></div>
 

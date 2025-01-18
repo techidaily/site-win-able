@@ -1,7 +1,7 @@
 ---
 title: Methods to Resolve Scanner Malfunctions
-date: 2024-08-13T10:01:58.684Z
-updated: 2024-08-14T10:01:58.684Z
+date: 2025-01-14T01:15:37.336Z
+updated: 2025-01-18T04:36:04.397Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fixes for Apex Legends Engine Error
 
  Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -40,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -69,9 +74,6 @@ Here is how to grant administrative privileges to Apex Legends:
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
@@ -81,8 +83,9 @@ Here is how to grant administrative privileges to Apex Legends:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -95,18 +98,19 @@ Here is how to verify game files:
 
  2) Right-click on**Apex Legends** and click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
@@ -122,9 +126,6 @@ Here are the steps to add the command line:
 
  1) Right-click on**the empty area** on your desktop, and click**New** \>**Text Document** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
 2) Add the following command to the text document.
@@ -133,17 +134,15 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers] "TdrDelay"=hex(b):08,00,00,00,00,00,00,00
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
  3) Click**File** \>**Save as…**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
@@ -166,8 +165,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +172,23 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-expertly-charged-hero5-black-batteries-authenticity-and-counterparts-for-2024/"><u>[New] Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-imovie-techniques-for-squaring-up-your-instagram-feed/"><u>[New] In 2024, IMovie Techniques for Squaring Up Your Instagram Feed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-insiders-guide-to-dynamic-and-engaging-tiktok-edits/"><u>[Updated] In 2024, The Insider's Guide to Dynamic and Engaging TikTok Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-samsung-and-apple-ultra-edition-smartwatches-an-in-depth-comparison-for-your-purchase-decision-techradar/"><u>Choosing Between the Samsung and Apple Ultra Edition Smartwatches: An In-Depth Comparison for Your Purchase Decision | TechRadar</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-problems-with-content-warnings-in-voice-chatting-platforms/"><u>How To Overcome Problems with Content Warnings in Voice Chatting Platforms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-honor-x50iplus-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor X50i+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-your-complete-guide-to-making-a-mark-with-reels/"><u>In 2024, Mastering Instagram Your Complete Guide to Making a Mark With Reels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-transforming-viewers-to-advocates-the-essential-top-5-youtube-strategies/"><u>In 2024, Transforming Viewers to Advocates The Essential #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/life-is-strange-true-colors-crash-fixed-comprehensive-guide/"><u>Life Is Strange: True Colors - Crash Fixed Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-2-wont-start-troubleshooting-steps-and-solutions/"><u>Modern Warfare 2 Won't Start: Troubleshooting Steps & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-simultaneous-collision-errors-on-personal-computers-a-comprehamatic-guide/"><u>Resolving Simultaneous Collision Errors on Personal Computers - A Comprehamatic Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-skyfall-in-how-to-build-a-better-city-latest-fixes/"><u>Troubleshooting Skyfall in How to Build a Better City: Latest Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-back-4-blood-on-unreal-engine-4-overcoming-the-gobi-glitch/"><u>Troubleshooting Tips for 'Back 4 Blood on Unreal Engine 4: Overcoming the Gobi Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-stop-minecraft-stuttering-proven-techniques/"><u>Ultimate Guide: Stop Minecraft Stuttering - Proven Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-household-connectivity-with-the-tri-band-netgear-nighthawk-x6-ac3200-a-gamers-and-familys-dream/"><u>Unleashing Household Connectivity with the Tri-Band Netgear Nighthawk X6 AC3200 - A Gamer's and Family's Dream</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Playtime: Strategies to Combat Lag and Improve Response Time in 'Back 4 Blood'"
-date: 2025-01-10T16:56:30.122Z
-updated: 2025-01-12T17:23:04.316Z
+date: 2025-01-16T22:44:45.034Z
+updated: 2025-01-17T23:18:20.464Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Close bandwidth-hogging programs
 
  You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
@@ -73,9 +65,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
 
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -111,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -121,12 +125,12 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
@@ -142,27 +146,23 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 3. Right-click **the network you’re using** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -196,21 +196,20 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-capture-save-and-access-your-shots-seamlessly-with-free-and-paid-cloud-options/"><u>[New] Capture, Save and Access Your Shots Seamlessly with Free & Paid Cloud Options</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-enhancing-interior-luminosity-naturally/"><u>[New] Enhancing Interior Luminosity Naturally</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-essential-vr-adventures-on-oculus-devices/"><u>[New] Essential VR Adventures on Oculus Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-leaders-free-top-6-youtube-snackers/"><u>2024 Approved Unveiling the Leaders Free Top 6 YouTube Snackers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-spots-online-to-get-music-without-paying-a-dime-15-picks/"><u>Discover the Best Spots Online to Get Music Without Paying a Dime: 15 Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effortlessly-edit-podcasts-best-practices-with-garageband/"><u>Effortlessly Edit Podcasts Best Practices with GarageBand</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005051997-final-fix-for-out-of-date-minecraft-drivers-update-guide-included/"><u>Final Fix for Out-of-Date Minecraft Drivers - Update Guide Included</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-discord-overlay-issues-fast-simple-solutions/"><u>Fix Discord Overlay Issues Fast: Simple Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-steam-games-failing-to-start-on-windows-11/"><u>Fixing the Issue of Steam Games Failing to Start on Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-personalization-with-cookiebot-solutions/"><u>Harness the Power of Personalization with Cookiebot Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-warframe-from-continuously-stalling/"><u>How to Stop Warframe From Continuously Stalling</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-g510-driver-pack-for-widows-users-windows-7810/"><u>Logitech G510 Driver Pack for Widows Users (Windows 7/8/10)</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsoft-edge-continuous-crash-solutions-for-windows-10-users/"><u>Microsoft Edge Continuous Crash Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-error-5573-glitch-in-call-of-duty-vanguard-for-better-performance/"><u>Overcoming the Error 5573 Glitch in Call of Duty: Vanguard for Better Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-tips-to-resolve-electrical-interference-causing-a-hiss-in-your-headphones/"><u>Quick Tips to Resolve Electrical Interference Causing a Hiss in Your Headphones</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-issue-of-far-cry-6-failing-to-start-on-windows/"><u>Resolved: Overcoming the Issue of Far Cry 6 Failing to Start on Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-peak-performance-win-tunes/"><u>[New] 2024 Approved Peak Performance WIN Tunes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-video-thumbnail-add-and-change-thumbnails-of-twitter-videos/"><u>[New] In 2024, Twitter Video Thumbnail | Add and Change Thumbnails of Twitter Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reducing-background-melodies-windowsmac-guide/"><u>[New] Reducing Background Melodies Windows/Mac Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-new-world-keeps-crashing-on-pc/"><u>[SOLVED] New World Keeps Crashing on PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-in-depth-guide-to-game-capturing-roblox-and-mac-integration/"><u>[Updated] In 2024, In-Depth Guide to Game Capturing Roblox & Mac Integration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-complete-thumbnail-playbook-from-creation-to-analysis/"><u>2024 Approved The Complete Thumbnail Playbook From Creation to Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996243994-call-of-duty-vanguard-stutter-and-lag-troubleshooting-solutions-for-a-smoother-game/"><u>Call of Duty Vanguard Stutter and Lag Troubleshooting: Solutions for a Smoother Game !</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/efficiency-in-action-best-10-ways-to-youtube-conversion-for-2024/"><u>Efficiency in Action Best 10 Ways to YouTube Conversion for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-lag-top-techniques-for-a-seamless-minecraft-experience-on-pc-2023-update/"><u>Eliminating Lag: Top Techniques for a Seamless Minecraft Experience on PC - 2023 Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-obs-streamrecord-lag-problems-a-comprehensive-guide/"><u>Fixing OBS Stream/Record Lag Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-not-installed-error-in-eac-a-step-by-step-installation-tutorial/"><u>Overcoming the 'Not Installed' Error in EAC: A Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-on-windows-11s-updated-widget-chooser/"><u>Switching On Windows 11'S Updated Widget Chooser</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808064361-transform-your-pdfs-with-ease-seamlessly-turn-them-into-excel-spreadsheets-now/"><u>Transform Your PDFs with Ease - Seamlessly Turn Them Into Excel Spreadsheets Now</u></a></li>
 </ul></div>
 

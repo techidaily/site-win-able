@@ -1,7 +1,7 @@
 ---
 title: Lost Ark Quiet Problems? Here's What You Need To Know About Troubleshooting Sound!
-date: 2025-01-07T16:53:15.521Z
-updated: 2025-01-12T17:29:36.467Z
+date: 2025-01-12T17:43:19.929Z
+updated: 2025-01-17T20:36:06.031Z
 tags:
   - win11
   - win10
@@ -43,13 +43,13 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
 
@@ -71,13 +71,17 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 2. Click**View features** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
 
 4. Relaunch the game and check the audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -96,7 +100,7 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -104,7 +108,7 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 Then, reboot your PC and relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run as Administrator
@@ -119,10 +123,6 @@ Then, reboot your PC and relaunch the game to check.
 
 5. Relaunch the game and check you have sound or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify game files
 
  Verify your game files would scan and repair the game files to make sure the game won’t crash or cause trouble. It’s a quick and easy fix when you encounter game issues.
@@ -131,12 +131,12 @@ Then, reboot your PC and relaunch the game to check.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hope this post would help. Since gamers have various PC specs and environments, we can’t expect these fixes would work for everyone. If no fixes help, try the troubleshooting over at [Microsoft Support](https://www.amazongames.com/en-us/forward-link?id=windows-10-sound-problems) .
 
@@ -155,24 +155,16 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-transforming-imovie-projects-into-youtube-shows/"><u>[Updated] 2024 Approved Transforming iMovie Projects Into YouTube Shows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens/"><u>[Updated] Exploring the Merits of OBS Studio & Fraps for Recording Screens</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rhythm-and-reels-instagram-music-secrets/"><u>[Updated] In 2024, Rhythm & Reels Instagram Music Secrets</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-space-optimization-mastery-premium-storage-reviews/"><u>[Updated] In 2024, Space Optimization Mastery Premium Storage Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/cs2-crashes-resolved-master-the-latest-fixes-to-ensure-uninterrupted-gaming-on-your-pc-2024-edition/"><u>CS2 Crashes Resolved: Master the Latest Fixes to Ensure Uninterrupted Gaming on Your PC - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-when-bloodhunt-keeps-hiccuping-or-crashing-during-gameplay/"><u>Easy Fixes for When Bloodhunt Keeps Hiccuping or Crashing During Gameplay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ferramenta-on-line-sem-custo-mudando-arquivos-jpeg-para-jpg-facilmente-atraves-do-servico-da-movavi-imaging-software/"><u>Ferramenta On-Line Sem Custo: Mudando Arquivos JPEG Para JPG Facilmente Através Do Serviço Da Movavi Imaging Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-event-id-1000-issues-on-various-windows-versions-including-win7-and-win10/"><u>Fixing Event ID 1000 Issues on Various Windows Versions, Including Win7 & Win10</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-maplestory-issues-on-windows-10-top-strategies/"><u>Fixing Persistent MapleStory Issues on Windows 10 (Top Strategies )</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-the-most-out-of-your-division-2-gameplay-overcoming-low-fps-challenges-in-the-2024-version/"><u>Get The Most Out of Your Division 2 Gameplay: Overcoming Low FPS Challenges in the 2024 Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-on-windows-10-solutions-explored/"><u>How to Fix Unresponsive File Explorer on Windows 10 - Solutions Explored</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-glitches-in-jurassic-world-evolution-ultimate-crash-solution-revealed/"><u>No More Glitches in Jurassic World Evolution – Ultimate Crash Solution Revealed!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/obs-and-zoom-synchronization-techniques/"><u>OBS & Zoom Synchronization Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-connection-woes-when-steam-friend-list-is-inaccessible/"><u>Resolving Connection Woes: When Steam Friend List Is Inaccessible</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-dragon-age-origins-crashes-on-windows-11-with-these-tips-and-fixes/"><u>Troubleshoot Dragon Age: Origins Crashes on Windows 11 with These Tips and Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-the-oculus-link-black-screen-with-these-fast-and-easy-methods/"><u>Troubleshoot the Oculus Link Black Screen with These Fast and Easy Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-undetected-steam-vr-devices-on-windowsmac/"><u>Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-restoring-msi-mystic-light-capabilities-in-windows-environment/"><u>Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-examining-the-reasons-behind-instant-facebook-content-revocation/"><u>[Updated] 2024 Approved Examining the Reasons Behind Instant Facebook Content Revocation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comedy-in-code-transformative-steps-for-tailoring-gif-laughter/"><u>In 2024, Comedy in Code Transformative Steps for Tailoring GIF Laughter</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-the-art-of-iphones-detailed-photography/"><u>Mastering the Art of iPhone's Detailed Photography</u></a></li>
+<li><a href="https://win-able.techidaily.com/reimagine-classic-rpg-adventures-with-yakuza-like-a-dragon-now-accessible-on-your-personal-computer/"><u>Reimagine Classic RPG Adventures with 'Yakuza: Like a Dragon', Now Accessible on Your Personal Computer</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/reviving-lost-data-3-effective-strategies-for-retrieving-files-from-non-responsive-computers/"><u>Reviving Lost Data: 3 Effective Strategies for Retrieving Files From Non-Responsive Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-fix-resolving-server-lag-and-crashing-issues/"><u>Rocket League Fix: Resolving Server Lag and Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-stardew-valley-running-smoothly-again/"><u>Solving the Issue: How to Get Stardew Valley Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-dealing-with-the-lost-ark-missing-sounds-problem/"><u>Troubleshooting Guide: Dealing with the 'Lost Ark' Missing Sounds Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-your-astro-a50-mic-fails/"><u>Troubleshooting Tips for When Your Astro A50 Mic Fails</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-choices-for-unconventional-peer-to-peer-dialogue-platforms-safety-efficiency-pleasure-for-2024/"><u>Updated Top Choices for Unconventional Peer-to-Peer Dialogue Platforms Safety, Efficiency, Pleasure for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/video-output-recovery-post-driver-malfunction/"><u>Video Output Recovery Post Driver Malfunction</u></a></li>
 </ul></div>
 

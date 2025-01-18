@@ -1,7 +1,7 @@
 ---
 title: "Optimized Performance: Fixing High CPU Drain in Cyberpunk 2077"
-date: 2024-08-13T10:02:44.626Z
-updated: 2024-08-14T10:02:44.626Z
+date: 2025-01-10T18:29:23.378Z
+updated: 2025-01-18T04:18:27.344Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -29,10 +26,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -42,8 +35,9 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -70,15 +64,9 @@ To do so, first visit the website of your graphics card manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,10 +75,6 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -100,15 +84,32 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
@@ -138,8 +139,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,21 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-capturing-virtual-conversations-in-real-time/"><u>[New] 2024 Approved Capturing Virtual Conversations in Real Time</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xplore-and-review-free-powerful-and-user-friendly-ios-edits/"><u>[New] Explore & Review Free, Powerful, and User-Friendly iOS Edits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23-for-2024/"><u>[New] Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-outwit-youtube-visitors-tips-to-evade-automated-audiences/"><u>2024 Approved Outwit YouTube Visitors Tips to Evade Automated Audiences</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-launch-errors-in-borderlands-3-effective-strategies-you-can-apply-now/"><u>Bypassing Launch Errors in Borderlands 3: Effective Strategies You Can Apply Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-pc-freezing-during-boot-complete-guide/"><u>How to Fix a PC Freezing During Boot: Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-failures-a-users-handbook-for-pacficial-drive-setup/"><u>Overcoming Launch Failures: A User's Handbook for Pacficial Drive Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frame-rate-and-stutter-issues-in-avatar-frontiers-of-pandora/"><u>Resolving Frame Rate & Stutter Issues in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210300563-9781398814103-tarot-other-divination-arts/"><u>Tarot & Other Divination Arts | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-epoch-conundrum-a-step-by-step-fix-for-persistent-pc-crashing-updated-tips/"><u>The Final Epoch Conundrum: A Step-by-Step Fix for Persistent PC Crashing (Updated Tips )</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-11-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-disco-elysium-pc-launch-errors-successfully/"><u>Troubleshooting Guide: Fixing Disco Elysium PC Launch Errors Successfully</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wat-doe-je-als-je-bestandjes-weggelost-zijn-bij-schijffreecleaning/"><u>Wat Doe Je Als Je Bestandjes Weggelost Zijn Bij Schijffreecleaning?</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-no-record-solutions-for-shadowplay-on-pcs/"><u>Winning the Battle Against No-Record: Solutions for ShadowPlay on PCs</u></a></li>
+</ul></div>
 

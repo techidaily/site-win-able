@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles in Tarkov: Mastering the Fix for Error 103 Grok003"
-date: 2025-01-07T17:06:29.124Z
-updated: 2025-01-12T17:09:25.546Z
+date: 2025-01-14T21:21:51.804Z
+updated: 2025-01-18T06:31:53.165Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 * **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fixes for COD PC Players
 
  Here are some fixes that are useful for many Windows users. You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -66,6 +62,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-110.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch Steam and enter your account name and password. Then, try launching your game again to test your issue. If you still receive the error code, don’t worry. There are still 6 fixes to try.
 
 #### Fix 2: Restart your computer
@@ -82,10 +82,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -93,6 +89,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your game to check if this helped. If not, read on and check the fix, below.
 
@@ -107,12 +107,16 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-355.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Call of Duty WW2** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-199.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -131,7 +135,7 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the**Steam icon** , and then select **Run as administrator** .
@@ -196,10 +200,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -236,15 +236,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click your **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -296,10 +296,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-90-1024x562.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Select**Update console.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
@@ -326,13 +322,13 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select**Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Select**Reset and keep my games & apps** .
 
@@ -409,10 +405,6 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
@@ -422,7 +414,7 @@ Hope one of the fixes above worked for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Restart your game to see if this resolved your issues.
@@ -445,6 +437,10 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
@@ -452,6 +448,10 @@ Hope one of the fixes above worked for you.
 **6)** Select **Restore to Default Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Select **Yes**  and wait for the process to be complete.
 
@@ -481,24 +481,15 @@ Hope one of the fixes above worked for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-dazzle-fine-tuning-video-chrominance-for-beauty/"><u>[New] In 2024, Digital Dazzle Fine-Tuning Video Chrominance for Beauty</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-schedule-and-record-a-meeting-on-slack-wondershare-filmora/"><u>[Updated] How to Schedule and Record a Meeting on Slack-Wondershare Filmora</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-create-endless-video-on-iphone/"><u>[Updated] In 2024, How-To Create Endless Video on iPhone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stop-ff-videos-from-not-rendering-on-android/"><u>[Updated] In 2024, Stop FF Videos From Not Rendering on Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-learn-ipads-screen-sharing-basics/"><u>2024 Approved Learn iPad's Screen Sharing Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-slowing-down-action-iphone-filmmaking-tricks/"><u>2024 Approved Slowing Down Action IPhone Filmmaking Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-crashing-problems-with-lego-star-wars-the-skywalker-saga-on-pc/"><u>Expert Solutions to Overcome Crashing Problems with Lego Star Wars: The Skywalker Saga on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop SnowRunner From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/hearts-of-iron-iv-fixes-and-solutions-for-common-stability-problems/"><u>Hearts of Iron IV: Fixes & Solutions for Common Stability Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-pc-games-from-crashing-solving-halo-grovered-issues/"><u>How To Stop PC Games From Crashing - Solving Halo Grovered Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-quick-fixes-for-launch-problems-in-stardew-valley-steamxbox/"><u>Master the Quick Fixes for Launch Problems in Stardew Valley (Steam/Xbox)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lag-times-cyberpunk-2077s-enhanced-responsiveness-fixes-revealed/"><u>Overcoming Lag Times: Cyberpunk 2077'S Enhanced Responsiveness Fixes Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-5-launching-problems-on-pc-how-to-resolve-them-effectively/"><u>Resident Evil #5 Launching Problems on PC - How to Resolve Them Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/slay-game-breaking-glitches-a-comprehensive-guide-to-addressing-witcher-3-crashes-on-pc/"><u>Slay Game-Breaking Glitches - A Comprehensive Guide to Addressing Witcher 3 Crashes on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-awaits-resolving-dauntless-crashes-and-glitches-on-your-computer/"><u>Smooth Gaming Awaits: Resolving Dauntless Crashes and Glitches on Your Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ukranian-expedited-learning-for-busy-individuals-102-chars/"><u>Ukranian Expedited Learning for Busy Individuals (102 Chars)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-internet-history-easy-ways-to-search-and-use-the-wayback-machine-for-research/"><u>Unlocking Internet History: Easy Ways to Search and Use the Wayback Machine for Research</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-irritation-a-call-for-apples-solution-on-iphone-quirks-techspot/"><u>Unraveling the Irritation: A Call for Apple's Solution on iPhone Quirks | TechSpot</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-record-lectures-on-mac/"><u>[New] 2024 Approved How to Record Lectures on Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-daily-digital-dynasty-ranking-the-top-10-youtube-videos/"><u>[Updated] Daily Digital Dynasty Ranking the Top 10 YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-through-warzones-visual-disruptions-fixing-persistent-flicker-problems/"><u>Battle Through Warzone's Visual Disruptions - Fixing Persistent Flicker Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-stats-tracking-gametime-and-accumulated-rewards/"><u>Dissecting Steam Stats: Tracking Gametime & Accumulated Rewards</u></a></li>
+<li><a href="https://win-able.techidaily.com/everstop-crashes-in-everspace-2-heres-how-to-get-smooth-gameplay-on-pc/"><u>Everstop Crashes in Everspace 2? Here's How to Get Smooth Gameplay on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-camstudio-screen-capturing-a-comprehensive-analysis-users/"><u>In 2024, CamStudio Screen Capturing A Comprehensive Analysis Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-silence-audio-troubles-with-discords-screen-sharing-feature/"><u>Solve the Silence: Audio Troubles with Discord's Screen Sharing Feature</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-tips-for-resolving-madden-2n-pc-game-errors/"><u>Ultimate Troubleshooting Tips for Resolving Madden 2N PC Game Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-secret-fixes-for-cyberpunk-2077-black-screen-malfunction/"><u>Unveiling the Secret Fixes for Cyberpunk 2077 Black Screen Malfunction</u></a></li>
 </ul></div>
 

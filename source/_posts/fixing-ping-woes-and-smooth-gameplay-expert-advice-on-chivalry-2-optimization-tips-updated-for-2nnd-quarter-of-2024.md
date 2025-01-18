@@ -1,7 +1,7 @@
 ---
 title: "Fixing Ping Woes and Smooth Gameplay: Expert Advice on Chivalry 2 Optimization [Tips Updated for 2Nnd Quarter of 2024]"
-date: 2024-08-18T15:18:26.460Z
-updated: 2024-08-19T15:18:26.460Z
+date: 2025-01-10T17:18:25.963Z
+updated: 2025-01-17T17:20:40.846Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ A screenshot of Farming Simulator 22 from Steam
 
  Giants Software launched the latest Farming simulator this week, blowing up the Steam charts. However, as tons of virtual farmers rushed in to plant crops, raise livestock, and manage their businesses, more and more players are reporting that Farming Simulator 22 FPS drops on their PCs. If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix this issue easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Farming Simulator 22 FPS drops for other PC players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,9 +37,6 @@ A screenshot of Farming Simulator 22 from Steam
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  Giants Software, the developers of Farming Simulator 22 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -44,9 +45,6 @@ A screenshot of Farming Simulator 22 from Steam
 
  Launch Farming Simulator 22 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger the Farming Simulator 22 FPS dropping issue.
@@ -67,9 +65,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -77,6 +72,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -87,18 +86,16 @@ There are mainly two methods for you to update the graphics driver:
  If you’re experiencing performance issues like FPS dropping, try modifying the Power Plan of your PC for Best Performance. Here is how to do it:
 
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Farming Simulator 22\. If you have a powerful PC, just skip this fix.
@@ -142,8 +139,9 @@ There are mainly two methods for you to update the graphics driver:
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel may also improve the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -165,10 +163,11 @@ There are mainly two methods for you to update the graphics driver:
 
 1. Open **AMD Radeon Settings** .
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
@@ -179,16 +178,8 @@ There are mainly two methods for you to update the graphics driver:
  Many apps provide overlay features. Here I’ll take the Steam Overlay as an example to show you how to turn the in-game overlay off in Steam:
 
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the Farming Simulator 22 game title and click **Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
@@ -208,6 +199,10 @@ The ultimate burning program for all your needs!</a>
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch Farming Simulator 22 to see if you can play it smoothly.
 
 ---
@@ -222,8 +217,6 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +224,16 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premiere-guide-to-affordable-open-access-images/"><u>[New] Premiere Guide to Affordable, Open-Access Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-5-best-mac-software-for-cutting-edge-media-production/"><u>[Updated] 2024 Approved 5 Best Mac Software for Cutting-Edge Media Production</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-harnessing-power-at-no-cost-guide-to-hosting-and-participating-in-gmeet/"><u>2024 Approved Harnessing Power at No Cost Guide to Hosting & Participating in GMeet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-and-lag-expert-solutions-for-smooth-play/"><u>Fix Your Game Crashes and Lag - Expert Solutions for Smooth Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-connection-troubles-heres-how-to-fix-no-ping-detected-from-our-servers/"><u>Halo Infinite Connection Troubles? Here's How to Fix 'No Ping Detected From Our Servers'</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-hacks-ending-the-saga-of-constant-crashes-in-outpost-infinity-siege-gameplay/"><u>PC Gaming Hacks: Ending the Saga of Constant Crashes in Outpost: Infinity Siege Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-outlook-app-shutdowns-a-step-by-step-guide/"><u>Resolving Frequent Outlook App Shutdowns - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-guide-transforming-your-dvds-into-avi-files-with-ease/"><u>Simple Guide: Transforming Your DVDs Into AVI Files with Ease</u></a></li>
+</ul></div>
 

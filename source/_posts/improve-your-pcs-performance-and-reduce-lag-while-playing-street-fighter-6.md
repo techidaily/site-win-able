@@ -1,7 +1,7 @@
 ---
 title: Improve Your PC's Performance and Reduce Lag While Playing Street Fighter 6
-date: 2025-01-09T17:31:08.077Z
-updated: 2025-01-12T17:04:47.890Z
+date: 2025-01-13T06:09:01.207Z
+updated: 2025-01-18T08:29:02.438Z
 tags:
   - win11
   - win10
@@ -49,20 +49,12 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, reboot your PC and relaunch the New World again.
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -71,10 +63,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 1. Open your Steam client and go to **LIBRARY** . Right-click **New World** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
@@ -90,15 +78,31 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -119,7 +123,7 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 If it’s still not working, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
@@ -131,12 +135,12 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Play New World to check.
 
@@ -153,7 +157,7 @@ If it’s still not working, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -165,10 +169,6 @@ If it’s still not working, try the next fix.
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -195,22 +195,22 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/astering-ytp2024-secrets-to-profitable-channels/"><u>[New] Mastering YTP2024 Secrets to Profitable Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-path-to-perfect-presence-on-zoom-platforms-for-2024/"><u>[Updated] The Path to Perfect Presence on Zoom Platforms for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-1/"><u>完美的 Windows 1</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-bavarder-integration-in-linux/"><u>Effortless Bavarder Integration in Linux</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-preventing-elite-dangerous-game-crashes-on-windows/"><u>Expert Tips & Tricks: Preventing Elite Dangerous Game Crashes on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-read-errors-in-call-of-duty-warzone-versions-50-31-a-comprehensive-guide-for-gamers/"><u>Fixing Read Errors in Call of Duty Warzone Versions [5.0, 3.1]: A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>In 2024, Broadcast Repeat Looping YouTube Video Magic for Your Setup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-steps-to-record-and-share-your-skyrim-quests/"><u>In 2024, Quick Steps to Record and Share Your Skyrim Quests</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zooms-auditory-masterclass-fine-tuning-for-impeccable-audio/"><u>In 2024, Zoom's Auditory Masterclass Fine-Tuning for Impeccable Audio</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-guide-to-increasing-frames-per-second-fps-and-avoiding-performance-hiccups/"><u>PC Gamers' Guide to Increasing Frames Per Second (FPS) and Avoiding Performance Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-fixing-starfield-game-stability-problems/"><u>PC Troubleshooting Guide: Fixing Starfield Game Stability Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722989086868-physical-chemical-and-biological-properties/"><u>Physical, Chemical, and Biological Properties</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-phasmophobia-vr-tech-glitches-for-smooth-gameplay/"><u>Resolving Phasmophobia VR Tech Glitches for Smooth Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-spot-in-quest-3-beta-unlocking-metas-new-testing-portal-on-zdnet/"><u>Secure Your Spot in Quest 3 Beta: Unlocking Meta’s New Testing Portal on ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-giants-testing-out-meta-drops-future-potential/"><u>Social Media Giants Testing Out Meta Drop's Future Potential</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-unstick-your-discord-stream-from-endless-loading/"><u>Troubleshooting Complete: Unstick Your Discord Stream From Endless Loading</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-fault-12707-in-call-of-duty-modern-warfare-3/"><u>Troubleshooting Guide for Fault #12707 in Call of Duty Modern Warfare 3</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nstantly-purging-unwanted-youtube-comments-made-simple-for-2024/"><u>[New] Instantly Purging Unwanted YouTube Comments Made Simple for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-frame-perfect-phones-ranking-top-10-4k-camera-mobile-devices/"><u>[Updated] In 2024, Frame-Perfect Phones Ranking Top 10 4K Camera Mobile Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-fatal-error-ark-expert-strategies-to-restore-functionality/"><u>Decoding the 'Fatal Error ARK': Expert Strategies to Restore Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-canon-printer-mx340-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon Printer MX340 Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-lagging-problems-in-outriders/"><u>Expert Solutions to Overcome Lagging Problems in Outriders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-a1-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo A1 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-updated-graphic-drivers-in-forza-horizon-5-game/"><u>How To Correct Updated Graphic Drivers In Forza Horizon 5 Game</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 8 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-enable-hyper-v-capabilities-on-your-windows-10-pc/"><u>How to Successfully Enable Hyper-V Capabilities on Your Windows 10 PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-camon-20-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Camon 20 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-tactics-for-preventing-fps-drops-on-pcs/"><u>Optimizing Gameplay: Effective Tactics for Preventing FPS Drops on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-steps-to-correctly-repair-outlook-connection-issues/"><u>Resolved: Steps to Correctly Repair Outlook Connection Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/reviewing-window-recording-the-sprout-experience-for-2024/"><u>Reviewing Window Recording - The Sprout Experience for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-battlefield-v-a-comprehensive-guide-for-launch-failures/"><u>Troubleshoot Your Battlefield V: A Comprehensive Guide for Launch Failures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-openai-uncovered/"><u>Understanding AI: OpenAI Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-on-windows-beating-black-screen-glitches-with-this-ultimate-fix-guide/"><u>Zoom on Windows - Beating Black Screen Glitches with This Ultimate Fix Guide</u></a></li>
 </ul></div>
 

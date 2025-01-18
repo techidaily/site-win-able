@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Overcoming the 'Network Unreachable' Hurdle in Steam
-date: 2024-08-13T10:02:21.352Z
-updated: 2024-08-14T10:02:21.352Z
+date: 2025-01-13T02:28:04.097Z
+updated: 2025-01-17T16:20:52.960Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,8 +48,9 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 If it’s not the server, please move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -59,26 +61,18 @@ If it’s not the server, please move to the next method.
 | Google   | 8.8.8.8            | 8.8.4.4       |
 
 1. Type**Control Panel** on the search bar and click to open.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
-5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
@@ -95,11 +89,12 @@ Some players suggest Run as administrator could fix this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this method doesn’t help, please move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Method 4: Update your drivers
 
  Check your PC network adapter driver is also important. This driver would affect your internet connection when it’s outdated or broken. Updating the driver would simply fix this issue and improve your PC performance.
@@ -113,12 +108,13 @@ If this method doesn’t help, please move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Clear game cache
 
@@ -160,8 +156,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +163,20 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-15-essential-gaming-capture-programs-for-2024/"><u>[New] 15 Essential Gaming Capture Programs for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-t2-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo T2 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-smart-8-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Smart 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-freeze-glitches-in-call-of-duty-black-ops-cold-war-for-smooth-playing-experience/"><u>How To Overcome Game Freeze Glitches In Call of Duty: Black Ops Cold War for Smooth Playing Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m54-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M54 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-start-utilizing-the-handy-and-mobile-friendly-version-of-driver-easy/"><u>Quick Start: Utilizing the Handy and Mobile-Friendly Version of Driver Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-frame-rate-and-stuttering-issues-in-the-latest-game-update/"><u>Solving Frame Rate and Stuttering Issues in the Latest Game Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-trusted-techniques-to-resolve-terraria-disconnection-issues/"><u>Top 6 Trusted Techniques to Resolve Terraria Disconnection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-successfully-starting-starfield-on-your-console-or-pc/"><u>Troubleshooting Tips - Successfully Starting Starfield on Your Console or PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-resolving-battlenet-launch-issues/"><u>Ultimate Troubleshooting Steps for Resolving Battle.net Launch Issues</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/upgrade-windows-11-protection-levels-with-simple-steps-from-professionals-at-yl-computing-the-ultimate-guide-to-secure-settings/"><u>Upgrade Windows 11 Protection Levels with Simple Steps From Professionals at YL Computing | The Ultimate Guide to Secure Settings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/makes-youtube-tv-stand-out-in-a-crowded-marketplace-for-2024/"><u>What Makes YouTube TV Stand Out in a Crowded Marketplace for 2024</u></a></li>
+</ul></div>
 

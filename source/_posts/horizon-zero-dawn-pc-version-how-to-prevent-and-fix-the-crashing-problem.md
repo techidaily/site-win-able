@@ -1,7 +1,7 @@
 ---
 title: Horizon Zero Dawn PC Version - How to Prevent and Fix the Crashing Problem
-date: 2025-01-05T17:41:48.299Z
-updated: 2025-01-12T16:38:41.288Z
+date: 2025-01-15T16:47:26.201Z
+updated: 2025-01-17T17:29:11.797Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics drivers
 
  Ashen may crash if the graphics drivers on your PC are outdated or corrupted. So you can try updating your graphics drivers to the latest version to see if it helps fix the the game crash issue.
@@ -95,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -116,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if you can play the game without crashes. If not, try the next fix, below.
 
 ### Fix 4: Install the latest Ashen patch
@@ -128,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a Windows Update
 
  You also need to make sure that Microsoft Visual C++ Redistributable and Microsoft .NET Framework are not missing or corrupted, because if some of the system files are missing or corrupted, you may also run into the Ashen crash issue.
@@ -139,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
 
@@ -158,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Use a reduced settings profile for graphics related features
@@ -185,24 +185,28 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -211,19 +215,11 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card settings
 
@@ -237,15 +233,15 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see on the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -255,6 +251,10 @@ Select your graphics card manufacturer first:
  Run Ashen again to see if the game will crash. If not, congratulations! You’ve resolved this issue; if this issue persists, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Add Ashen as an exception to your 3rd party antivirus software
 
@@ -284,17 +284,17 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamlined-mac-package-audio-plus-video-capture/"><u>[Updated] 2024 Approved Streamlined Mac Package Audio + Video Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-galaxy-of-play-ultimate-list-of-the-cheapest-rpgs-online/"><u>[Updated] In 2024, Galaxy of Play Ultimate List of the Cheapest RPGs Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-instagrams-updated-feed-dynamics/"><u>[Updated] Navigating Instagram’s Updated Feed Dynamics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-meme-generator-app-downlaod/"><u>2024 Approved Best Meme Generator App Downlaod</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>2024 Approved From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-pc-launch-fix-a-complete-guide-for-gamers/"><u>Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-wasteland-giants-a-comprehensive-guide-to-scavengers-on-pc/"><u>Defeating the Wasteland Giants: A Comprehensive Guide to Scavengers on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-past-startup-errors-for-a-smooth-monster-hunter-rise-experience/"><u>Get Past Startup Errors for a Smooth Monster Hunter Rise Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-total-war-warhammer-ii-from-freezing-and-crashing-effective-solutions-and-troubleshooting-tips/"><u>How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-7-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 7 Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/le-migliori-applicazioni-visualizzatrici-foto-windows-macos-e-windows-11/"><u>Le Migliori Applicazioni Visualizzatrici Foto: Windows, macOS E Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-your-next-fitness-tracker/"><u>Top 5 Essential Factors to Evaluate When Shopping for Your Next Fitness Tracker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-tailor-topical-laughs/"><u>[New] 2024 Approved Tailor Topical Laughs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-exclusive-access-to-6-premium-thumbnail-generators-for-youtube/"><u>[New] In 2024, Exclusive Access to 6 Premium Thumbnail Generators for YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-explore-new-territory-your-guide-to-live-streaming-tiktoks/"><u>[New] In 2024, Explore New Territory Your Guide to Live-Streaming TikToks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>[Updated] 2024 Approved Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kodi-remote-x-wmps-easy-alternative/"><u>[Updated] Kodi Remote X WMP's Easy Alternative</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-uncomplicated-techniques-for-adding-igtv-to-your-story/"><u>[Updated] Uncomplicated Techniques for Adding IGTV to Your Story</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-expert-tips-and-solutions/"><u>Fixing Resident Evil Village Performance Problems on PC: Expert Tips & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996959812-halo-infinite-pc-lag-try-these-7-quick-fixes/"><u>Halo Infinite PC Lag? Try These 7 Quick Fixes!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-spotifys-ad-marketplace-successfully/"><u>In 2024, Navigating Spotify's Ad Marketplace Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-xcom-2-crashing-issues-on-windows-pcs/"><u>Resolved: How to Fix XCOM 2 Crashing Issues on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-hogwarts-legacy-wont-start-issue-top-strategies-of-2024/"><u>Solve the 'Hogwarts Legacy Won't Start' Issue: Top Strategies of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connection-problems-solve-them-here-with-our-latest-tips/"><u>Ubisoft Connection Problems? Solve Them Here with Our Latest Tips</u></a></li>
 </ul></div>
 

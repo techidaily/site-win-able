@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Eliminate Lag and Improve Online Gameplay for Street Fighter
-date: 2024-08-13T10:04:11.966Z
-updated: 2024-08-14T10:04:11.966Z
+date: 2025-01-16T06:10:41.645Z
+updated: 2025-01-18T01:29:46.806Z
 tags:
   - win11
   - win10
@@ -18,14 +18,9 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 Compared to the first game, The Division 2 presents a much stronger campaign experience. But players would still wish to maximize FPS and hopefully get rid of any performance issues to smooth the gameplay. This is definitely achievable. In this tutorial, we’ll show you how to boost FPS and fix the stuttering issues on The Division 2.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -37,9 +32,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 5. **[Set the game’s priority to high](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 1\. Close unnecessary programs
 
  Programs such as Google Chrome and Adobe apps are resource-heavy and will most likely drain your system. If you have many programs running in the background when playing The Division 2, issues such as the game stutters and framerate drops can occur. To prevent these issues from happening, you’re supposed to disable those programs running in the background:
@@ -48,18 +40,15 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  2) Type **taskmgr** , then press **Enter**  on your keyboard.  
   
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing The Division 2 and select **End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. In this case, you can prevent some apps from automatically starting when you sign into Windows:
 
@@ -71,9 +60,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 2\. Disable Windows 10 Game Mode
 
  Game mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to give you a performance boost. But there are some circumstances that you would experience performance loss. To get rid of it, you’re supposed to disable Windows 10 Game Mode:
@@ -87,6 +73,10 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
  3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
 
@@ -104,12 +94,11 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  3) Under the**General** tab, uncheck**Enable in-game overlay for supported games** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To disable GeForce Experience Overlay, take these steps:**
 
@@ -121,13 +110,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update your graphics driver
 
  Most video games are graphics-intensive. If you run into any performance issues such as low FPS and constant stutters during the gameplay, your outdated or faulty graphics driver can be the culprit. To pinpoint the root cause, you should try updating your graphics driver. This is essential as driver updates come with bug fixes and bring new features.
@@ -153,18 +147,6 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -178,6 +160,10 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Set the game’s priority to high
 
  By default, every program runs on “normal” which means Windows handles the system resources automatically. But you can tell your computer that your game, The Division 2 should have a higher priority than others to make sure that it uses system resources first. This may give you a considerable framerate boost.
@@ -188,9 +174,6 @@ To set your game’s priority to high, you can take these steps:
 
  2) Type**taskmgr** and press Enter.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
@@ -199,18 +182,12 @@ To set your game’s priority to high, you can take these steps:
 
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/set-priority-to-high.png)
 
  After applying the changes, launch The Division 2 and it should be running with high priority.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Optimize in-game settings
 
  If the methods listed above didn’t help you get higher fps or fix the stuttering issues, we suggest you tweak the in-game settings:
@@ -226,6 +203,10 @@ To set your game’s priority to high, you can take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, play The Division 2 and you should be able to notice the difference.
 
 ---
@@ -238,8 +219,6 @@ To set your game’s priority to high, you can take these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +226,26 @@ To set your game’s priority to high, you can take these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-tomtoms-adventure-cam-series-innovative-2023-edition/"><u>[New] 2024 Approved TomTom’s Adventure Cam Series Innovative 2023 Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>[New] The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-dive-into-ar-sticker-technology-and-alternatives/"><u>[Updated] In 2024, A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-top-10-must-use-hashtags-on-ig/"><u>2024 Approved Elevate Your Content Top 10 Must-Use Hashtags on IG</u></a></li>
+<li><a href="https://video-capture.techidaily.com/acfun-pc/"><u>AcFun 映像のPCへ安全にダウンロード方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004897983-adobe-launch-malfunction-solve-the-error-code-0xc0000022-problem-today/"><u>Adobe Launch Malfunction - Solve the Error Code 0xC0000022 Problem Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011723526-conquer-the-nba-2k21-black-screen-challenge-with-our-proven-2024-fixes/"><u>Conquer the NBA 2K21 Black Screen Challenge with Our Proven 2024 Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-addressing-stability-problems-in-the-ultimate-nioh-2-gaming-experience/"><u>Expert Advice for Addressing Stability Problems in the Ultimate Nioh 2 Gaming Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/fbs-new-admin-solutions-to-streamline-community-management/"><u>FB's New Admin Solutions to Streamline Community Management</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-monotonous-to-melodic-mastering-personalization-of-androids-audio-alerts/"><u>From Monotonous to Melodic Mastering Personalization of Android's Audio Alerts</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-installing-gpeditmsc-for-customizing-policies-on-windows-home-systems/"><u>Guide: Installing GPEdit.msc for Customizing Policies on Windows Home Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-upload-tunes-with-images-digitally/"><u>In 2024, Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-troubled-relinking-in-granblue-fantasy-a-step-by-step-fix/"><u>Mastering Troubled Relinking in Granblue Fantasy – A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-cannot-connect-to-server-glitch-in-lost-ark-expert-tips-and-tricks/"><u>Overcoming 'Cannot Connect to Server' Glitch in Lost Ark: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-elevated-cpu-demand-in-god-of-war-a-step-by-step-guide/"><u>Resolving Elevated CPU Demand in God of War: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-solved-end-those-frustrating-crashes/"><u>Starfield PC Stability Issues Solved – End Those Frustrating Crashes!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamlining-your-monetization-mastering-youtube-adsense/"><u>Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-hack-for-launching-the-witcher-3-wild-hunt-without-a-hitch/"><u>The Ultimate Hack for Launching The Witcher 3: Wild Hunt without a Hitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-google-pixel-buds-pro-2-anticipated-features-and-pricing-strategies/"><u>Upcoming Google Pixel Buds Pro 2: Anticipated Features & Pricing Strategies</u></a></li>
+</ul></div>
 

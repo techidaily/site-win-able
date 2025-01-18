@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions for Overcoming Persistent State of Decay 2 Freezes - Latest Updates & Hacks!
-date: 2024-08-13T10:01:21.377Z
-updated: 2024-08-14T10:01:21.377Z
+date: 2025-01-10T23:15:14.400Z
+updated: 2025-01-18T05:55:53.899Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ ELEX II system requirements
 6. [**Repair corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify and repair game files
 
  Game crashing issues are often triggered by corrupted game files. You can verify and repair game files using Steam. Here’s how to do it:
@@ -60,9 +64,11 @@ ELEX II system requirements
 2. **Right-click** on **ELEX II** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -81,22 +87,19 @@ ELEX II system requirements
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Install the latest ELEX II patch
 
  The developer of ELEX II releases regular game patches to fix bugs and improve gaming performance.
@@ -105,31 +108,32 @@ The powerful video editing program for your Windows PC</a>
 
  Run**ELEX II** again and check if the game crashes get fixed. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays sometimes the overlay would interfere with the game and even block the game files. If you’re using the Steam Overlay while playing the game, try disabling Steam Overlay for ELEX II and see if the game crashes again:
 
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _ELEX II_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run ELEX II and check if the it crashes again. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  3rd party antivirus software sometimes may block game files, which would also crash the game.
@@ -140,9 +144,6 @@ The powerful video editing program for your Windows PC</a>
 
 If this fix didn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Repair corrupted system files
 
  Windows system file corruption will also lead the game to crash. If you’ve played PC games for years, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -159,16 +160,14 @@ If this fix didn’t work, try the next fix, below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  If you’ve tried all the fixes above to no avail, maybe there is a certain app conflicting with ELEX II.
@@ -180,9 +179,11 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -219,8 +220,6 @@ If this fix didn’t work, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +227,26 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-flash-of-stardom-video-examination/"><u>[New] In 2024, A Flash of Stardom - Video Examination</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-vita-experience-exhaustive-review-of-its-video-editor-2024/"><u>[New] The Ultimate Vita Experience Exhaustive Review of Its Video Editor, 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-charting-a-course-through-yts-creative-space/"><u>2024 Approved Charting a Course Through YT's Creative Space</u></a></li>
+<li><a href="https://win-able.techidaily.com/access-resumed-the-latest-update-fixes-origins-online-account-issue/"><u>Access Resumed - The Latest Update Fixes Origin's Online Account Issue</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/complete-tutorial-for-restoring-missing-files-in-windows-query-what-are-the-potential-benefits-of-using-ifind-data-recovery-to-retrieve-lost-or-deleted-file2/"><u>Complete Tutorial for Restoring Missing Files in Windows # Query: What Are the Potential Benefits of Using IFind Data Recovery to Retrieve Lost or Deleted Files?</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-solutions-for-gtfo-crashes-in-your-applications/"><u>DIY Solutions for GTFO Crashes in Your Applications</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-10-system-service-failure-issue-step-by-step-guide/"><u>How to Fix 'Windows 10 System Service Failure' Issue – Step by Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-zoom-issues-on-windows-1110-expert-tips/"><u>How to Fix Persistent Zoom Issues on Windows 11/10 - Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-your-windows-11-spotlight-photos-when-they-stop-displaying-correctly/"><u>How to Restore Your Windows 11 Spotlight Photos When They Stop Displaying Correctly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-gridiron-a-detailed-review-of-vegas-pro-2021/"><u>In 2024, Exploring the Gridiron A Detailed Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-converting-videocasts-to-high-quality-mp3-files-in-minutes/"><u>Master the Art of Converting Videocasts to High-Quality MP3 Files in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-patchwork-ultimate-solutions-to-start-fallout-n-3-on-your-pc/"><u>Master the Patchwork: Ultimate Solutions to Start Fallout N 3 on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-final-hurdle-phasmophobias-persistent-90-load-issue/"><u>Overcoming the Final Hurdle: Phasmophobia's Persistent 90% Load Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-fortnite-when-it-gets-jammed-at-the-loading-phase/"><u>Resolved: Fixing Fortnite When It Gets Jammed at the Loading Phase</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-sony-xperia-5-unveiled-slim-profile-yet-pricey-choice/"><u>The Sony Xperia 5 Unveiled: Slim Profile Yet Pricey Choice</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-cut-down-long-waits-during-launch-of-star-wars-battlefront-ii-pc/"><u>Tips & Tricks to Cut Down Long Waits During Launch of Star Wars: Battlefront II (PC)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-battery-safety-features-that-risk-damaging-your-airtags-and-devices-fix-it-now/"><u>Unlocking the Secrets of Battery Safety Features That Risk Damaging Your AirTags & Devices - Fix It Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-amd-smbus-drivers-for-seamless-performance-download-today/"><u>Update to Newest AMD SMBus Drivers for Seamless Performance - Download Today!</u></a></li>
+</ul></div>
 

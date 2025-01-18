@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2025-01-06T16:40:31.427Z
-updated: 2025-01-12T16:59:05.903Z
+date: 2025-01-12T03:34:12.291Z
+updated: 2025-01-17T23:42:27.177Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
@@ -66,13 +66,13 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
@@ -85,6 +85,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -109,7 +113,7 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
@@ -119,6 +123,10 @@ OR
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -146,6 +154,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
  Then click**Add** and select your**FIFA 19** exe. program file.  
@@ -165,6 +177,10 @@ OR
  Restart your computer and launch FIFA 19 to test the issue. If this annoying issue is still bugging you, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
 
@@ -239,10 +255,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
  The FIFA 19 crashing issue can be caused by other conflicting programs. To check if that’s the cause, you can perform a clean boot. Here is how to do it:
@@ -255,21 +267,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -281,10 +293,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -295,17 +303,9 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -340,17 +340,20 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[New] Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-permissions-for-posting-videos-on-fb/"><u>[New] Permissions for Posting Videos on FB</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-smooth-steam-gaming-recordings-guide/"><u>2024 Approved Smooth Steam Gaming Recordings Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/accelerate-your-itunes-experience-on-windows-11-8-and-7-with-these-simple-tweaks/"><u>Accelerate Your iTunes Experience on Windows 11, 8 & 7 with These Simple Tweaks</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-4-crash-fixes-a-comprehensive-walkthrough-for-pc-ps5-and-xbox-users/"><u>Diablo 4 Crash Fixes: A Comprehensive Walkthrough for PC, PS5 & Xbox Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-and-tricks-overcome-safari-malfunctions-in-ios-with-these-1lete-strategies/"><u>Expert Tips and Tricks - Overcome Safari Malfunctions in iOS with These 1Lete Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-a-beginners-guide-to-customizing-your-instagram-snapshonscape/"><u>In 2024, A Beginner's Guide to Customizing Your Instagram Snapshonscape</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-your-design-tools-say-goodbye-to-incessant-blender-crashes-on-personal-computers/"><u>Master Your Design Tools: Say Goodbye to Incessant Blender Crashes on Personal Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-p55-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel P55 Screen | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-final-fantasy-xiv-version-verification-stuck/"><u>Trouble with Final Fantasy XIV - Version Verification Stuck</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001600559-utorrent-freezing-up-discover-these-7-effective-solutions/"><u>Utorrent Freezing Up? Discover These 7 Effective Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-average-income-for-popular-youtube-creators/"><u>[New] 2024 Approved Average Income for Popular YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-path-profile-picture-dimensions-for-2024/"><u>[Updated] Path Profile Picture Dimensions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-blackout-effective-solutions-for-starting-helldivers-2-without-issues/"><u>Bypassing the Blackout: Effective Solutions for Starting Helldivers 2 Without Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-recruitment-unveiling-6-tactics/"><u>ChatGPT for Recruitment: Unveiling 6 Tactics</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-correcting-discords-audio-problem-during-screen-presentations/"><u>Diagnosing and Correcting Discord's Audio Problem During Screen Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-5-besten-kostenlosen-mp4-konverter-professionelle-tools-um-videos-effizient-inaus-mp4-zu-konvertieren/"><u>Die 5 Besten Kostenlosen MP4-Konverter: Professionelle Tools, Um Videos Effizient In/Aus MP4 Zu Konvertieren</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-npc-engine-optimization-how-i-overcame-the-frame-rate-drop-issue/"><u>Forza Horizon nPC Engine Optimization: How I Overcame the Frame Rate Drop Issue!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-awaitingnewagecameratechnologies/"><u>In 2024, AwaitingNewAgeCameraTechnologies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-13-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 13 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-lost-internet-connection/"><u>Quick Fixes for Lost Internet Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frostpunk-stability-issues-and-preventing-future-crashes/"><u>Resolving Frostpunk Stability Issues and Preventing Future Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/struggling-with-printer-and-pdfs-find-swift-fixes-here/"><u>Struggling with Printer and PDFs? Find Swift Fixes Here.</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zooms-failed-video-launch/"><u>Top 5 Solutions for Resolving Zoom's Failed Video Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-memory-issue-in-call-of-duty-warzone-error-0-1766/"><u>Troubleshooting Memory Issue in Call of Duty: Warzone (Error 0-1766)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/"><u>Unveiling the #1 to #5 of Windows Free Screen Capture Apps for 2024</u></a></li>
 </ul></div>
 

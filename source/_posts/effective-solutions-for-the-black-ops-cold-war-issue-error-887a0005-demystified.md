@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified
-date: 2025-01-05T17:56:13.183Z
-updated: 2025-01-12T17:58:53.083Z
+date: 2025-01-17T02:24:45.390Z
+updated: 2025-01-17T16:33:23.897Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair game files
@@ -53,6 +49,10 @@ Here’s a quick guide for that:
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
@@ -73,10 +73,6 @@ If this trick doesn’t help you, simply continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -84,6 +80,10 @@ If this trick doesn’t help you, simply continue to the next one.
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -94,6 +94,10 @@ And it’s fairly easy to update:
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -115,27 +119,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
  If this method doesn’t fix your issue, simply check out the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
 
@@ -147,6 +143,10 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -169,22 +169,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-soundwaves-compreeved-websites-for-skype-audio/"><u>[Updated] 2024 Approved The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-commanding-the-screen-top-10-women-gamers-yt-for-2024/"><u>[Updated] Commanding the Screen Top 10 Women Gamers YT for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elevating-your-drones-photographic-capabilities-with-the-right-gimbal/"><u>[Updated] Elevating Your Drones' Photographic Capabilities with the Right Gimbal</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994326110-battlefront-ii-freezes-on-pc-heres-what-you-need-to-know/"><u>Battlefront II Freezes on PC? Here's What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-no-more-crashes-optimizing-pc-performance-for-the-latest-update/"><u>Call of Duty: Black Ops Cold War - No More Crashes! Optimizing PC Performance for the Latest Update</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/convert-and-save-liveleak-videos-in-mp4avi-format-step-by-step-guide-for-macos-and-windows-users/"><u>Convert and Save LiveLeak Videos in MP4/AVI Format: Step-by-Step Guide for macOS & Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/"><u>Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-black-screen-issues-in-hitman-3-comprehensive-pc-troubleshooting-guide/"><u>Fixing 'Black Screen' Issues in Hitman 3: Comprehensive PC Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-utorrent-malfunction-a-guide-to-7-successful-techniques/"><u>Fixing Utorrent Malfunction: A Guide to 7 Successful Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guide-saving-your-iphone-information-on-an-exterior-storage-device-under-win-11-10-8-and-instruction-1-similar-difficulty-format-length/"><u>Guide: Saving Your iPhone Information on an Exterior Storage Device Under Win 11, 10, 8 & # Instruction 1 - Similar Difficulty / Format / Length</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-gt-neo-5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme GT Neo 5 Through Google Earth?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-the-culprits-behind-poor-mobile-wi-fi-speeds-a-7-point-guide/"><u>Identifying the Culprits Behind Poor Mobile Wi-Fi Speeds: A 7-Point Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/local-steam-client-communication-fixed-resolving-the-failed-to-connect-error/"><u>Local Steam Client Communication Fixed: Resolving the ‘Failed to Connect’ Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-hurdle-unraveling-the-mystery-behind-robocop-rogue-city-startup-issues/"><u>PC Gaming Hurdle: Unraveling the Mystery Behind RoboCop: Rogue City Startup Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
-<li><a href="https://win-able.techidaily.com/total-war-series-warhammer-ii-game-crashes-no-more-expert-advice-and-solutions/"><u>Total War Series - Warhammer II Game Crashes No More [Expert Advice & Solutions]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-unrestricted-stock-content-in-key-4-video-channels/"><u>[Updated] Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-backdrop-blurring-techniques-on-youtube-videos/"><u>[Updated] Step-by-Step Backdrop Blurring Techniques on YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-thriving-on-short-video-profits-youtubes-money-making-guide/"><u>[Updated] Thriving on Short Video Profits YouTube's Money-Making Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-computer-gear-with-tom-expert-insights-toms-gadgetry/"><u>Discover Computer Gear with Tom - Expert Insights | Tom's Gadgetry</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-days-gone-at-its-best-on-pc-with-latest-fixes-and-optimizations/"><u>Experience 'Days Gone' At Its Best on PC with Latest Fixes and Optimizations</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-the-persistent-crashes-of-f1-2021-on-personal-computers/"><u>Expert Advice: Addressing the Persistent Crashes of F1 2021 on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-correcting-the-problem-of-failed-opengl-context-initialization-with-qsurfaceformat/"><u>Expert Tips: Correcting the Problem of Failed OpenGL Context Initialization with QSurfaceFormat</u></a></li>
+<li><a href="https://win-able.techidaily.com/from-stuck-to-successful-startup-overcoming-launch-issues-in-age-of-empires-iv/"><u>From Stuck to Successful Startup: Overcoming Launch Issues in Age of Empires IV</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-game-crash-issues-a-step-by-step-fix-for-genshin-impact-on-desktop-systems/"><u>How to Resolve Game-Crash Issues: A Step-by-Step Fix for Genshin Impact on Desktop Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-11f-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 11F 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 6 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy M34</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-sony-xperia-10-v-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Sony Xperia 10 V? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-the-challenge-solving-the-entry-point-not-found-problem-in-fortnite/"><u>Overcoming the Challenge: Solving the 'Entry Point Not Found' Problem in Fortnite</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-non-launching-finals-tips-and-solutions-for-215/"><u>The Definitive Fix for Non-Launching Finals - Tips and Solutions for 2^15</u></a></li>
 </ul></div>
 

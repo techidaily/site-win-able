@@ -1,7 +1,7 @@
 ---
 title: "Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues"
-date: 2025-01-08T16:35:37.009Z
-updated: 2025-01-12T17:20:33.272Z
+date: 2025-01-14T07:33:34.175Z
+updated: 2025-01-17T16:21:18.592Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,21 +49,25 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![Origin main screen](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-main-screen-1.png)
 2. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![run-dialog %ProgramData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-ProgramData.png)
 3. In the pop-up window, double-click the **Origin**  folder to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ProgramData Origin folder](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder.png)
 4. Delete all the files and folders in this folder **except for the LocalContent folder** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![run dialog: %AppData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-AppData.png)
@@ -68,25 +76,17 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Roaming-Origin-folder.png)
 7. Click **AppData** in the address bar.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Address-Bar.png)
 8. Double-click the **Local**  folder to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
 9. Delete the **Origin**  folder in the **Local** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. **Double-click** the shortcut of Origin on your desktop.
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
  See if Origin crashes after you cleared the cache. If this issue persists, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Origin as administrator
 
@@ -126,6 +122,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -137,10 +137,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
  See if you can launch Origin without crashes after you updated your graphics driver to the latest version. If not, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows compatibility troubleshooter
 
@@ -167,10 +163,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 7. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-3.png)
 8. If not, select**No, try again using different settings** . Then follow the on-screen instructions to run Program Compatibility Troubleshooter.
 
@@ -184,6 +176,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshooter-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using 4K monitor, you can try the**Change high DPI settings** option:
 
 1. Click**Change high DPI settings** .  
@@ -192,9 +188,17 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Origin still crashes after you tried this fix, try the next one, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows update
 
@@ -222,6 +226,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  You may need to **perform a clean boot**  if The Origin crash issue persists.
@@ -231,10 +239,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
@@ -267,10 +271,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter** to open**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
@@ -307,22 +307,14 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[Updated] How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1-how-to-retrieve-data-from-an-ssd-after-a-secure-erase-a-comprehensive-guide/"><u>1. How to Retrieve Data From an SSD After a Secure Erase : A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-smb-video-marketing-success-factors/"><u>2024 Approved SMB Video Marketing Success Factors</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029306278-2024/"><u>初心者でも簡単! 「2024年のビデオから静止画への変換ガイド」</u></a></li>
-<li><a href="https://win-able.techidaily.com/6auy55s76loq5yyw44og44kv44ol44od44kv77ya5okq44gp6icb44ge44gf5yuv55s744ks44oq44ov44kh44kk44oz44gz44kl44k544oi44op44og44k444o8/"><u>高画質化テクニック：悪く老いた動画をリファインするストラテジー</u></a></li>
-<li><a href="https://win-able.techidaily.com/5a656yep44gu5asn44gn44ge44oh44kj44k544kv44ks44kz44ou44o844gz44kl57ch5y2y44gq44os44k344ou44co5paw5lq644oe44ol44ol44ki44or44cp/"><u>容量の大きいディスクをコピーする簡単なレシピ『新人マニュアル』</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029536995-dvd/"><u>容易な手順でDVDのコピー複製をコピーガード無しで実行</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-free-ways-to-download-the-full-mr-bean-show-top-3-strategies/"><u>Best Free Ways to Download the Full Mr. Bean Show: Top 3 Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027883227-gif/"><u>GIFアニメートをスムーズに回転させる究極のテクニック</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-beginners-blueprint-for-bolstering-youtube-believers/"><u>In 2024, A Beginner's Blueprint for Bolstering YouTube Believers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-testimonial-toolkit-for-effective-promotion/"><u>In 2024, The Testimonial Toolkit for Effective Promotion</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installupdate-toshiba-portege-drives-with-easy-steps-in-windows/"><u>Install/Update Toshiba Portégé Drives with Easy Steps in Windows</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-mini-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 mini Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030049539-pc/"><u>オーディオインターフェースをPCに接続して録音する効果的な方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/44oe44kw44on44od44oi44oq44oz44kv44go44oi44os44oz44oi77ya44oa44km44oz44ot44o844oj44ox44ot44k744k544gu6kej6kqs/"><u>マグネットリンクとトレント：ダウンロードプロセスの解説</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-3-simplified-ways-to-save-lenovo-screenshots-for-2024/"><u>[New] 3 Simplified Ways to Save Lenovo Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-use-dslr-for-facebook-live-on-your-pc/"><u>[New] How to Use DSLR for Facebook Live on Your PC?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-dust-off-the-glare-avoiding-gopro-misting/"><u>[Updated] Dust Off the Glare Avoiding GoPro Misting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-starting-youtube-essential-seo-tips/"><u>2024 Approved Starting YouTube Essential SEO Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-issues-and-quick-fixes-for-minecraft-loading-problems/"><u>Common Issues & Quick Fixes for Minecraft Loading Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-rainbow-six-extraction-no-compatible-driverhardware-found/"><u>How to Fix Rainbow Six Extraction No Compatible Driver/Hardware Found</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-continuous-crashes-in-remnant-from-the-ashes-fix-now/"><u>Overcoming Continuous Crashes in Remnant: From the Ashes – Fix Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-communication-restored-your-step-by-step-solution-to-discords-packet-loss-problem/"><u>Seamless Communication Restored: Your Step-by-Step Solution to Discord's Packet Loss Problem</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-a2-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A2 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

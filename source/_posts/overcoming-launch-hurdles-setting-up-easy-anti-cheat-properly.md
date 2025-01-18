@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Hurdles: Setting Up Easy Anti-Cheat Properly"
-date: 2024-08-13T10:02:28.230Z
-updated: 2024-08-14T10:02:28.230Z
+date: 2025-01-13T20:28:02.445Z
+updated: 2025-01-18T04:36:19.924Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NARAKA: BLADEPOINT players, performance issues such as game stuttering and low FPS are making their game barely unplayable. But there are some things you can do. In this post, we’ll guide you through the steps to fix stuttering and low FPS issues in NARAKA: BLADEPOINT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -31,15 +35,20 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
 ![NARAKA: BLADEPOINT Coming Soon - Epic Games Store](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NARAKABLADEPOINT_24Entertainment_S1_2560x1440-5f7eae943282dd9a681a1bd3f88fc354?h=270&resize=1&w=480)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Before you try a new title, we usually recommend you check for Windows updates, which come with bug fixes and new features.
 
 1. In the Search box, type**check for updates** . Then click**Check for updates** from the results.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . If there are any updates available, it’ll automatically start to download and install it. Once the download is finished, restart your PC.  
 
@@ -73,28 +82,23 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 3. Select**Game Mode** from the left panel. Then toggle**On** Game Mode.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now launch Naraka: Bladepoint and you should get a better performance. However, if turning on Game Mode didn’t do the trick, don’t worry. Below are some other methods that you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Update your graphics driver
 
  Famous graphics card manufacturers usually release game ready drivers to offer players a smooth gameplay. This is probably the best shot you have got without doing a lot of troubleshooting.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -106,8 +110,9 @@ No advertising on the website.
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update your graphics driver
 
  As described above, manually updating your graphics driver would require a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -125,29 +130,27 @@ No advertising on the website.
 
  After updating drivers, restart your PC. Then you can play your game. If constant stutters and framerate drops still occur, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  When you’re having performance issues, verifying game files may work like magic. It can help you verify if the integrity of your game files are intact. If it is not, it’ll then restore any missing or replace any corrupted files. To do this, follow the instructions below.
 
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select **LOCAL FILES** . Then click **Verify integrity of game files…** . Then wait for the process to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The verification process would take several minutes to finish. After that, play Naraka: Bladepoint to check if your problems have been solved. If you are still having these problems, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Disable overlays
 
  Overlay technology is commonly used in various programs. It allows you to surf the web and enjoy other features, but can also cause performance issues with some games. Therefore, you may need to disable Steam overlay and check if it can give you a boost in average FPS and reduce in-game stutters. Here’s how you can do this:
@@ -155,12 +158,12 @@ No advertising on the website.
 1. Open your Steam client.
 2. Click **Steam** from the sidebar and select **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)  
 
@@ -169,35 +172,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Open Discord.
 2. Click the **cogwheel icon** at the bottom of the left pane to open Settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Game Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Optimize NVIDIA Control Panel settings
 
  If you’re using a NVIDIA graphics card, you can optimize the settings through the NVIDIA Control Panel:
 
 1. From your desktop, right-click the empty space and select**NVIDIA Control Panel** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/from-the-desktop.png)
 2. Click**Manage 3D settings** . Then select**Program Settings** . Add**NARAKA: BLADEPOINT** to the list. Under the section Specify the settings for this program, make the following changes:  
 
  Power management mode:**Prefer maximum performance**  
  Vertical sync:**Off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel.png)
 
 ---
@@ -210,8 +201,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +208,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-obs-vs-shadowplay-which-to-choose-for-2024/"><u>[New] OBS vs ShadowPlay - Which to Choose for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-the-best-html5-video-player-landscape/"><u>[Updated] In 2024, Navigating the Best HTML5 Video Player Landscape</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-wait-any-longer-for-doom-eternal-discover-how-to-play-now/"><u>Can't Wait Any Longer for DOOM Eternal? Discover How to Play Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-why-the-nvidia-control-panel-is-not-working-and-how-to-fix-it/"><u>Expert Advice: Why the NVIDIA Control Panel Is Not Working and How to Fix It</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a59-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A59 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12t-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12T Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-microsoft-edge-malfunctions-on-windows-10/"><u>Resolving Frequent Microsoft Edge Malfunctions on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-printscreen-capabilities-in-windows-11-and-windows-10-a-step-by-step-fix-guide/"><u>Restoring PrintScreen Capabilities in Windows 11 and Windows 10 - A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012195492-say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000283335-steam-ui-malfunction-solved-comprehebly-fixing-the-deadly-dll-error-for-gamers/"><u>Steam UI Malfunction Solved - Comprehebly Fixing the Deadly DLL Error for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-battle-of-smartwatch-giants-comparing-the-new-pixel-vs-samsung-galaxy-watch-5-pro-insights-on-zdnet/"><u>The Battle of Smartwatch Giants: Comparing the New Pixel Vs. Samsung Galaxy Watch 5 Pro | Insights on ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-transformative-impact-of-gpt-on-clinical-settings/"><u>The Transformative Impact of GPT on Clinical Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-launch-problems-in-monster-hunter-rise-game/"><u>Troubleshooting Launch Problems in Monster Hunter Rise Game</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/ultimate-guide-software-and-online-tools-for-converting-mkv-files-into-wmv-format/"><u>Ultimate Guide: Software and Online Tools for Converting MKV Files Into WMV Format</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-how-to-activating-and-using-microsoft-office-suite-on-your-device/"><u>Ultimate How-To: Activating and Using Microsoft Office Suite on Your Device</u></a></li>
+</ul></div>
 

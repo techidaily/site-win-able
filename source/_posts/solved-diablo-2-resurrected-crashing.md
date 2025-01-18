@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2025-01-08T17:47:00.243Z
-updated: 2025-01-12T16:43:44.729Z
+date: 2025-01-14T23:31:22.597Z
+updated: 2025-01-18T04:39:01.594Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
@@ -75,11 +71,15 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -102,14 +102,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -119,6 +115,10 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
@@ -136,15 +136,15 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -172,18 +172,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>[Updated] Tranquil Sleep Soundtrack Expertly Selected Voices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-video-avancee-avec-winx-deluxe-transformez-et-reduisez-votre-contenu-multimedia-rapidement-grace-a-lacceleration-du-gpu/"><u>Conversion Vidéo Avancée Avec WinX Deluxe: Transformez Et Réduisez Votre Contenu Multimédia Rapidement Grâce À L'Accélération Du GPU</u></a></li>
-<li><a href="https://win-able.techidaily.com/dead-by-daylight-fixed-how-to-overcome-error-code-8014-on-your-game/"><u>Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 14 Pro Max Activation Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-xs-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone XS Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inviting-photo-sharing-success-accepting-shared-albums-on-apple-iphone/"><u>Inviting Photo Sharing Success: Accepting Shared Albums on Apple iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-low-ping-and-smooth-play-a-step-by-step-cs2-fix/"><u>Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-overcoming-gameplay-hiccups-in-assassins-creed-valhalla-for-desktop-systems/"><u>Optimizing Performance: Overcoming Gameplay Hiccups in Assassin's Creed Valhalla for Desktop Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/protecting-your-macbook-pro-without-breaking-the-bank-a-critical-look-at-procases-affordable-option/"><u>Protecting Your MacBook Pro Without Breaking the Bank: A Critical Look at ProCase's Affordable Option</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-splitgate-performance-issues-increase-your-fps-and-eliminate-stutter/"><u>Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-7-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 7 Plus</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-methods-for-easy-instagram-video-uploads-from-desktop/"><u>[New] 2024 Approved Step-by-Step Methods for Easy Instagram Video Uploads From Desktop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-topline-numbers-pewdiepies-yearly-income-for-2024/"><u>[New] Topline Numbers PewDiePie's Yearly Income for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-potential-optimizing-short-films-in-marketing/"><u>[New] Unleash Potential Optimizing Short Films in Marketing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choreographed-insta-videos-with-a-musical-backdrop-for-2024/"><u>Choreographed Insta-Videos with a Musical Backdrop for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comment-recuperer-les-donnees-de-navigation-effacees-dans-firefox/"><u>Comment Récupérer Les Données De Navigation Effacées Dans Firefox ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diy-repair-guide-to-eliminate-cod-black-ops-cold-war-error-code-80070057/"><u>DIY Repair Guide to Eliminate COD: Black Ops Cold War Error Code 80070057</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-discord-streaming-disruptions/"><u>Effective Fixes for Discord Streaming Disruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-titanfall-2-glitches-step-by-step-easy-fix-for-continuous-crashes/"><u>Eliminate Titanfall 2 Glitches - Step-by-Step Easy Fix for Continuous Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-steam-interruptions-easy-fixes-for-a-smoother-gaming-experience/"><u>End Steam Interruptions: Easy Fixes for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/enhancing-your-pcs-speed-effective-strategies-by-yl-software-professionals/"><u>Enhancing Your PC’s Speed: Effective Strategies by YL Software Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-update-outdated-minecraft-video-drivers/"><u>How to Successfully Reinstall & Update Outdated Minecraft Video Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-dead-by-daylights-2024-crash-glitches-with-these-proven-solutions-and-tips/"><u>Overcome Dead By Daylight's 2024 Crash Glitches with These Proven Solutions & Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-issues-when-stardew-valley-refuses-to-start/"><u>Solved: Fixing Issues When Stardew Valley Refuses to Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-11-solved/"><u>Start Menu Not Working in Windows 11 [Solved]</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fix-resolving-issues-with-the-fia-world-rally-championship-game-crashes-on-windows-pc/"><u>WRC 10 Fix: Resolving Issues with the FIA World Rally Championship Game Crashes on Windows PC</u></a></li>
 </ul></div>
 

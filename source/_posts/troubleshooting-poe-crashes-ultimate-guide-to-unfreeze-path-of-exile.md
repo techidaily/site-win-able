@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile"
-date: 2025-01-11T16:29:08.605Z
-updated: 2025-01-12T16:55:14.660Z
+date: 2025-01-12T02:08:51.811Z
+updated: 2025-01-18T09:17:30.198Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
  If your FIFA 19 keeps giving you the crashing error, the first method you can try is running both Origin and FIFA 19 as Administrator, which allows you to get full access to the game files.
@@ -45,6 +49,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
  1) Right-click your**Origin** and**FIFA 19 exe. file** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
 
@@ -62,10 +70,6 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
@@ -74,6 +78,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -81,6 +89,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -104,6 +116,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
 OR
@@ -111,10 +127,6 @@ OR
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -124,10 +136,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 Rollback to DirectX11
 
  DX11 or DX12? What’s the difference? You may wonder. There is no visual difference, but using DX12 helps to improve the performance by 10-20 fps. However, FIFA 19 might crash randomly when in DX12\. To save your FIFA 19 from crashing, you can roll back to DX11 in your game settings.
@@ -135,6 +143,10 @@ OR
  Your FIFA 19 should be working properly again now. If not, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 Force Vertical Sync and Triple Buffering on
 
@@ -147,7 +159,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
@@ -159,6 +171,10 @@ OR
  Click**Apply** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For AMD users:  
 
@@ -179,10 +195,6 @@ OR
  1) On your keyboard, press the**Windows logo key** +**R** at the same time to open the Run box. Type**cmd** in the box and then press**Ctrl** +**Shift** +**Enter** to run as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
@@ -247,10 +259,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
  The FIFA 19 crashing issue can be caused by other conflicting programs. To check if that’s the cause, you can perform a clean boot. Here is how to do it:
@@ -267,17 +275,9 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -299,13 +299,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
 
@@ -340,18 +340,15 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-start-with-snapseed-a-foundation-for-image-editing/"><u>[New] Start with Snapseed A Foundation for Image Editing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-bypassing-barriers-privately-share-youtube-video-via-google/"><u>[Updated] Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-cutting-edge-methods-for-inserting-vimeo-content-in-ppts/"><u>[Updated] In 2024, Cutting-Edge Methods for Inserting Vimeo Content in PPTs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/402268-9780307486318-instant-emotional-healing/"><u>Instant Emotional Healing | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastery-guide-to-preventing-and-repairing-alan-wake-2-crashes-year-2024-edition/"><u>Mastery Guide to Preventing & Repairing Alan Wake 2 Crashes (Year 2024 Edition)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-razr-40-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Razr 40 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-graphics-settings-eliminate-stutter-and-improve-fps-on-new-world-titles/"><u>Optimizing Graphics Settings: Eliminate Stutter & Improve FPS on New World Titles</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-visual-performance-fixing-blur-effects-for-a-crisp-gaming-experience-in-cod-warzone-computer-edition/"><u>Optimizing Visual Performance: Fixing Blur Effects for a Crisp Gaming Experience in COD: Warzone (Computer Edition)</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-interruptions-resolving-euro-truck-simulator-2-pc-crashes/"><u>Say Goodbye to Game Interruptions: Resolving Euro Truck Simulator 2 PC Crashes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/seize-the-moment-download-outro-samples-freepaid-for-2024/"><u>Seize the Moment Download Outro Samples (Free/Paid) for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simplified-guide-to-iphone-screen-adjustment-for-2024/"><u>Simplified Guide to iPhone Screen Adjustment for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-paradox-launcher-problems-a-step-by-step-guide-to-fixing-it/"><u>Solve Your Paradox Launcher Problems: A Step-by-Step Guide to Fixing It</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cs2-performance-issues-a-guide-to-improve-frame-rate-and-reduce-lag/"><u>Solving CS2 Performance Issues: A Guide to Improve Frame Rate & Reduce Lag</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/chuckles-chronicles-current-hot-trends-in-comedy/"><u>Chuckles Chronicles Current Hot Trends in Comedy</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-your-nvidia-geforce-experiences-error-e0x0003/"><u>Comprehensive Guide to Resolve Your NVIDIA GeForce Experience's Error E_0x0003</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2s-beyond-light-stability-issues-fixed-for-pc-gamers/"><u>Destiny 2'S Beyond Light Stability Issues Fixed for PC Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/freihand-kopieren-von-dvd-dateien-auf-einen-usb-stick-schritt-fur-schritt-anleitung/"><u>Freihand Kopieren Von DVD Dateien Auf Einen USB Stick - Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-combat-excessive-disk-space-and-cpu-consumption-in-wsappx-applications/"><u>How to Combat Excessive Disk Space & CPU Consumption in WSAPPX Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ipads-best-practices-for-clear-voice-recording/"><u>In 2024, IPad's Best Practices for Clear Voice Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/um-video-recorder-for-cutting-edge-youtube-content-for-2024/"><u>Premium Video Recorder for Cutting-Edge YouTube Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stay-ahead-of-the-game-creating-a-posting-schedule-that-works-for-your-twitter-presence/"><u>Stay Ahead of the Game: Creating a Posting Schedule That Works for Your Twitter Presence</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-league-of-legends-persistent-black-screen-problem/"><u>Step-by-Step Troubleshooting for League of Legends' Persistent Black Screen Problem</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-10-spotlight-on-popular-pop-chansons-for-visual-media-projects-for-2024/"><u>Updated Top 10 Spotlight on Popular Pop Chansons for Visual Media Projects for 2024</u></a></li>
 </ul></div>
 

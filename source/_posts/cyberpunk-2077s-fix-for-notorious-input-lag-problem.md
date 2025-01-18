@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077'S Fix for Notorious Input Lag Problem
-date: 2025-01-05T16:57:13.983Z
-updated: 2025-01-12T16:39:17.950Z
+date: 2025-01-11T08:35:54.757Z
+updated: 2025-01-17T20:59:32.154Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ These days, players have reported the issue of black screen when loading a save 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -31,6 +35,10 @@ These days, players have reported the issue of black screen when loading a save 
 3. **[Update Windows 10 to version 20H2](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Allow your game through firewall
 
  The Windows Firewall is designed to help keep unauthorized users from accessing files and resources on your computer. But there are circumstances that it fails to trust your applications. In this case, you need to manually add your game to the list of allowing apps through Windows Defender Firewall. Here’s how you can do this:
@@ -38,6 +46,10 @@ These days, players have reported the issue of black screen when loading a save 
  1) Press the Windows logo key to open the Start menu. Type **windows firewall** . Then click **Windows Defender Firewall**  from the results.  
   
 ![allow Cyberpunk 2077 through Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left side of the screen, select **Allow an app through Windows Defender Firewall** .  
   
@@ -51,17 +63,9 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-the-game-through-windows-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**Add** .  
   
@@ -74,6 +78,10 @@ These days, players have reported the issue of black screen when loading a save 
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -91,6 +99,10 @@ These days, players have reported the issue of black screen when loading a save 
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it. For NVIDIA graphics card users, you can also use the Geforce Experience application to update your driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -115,10 +127,6 @@ Here’s how it works:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Update Windows 10 to version 20H2
 
  According to players who also had the black screen issue, they fixed it by updating Windows 10 to version 20H2\. That’s little different from merely checking for Windows updates. Because chances are, you’re told you’re up to date, but you’re not getting the version 20H2.
@@ -131,25 +139,13 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
 
 ![download Windows updates assistant to update windows](https://images.drivereasy.com/wp-content/uploads/2020/12/forcily-update-windows-10-to-version-20H2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the download is finished, double-click on the installation file and install it. Once done, the application should be opening. Simply click**Update Now** and then follow the on-screen instructions to finish the process. This may take some minutes so you just need to wait patiently. Once done, you’ll get the latest version, which is 20H2.  
   
@@ -167,19 +163,23 @@ Here’s how it works:
 [GOG GALAXY 2.0](https://tools.techidaily.com/drivereasy/download/)
 [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steam
 
  1) Open your Steam client. Select the tab**LIBRARY** . Then navigate to your game**Cyberpunk 2077** . Right-click it and select**Properties** .  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-Properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Properties window, select the tab**LOCAL FILES** . Then click**VERIFY INTEGRITY OF GAME FILES…** . This may take some minutes. Just wait for the process to complete.  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
 
@@ -190,11 +190,7 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Epic Games Launcher
@@ -206,6 +202,10 @@ Here’s how it works:
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take several minutes to finish the process. Simply wait for it. Once done, try to load your game to check if it does the trick.
 
@@ -230,20 +230,18 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>[New] Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-monetize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-secrets-of-advanced-camera-settings/"><u>[Updated] Unveiling the Secrets of Advanced Camera Settings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlock-exclusive-youtube-visuals-top-5-tools-reviewed/"><u>2024 Approved Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/cookiebot-enabled-analytics-solutions/"><u>Cookiebot-Enabled Analytics Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dall-e-3-enhances-with-new-editing-features-room-for-improvement-ahead/"><u>DALL-E 3 Enhances with New Editing Features - Room for Improvement Ahead</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-shadowplay-recording-glitches-in-windows-environments/"><u>Effective Solutions for Resolving Shadowplay Recording Glitches in Windows Environments</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-using-manycams-cutting-edge-virtual-camera-solutions/"><u>Enhance Your Broadcasts Using ManyCam's Cutting-Edge Virtual Camera Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/exclusive-sniper-rounds-and-weaponry-now-available-in-cod-mw-fps-drop/"><u>Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y100 5G FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 14 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-initialization-hurdles-for-players-of-armored-core-vi-fires-of-rubicon/"><u>Overcoming Initialization Hurdles for Players of Armored Core VI - Fires of Rubicon</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-for-unending-anthem-startup-no-more-loading-frustration/"><u>Solution for Unending Anthem Startup: No More Loading Frustration</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-addressing-and-fixing-hearthstone-crashes-on-desktop-systems/"><u>Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solve-tormented-souls-constant-crashes-on-pc/"><u>Troubleshooting Guide: Solve Tormented Souls' Constant Crashes on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smartphone-video-cutting-edge-apple-and-androids-leading-apps/"><u>[New] Smartphone Video Cutting-Edge Apple & Android's Leading Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-visual-data-harvester-for-2024/"><u>[New] Visual Data Harvester for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-best-online-video-trailer-makers/"><u>5 Best Online Video Trailer Makers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/age-is-just-a-number-in-language-learning/"><u>Age Is Just a Number in Language Learning</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-2-ultimate-hd-revisit-updated-fixes-and-enhancements/"><u>BioShock 2: Ultimate HD Revisit - Updated Fixes and Enhancements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-fantasy-to-feasibility-vrs-milestones/"><u>From Fantasy to Feasibility VR's Milestones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/fundamentals-of-digital-tale-construction/"><u>Fundamentals of Digital Tale Construction</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y200e-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y200e 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-vr-malfunctions-a-step-by-step-correction-tutorial/"><u>Phasmophobia VR Malfunctions: A Step-by-Step Correction Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/practice-good-hygiene-urinate-frequently-especially-after-sexual-activity-to-help-flush-out-bacteria-from-your-urinary-tract-wipe-from-front-to-back-when-us551/"><u>Practice Good Hygiene: Urinate Frequently, Especially After Sexual Activity, to Help Flush Out Bacteria From Your Urinary Tract. Wipe From Front to Back when Using the Restroom, Which Can Help Prevent Bacteria From Spreading From the Anus to the Urethra.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/sysware-printer-driver-successfully-installed/"><u>SysWare Printer Driver - Successfully Installed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-6s-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 6s</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-v-rising-from-frequent-pc-shutdowns/"><u>Troubleshooting Steps to Stop V-Rising From Frequent PC Shutdowns</u></a></li>
 </ul></div>
 

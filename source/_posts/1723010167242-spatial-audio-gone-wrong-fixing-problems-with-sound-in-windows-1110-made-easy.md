@@ -1,7 +1,7 @@
 ---
 title: Spatial Audio Gone Wrong? Fixing Problems with Sound in Windows 11/10 Made Easy!
-date: 2024-08-18T15:19:11.769Z
-updated: 2024-08-19T15:19:11.769Z
+date: 2025-01-17T07:53:08.550Z
+updated: 2025-01-17T21:17:31.549Z
 tags:
   - win11
   - win10
@@ -27,13 +27,14 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
@@ -43,20 +44,23 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
@@ -66,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -83,30 +88,30 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, press the **Windows log** o key + **R** at the same time. Type **control**  in the Run box, and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
 If Windows fails to troubleshoot your issues, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Make sure you set THX Spatial Audio as your device
 
  If you can’t hear any difference after installing the THX Spatial Audio app, it may be possible that you haven’t set it as your playback device. In this case, follow the steps below for configurations. If you prefer to watch the tutorial video, check it out below.
@@ -115,9 +120,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 2. In the AUDIO tab, turn on SPATIAL AUDIO. Click**Open Windows Sound Properties** .  
  In the Sound window that opens, right-click**Speakers THX Spatial Ready** and select**Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
@@ -148,9 +150,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
  When the update completes, restart your computer. Then play supported content to check for changes.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 5\. Perform a system restore
 
  After everything else, you can restore your system to a point from before THX Spatial Audio was acting up. It’s possible that the issue you’re having was facilitated by a change that your system has gone through recently which you cannot pinpoint.
@@ -162,39 +161,30 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
@@ -205,13 +195,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 2. Run the software. Fortect will start a deep scan of your system. The process may take a while.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
@@ -226,8 +209,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +216,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord-for-2024/"><u>[Updated] A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-g54-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola G54 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-microsoft-print-to-pdf-failures-a-user-friendly-fix-for-windows-1011-users/"><u>Dealing with Microsoft Print to PDF Failures: A User-Friendly Fix for Windows 10/11 Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming-for-2024/"><u>Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-kinemaster-gs-journey-for-2024/"><u>From Novice to Expert KineMaster GS Journey for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-halo-infinite-no-ping-to-our-data-centers-detected-error/"><u>How to Fix Halo Infinite No Ping to Our Data Centers Detected Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-pathfinder-wrath-of-the-righteeous-from-suddenly-crashing-issues-resolved/"><u>How to Stop Pathfinder: Wrath of the Righteeous From Suddenly Crashing - Issues Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-rainbow-six-extraction-from-crashing-on-pc-effective-tips-and-tricks/"><u>How to Stop Rainbow Six Extraction From Crashing on PC: Effective Tips and Tricks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-10-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 10 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-the-windows-11-start-menu-personalization-techniques-by-yl-software-experts/"><u>Mastering the Windows 11 Start Menu: Personalization Techniques by YL Software Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-of-improved-gameplay-boosting-fps-in-formula-one-2021-for-windows-users/"><u>Overcoming the Challenge of Improved Gameplay: Boosting FPS in Formula One 2021 for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-alan-wake-2-game-crashes-with-easy-fixes/"><u>Resolving Alan Wake 2 Game Crashes with Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-link-issues-in-granblue-fantasy-troubleshooting-guide/"><u>Resolving Link Issues in Granblue Fantasy - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-fixes-for-preventing-browser-hiccups-stabilize-chrome-in-windows-10/"><u>Seamless Fixes for Preventing Browser Hiccups: Stabilize Chrome in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-call-of-duty-vanguards-dev-error-5573-a-step-by-step-guide-to-success/"><u>Tackling Call of Duty Vanguard's Dev Error 5573 - A Step by Step Guide to Success!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-foundation-of-fps-mastery-critical-settings-guide/"><u>The Foundation of FPS Mastery: Critical Settings Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-gamers-handbook-for-mending-corrupt-pc-games-tips-and-tricks-for-2024/"><u>The Gamer's Handbook for Mending Corrupt PC Games: Tips & Tricks for 2^024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thumbnails-as-a-key-player-in-video-marketing-strategies-for-2024/"><u>Thumbnails as a Key Player in Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-v30t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme V30T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

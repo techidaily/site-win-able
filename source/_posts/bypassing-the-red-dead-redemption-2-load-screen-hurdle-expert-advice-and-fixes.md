@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Red Dead Redemption 2 Load Screen Hurdle – Expert Advice & Fixes
-date: 2024-08-13T10:01:39.826Z
-updated: 2024-08-14T10:01:39.826Z
+date: 2025-01-12T09:01:04.934Z
+updated: 2025-01-18T04:58:11.406Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 Many Red Dead Redemption 2 players are reporting that they can’t even get past the loading screen. Although Rockstar Games has released several patches both for the game and its own game launcher,**Red Dead Redemption 2 just stuck on the loading screen** every time you try playing.
 
  If you run into an**infinite loading screen** ,**not responding** , or**crashing to desktop** error, don’t panic. You’re definitely not alone and many players have solved their issues with the fixes below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -77,6 +81,10 @@ Follow the links below to check how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics drivers
 
  Rockstar Games says the most common cause of**Red Dead Redemption 2** not loading problem is outdated graphics drivers. NVIDIA and AMD work closely with game developers to keep releasing new drivers to boost performance and fix bugs.
@@ -105,9 +113,6 @@ There are two ways you can update your graphics drivers:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![click scan now](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-3.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
@@ -138,9 +143,6 @@ Note: You can do it for free if you like, but it’s partly manual.
 
  3) Open your Rockstar Games Launcher, go to**SETTINGS** \>**Account information** \>**DELETE** local profile.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete Rockstar launcher profiles](https://images.drivereasy.com/wp-content/uploads/2019/11/launcher-settings-1024x482.jpg)
 
  4) Sign in to the Rockstar Games Launcher again and launch Red Dead Redemption 2.
@@ -149,9 +151,6 @@ If this method doesn’t work for you, you can try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run Red Dead Redemption 2 as admin
 
  Running Red Dead Redemption 2 as an administrator allows you to get full access to the game files.
@@ -162,18 +161,12 @@ If this method doesn’t work for you, you can try the next fix.
 
 3) Click the**Compatibility** tab, tick both**Run this Program as an Administrator** and**Disable Fullscreen Optimizations** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run Red Dead Redemption 2 as admin](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-run-as-admin.jpg)
 
  4) Click**Change high DPI settings** .
 
  5) Under the**High DPI scaling override** section, tick the**Override high DPI scaling behavior** . Make sure scaling is performed by the**Application** . Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Override high DPI for Red Dead Redemption 2](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasy-over-ride.jpg)
 
  6) Go back to the**Properties** window, click**Apply** \>**OK** .
@@ -202,9 +195,6 @@ If this method doesn’t work for you, you can try the next fix.
 
  5) If this method doesn’t work for you, go to**NVIDIA Control Panel** \>**Manage 3D settings** \>**Restore Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Restore defaults in NVIDIA control panel](https://images.drivereasy.com/wp-content/uploads/2019/11/restore-defaults.jpg)
 
  6) Relaunch your Red Dead Redemption 2 to see if the infinite loading issue is gone.
@@ -212,6 +202,10 @@ If this method doesn’t work for you, you can try the next fix.
  If Red Dead Redemption 2 still keeps loading forever, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Add Graphics Tools
 
@@ -221,14 +215,15 @@ If this method doesn’t work for you, you can try the next fix.
 
  1) In the Windows Search bar, start typing**feature** , and select**Manage** **optional features** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/optional-features.jpg)
 
  2) Click**Add a feature** and choose**Graphics Tools** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/add-a-feature-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select**Graphics Tools** and click**Install** .
 
@@ -242,9 +237,6 @@ If this method doesn’t work for you, you can try the next fix.
 
  2) From the left navigation panel, select**Apps** , then find**Optional features** and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Settings-Apps-Optional-features-1200x658.jpg)
 
  3) Click on the**View features** button.
@@ -257,14 +249,6 @@ If this method doesn’t work for you, you can try the next fix.
 
  5) Click**Install** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Graphics-Tools-Install-1200x658.jpg)
 
 Wait for it to finish the process.
@@ -273,48 +257,37 @@ Wait for it to finish the process.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Perform a clean boot
 
  If Red Dead Redemption still fails to load, it may be caused by other software on your PC. You may need a clean boot to see if that’s your issue. Here is how to do it:
 
  1) Type**msconfig** in the Search box and select**System Configuration** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/11/system-configuration.jpg)
 
  2) Click the **Services** tab and check the **Hide all Microsoft services** box, then click **Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![disable all services](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the **Startup** tab and click **Open Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open task manager](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under the Startup tab, select each startup item and then click**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable all startup apps](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1019-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to**System Configuration** , click**OK** .
 
@@ -338,6 +311,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -349,6 +326,10 @@ The powerful video editing program for your Windows PC</a>
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -370,10 +351,11 @@ sfc /scannow
 
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -424,8 +406,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -433,4 +413,18 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/o-need-for-apps-download-youtube-files-for-2024/"><u>[New] No Need for Apps Download YouTube Files for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-should-past-facebook-actions-follow-you-today-investigate/"><u>[Updated] Should Past Facebook Actions Follow You Today? Investigate</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-troubleshoot-overwatch-2s-launch-problems-2024-edition/"><u>Effective Ways to Troubleshoot Overwatch 2'S Launch Problems - 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-the-fixes-for-common-rust-graphical-errors/"><u>Resolved: Troubleshooting the Fixes for Common Rust Graphical Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-fluctuating-frame-rates-a-comprehensive-guide/"><u>Resolving the Issue of Fluctuating Frame Rates: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-persistent-crashing-problems-in-call-of-duty-modern-warfare-3-for-pc-players/"><u>Solve Persistent Crashing Problems in Call of Duty: Modern Warfare 3 for PC Players</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-tutorial-retrieving-lost-information-from-removed-drives-on-windows-11/"><u>Step-by-Step Tutorial: Retrieving Lost Information From Removed Drives on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-linksys-ac1900-the-perfect-router-solution/"><u>Ultimate Guide to Linksys AC1900: The Perfect Router Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-speed-loading-windows-photo-displayer/"><u>Ultimate Speed-Loading Windows Photo Displayer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-video-editing-apps-with-soundtracks-for-mobile/"><u>Updated Top Video Editing Apps with Soundtracks for Mobile</u></a></li>
+</ul></div>
 

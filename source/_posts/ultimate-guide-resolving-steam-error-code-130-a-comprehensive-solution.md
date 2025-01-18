@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Steam Error Code 130 – A Comprehensive Solution"
-date: 2024-08-18T15:19:50.017Z
-updated: 2024-08-19T15:19:50.017Z
+date: 2025-01-16T06:21:29.501Z
+updated: 2025-01-17T17:05:28.571Z
 tags:
   - win11
   - win10
@@ -15,14 +15,6 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 
 ## Beat the Game-Breaking Bugs in 'True Colors' - Your Ultimate Solution Inside
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/life-is-strange-true-colors.jpg)
 
  Life is Strange True Colors is out. However, as many new release games, it’s not immune from bugs or issues. Many players complained Life is Strange True Colors crashes randomly and a specific low level fatal line 3946 error occurs. If you encounter the same issue, don’t worry. We’ve got a full list of working fixes for you.
@@ -50,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 4. **[Switch to DirectX 11](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Install the latest patch
 
  The game developer will keep releasing new patches to fix known bugs after the game is launched. According to[the official](https://steamcommunity.com/app/936790/discussions/1/3040481812840137942/) , the new patched DLC of Life is Strange is live now, and it should resolve the DX12+RTC outfit pack crash. This patch won’t be automatically downloaded, so if you see an update is available, install it right away to see whether that helps with your problem.
@@ -57,37 +53,26 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 1. Launch Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  Whenever you have difficulties playing the Steam games, you could do an integrity check to detect missing or corrupted game files and repair them all. That works with Life is Strange True Colors as well.
 
 1. Open Steam and go to your game Library.
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The Life is Strange True Colors crashes can be caused by a driver issue. If you’re using a faulty or outdated graphics driver, you may run into graphics glitches or performance problems in games like crashing, black screen or more. To get rid of choppy gameplay, you should keep your graphics driver updated.
@@ -105,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Switch to DirectX 11
 
  Players are able to launch Life is Strange True Colors in either DirectX11 or 12\. While playing with DX12 allows you to enjoy the ray-tracing feature, DirectX 11 could be a more stable version and is less likely to cause game crashes. To opt into DX11, take these steps:
@@ -114,19 +100,22 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 1. Run Steam and select**Library** from the homepage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the graphics settings
 
  Higher graphics settings usually indicate a better visual experience, but it can be resource-intensive and make your game unstable or even crash. If you don’t have strong hardware capabilities, it’s best to turn down the in-game graphics instead of running it at the maximum settings.
@@ -138,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 3. Click**Edit** next to Advanced Video.
 4. You could just set each option to**Low** or**Medium** and click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the game to test if the new settings have a significant impact on the game performance.
 
@@ -153,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +153,23 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software-for-2024/"><u>[New] Maximizing Your Influence A Selection of Expert Instagram Analytics Software for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-fleeting-feed-of-fb-shorts/"><u>[Updated] The Fleeting Feed of FB Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-constructing-compelling-trailer-crafts/"><u>2024 Approved Constructing Compelling Trailer Crafts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-open-on-windows-aturating-heres-what-you-need-to-know/"><u>Civilization 6 Won't Open on Windows Aturating, Here’s What You Need To Know!</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-lags-and-connectivity-bugs-a-players-guide-to-optimizing-new-world-performance/"><u>Defeat Lags and Connectivity Bugs: A Player’s Guide to Optimizing New World Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-5-standout-book-trailer-creations/"><u>Discovering 5 Standout Book Trailer Creations</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-red-dead-redemption-2s-errgfxstate-error/"><u>Expert Tips for Resolving Red Dead Redemption 2'S ERR_GFX_State Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-error-42aboard-in-genshin-impact-a-user-guide-to-solutions/"><u>Overcome Error 42Aboard in Genshin Impact - A User Guide to Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-obs-for-smooth-recording-and-broadcasting/"><u>Resolved: Troubleshooting OBS for Smooth Recording and Broadcasting</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-dormant-workflow-rules-in-microsoft-outlook/"><u>Reviving Dormant Workflow Rules in Microsoft Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-slowdowns-how-we-tackled-the-outriders-lag-challenge/"><u>Say Goodbye to Slowdowns: How We Tackled the [Outriders] Lag Challenge</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-capability-for-your-mouse-under-windows-11/"><u>Step-by-Step Solution: Restoring Right-Click Capability for Your Mouse Under Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-the-asus-zephyrus-g14-unmatched-power-meets-portability/"><u>The Definitive Guide to the Asus Zephyrus G14: Unmatched Power Meets Portability</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-the-0xc19001e1-blue-screen-error-on-windows-10/"><u>Troubleshooting and Fixing the 0xC19001E1 Blue Screen Error on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-potential-seamlessly-connect-chatgpt-and-google-sheets-for-enhanced-productivity/"><u>Unleashing Potential: Seamlessly Connect ChatGPT and Google Sheets for Enhanced Productivity</u></a></li>
+</ul></div>
 

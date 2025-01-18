@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Correct 'Connection Unavailable to Live Servers' Mistakes
-date: 2025-01-05T17:22:47.079Z
-updated: 2025-01-12T17:57:32.026Z
+date: 2025-01-14T02:04:14.341Z
+updated: 2025-01-17T18:40:03.290Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Restart the game/Steam
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair game files
 
@@ -69,10 +73,6 @@ If this doesn’t help, try the next fix.
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Update the graphics driver
 
  The latest GPU drivers are essential for video games. If your graphics driver is outdated or faulty, game performance could be impacted and you might even get errors and crashes. Although this is not directly related to the connection error, we suggest that you keep your graphics card driver up-to-date for the best gaming experience.
@@ -85,21 +85,17 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Configure your firewall settings
 
@@ -112,6 +108,10 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
@@ -119,7 +119,7 @@ If this doesn’t solve your problem, move on to the next fix.
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Add the game to the exception list
@@ -128,16 +128,16 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
 
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Check your DNS settings
 
@@ -146,6 +146,10 @@ If this doesn’t solve your problem, move on to the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -163,10 +167,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -178,24 +178,28 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -209,10 +213,6 @@ Here are the steps:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -237,15 +237,21 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-effective-ways-to-manipulate-track-tempo-in-spotify/"><u>[New] Effective Ways to Manipulate Track Tempo in Spotify</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ugly-side-of-digital-video-profits/"><u>[Updated] In 2024, The Ugly Side of Digital Video Profits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-up-your-language-game-top-15-tools-to-turn-videos-into-universal-text/"><u>[Updated] Step Up Your Language Game Top 15 Tools to Turn Videos Into Universal Text</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-myth-effective-ways-to-eliminate-naraka-bladepoint-slowdowns/"><u>Busting the Myth: Effective Ways to Eliminate Naraka Bladepoint Slowdowns</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-mechanics-of-predictive-ai-technology/"><u>Demystifying the Mechanics of Predictive AI Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-phasmophobia-crashing-issues-expert-advice-and-troubleshooting-steps/"><u>How to Prevent Phasmophobia Crashing Issues - Expert Advice and Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/kickstart-a-successful-charity-contest-via-social-media-for-2024/"><u>Kickstart a Successful Charity Contest via Social Media for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-low-frame-rate-problems-in-outriders-a-comprehensive-guide-for-gamers/"><u>Overcome Low Frame Rate Problems in Outriders: A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connect-problems-heres-the-solution-for-a-smooth-experience/"><u>Ubisoft Connect Problems? Here's the Solution for a Smooth Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vocal-variations-in-free-fire-gaming/"><u>Vocal Variations in Free Fire Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-steps-for-securing-stock-photo-borders/"><u>[New] Advanced Steps for Securing Stock Photo Borders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-earning-potential-with-strategic-facebook-video-ads-for-2024/"><u>[New] Maximizing Earning Potential with Strategic Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[New] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-choice-quick-accurate-screen-reports/"><u>2024 Approved The Ultimate Choice Quick, Accurate Screen Reports</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-top-fixes-to-resolve-final-epoch-failures-in-personal-computers/"><u>2024'S Top Fixes to Resolve Final Epoch Failures in Personal Computers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/convert-gracie-kids-streaming-footage-to-high-quality-mp4-format/"><u>Convert Gracie Kids Streaming Footage to High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-for-preventing-vr-game-disruptions-and-crashes-on-personal-laptops-or-desktops/"><u>Effective Methods for Preventing VR Game Disruptions and Crashes on Personal Laptops or Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-resolve-black-ops-cold-wars-persistent-problem-with-shader-compilation-process/"><u>Guide to Resolve Black Ops Cold War's Persistent Problem with Shader Compilation Process</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-red-magic-9-proplus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Red Magic 9 Pro+ Through Google Earth?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-invisible-recorder-how-to-save-online-music-streams/"><u>In 2024, The Invisible Recorder How to Save Online Music Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-gen-shock-problems-with-these-five-simple-fixes/"><u>Resolve Your Gen Shock Problems with These Five Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issues-with-starting-crusader-kings-ii/"><u>Resolved: Issues With Starting Crusader Kings II</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-d3dx933dll-file-missing-a-step-by-step-guide/"><u>Solving d3dx9_33.dll File Missing - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/tutorial-overcoming-ui-problem-27711-in-call-of-duty-black-ops-cold-war-resolution/"><u>Tutorial: Overcoming UI Problem 27711 in Call of Duty: Black Ops Cold War (Resolution)</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-users-can-now-enjoy-civilization-vi-after-launch-concerns-are-addressed/"><u>Windows 11 Users Can Now Enjoy Civilization VI After Launch Concerns Are Addressed</u></a></li>
 </ul></div>
 

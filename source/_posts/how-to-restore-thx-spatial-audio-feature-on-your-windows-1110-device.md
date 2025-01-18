@@ -1,7 +1,7 @@
 ---
 title: How to Restore Thx Spatial Audio Feature on Your Windows 11/10 Device
-date: 2024-08-18T15:18:31.138Z
-updated: 2024-08-19T15:18:31.138Z
+date: 2025-01-11T06:58:51.899Z
+updated: 2025-01-18T02:00:46.656Z
 tags:
   - win11
   - win10
@@ -27,44 +27,52 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the audio troubleshooter
 
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
@@ -74,24 +82,18 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -100,17 +102,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If Windows fails to troubleshoot your issues, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Make sure you set THX Spatial Audio as your device
 
  If you can’t hear any difference after installing the THX Spatial Audio app, it may be possible that you haven’t set it as your playback device. In this case, follow the steps below for configurations. If you prefer to watch the tutorial video, check it out below.
@@ -122,9 +126,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
@@ -152,9 +153,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
  When the update completes, restart your computer. Then play supported content to check for changes.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 5\. Perform a system restore
 
  After everything else, you can restore your system to a point from before THX Spatial Audio was acting up. It’s possible that the issue you’re having was facilitated by a change that your system has gone through recently which you cannot pinpoint.
@@ -167,8 +165,9 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
@@ -178,15 +177,9 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
@@ -197,10 +190,11 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 2. Run the software. Fortect will start a deep scan of your system. The process may take a while.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -214,8 +208,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +215,26 @@ If Windows fails to troubleshoot your issues, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>[Updated] Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-list-most-compelling-zombie-themed-video-games/"><u>[Updated] Ultimate List Most Compelling Zombie-Themed Video Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/becoming-an-animoji-expert-on-your-iphone-x-device/"><u>Becoming an Animoji Expert on Your iPhone X Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-on-troubleshooting-and-preventing-resident-evil-ebeque-4-remake-crashes/"><u>Complete Guide on Troubleshooting and Preventing Resident Evil Ebeque 4 Remake Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/double-drop-in-frames-per-second-fps-for-pc-players-corrected-successfully/"><u>Double Drop in Frames Per Second (FPS) for PC Players Corrected Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-game-crashes-a-players-guide-to-improving-days-gone-performance-202eb/"><u>Fixing Persistent Game Crashes: A Player's Guide to Improving 'Days Gone' Performance (202Eb)</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/gopro-editing-software-15-best-gopro-video-editors/"><u>GoPro Editing Software 15 Best GoPro Video Editors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-expert-choices-best-6-fb-lite-video-saves/"><u>In 2024, Expert Choices Best 6 FB Lite Video Saves</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994150669-is-doom-eternal-stuck-in-development-purgatory-heres-how-you-can-unlock-it/"><u>Is DOOM Eternal Stuck in Development Purgatory? Here’s How You Can Unlock It!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/jest-jar-compreenas-best-no-cost-templates/"><u>Jest Jar Compreenas Best No-Cost Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permission-barriers-in-windows-updates/"><u>Overcoming Permission Barriers in Windows Updates</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002212485-rapid-repair-techniques-for-faulty-controllers-stabilize-and-enjoy-uninterrupted-play/"><u>Rapid Repair Techniques for Faulty Controllers - Stabilize and Enjoy Uninterrupted Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-connectivity-issues-astro-a50-doesnt-appear-as-an-input-device/"><u>Solving Connectivity Issues: Astro A50 Doesn't Appear as an Input Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-cs-go-not-opening-innovative-techniques-and-insights-for-gamers/"><u>Solving the Mystery of CS: GO Not Opening – Innovative Techniques & Insights for Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-content-top-8-youtube-to-avi-solutions-for-2024/"><u>Streamline Your Content Top 8 YouTube-to-AVI Solutions for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-images-with-easy-color-changes/"><u>Transform Your Images with Easy Color Changes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-eliminate-youtube-buffering-problems-a-step-by-step-solution/"><u>Troubleshoot and Eliminate YouTube Buffering Problems: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-critical-errors-the-ultimate-fix-for-gobi-fatal-error-in-back-4-blood/"><u>Troubleshooting Critical Errors: The Ultimate Fix for 'Gobi Fatal Error in Back 4 Blood'</u></a></li>
+</ul></div>
 

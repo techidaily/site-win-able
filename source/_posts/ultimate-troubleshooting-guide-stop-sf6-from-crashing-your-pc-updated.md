@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Stop SF6 From Crashing Your PC (Updated)"
-date: 2025-01-10T16:21:09.030Z
-updated: 2025-01-12T16:58:00.349Z
+date: 2025-01-14T23:26:56.942Z
+updated: 2025-01-18T04:13:11.649Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the game as administrator
 
  Some programs need administrator rights to function properly. To ensure Microsoft Flight Simulator works properly, you can run the game as an administrator. Here’s how:
@@ -59,10 +63,6 @@ Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Scan and repair your game files
 
  If your game files are missing or corrupted, you’re likely to encounter many issues when playing Microsoft Flight Simulator. To see if that’s the case, you can scan and repair your game files via Steam or Windows. Here’s how:
@@ -73,10 +73,6 @@ If the issue remains, try the next fix.
 2. Right-click**Microsoft Flight Simulator** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-properties.jpg)
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
 5. **Relaunch** Microsoft Flight Simulator and test if you can get past the checking for updates screen.
@@ -91,13 +87,13 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -107,15 +103,7 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
@@ -136,9 +124,17 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -178,10 +174,6 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
 
@@ -191,7 +183,7 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 on Windows 11:
@@ -204,6 +196,10 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
@@ -211,7 +207,7 @@ on Windows 11:
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
@@ -235,6 +231,10 @@ on Windows 11:
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Use a VPN
 
  If your connection is poor, you may experience the issue of Microsoft Flight Simulator being stuck on the checking for updates screen. To gain a better Internet connection, you can give a VPN a try.
@@ -248,6 +248,10 @@ Here are some gaming VPNs we recommend:
 * [CyberGhost](https://tools.techidaily.com/drivereasy/download/)
 
 If this method doesn’t solve your problem, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Do a clean install
 
@@ -273,15 +277,11 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator.png)
 3. Click on **Uninstall**  to confirm your choice.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -311,18 +311,18 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-artistarc-complete-assessment-and-tutorial-series-24/"><u>[Updated] ArtistArc Complete Assessment & Tutorial Series '24</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-2042-pc-crashes-no-more-expert-advice-for-a-smooth-gaming-experience/"><u>Battlefield 2042 PC Crashes No More - Expert Advice for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-minecraft-hiccups-and-enjoy-uninterrupted-gaming-expert-advice-for-your-pc/"><u>Fix Minecraft Hiccups & Enjoy Uninterrupted Gaming - Expert Advice for Your PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/video-credits-expertise-top-6-maker-guide/"><u>Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>In 2024, Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>In 2024, From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-zte-nubia-z60-ultra-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change ZTE Nubia Z60 Ultra IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/login-keyboard-errors-effective-fixes-and-tips-for-immediate-resolution/"><u>Login Keyboard Errors: Effective Fixes and Tips for Immediate Resolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-assassins-creed-valhalla-lag-and-crashes-2024-update-tips/"><u>Resolving Assassin's Creed Valhalla Lag and Crashes: 2024 Update Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-fixing-ntdlldll-faults-on-windows-1087-and-more/"><u>Step-by-Step Solutions for Fixing ntdll.dll Faults on Windows 10/8/7 and More</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-to-resolve-game-crash-issues-on-nioh-2-complete/"><u>Step-by-Step Tutorial to Resolve Game-Crash Issues on Nioh 2 (Complete)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-best-and-easiest-methods-to-delete-all-traces-of-your-info-on-a-windows-laptop-completely-free/"><u>The Best & Easiest Methods to Delete All Traces of Your Info on a Windows Laptop - Completely Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>[New] 2024 Approved Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-breaking-boundaries-in-video-content-creation-within-limit/"><u>[New] In 2024, Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-professional-recorder-capture-studio-win10-edition/"><u>[Updated] In 2024, Professional Recorder Capture Studio Win10 Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004142854-banish-black-screen-issues-in-fallout-4-effective-solutions-inside/"><u>Banish Black Screen Issues in Fallout 4: Effective Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-zoom-glitches-on-your-pc-with-these-pro-tips-for-windows-1110-updated-guide/"><u>Beat Zoom Glitches on Your PC with These Pro Tips for Windows 11/10 - Updated Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-11-adobe-after-effects-alternatives-to-consider-including-both-free-and-premium-solutions/"><u>Best 11 Adobe After Effects Alternatives to Consider, Including Both Free and Premium Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-distorted-visuals-a-guide-to-sharpening-graphics-in-call-of-duty-warzone-pc/"><u>Clearing Up Distorted Visuals: A Guide to Sharpening Graphics in Call of Duty: Warzone (PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-fixing-the-persistent-error-0x803f8001-on-your-minecraft-launcher-windows-1110/"><u>Expert Advice for Fixing the Persistent Error 0X803F8001 on Your Minecraft Launcher (Windows 11/10)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/exploring-the-world-of-electronic-equipment-insightful-guide-by-yl-software-on-essential-hardware-knowledge/"><u>Exploring the World of Electronic Equipment: Insightful Guide by YL Software on Essential Hardware Knowledge</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-c33-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme C33 2023 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-itunes-to-listen-to-podcasts-for-2024/"><u>Navigating iTunes to Listen to Podcasts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-warframes-recurring-stalling-performance-bottlenecks/"><u>Resolving Warframe's Recurring Stalling Performance Bottlenecks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-internet-explorer-error-page-wont-load/"><u>Troubleshooting: Fixing 'Internet Explorer' Error - Page Won't Load</u></a></li>
 </ul></div>
 

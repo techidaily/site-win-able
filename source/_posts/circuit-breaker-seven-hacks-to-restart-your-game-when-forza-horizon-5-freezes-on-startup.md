@@ -1,7 +1,7 @@
 ---
 title: "Circuit Breaker: Seven Hacks to Restart Your Game When Forza Horizon 5 Freezes on Startup"
-date: 2024-08-18T15:18:11.758Z
-updated: 2024-08-19T15:18:11.758Z
+date: 2025-01-15T07:49:35.085Z
+updated: 2025-01-17T21:12:25.493Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 ## The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers
 
 Recently many players reported Star Wars Squadrons crashing on PC when they were flying the starfighters or completing a mission. If you also run into the game crashing issue, don’t worry. In this post, we’ll walk you through all the possible fixes and help you get back to the virtual spaces easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Star Wars Squadrons crashing
 
@@ -36,14 +40,19 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 **1)** Right-click the**Star Wars Squadrons icon** on your desktop and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if the game runs normally now. If not, move on to the second fix.
 
@@ -57,12 +66,17 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
@@ -74,9 +88,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 **1)** Launch Origin and select**My Game Library** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
@@ -85,9 +96,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  Game crashes are usually driver-related and can indicate a wrong, faulty or outdated graphics driver. To keep Star Wars Squadrons running smoothly and boost the game’s performance, you should update your graphics driver to the latest.
@@ -110,6 +118,10 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -123,24 +135,14 @@ There are mainly two ways you can do the driver update:
 
 **1)** Launch Steam and go to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
 
 #### On Origin
@@ -150,6 +152,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 **2)** Select**My Game Library** on the left pane and click the**Star Wars Squadrons** tile.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1200x625.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**settings icon** and click**Game Properties** .
 
@@ -165,23 +171,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **2)** Click the**cogwheel icon** in the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Toggle off**In-Game Overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the graphics settings
 
  Improper settings of Star Wars Squadrons can trigger unexpected crashing, especially if the setup is too demanding for your machine. By adjusting the settings appropriately, you can reduce the number of crashes and the game will still look beautiful. Here’s how:
@@ -190,14 +191,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **2)** Click**Video** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1.jpg)
 
 **3)** Click the**Change** button next to Screen Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
@@ -205,31 +207,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall the game
 
  Reinstalling always sounds troublesome, but it’s a solid fix for stubborn gaming problems. After you uninstall the game, make sure to**delete all the related game files** . Then, download the latest version of Star Wars Squadrons and it should be working without any issues.
@@ -246,8 +227,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +234,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-versatile-biz-decks-free-template-and-resource-options/"><u>[New] In 2024, Versatile Biz Decks FREE Template and Resource Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-skys-bounty-the-ultimate-guide-to-drone-video-editing/"><u>2024 Approved Sky's Bounty The Ultimate Guide to Drone Video Editing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/breaking-down-barriers-resolving-the-perpetual-fullness-issue-on-external-drives/"><u>Breaking Down Barriers: Resolving the Perpetual Fullness Issue on External Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-coverage-all-you-need-to-know-about-microsofts-latest-innovations-from-the-recent-surface-unveiling/"><u>Comprehensive Coverage: All You Need to Know About Microsoft's Latest Innovations From the Recent Surface Unveiling</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-problem-solved-for-an-uninterrupted-fifa-20-playthrough/"><u>DirectX Problem Solved for an Uninterrupted FIFA 20 Playthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-gpu-drivers-nvidia-rtx-2060-super-for-windows-11-systems/"><u>Download Updated GPU Drivers: Nvidia RTX 2060 Super for Windows 11 Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-and-paid-3d-animation-software-a-comprehensive-review/"><u>Free and Paid 3D Animation Software A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo/"><u>In 2024, Celebrating Matrimony The Best Wedding Movies From YouTube to Vimeo</u></a></li>
+<li><a href="https://win-able.techidaily.com/lunar-client-error-how-to-fix-continuous-crashing-on-personal-computers/"><u>Lunar Client Error: How to Fix Continuous Crashing on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-game-crashes-in-how-to-build-a-metropolis-cities-skylines-updated-tips/"><u>Master the Art of Troubleshooting Game Crashes in How to Build a Metropolis: Cities Skylines [Updated Tips]</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/maximizing-viewing-experience-in-android-for-2024/"><u>Maximizing Viewing Experience in Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-with-simple-solutions/"><u>Stop Modern Warfare 3 From Crashing on Your PC with Simple Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackle-the-persistent-memory-error-12707-in-call-of-duty-modern-warfare-3-expert-fixes-and-tricks-revealed/"><u>Tackle the Persistent Memory Error 12707 in Call of Duty: Modern Warfare 3 - Expert Fixes and Tricks Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-three-kingdoms-tips-and-tricks-to-solve-your-game-crash-problems/"><u>Total War: Three Kingdoms – Tips & Tricks to Solve Your Game Crash Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-fixing-mouse-issues-in-the-latest-re-village/"><u>Unlock Seamless Gameplay: Fixing Mouse Issues in the Latest RE Village</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Banish Black Screens in Far Cry 6 – Expert Solutions Revealed
-date: 2025-01-09T16:39:00.937Z
-updated: 2025-01-12T16:38:54.106Z
+date: 2025-01-13T01:51:40.395Z
+updated: 2025-01-17T22:18:14.901Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 5. **[Switch to windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -79,6 +79,10 @@ There are mainly two ways to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
@@ -94,11 +98,15 @@ If you still encounter black screen issues, check out the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
@@ -118,26 +126,18 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Switch to windowed mode
 
  If the black screen issue was caused due to a small glitch, you can try to fix it by switching to windowed mode. This workaround has been proven useful by many gamers and you can give it a shot. Simply press**ALT+Enter** to switch to windowed mode while in full screen.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -147,22 +147,18 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
@@ -172,6 +168,10 @@ If this fix doesn’t do the trick, take a look at the next one.
  Once you find out the problematic program that causes the black screen issue, you might need to uninstall it to prevent the problem from recurring.
 
  If the black screen issue remains after you disabled all the programs and services, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Far Cry 6
 
@@ -183,12 +183,12 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-far-cry-6.jpg)
 2. **Click** the arrow that appears to expand the drop-down menu, then select**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Epic Games Launcher
 
@@ -220,18 +220,19 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-fresh-take-on-sony-s6500-hd-dvd-and-bd-player-for-2024/"><u>[New] Fresh Take on Sony S6500 HD DVD & BD Player for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-eagle-eye-expedition-the-ultimate-guide-to-fps-game-selection/"><u>[Updated] 2024 Approved Eagle-Eye Expedition - The Ultimate Guide to FPS Game Selection</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-restoring-rightful-representation-amidst-misguided-chatter/"><u>[Updated] 2024 Approved Restoring Rightful Representation Amidst Misguided Chatter</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unmatched-12-apps-for-endless-screen-saving/"><u>[Updated] 2024 Approved Unmatched 12 Apps for Endless Screen Saving</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-smooth-gameplay-top-fixes-for-starting-warzone-20-on-your-pc-this-year/"><u>Ensuring Smooth Gameplay: Top Fixes for Starting Warzone 2.0 on Your PC This Year</u></a></li>
-<li><a href="https://win-able.techidaily.com/launching-with-precision-how-team-collaboration-fuels-market-debuts/"><u>Launching with Precision: How Team Collaboration Fuels Market Debuts</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-online-stability-issues-how-to-prevent-game-crashes-on-your-pc/"><u>Red Dead Online Stability Issues: How to Prevent Game Crashes on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-constant-pc-crashes-in-gas-station-simulator-game/"><u>Resolved: Fixes for Constant PC Crashes in Gas Station Simulator Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/restoring-lost-talks-with-chatgpt/"><u>Restoring Lost Talks with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/roller-champions-crossplay-2024-pc-guide/"><u>Roller Champions Crossplay - 2024 PC Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010351393-solve-your-non-working-steam-remote-play-problem-with-these-helpful-fixes/"><u>Solve Your Non-Working Steam Remote Play Problem with These Helpful Fixes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ssentials-of-earning-on-youtube-platforms-for-2024/"><u>The Essentials of Earning on YouTube Platforms for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevating-your-snapping-game-tips-for-uninterrupted-streaks/"><u>[New] Elevating Your Snapping Game Tips for Uninterrupted Streaks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-video-to-mp3-digital-audio-extraction-guide/"><u>[New] In 2024, FB Video to MP3 Digital Audio Extraction Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-leading-ai-photographic-composer/"><u>[New] Leading AI Photographic Composer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-strategy-guide-to-boosting-view-count-on-youtube-shorts/"><u>[New] The Ultimate Strategy Guide to Boosting View Count on YouTube Shorts</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-cannot-connect-to-world-error-in-minecraft-for-ultimate-gameplay/"><u>Banishing 'Cannot Connect to World' Error in Minecraft for Ultimate Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/charge-rescue-for-pcs-fixing-the-plugged-in-not-charging-error-in-wndows-710/"><u>Charge Rescue for PCs: Fixing the 'Plugged In, Not Charging' Error in Wndows 7/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-pc-troubleshooting-steps-when-fuser-continuously-crashes/"><u>Fix Your PC: Troubleshooting Steps When Fuser Continuously Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-critical-errors-resolving-no-rest-for-the-wicked-crashes-in-windows/"><u>Fixing Critical Errors: Resolving 'No Rest for the Wicked' Crashes in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-splitgate-graphics-settings-fixes-for-increasing-speed-and-reducing-stutter/"><u>Mastering Splitgate Graphics Settings: Fixes for Increasing Speed & Reducing Stutter</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-smart-eyewear/"><u>Top Rated Smart Eyewear</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-increasing-your-ark-sanctuarys-performance-tips-for-pc-players/"><u>Ultimate Guide to Increasing Your ARK: Sanctuary's Performance - Tips for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-fixing-the-persistent-ntdlldll-system-crashes-in-modern-operating-systems/"><u>Understanding and Fixing the Persistent ntdll.dll System Crashes in Modern Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/yakuza-3-remastered-not-starting-up-troubleshooting-steps-for-pc/"><u>Yakuza 3 Remastered Not Starting Up: Troubleshooting Steps for PC</u></a></li>
 </ul></div>
 

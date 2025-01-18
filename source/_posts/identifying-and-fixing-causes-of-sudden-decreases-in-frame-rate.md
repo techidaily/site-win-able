@@ -1,7 +1,7 @@
 ---
 title: Identifying & Fixing Causes of Sudden Decreases in Frame Rate
-date: 2024-08-18T15:18:34.403Z
-updated: 2024-08-19T15:18:34.403Z
+date: 2025-01-16T21:25:57.327Z
+updated: 2025-01-18T04:31:33.255Z
 tags:
   - win11
   - win10
@@ -31,28 +31,10 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 **How to check for updates:**
 
 1. Press the**Windows Key + I** and click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 2. Click **Check for Updates** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There are 7 fixes for you. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -71,26 +53,20 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 
 1. Exit Sea of Thieves.
 2. Right-click on the Sea of Thieves icon and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Do an App reset
 
  Reset the Sea of Thieves is a good option to try. This method will revert the game to its default settings which may fix the stuck on loading screen issue.
@@ -100,9 +76,19 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 3. Type “**wsreset.exe** ” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
@@ -120,22 +106,25 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Powershell
 
  Besides these basic fixes, you can use Powershell to enforce the application to launch in the way you want.
 
 1. Press **Windows + R** to open the Run box.
 2. Type “powershell” and hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)AppXManifest.xml”}**
@@ -155,11 +144,12 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Run Sea of Thieves to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Coupon TIP** : Get a [NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/) before you buy it!
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Update your drivers and programs
 
  The outdated or wrong drivers for your graphics card, network card, sound card, etc. may cause problems. Updating your drivers is a good option to fix errors. This method can also provide you better gaming experience.
@@ -186,26 +176,11 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Run Sea of Thieves to check.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Disable incompatible apps
 
  Third-party applications might be the reason for the stuck on screen issue. You can try to disable apps like AfterBurner that show FPS, OSD, MSI, EVGA, etc and then restart your PC. If this doesn’t help, you can also try to disable your antivirus software like Trend Micro which has been known to cause conflicts.
@@ -224,8 +199,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +206,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-5-best-youtube-video-marketing-strategies/"><u>[New] 2024 Approved 5 Best YouTube Video Marketing Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-comparing-iphones-best-video-editors-cameo-and-filmorago-for-2024/"><u>[New] Comparing iPhone's Best Video Editors Cameo & FilmoraGo for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-cyclone-shaper-setup/"><u>[Updated] Cyclone Shaper Setup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-time-saving-routines-for-capturing-vimeo-media-for-2024/"><u>[Updated] Time-Saving Routines for Capturing Vimeo Media for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elaborate-inspection-gopro-silver-hero4-unit-test/"><u>2024 Approved Elaborate Inspection GoPro Silver HERO4 Unit Test</u></a></li>
+<li><a href="https://win-able.techidaily.com/advance-your-skills-with-improved-fps-techniques-in-tainted-grail-conquest/"><u>Advance Your Skills with Improved FPS Techniques in 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-way-to-update-your-logitech-c920-webcam-drivers-for-new-and-old-windows-versions/"><u>Easy Way to Update Your Logitech C920 Webcam Drivers for New and Old Windows Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sudden-thaumaturge-game-interruptions-a-step-by-step-guide/"><u>Fixing Sudden Thaumaturge Game Interruptions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mystery-of-missing-movies-a6400s-quandary/"><u>In 2024, Mystery of Missing Movies A6400's Quandary</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oneplus-nord-3-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in OnePlus Nord 3 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-voice-chats-content-warning-alert-problems/"><u>Step-by-Step Guide to Fixing Voice Chat's Content Warning Alert Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-rage-2-crashing-in-seconds-expert-tips-for-a-seamless-playthrough/"><u>Stop RAGE 2 Crashing in Seconds - Expert Tips for a Seamless Playthrough</u></a></li>
+</ul></div>
 

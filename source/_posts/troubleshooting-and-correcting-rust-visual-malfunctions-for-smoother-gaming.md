@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2025-01-10T17:55:45.458Z
-updated: 2025-01-12T16:05:28.167Z
+date: 2025-01-10T22:42:58.048Z
+updated: 2025-01-17T17:38:21.853Z
 tags:
   - win11
   - win10
@@ -55,6 +55,10 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -73,14 +77,14 @@ Here’s how to use Fortect to run a Windows repair:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -102,14 +106,14 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
@@ -151,15 +155,7 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -168,6 +164,10 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -180,11 +180,11 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -222,22 +222,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-apex-workplace-data-sphere/"><u>[New] In 2024, Apex Workplace Data Sphere</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>[New] Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-diablo-2-resurrected-crashing/"><u>[SOLVED] Diablo 2 Resurrected Crashing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/behind-the-scenes-with-intova-edge-x-for-2024/"><u>Behind the Scenes with Intova Edge X for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/disco-elysium-wont-launch-on-windows-troubleshooting-steps-inside/"><u>Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009050571-easily-solved-how-to-stop-your-division-2-game-from-crashing/"><u>Easily Solved: How to Stop Your Division 2 Game From Crashing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G23 Phone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>In 2024, Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-sharing-stories-that-resonate-with-a-digital-audience-yt/"><u>In 2024, Sharing Stories that Resonate with a Digital Audience YT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-codegpt-a-potential-game-changer-for-dev-teams/"><u>Peering Into CodeGPT: A Potential Game-Changer for Dev Teams</u></a></li>
-<li><a href="https://win-able.techidaily.com/rapid-enhancements-unsticking-and-streamlining-shaders-for-star-wars-battlefront-ii/"><u>Rapid Enhancements: Unsticking and Streamlining Shaders for Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-able.techidaily.com/ready-to-fix-detailed-tips-for-restoring-ds4-failed-to-load-on-your-pc/"><u>Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-steam-game-file-access-issue/"><u>Resolved: Fixing the Steam Game File Access Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-counter-strike-2-boot-problems-for-smoother-gaming-experience/"><u>Resolving Counter-Strike 2 Boot Problems for Smoother Gaming Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-quintessential-queries-a-highlight-of-reddits-best-threads/"><u>The Quintessential Queries A Highlight of Reddit's Best Threads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-motherboard-cmos-checksum-problem-expert-advice/"><u>Troubleshooting Motherboard CMOS Checksum Problem: Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-thaumaturge-game-freezing-issue-on-your-pc/"><u>Troubleshooting the Thaumaturge Game Freezing Issue on Your PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-top-10-cameras-in-the-new-os/"><u>[New] Ultimate Guide Top 10 Cameras in the New OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories-for-2024/"><u>[Updated] Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-beginner-to-expert-with-a-complete-fcp-guidebook/"><u>2024 Approved From Beginner to Expert with a Complete FCP Guidebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-visuals-in-motion-the-ultimate-fix-for-forza-horizon-s-updated-drivers/"><u>Enhanced Visuals in Motion: The Ultimate Fix for Forza Horizon ⁵'S Updated Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-get-your-sea-of-thieves-game-running-smoothly-again/"><u>Expert Advice: Get Your Sea of Thieves Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/hearthstone-pc-issues-resolved-overcoming-game-freezes-and-crashes/"><u>Hearthstone PC Issues Resolved: Overcoming Game Freezes & Crashes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-a78-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo A78 5G Phone Screen?</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-update-how-to-stop-the-constant-crashes-on-various-platforms/"><u>Immortal’s Fenyx Rising Update – How to Stop the Constant Crashes on Various Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-s18-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo S18 without App | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/kid-safe-car-challenges-galore/"><u>Kid-Safe Car Challenges Galore</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/losung-fur-checkdisk-error-mit-grossbuchstabeltable-behandlt-vorgeheimt/"><u>LÖSUNG FÜR CHECKDISK ERROR MIT GROSSBUCHSTABELTABLE - BEHANDLT VORGEHEIMT</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-counter-strike-2-stuttering-and-freezing-with-these-key-fixes/"><u>Overcome Counter-Strike 2 Stuttering and Freezing with These Key Fixes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>Premier Selection Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-battlefield-5-not-starting-problem-in-minutes/"><u>Quick Solutions: Overcome 'Battlefield 5 Not Starting' Problem in Minutes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-getting-the-latest-epson-et-3760-printer-software-for-windows-computers/"><u>Step-by-Step Tutorial on Getting the Latest Epson ET-3760 Printer Software for Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-10-tips-to-eliminate-battlefield-5-stuttering-issues/"><u>Top 10 Tips to Eliminate Battlefield 5 Stuttering Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tricks-to-boost-iphone-wi-fi-speed-and-stability/"><u>Top 8 Tricks to Boost iPhone Wi-Fi Speed & Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-startup-blast-unraveling-an-atomic-heart-dilemma/"><u>Troubleshooting the 'Startup Blast': Unraveling an Atomic Heart Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-advanced-settings-installing-gpeditmsc-on-windows-home/"><u>Unlocking Advanced Settings: Installing GPEDIT.MSC on Windows Home</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the 'Initialization Failed' Error on Vanguard Weapon in Valorant"
-date: 2024-08-13T10:02:32.133Z
-updated: 2024-08-14T10:02:32.133Z
+date: 2025-01-14T06:16:32.789Z
+updated: 2025-01-18T09:15:40.878Z
 tags:
   - win11
   - win10
@@ -33,8 +33,9 @@ There’re things you can do before trying complicated fixes:
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -43,17 +44,15 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
@@ -61,17 +60,16 @@ If it’s not working, move to the next fix.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update graphic driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -88,14 +86,19 @@ If it’s not working, move to the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,8 +114,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +121,21 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earning-big-on-youtube-shorts-must-haves-opportunities-and-more-for-2024/"><u>[Updated] Earning Big on YouTube Shorts Must-Haves, Opportunities and More for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/windowsssdwin11win7/"><u>「最好的Windows系统下传SSD工具：从Win11到Win7进行闪存驱动器克隆」</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-setting-your-youtube-video-width-and-height/"><u>2024 Approved The Ultimate Guide to Setting Your YouTube Video Width and Height</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-essential-troubleshooting-tips-to-resolve-dreamlight-valley-crashes-on-windows/"><u>6 Essential Troubleshooting Tips to Resolve Dreamlight Valley Crashes on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-unexpectedly-crashing-on-windows-10/"><u>How to Stop Microsoft Edge From Unexpectedly Crashing on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-how-to-address-significant-dips-in-frames-per-second-fps/"><u>Improving Performance: How to Address Significant Dips in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-conquered-by-the-valiant-warriors-of-like-a-dragon-the-newest-yakuza-saga/"><u>PC Conquered by the Valiant Warriors of 'Like a Dragon': The Newest Yakuza Saga</u></a></li>
+<li><a href="https://fox-within.techidaily.com/simple-page-turning-enjoy-digital-reading-anywhere-with-flipbook-creator-by-flipbuilder/"><u>Simple Page Turning: Enjoy Digital Reading Anywhere with FlipBook Creator by FlipBuilder</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simplify-your-digital-space-the-iremovefiles-solution-for-quick-file-removal/"><u>Simplify Your Digital Space: The IRemoveFiles Solution for Quick File Removal</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-expert-advice-on-improving-download-velocity-this-year/"><u>Speeding Up Origin: Expert Advice on Improving Download Velocity This Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restarting-windows-default-settings/"><u>Steps for Restarting Windows Default Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-witcher-3-on-pc-how-to-fix-and-prevent-game-crashes/"><u>The Witcher 3 on PC: How to Fix and Prevent Game Crashes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unraveling-the-mysteries-of-instagram-saved-stories/"><u>Unraveling the Mysteries of Instagram Saved Stories</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Fix and Enhance Your Experience with the Updated 'Untitled - Chapter Text' Game for PC"
-date: 2024-08-13T10:02:49.684Z
-updated: 2024-08-14T10:02:49.684Z
+date: 2025-01-12T17:36:12.827Z
+updated: 2025-01-18T02:47:33.611Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,25 +43,24 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
 
 1. Right-click on the Chivalry 2 shortcut.
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -71,17 +74,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -111,9 +106,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -127,11 +119,13 @@ OR
 
 1. Press the**Windows logo key + I (i)** together to open**Settings** .
 2. Click **Settings** \> **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -149,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +150,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-periscope-streaming-made-simple/"><u>[New] 2024 Approved Periscope Streaming Made Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-conquering-macs-record-functionality-keyboard-driven-tips-for-2024/"><u>[New] Conquering Mac's Record Functionality Keyboard-Driven Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/revent-youtube-spam-channel-blocking-guide-for-all-platforms/"><u>[New] Prevent Youtube Spam Channel Blocking Guide for All Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-xbox-series-xs-vrr-for-optimal-viewing-pleasure/"><u>Adjusting Xbox Series X|S VRR for Optimal Viewing Pleasure</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-ii-windows-10-compatibility-fixed-start-playing-without-hitches/"><u>Age of Empires II Windows 10 Compatibility Fixed - Start Playing Without Hitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluation-of-the-iphone-14-meeting-adequate-performance-standards-insights/"><u>Evaluation of the iPhone 14: Meeting Adequate Performance Standards - Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-razer-blade-17-at-peak-performance-a-comprehensive-drivers-update-tutorial-for-win-11-10-8-and-tbd-7/"><u>Keep Your Razer Blade 17 at Peak Performance: A Comprehensive Drivers Update Tutorial for Win 11, 10, 8 & Tbd 7</u></a></li>
+<li><a href="https://discover-best.techidaily.com/pioneering-leader-rusty-james-chosen-by-abbyy-to-spearhead-growth-in-the-americas-region/"><u>Pioneering Leader Rusty James Chosen by ABBYY to Spearhead Growth in the Americas Region</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-league-of-legends-disruptions-fast-with-these-tips/"><u>Resolve League of Legends Disruptions Fast with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-addressing-the-limited-storage-problem-in-god-of-war-game/"><u>Resolved: Addressing the Limited Storage Problem in God of War Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-mozilla-experience-8-key-fixes-for-when-firefox-stalls/"><u>Revive Your Mozilla Experience: 8 Key Fixes for When Firefox Stalls</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-issues-troubleshooting-low-fps-and-stuttering-in-the-latest-game-release/"><u>Solving Lag Issues: Troubleshooting Low FPS and Stuttering in the Latest Game Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-new-world-connection-error/"><u>Step-by-Step Solutions to Overcome 'New World Connection Error'</u></a></li>
+</ul></div>
 

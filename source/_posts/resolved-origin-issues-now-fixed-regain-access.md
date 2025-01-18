@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Origin Issues Now Fixed - Regain Access"
-date: 2025-01-07T17:20:29.908Z
-updated: 2025-01-12T17:12:34.390Z
+date: 2025-01-13T07:53:00.928Z
+updated: 2025-01-17T21:02:38.267Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes to try
 
  You might not need to try them all; just walk your way down the list until you find the one that works for you.
@@ -37,7 +33,7 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 5. **[Set Launch Options](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before getting started
@@ -59,10 +55,6 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Now you can check your system specs.
 
 ![check system specs
@@ -73,10 +65,6 @@ By checking your system specs, just follow the instructions below:
 ## Fix 1: Stop overclocking your GPU
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -104,6 +92,10 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -119,10 +111,6 @@ OR
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -132,12 +120,16 @@ OR
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Open the**steamapps** folder.
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
@@ -145,9 +137,17 @@ OR
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
 
@@ -158,7 +158,7 @@ OR
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
@@ -178,7 +178,7 @@ OR
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
@@ -221,16 +221,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>[New] In 2024, Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-football-video-analysis-top-youtube-infographics/"><u>[Updated] Football Video Analysis Top YouTube Infographics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-influencers-insight-surging-up-by-a-thousand-on-ig-each-month/"><u>[Updated] Influencer's Insight Surging up by a Thousand on IG Each Month</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-assassins-creed-unity-launch-error-proven-strategies-and-solutions-for-gamers/"><u>Beat Assassin's Creed Unity Launch Error: Proven Strategies and Solutions for Gamers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-12-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 12 - 4 Easy Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-techniques-to-overcome-session-problems-in-palworlds-search-feature/"><u>Efficient Techniques to Overcome Session Problems in Palworld's Search Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2021-what-to-do-when-youre-stuck-on-the-start-screen/"><u>Football Manager 2021: What To Do When You're Stuck on the Start Screen?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006237914-how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/is-rank-tracker-s-data-accurate-by-link-assistant-rank-tracker-local-rankings-local-rankings/"><u>Is Rank Tracker's data accurate?</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-latency-problems-in-rainbow-six-siege-comprehensive-guide/"><u>Resolving Latency Problems in Rainbow Six Siege - Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-motorola-moto-g04-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Moto G04 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-iii-pc-stability-now-restored-no-more-unwanted-shutdowns-during-battles/"><u>'Total War: Warhammer III' PC Stability Now Restored - No More Unwanted Shutdowns During Battles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-seamless-instagram-video-mp4-conversion-pro-strategies-unlocked/"><u>[New] 2024 Approved Seamless Instagram Video-MP4 Conversion - Pro Strategies Unlocked</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-bridging-distances-with-easy-to-use-xbox-zooming/"><u>[New] Bridging Distances with Easy-to-Use Xbox Zooming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-exclusive-review-of-top-mp4-players/"><u>[New] In 2024, Exclusive Review of Top MP4 Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compreeved-list-of-premium-androidiphone-slow-motion-video-tools/"><u>[Updated] Compreeved List of Premium Android/iPhone Slow Motion Video Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn57ch5y2y44gq44ot44oh44kq5yplusn6lui5lplusu5q2j44og44kv44ol44od44kv44cn/"><u>「パソコン上で簡単なビデオ反転修正テクニック」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-capacity-20-premier-gratis-cloud-storage-options-for-2024/"><u>Boost Your Capacity 20 Premier Gratis Cloud Storage Options for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-superior-way-to-navigate-information-why-experts-agree-that-perplexity-ai-is-the-most-effective-and-innovative-ai-driven-search-utility-out-the59/"><u>Discover the Superior Way to Navigate Information: Why Experts Agree that Perplexity AI Is the Most Effective and Innovative AI-Driven Search Utility Out There</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-tips-and-solutions-for-when-your-warframe-wont-open/"><u>Effective Tips & Solutions For When Your Warframe Won't Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-wallpaper-engine-from-crashing-on-windows-11-and-10-systems/"><u>How to Stop Wallpaper Engine From Crashing on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-solutions-for-your-kernelbasedll-file-malfunctions-get-started-here/"><u>Immediate Solutions for Your KernelBase.dll File Malfunctions - Get Started Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-excessive-cpu-use-in-phasmophobia-effective-strategies/"><u>Overcoming Excessive CPU Use in Phasmophobia: Effective Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-principle-of-operation-involving-charging-particles-and-collecting-them-on-plates-with-an-opposite-charge/"><u>The Principle of Operation Involving Charging Particles and Collecting Them on Plates with an Opposite Charge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-12-mp4-player-apps-perfect-for-windows-10-8-7-and-mac-best-choices/"><u>Top 12 MP4 Player Apps Perfect for Windows (10, 8, 7) & Mac - Best Choices</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-fallout-3-crashes-in-windows-10/"><u>Troubleshooting Guide: How to Fix Fallout 3 Crashes in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-paradox-launcher-fails-to-start/"><u>Troubleshooting Steps When Your Paradox Launcher Fails to Start</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-how-to-save-movies-and-movie-trailers-from-zimbio-with-ease/"><u>Ultimate Guide: How to Save Movies & Movie Trailers From Zimbio with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-better-frame-rates-for-an-optimal-experience-in-tainted-grail-conquest/"><u>Unlock Better Frame Rates for an Optimal Experience in Tainted Grail: Conquest</u></a></li>
 </ul></div>
 

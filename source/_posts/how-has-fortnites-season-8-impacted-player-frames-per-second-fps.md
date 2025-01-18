@@ -1,7 +1,7 @@
 ---
 title: How Has Fortnite's Season 8 Impacted Player Frames Per Second (FPS)?
-date: 2024-08-13T10:02:27.262Z
-updated: 2024-08-14T10:02:27.262Z
+date: 2025-01-14T07:51:36.849Z
+updated: 2025-01-18T04:01:13.711Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ If there’s anything more frustrating than having no internet, it would be the 
 * [Fix 7: Allow Steam through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [If all else fails…](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Check Steam server status
 
  The first thing you should check is whether Steam servers are down for the moment. This is because occasionally, Steam would schedule maintenance for the servers to patch possible bugs and install new features. As such, the servers will be taken down.
@@ -50,6 +47,11 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Launch Steam and check if the warning error is fixed. If yes, then great! If it still pops up, please head onto**Fix 3** , below.
@@ -68,11 +70,18 @@ Here’s how you can restart your modem & router:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Fire up Steam to see if it can connect properly this time. If yes, congrats – you’ve resolved the issue. If it’s still no joy, please try**Fix 4** , below.
 
@@ -89,6 +98,11 @@ Here’s how you can restart your modem & router:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/3-1.png)
 
@@ -97,21 +111,17 @@ To renew your IP:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
-3. Type **ipconfig /release** and press **Enter**  on your keyboard.  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Type **ipconfig /release** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2-3.png)
 4. Type **ipconfig /renew** and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset WinSock
 
  Winsock is a catalog of data that allows computer programs to access the internet. But sometimes the entries in the catalog may be incorrect or have gone corrupt, causing a network error. To verify if this is the case, you can perform a Winsock reset.
@@ -119,19 +129,12 @@ To renew your IP:
 Here’s how to go about it:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. In the Administrator Command Prompt window, enter**netsh winsock reset** , then press**Enter** ; then type**netsh winteep reset proxy** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/net.png)
 3. Click**Close** to exit the window.
 4. Run Steam and check if the server connection error is solved. If it still occurs, please move on to**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 6: Modify Steam properties
 
  According to some players, launching Steam with the TCP protocol, instead of the UDP protocol has helped them get rid of the server error. So it’s worth giving it a try and see if it solves your woe.
@@ -140,20 +143,18 @@ Here are the steps:
 
 1. On your keyboard, press**Esc** ,**Shift** and**Ctrl** at the same time to bring up**Task Manager** .
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.png)
 3. Restart your computer.
 4. On your desktop, right-click on**Steam** and click**Properties** .
 5. Click the**Shortcut** tab, then in**Target** field,**add a space to the end** and type**\-tcp** . Once finished, click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
 
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Allow Steam through Windows Firewall
 
@@ -164,23 +165,28 @@ Here are the steps:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the game in the Steam client and see if it can be connected to the server.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### If all else fails…
 
  If you’ve tried all the fixes above but it’s still no joy, then there is probably a server issue on Steam or Steam is currently under maintenance. You can check **[Steam server status](https://steamstat.us/)**  to see if other users report the very same connecting issue. If yes, there is little you can do except waiting until the developer staff restores the servers.
@@ -198,8 +204,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +211,19 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-smartphone-photography-iphone-xs-features-explored/"><u>[New] Revolutionizing Smartphone Photography IPhone X's Features Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-check-on-dji-mavic-pro-vision-headset/"><u>2024 Approved Comprehensive Check on DJi Mavic Pro Vision Headset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-of-film-narrative/"><u>2024 Approved The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-launching-errors-in-fortnites-ls-0013-version-detailed-fixes/"><u>Defeating Launching Errors in Fortnite's LS-0013 Version - Detailed Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-correct-naraka-bloodpoint-gameplay-disruptions/"><u>How to Address and Correct 'Naraka: Bloodpoint' Gameplay Disruptions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-canon-dr-c225-drivers-on-various-versions-of-windows-11-10-and-8/"><u>How to Easily Install Canon DR-C225 Drivers on Various Versions of Windows (11, 10 & 8)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-issue-when-your-pc-refuses-to-boot-up-call-of-duty-modern-warfare/"><u>How to Fix the Issue When Your PC Refuses to Boot Up Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-guilty-gear-strive-pc-game-crashes/"><u>How to Resolve Guilty Gear Strive PC Game Crashes?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-archival-artwork-creative-commons-haven/"><u>In 2024, Archival Artwork Creative Commons Haven</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-htc-u23-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For HTC U23 Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashing-a-comprehensive-guide-to-fix-after-effects-bugs-on-recent-windows-versions/"><u>No More Crashing: A Comprehensive Guide to Fix After Effects Bugs on Recent Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-marketplace-malfunction-error-0x80073cf3/"><u>Overcoming the Marketplace Malfunction: Error 0X80073CF3</u></a></li>
+</ul></div>
 

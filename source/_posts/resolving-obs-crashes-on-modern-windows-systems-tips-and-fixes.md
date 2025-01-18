@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2025-01-07T17:58:50.629Z
-updated: 2025-01-12T17:18:50.029Z
+date: 2025-01-12T02:34:38.793Z
+updated: 2025-01-17T21:29:30.651Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 methods that have helped other players solve Diablo 2 Resurrected crashing on PC. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 4. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
@@ -74,6 +66,10 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -110,7 +106,15 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -123,14 +127,10 @@ If this method doesn’t help, check out your graphics driver.
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -139,13 +139,13 @@ If this method doesn’t help, check out your graphics driver.
 2. Toggle off**In-game overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -172,19 +172,19 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-dialing-up-engagement-youtube-thumbnails-that-convert/"><u>[New] In 2024, Dialing Up Engagement YouTube Thumbnails That Convert</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-50-must-try-virtual-bikes-for-riders/"><u>[New] The 50 Must-Try Virtual Bikes for Riders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-art-of-laughter-no-10-memes-ranked-by-fun/"><u>[Updated] In 2024, The Art of Laughter No. 10 Memes Ranked by Fun</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-dynamics-of-gopros-burst-capture-capabilities/"><u>[Updated] In 2024, The Dynamics of GoPro's Burst Capture Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-10-popular-and-free-email-providers-our-picks/"><u>Explore These 10 Popular and Free Email Providers – Our Picks</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-prevent-and-resolve-palworld-from-crashing-on-desktop-systems/"><u>Guide: Prevent and Resolve PalWorld From Crashing on Desktop Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Reno 11 5G Bootloader Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 12</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimizing-youtube-and-twitch-with-obs-streaming-techniques-for-2024/"><u>Optimizing YouTube & Twitch with OBS Streaming Techniques for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-village-performance-optimized-overcoming-pc-gameplays-frame-rate-decreases/"><u>Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-metro-exodus-pc-game-crashes/"><u>Troubleshooting Guide: Resolving Metro Exodus PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/pathway-to-stellar-intros-on-mobile-devices-for-2024/"><u>Your Pathway to Stellar Intros on Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-strategizing-to-spot-and-capture-youtubes-hidden-markets/"><u>[New] 2024 Approved Strategizing to Spot and Capture Youtube's Hidden Markets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-insider-guide-elevating-your-instagram-imagery/"><u>[New] In 2024, The Insider Guide Elevating Your Instagram Imagery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-deep-dive-into-apples-m1-processor-power-for-2024/"><u>[Updated] A Deep Dive Into Apple's M1 Processor Power for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-laptop-and-mobile-entry-into-google-meet-for-2024/"><u>[Updated] Laptop & Mobile Entry Into Google Meet for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-8-hubs-for-3d-graffiti-typefaces-for-2024/"><u>[Updated] Top 8 Hubs for 3D Graffiti Typefaces for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-launch-glitches-sorted-out-embark-on-the-quest-today/"><u>Baldur's Gate 3 Launch Glitches Sorted Out - Embark on the Quest Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y17s-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y17s Fingerprint Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-startup-obstacles-in-helldivers-2-a-guide-to-dealing-with-black-screens/"><u>Bypassing Startup Obstacles in Helldivers 2: A Guide to Dealing with Black Screens</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v29e-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V29e Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fallout-3-game-crashes-on-windows-10-pcs/"><u>Resolved: Fixes for Fallout 3 Game Crashes on Windows 10 PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-experts-guide-unveiling-hidden-online-communities/"><u>The Expert's Guide: Unveiling Hidden Online Communities</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-improving-halo-infinite-sound-quality/"><u>Ultimate Troubleshooting Tips for Improving Halo Infinite Sound Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstick-your-game-expert-advice-to-resolve-football-manager-2021-loading-screens-quickly/"><u>Unstick Your Game: Expert Advice to Resolve Football Manager 2021 Loading Screens Quickly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-from-amateur-to-pro-learning-audacitys-audio-recording-without-investment/"><u>Updated 2024 Approved From Amateur to Pro Learning Audacitys Audio Recording Without Investment</u></a></li>
 </ul></div>
 

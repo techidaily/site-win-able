@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance"
-date: 2025-01-08T16:07:02.954Z
-updated: 2025-01-12T17:23:18.084Z
+date: 2025-01-12T06:41:59.668Z
+updated: 2025-01-18T08:10:21.587Z
 tags:
   - win11
   - win10
@@ -65,15 +65,23 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-verify-game-1.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-verify-game-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, launch Horizon Zero Dawn and check if it crashes again.
 
  If verifying game files doesn’t help your case, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -99,22 +107,18 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Horizon Zero Dawn crashes again.
 
  If updating the graphics driver didn’t stop the crash, you can continue to the next trick.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable in-game overlays
 
@@ -128,13 +132,13 @@ And here’s a quick guide to disable Steam overlay:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can start Horizon Zero Dawn and see if it crashes again.
 
  If this method doesn’t give you luck, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -153,7 +157,7 @@ So here’s how to check for updates manually:
  If this trick doesn’t work for you, simply move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change in-game display mode
@@ -167,7 +171,7 @@ Here’s how:
 2. Navigate to the**DISPLAY** tab and set**Display mode** to**Borderless** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-2.jpg)
@@ -185,6 +189,10 @@ You can use this guide to increase your virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
@@ -199,10 +207,6 @@ You can use this guide to increase your virtual memory:
 
 If the crash reoccurs, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Enable HAGS (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
  If you tried all the methods above and none works, you can try this last fix that works for some players.
@@ -215,19 +219,15 @@ And here’s how to enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the**Default settings** section, click**Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC and launch**Horizon Zero Dawn** .
@@ -251,17 +251,17 @@ And here’s how to enable HAGS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-attempted-execute-of-noexecute-memory-in-windows/"><u>[Fixed] Attempted Execute of Noexecute Memory in Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-efficient-cost-strategies-for-cloud-space-usage/"><u>[New] In 2024, Efficient Cost Strategies for Cloud Space Usage</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-maximize-youtube-traction-affordable-audience-expansion/"><u>[New] In 2024, Maximize YouTube Traction Affordable Audience Expansion</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-igtv-potential-tips-and-strategies/"><u>2024 Approved Unlocking IGTV Potential Tips & Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-utorrent-speed-proven-tips-for-faster-downloads/"><u>Boosting uTorrent Speed: Proven Tips for Faster Downloads</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/decouvrez-la-meilleure-option-non-clonezilla-pour-un-efficace-clonage-du-systeme-avec-windows-asterisk/"><u>Découvrez La Meilleure Option Non-Clonezilla Pour Un Efficace Clonage Du Système Avec Windows Asterisk</u></a></li>
-<li><a href="https://win-able.techidaily.com/detailed-instructions-to-correct-the-tfl-a02-end-of-year-failure/"><u>Detailed Instructions to Correct the TFL A02 End-of-Year Failure</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-digital-evolution-the-top-six-metaverse-highlights/"><u>Facebook's Digital Evolution: The Top Six Metaverse Highlights</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-pc-lag-problems-in-resident-evil-village-step-by-step-solutions/"><u>Fixing PC Lag Problems in Resident Evil Village: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-obstacles-in-gtfo-solutions-to-dropouts-and-glitches/"><u>Overcoming Performance Obstacles in GTFO – Solutions to Dropouts and Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/start-with-light-colors-and-gradually-build-up-to-darker-shades-as-needed/"><u>Start with Light Colors and Gradually Build up to Darker Shades as Needed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-filmmaking-on-a-shoestring-the-7-best-affordable-software-options-for-2024/"><u>Updated Filmmaking on a Shoestring The 7 Best Affordable Software Options for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-eliminate-jitters-stabilizing-techniques-for-gopro-video/"><u>[Updated] In 2024, Eliminate Jitters Stabilizing Techniques for GoPro Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamline-your-yt-content-with-background-softening-tricks/"><u>[Updated] Streamline Your YT Content with Background Softening Tricks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-youcamessentials-webcamrecorderbasics/"><u>[Updated] YouCamEssentials WebCamRecorderBasics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-asus-rog-phone-7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Asus ROG Phone 7 to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-pc-stutter-and-crash-effective-fixes-to-enhance-playability/"><u>Modern Warfare 3 PC Stutter and Crash: Effective Fixes to Enhance Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/post-crash-factors-the-conditions-after-an-accident-such-as-fire-or-secondary-impacts-also-contribute-to-the-severity-of-outcomes-for-those-involved/"><u>Post-Crash Factors - The Conditions After an Accident, Such as Fire or Secondary Impacts, Also Contribute to the Severity of Outcomes for Those Involved.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/puedes-saberlos-todos-60-nombre-de-fauna-en-espanol/"><u>Puedes Saberlos Todos: 60 Nombre De Fauna en Español</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-implemented-to-overcome-sea-of-thieves-startup-issues/"><u>Resolved: Fixes Implemented to Overcome Sea of Thieves Startup Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-a-spot-with-apple-experts-the-ultimate-guide-to-making-a-genius-bar-appointment/"><u>Securing a Spot with Apple Experts: The Ultimate Guide to Making a Genius Bar Appointment</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-outriders-freezing-problems-on-desktop-computers/"><u>Troubleshoot and Improve Outriders' Freezing Problems on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-success-resident-evil-5-playing-perfectly-on-your-computer/"><u>Troubleshooting Success! Resident Evil 5 Playing Perfectly on Your Computer</u></a></li>
 </ul></div>
 

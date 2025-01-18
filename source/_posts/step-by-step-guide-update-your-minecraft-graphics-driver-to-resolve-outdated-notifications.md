@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2025-01-07T16:06:27.884Z
-updated: 2025-01-12T17:32:01.283Z
+date: 2025-01-12T08:12:46.185Z
+updated: 2025-01-18T01:40:24.713Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 If the update message pops up again, check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
@@ -85,20 +85,20 @@ You can use the following steps to check for Minecraft updates.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Make sure you’re on the latest Windows
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -118,22 +118,14 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check your default GPU
@@ -148,11 +140,19 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
@@ -182,17 +182,20 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-giggles-galaxy-a-guide-to-hilarious-youtube-stars/"><u>2024 Approved Giggles Galaxy A Guide to Hilarious YouTube Stars</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-quick-profile-retrieval-on-facebook/"><u>2024 Approved Mastering Quick Profile Retrieval on Facebook</u></a></li>
-<li><a href="https://fox-http.techidaily.com/art-of-causality-loop-demonstrations/"><u>Art of Causality Loop Demonstrations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-tech-bargains-await-secure-the-latest-apple-pencil-get-hands-on-with-samsung-galaxy-s24-and-upgrade-to-crystal-clear-4k-tvs/"><u>Exclusive Tech Bargains Await - Secure the Latest Apple Pencil, Get Hands-On with Samsung Galaxy S24, and Upgrade to Crystal Clear 4K TVs!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/guia-paso-a-paso-para-conversion-gratuita-en-linea-mov-a-wmv-con-la-herramienta-de-movavi/"><u>Guía Paso a Paso Para Conversión Gratuita en Línea: MOV a WMV Con La Herramienta De Movavi</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>In 2024, Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-for-mov-to-mpeg-transformation-using-windows-11-tools/"><u>Quick Guide for MOV to MPEG Transformation Using Windows 11 Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-to-transform-your-dvd-into-an-avi-file/"><u>Simple Steps to Transform Your DVD Into an AVI File</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-iphone-video-issues-top-6-tips-for-successful-pc-playback/"><u>Solve Your iPhone Video Issues: Top 6 Tips for Successful PC Playback</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-mass-mpa-to-wav-file-conversions/"><u>Step-by-Step Tutorial on Mass MPA to WAV File Conversions</u></a></li>
-<li><a href="https://win-able.techidaily.com/superior-iphone-video-editor-ultimate-pro-convert-any-video-format-effortlessly/"><u>Superior iPhone Video Editor Ultimate Pro - Convert Any Video Format Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-at-quick-epic-games-downloads-made-easy/"><u>Winning at Quick: Epic Games Downloads Made Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/robocop-resurgence-release-issues-how-to-overcome-pc-starting-problems/"><u>'RoboCop Resurgence' Release Issues: How to Overcome PC Starting Problems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-create-unique-audio-trailers-at-zero-expense/"><u>[New] 2024 Approved Create Unique Audio Trailers at Zero Expense</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-windows-screen-capture-top-5-applications-reviewed/"><u>[New] Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-supercharge-your-social-media-scrapping-the-best-5-chrome-plugins/"><u>[New] In 2024, Supercharge Your Social Media Scrapping The Best 5 Chrome Plugins</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>[Updated] In 2024, Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/fast-and-easy-methods-for-transferring-images-from-your-mac-to-an-ipad/"><u>Fast and Easy Methods for Transferring Images From Your Mac to an iPad</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-basics-to-brilliance-fullscreen-proficiency-in-premiere-for-2024/"><u>From Basics to Brilliance Fullscreen Proficiency in Premiere for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-t2-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo T2 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-pc-issues-in-marvels-guardians-of-the-galaxy-a-guide-to-8-effective-fixes/"><u>Overcome PC Issues in 'Marvel’s Guardians of the Galaxy': A Guide to 8 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-borderlands-3-stuttering-issues-a-step-by-step-guide/"><u>Resolving Borderlands 3 Stuttering Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-halo-infinite-game-crashes-on-your-computer-top-7-quick-solutions/"><u>Resolving Halo Infinite Game Crashes on Your Computer: Top 7 Quick Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-star-citizens-windows-malfunction-say-goodbye-to-disruptions/"><u>Solving Star Citizen's Windows Malfunction – Say Goodbye to Disruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fix-crashes-in-ring-of-elysium/"><u>Step-by-Step Guide to Fix Crashes in Ring of Elysium</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-fixing-wrc-10-installation-errors-fifas-latest-update-made-easy-for-pc-gamers/"><u>The Ultimate Guide to Fixing WRC 10 Installation Errors: FIFA's Latest Update Made Easy for PC Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-capturing-scrollable-content-with-screen-shots-on-mac-16-techniques-explained-by-movavi/"><u>The Ultimate Guide: Capturing Scrollable Content with Screen Shots on Mac - 16 Techniques Explained by Movavi</u></a></li>
 </ul></div>
 

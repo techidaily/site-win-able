@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil 5 Won't Start: PC Troubleshooting and Solutions"
-date: 2024-08-18T15:20:03.196Z
-updated: 2024-08-19T15:20:03.196Z
+date: 2025-01-11T17:18:18.460Z
+updated: 2025-01-18T03:25:03.347Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 ## Troubleshooting Steps When Cortana Stops Responding - Solutions Inside
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -34,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 3. [Make sure your Windows 10 system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
@@ -45,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 Check your region and language settings on your computer:
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
  2) Click **Time** **& language** .
@@ -58,27 +53,30 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Make sure the region and language settings is matched with yours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
 
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
  2) Click **Check for updates** .
@@ -90,8 +88,9 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -118,6 +117,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 ## Method 5: Reset your Cortana
@@ -130,16 +133,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
 4) Try Cortana again to see if it works.
@@ -153,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +157,23 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-compiling-chords-and-crafting-a-unique-youtube-playlist/"><u>[New] In 2024, Compiling Chords and Crafting a Unique YouTube Playlist</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-zoom-skills-for-exceptional-audio-capture-in-podcasting/"><u>[New] In 2024, Essential Zoom Skills for Exceptional Audio Capture in Podcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-demystifying-the-process-of-submitting-videos-on-youtube/"><u>[Updated] 2024 Approved Demystifying the Process of Submitting Videos on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-free-uploads-more-views-youtubes-easily-overlooked-hacks-for-2024/"><u>[Updated] Free Uploads, More Views YouTube's Easily Overlooked Hacks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-the-block-fixes-for-unlaunchable-warzone-gameplay/"><u>Bypass the Block: Fixes for Unlaunchable Warzone Gameplay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/choosing-between-two-titans-obs-and-bandicam-for-2024/"><u>Choosing Between Two Titans OBS and Bandicam for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000159162-deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It</u></a></li>
+<li><a href="https://fox-info.techidaily.com/designing-with-impact-the-leading-10-tools-in-graphic-design-for-2024/"><u>Designing with Impact The Leading 10 Tools in Graphic Design for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-clicks-to-coins-mastering-the-art-of-earnings-through-fb-videos-for-2024/"><u>From Clicks to Coins Mastering the Art of Earnings Through FB Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/granblue-fantasy-link-troubles-heres-how-to-get-back-into-the-action/"><u>Granblue Fantasy Link Troubles? Here’s How to Get Back Into the Action!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-fifa-21-expert-tips-and-tricks/"><u>Overcoming Launch Errors in FIFA 21 – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-techniques-to-upgrade-your-shaders-in-star-wars-battlefront-ii/"><u>Rapid Techniques to Upgrade Your Shaders in Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-troubleshooting-guide-for-dealing-with-digital-defenders-driving-you-crazy/"><u>The Ultimate Troubleshooting Guide for Dealing with Digital Defenders Driving You Crazy</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007172855-troubled-with-ffxiv-verification-solve-your-version-check-dilemma-today/"><u>Troubled with FFXIV Verification? Solve Your Version Check Dilemma Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solutions-how-to-stop-diablo-ii-resurrected-from-freezing/"><u>Troubleshooting Solutions: How to Stop Diablo II Resurrected From Freezing</u></a></li>
+</ul></div>
 

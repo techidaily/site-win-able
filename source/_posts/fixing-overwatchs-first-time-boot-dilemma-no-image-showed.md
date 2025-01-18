@@ -1,7 +1,7 @@
 ---
 title: Fixing Overwatch's First-Time Boot Dilemma – No Image Showed
-date: 2025-01-09T17:29:51.597Z
-updated: 2025-01-12T16:16:52.458Z
+date: 2025-01-13T16:58:44.507Z
+updated: 2025-01-17T19:44:10.411Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them, simply work your way down until you find the one that does the trick.
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -56,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
  After updating your graphics driver, restart your PC and test the gameplay in Warzone.
 
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -74,14 +78,14 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -101,21 +105,13 @@ Once done, restart your PC and see if Warzone is using your GPU.
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick doesn’t work for you, simply move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set graphics preference to High performance
 
@@ -124,12 +120,13 @@ Once done, restart your PC and see if Warzone is using your GPU.
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
-3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
+3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
@@ -141,11 +138,11 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
- If this setting doesn’t help, take a look at the next solution below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this setting doesn’t help, take a look at the next solution below.
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -155,6 +152,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,20 +176,17 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-making-a-splash-how-to-improve-your-videos-with-instagram-edits/"><u>2024 Approved Making a Splash How to Improve Your Videos with Instagram Edits</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-11wav/"><u>音声録取ガイド：Windows 11に最適なWAVファイル保存方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-now-top-6-troubleshooting-tips-for-pcs/"><u>Fix Your Game Crashes Now: Top 6 Troubleshooting Tips for PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-e13-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto E13?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-play-v-uninterrupted-overcoming-pc-game-crashes/"><u>How To Play V Uninterrupted: Overcoming PC Game Crashes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lenovos-2020-tablet-game-changer-the-tab-m10-with-a-stunning-full-hd-display-and-wallet-friendly-price/"><u>Lenovo's 2020 Tablet Game Changer: The Tab M10 with a Stunning Full HD Display and Wallet-Friendly Price</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-quick-repairs-stabilize-your-division-2-gaming-experience-effortlessly/"><u>Master Quick Repairs: Stabilize Your Division 2 Gaming Experience Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-black-ops-cold-war-graphics-glitches-successfully-resolving-compiling-shaders-error/"><u>Overcoming Black Ops Cold War Graphics Glitches – Successfully Resolving 'Compiling Shaders' Error</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/restoring-default-audio-configurations-on-windows-a-step-by-step-guide/"><u>Restoring Default Audio Configurations on Windows - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/sicheres-duplizieren-von-windows-11-betriebssystemen-zwischen-ssd-und-hdd-einfache-anleitung/"><u>Sicheres Duplizieren Von Windows 11 Betriebssystemen Zwischen SSD Und HDD – Einfache Anleitung</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solution-preventing-crashes-when-reconnecting-in-granblue-fantasy-pc/"><u>Step-by-Step Solution: Preventing Crashes When Reconnecting in Granblue Fantasy (PC)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-stop-paladins-crashing-issues-today-top-strategies-for-2nd4/"><u>Troubleshooting Made Easy: Stop Paladin's Crashing Issues Today, Top Strategies for 2nD4</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-masterclass-eliminate-among-us-crashing-problems-in-the-new-year-2024/"><u>Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-comprehensive-guide-to-resolving-fifa-20-pc-game-crashes/"><u>Ultimate Fixes: Comprehensive Guide to Resolving FIFA 20 PC Game Crashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-pcmobile-mkv-viewer/"><u>[Updated] 2024 Approved Ultimate PC/Mobile MKV Viewer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[Updated] In 2024, Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-remobell-security-system-ultra-value-doorbell-review/"><u>Affordable RemoBell Security System: Ultra-Value Doorbell Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-launch-errors-for-hitman-3-game-on-desktop-systems/"><u>Beating Launch Errors for Hitman 3 Game on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-strategies-to-resolve-lost-arks-network-access-problem/"><u>Comprehensive Strategies to Resolve Lost Ark’s Network Access Problem</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-10-most-watched-music-videos-on-fb/"><u>In 2024, Top 10 Most Watched Music Videos on FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/integrating-ai-in-video-production-game-streaming-edition/"><u>Integrating AI in Video Production Game Streaming Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-5-high-quality-android-screen-recording-solutions/"><u>Top 5 High-Quality Android Screen Recording Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-unfreezing-your-computer-during-fortnite-play-latest-tips/"><u>Top Strategies for Unfreezing Your Computer During Fortnite Play (Latest Tips)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-call-of-duty-modern-warfare-2-a-comprehensive-walkthrough/"><u>Troubleshooting DirectX Problems in Call of Duty: Modern Warfare 2 – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-star-wars-jedi-fallen-order-issues-with-game-starting-up/"><u>Troubleshooting Tips: Star Wars Jedi: Fallen Order - Issues with Game Starting Up</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-12-free-animation-apps-for-windows-and-mac/"><u>Updated In 2024, Unleash Your Creativity 12 Free Animation Apps for Windows and Mac</u></a></li>
 </ul></div>
 

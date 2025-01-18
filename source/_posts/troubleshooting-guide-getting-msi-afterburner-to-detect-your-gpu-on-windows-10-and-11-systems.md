@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting MSI Afterburner to Detect Your GPU on Windows 10 & 11 Systems"
-date: 2025-01-07T17:10:37.625Z
-updated: 2025-01-12T16:45:29.041Z
+date: 2025-01-12T01:50:27.964Z
+updated: 2025-01-18T05:36:42.281Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
@@ -65,7 +53,15 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -100,10 +100,6 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -123,11 +119,15 @@ There’re mainly two ways you can update your graphics drivers:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -146,7 +146,7 @@ There’re mainly two ways you can update your graphics drivers:
 2. Click**OK** to delete all files from your disk cache.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
@@ -166,11 +166,11 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If After Effects still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall codecs and plugins
 
@@ -210,20 +210,24 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam/"><u>[Updated] In 2024, Perfect Slide Sharing Techniques The Best Ways to Use a Webcam</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-11-wallet-friendly-vlogging-tools-compiled/"><u>[Updated] In 2024, Top 11 Wallet-Friendly Vlogging Tools Compiled</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-file-retriever-restore-photos-and-more/"><u>Android File Retriever: Restore Photos & More</u></a></li>
-<li><a href="https://facebook.techidaily.com/confirm-your-credibility-with-us-metacredentials/"><u>Confirm Your Credibility with U.S. Metacredentials</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995168707-deathloop-performance-hitches-solved-smooth-gaming-on-pc-guaranteed/"><u>Deathloop Performance Hitches Solved - Smooth Gaming on PC Guaranteed!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-your-youtube-live-gameplay-even-when-numbers-are-low/"><u>Elevate Your Youtube Live Gameplay – Even when Numbers Are Low</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722990615529-how-to-fix-new-world-connection-error/"><u>How to Fix ‘New World Connection Error’</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-optimize-your-gameplay-by-cutting-down-on-battlefield-5-lag-a-must-read-list-of-10-solutions/"><u>How to Optimize Your Gameplay by Cutting Down on Battlefield 5 Lag: A Must-Read List of 10 Solutions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-utilizing-picture-in-picture-on-chrome-everywhere/"><u>In 2024, Utilizing Picture In Picture on Chrome Everywhere</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-inbox-the-art-of-categorizing-gmail-messages-with-labels/"><u>Mastering Your Inbox: The Art of Categorizing Gmail Messages with Labels</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-game-lag-in-cities-skylines-on-windowspc-systems/"><u>Overcoming Game Lag in Cities: Skylines on Windows/PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/sims-4-latency-problem-solutions-on-pc-professional-strategies-you-must-try/"><u>Sims 4 Latency Problem Solutions on PC? Professional Strategies You Must Try</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-error-message-fixing-your-geforce-experience-issues/"><u>Solving the 'Error' Message - Fixing Your GeForce Experience Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-optimizing-world-of-warcraft-performance-how-to-solve-low-fps-issues/"><u>Ultimate Guide to Optimizing World of Warcraft Performance: How to Solve Low FPS Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-xs-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone XS in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-treasures-non-top-films-that-shine/"><u>[New] In 2024, Hidden Treasures Non-Top Films That Shine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>[New] Masterful Selection 8 Top Free 3D Video Players Windows & Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002041860-battlefield-5-wont-start-navigate-to-victory-with-these-simple-repair-steps-players/"><u>Battlefield 5 Won't Start? Navigate to Victory with These Simple Repair Steps Players!</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-game-glitches-with-ease-effective-solutions-for-dead-by-daylights-error-code-ebcd8014/"><u>Beat Game Glitches with Ease: Effective Solutions for Dead by Daylight's Error Code Ebcd8014</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-directory-of-public-domain-gaming-melodies/"><u>Essential Directory of Public Domain Gaming Melodies</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-getting-your-windows-11-taskbar-back-in-action/"><u>Expert Tips for Getting Your Windows 11 Taskbar Back in Action</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/horas-y-segundos-un-guia-para-empezar/"><u>Horas Y Segundos: Un Guía Para Empezar</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-innovative-bike-suv-a-revolutionary-alternative-to-cars-discover-the-unexpected/"><u>Is the Innovative 'Bike SUV': A Revolutionary Alternative to Cars? Discover the Unexpected!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-launch-of-days-gone-tips-and-tricks-to-overcome-pc-startup-problems/"><u>Mastering the Launch of Days Gone: Tips and Tricks to Overcome PC Startup Problems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/outshine-samsung-gear-360-with-these-top-camera-alternatives/"><u>Outshine Samsung Gear 360 with These Top Camera Alternatives</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-trouble-heres-how-to-resolve-launch-issues-and-black-screens/"><u>Overwatch Trouble? Here's How to Resolve Launch Issues and Black Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-infinite-startup-issues-in-sea-of-thieves-a-step-by-step-solution/"><u>Resolving Infinite Startup Issues in Sea of Thieves - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-repeated-freezes-in-ready-or-not-while-playing-on-your-pc/"><u>Resolving Repeated Freezes in 'Ready or Not' While Playing on Your PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/480123-9781580911993-the-big-little-book-of-magick/"><u>The Big Little Book of Magick | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-at-risk-how-generative-ai-security-concerns-are-intensifying-discover-8-key-points/"><u>The Future Is at Risk: How Generative AI Security Concerns Are Intensifying - Discover 8 Key Points</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-successful-startup-of-gta-5-game-installations/"><u>Troubleshooting Steps for Successful Startup of GTA 5 Game Installations</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-players-experiencing-launch-problems-with-the-witcher-3-wild-hunt/"><u>Ultimate Solution for Players Experiencing Launch Problems with The Witcher 3: Wild Hunt</u></a></li>
 </ul></div>
 

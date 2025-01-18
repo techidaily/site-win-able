@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2025-01-11T16:52:51.150Z
-updated: 2025-01-12T16:33:02.844Z
+date: 2025-01-16T03:51:15.915Z
+updated: 2025-01-18T02:46:46.709Z
 tags:
   - win11
   - win10
@@ -44,23 +44,11 @@ Here’s how to do that on Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-1.jpg)
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -77,7 +65,7 @@ If the fix doesn’t stop the crash, you can try the next one below.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,7 +75,7 @@ If the fix doesn’t stop the crash, you can try the next one below.
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -98,11 +86,23 @@ To minimize conflicts, you also need to install all the system patches:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  If you’re sure your system is up to date, simply check out the next trick below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch your DirectX version
 
@@ -118,15 +118,15 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
 
 Now you can check if the crash stops.
 
  If changing DirectX version doesn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphical settings
 
@@ -160,22 +160,24 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>[New] 2024 Approved Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-channel-size-independent-strategies-for-securing-sponsors-for-2024/"><u>[Updated] Channel-Size-Independent Strategies for Securing Sponsors for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-explore-cost-free-professional-cam-screen-recorders/"><u>[Updated] Explore Cost-Free, Professional Cam Screen Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>2024 Approved The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/bid-farewell-to-steam-problems-a-quick-solution-to-prevent-crashes/"><u>Bid Farewell to Steam Problems: A Quick Solution to Prevent Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-release-issues-resolved-heres-how/"><u>Football Manager 2022 Release Issues Resolved: Here's How</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-quickly-resolve-discord-overlay-problems-on-any-device/"><u>How to Quickly Resolve Discord Overlay Problems on Any Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Age of Wonders: Planetfall From Freezing or Crashing on Your Desktop Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-repair-ntdlldll-corruption-leading-to-crashes-in-windows-1110-systems/"><u>How to Troubleshoot & Repair ntdll.dll Corruption Leading to Crashes in Windows 11/10 Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-htc-u23-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of HTC U23?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo FRP</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/leading-free-switch-game-reproducers/"><u>Leading Free Switch Game Reproducers</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-freezing-problem-during-red-dead-redemption-2-launch-phase/"><u>Overcoming Freezing Problem During Red Dead Redemption 2 Launch Phase</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-eliminating-packet-loss-on-discord-networks/"><u>Solutions: Eliminating Packet Loss on Discord Networks</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-game-file-corruption-a-comprehensive-approach-for-gamers-in-202e/"><u>Solving PC Game File Corruption: A Comprehensive Approach for Gamers in 202E</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-inserting-captions-in-instagram-clips/"><u>Step-by-Step Guide Inserting Captions in Instagram Clips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979090922-ultimate-guide-install-wacom-intuos-nibs-on-windows-guaranteed-success/"><u>Ultimate Guide: Install Wacom Intuos Nibs on Windows – Guaranteed Success!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-navigating-the-nuances-of-network-based-video-sharing-on-discord/"><u>[New] 2024 Approved Navigating the Nuances of Network-Based Video Sharing on Discord</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>2024 Approved Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtubes-secrets-transcribe-for-free-and-efficiently/"><u>2024 Approved Unlock YouTube's Secrets Transcribe for Free and Efficiently</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-nord-3-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus Nord 3 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-launch-problems-fixed-heres-why-it-worked-now/"><u>Assassin's Creed Valhalla Launch Problems Fixed: Here's Why It Worked Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detailed-tips-to-correct-not-detected-msvbvm50dll-message/"><u>Detailed Tips to Correct 'Not Detected' msvbvm50.dll Message</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-ultimate-list-of-2020s-top-7-music-visualization-tools-to-enhance-your-playlist-viewing/"><u>Discover the Ultimate List of 2020'S Top 7 Music Visualization Tools to Enhance Your Playlist Viewing!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/full-picture-the-essence-of-google-podcasts-app-for-2024/"><u>Full Picture The Essence of Google Podcasts App for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-gaining-access-to-system-files-via-trustedinstaller-on-windows-10/"><u>Guide to Gaining Access to System Files via TrustedInstaller on Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-n3-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find N3 To Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-smooth-gaming-with-these-strategies-on-addressing-borderlands-3s-freezing-glitches/"><u>Master the Art of Smooth Gaming with These Strategies on Addressing Borderlands 3'S Freezing Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986051684-resident-evil-village-pc-lag-troubles-discover-effective-fixes-today/"><u>Resident Evil Village [PC] Lag Troubles? Discover Effective Fixes Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-deciphering-the-mystery-behind-call-of-duty-vanguard-dev-error-code-5573/"><u>Resolved: Deciphering the Mystery Behind Call of Duty Vanguard Dev Error Code 5573</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-crashes-and-freezes-troubleshooting-tips-for-optimal-performance/"><u>Steam Crashes & Freezes: Troubleshooting Tips for Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003001283-step-up-your-gameplay-supercharge-horizon-zero-dawns-frame-rate-for-optimal-play/"><u>Step Up Your Gameplay: Supercharge Horizon Zero Dawn's Frame Rate for Optimal Play.</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-players-guide-to-overcoming-persistent-errors-and-crashing-in-war-thunder-update-2024/"><u>The Player's Guide to Overcoming Persistent Errors & Crashing in War Thunder Update 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-steam-error-code-130-a-comprehensive-solution/"><u>Ultimate Guide: Resolving Steam Error Code 130 – A Comprehensive Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-lag-expert-fixes-for-dota-(-2)-update-your-game-now/"><u>Winning Against Lag: Expert Fixes for Dota < 2> - Update Your Game Now</u></a></li>
 </ul></div>
 

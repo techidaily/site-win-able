@@ -1,7 +1,7 @@
 ---
 title: "Fixing Launch Errors in 'RoboCop: Rogue City' On Your Windows Computer"
-date: 2024-08-13T10:02:38.502Z
-updated: 2024-08-14T10:02:38.502Z
+date: 2025-01-14T20:51:18.474Z
+updated: 2025-01-18T04:34:00.861Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 5. **[Rebuild the Outlook data file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Office 365](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
  Some programs running on the back of your computer may conflict with Outlook and cause Outlook to crash. To see if that’s the problem for you, restart your computer, and then reopen Outlook to see if it runs correctly.
@@ -42,9 +39,6 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **[How to Enter Safe Mode in Windows 8 & 8.1](https://tools.techidaily.com/drivereasy/download/)**
 **[How to Enter Safe Mode in Window 7, Vista & XP](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update Outlook
 
  Sometimes, an outdated version of Outlook may also be the cause of your issue. In this case, an update is very likely the solution to it. Here is how to do it:
@@ -58,6 +52,10 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **3)** Click **Office Account** , and then click **Update Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **Update Now.**
 
@@ -73,24 +71,32 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 1. **Run Outlook and click File.**  
  Run **Outlook** and click **File** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-30-58.jpg)
 2. **Click Account Settings, and then click Account Settings in the drop-down menu.**  
  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-32-45.jpg)
 3. **Select your account, then click Repair.**  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select**your account** , then click**Repair** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-28.jpg)
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove unnecessary Outlook add-ins
 
@@ -100,27 +106,30 @@ If your problem persists, try the next fix.
 
 **2)**  Click **File** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click **Add-ins.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-59.jpg)
 
 **6)** Uncheck the box next to the unessential add-ins to disable them. Then, click **OK.**
@@ -139,9 +148,6 @@ If your problem persists, try the next fix.
 
 **2)**  Click the **File**  tab.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56.jpg)
 
 **3)**  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.
@@ -150,9 +156,6 @@ If your problem persists, try the next fix.
 
 **4)**  Click the **Data Files tab** . Then, select **your account** and click **Open File Location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
 
 **5)**  If you find an **.ost file** in the current window, right-click **the file** , and then click **Rename** .
@@ -163,9 +166,6 @@ If your problem persists, try the next fix.
 
 **6)**  Change the file name extension to **.old** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-45.jpg)
 
 **7)** Reopen Outlook and wait for it to rebuild your data file.
@@ -174,36 +174,36 @@ If your problem persists, try the next fix.
 
  Reopen Outlook to see if this worked for you. If your problem still exists, check the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Office 365
 
  If none of the above fixes helped, reinstalling Office 365 may be the solution for you. Here is how to do it:
 
 **1)** On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by** , click **Category.**  Then, click **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
 
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-40-1024x449.jpg)
 
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
@@ -228,8 +228,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +235,23 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[New] 2024 Approved Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity/"><u>[New] Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-serenade-selections-romantic-anthems-for-the-big-decision/"><u>[New] Serenade Selections Romantic Anthems for The Big Decision</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs-2-wont-open-a-comprehensive-guide-to-fixes-and-workarounds/"><u>CS 2 Won't Open? A Comprehensive Guide to Fixes and Workarounds</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-8014-in-dead-by-daylight-fixed-tips-and-solutions/"><u>Error Code 8014 in Dead By Daylight Fixed – Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-insights-handling-and-preventing-tear-down-application-from-crashing/"><u>Expert Insights: Handling and Preventing Tear Down Application From Crashing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-frames-to-frequencies-the-video-transformation-for-2024/"><u>From Frames to Frequencies The Video Transformation for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-overhigh-latency-in-call-of-duty-modern-warfare-ii-warzone-20-top-advice-for-gamers-2-guide/"><u>Solving OverHigh Latency in Call of Duty: Modern Warfare II (Warzone 2.0) - Top Advice for Gamers, 2# Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-when-amd-radeon-drivers-wont-launch/"><u>Solving the Issue: When AMD Radeon Drivers Won't Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-mastering-the-pairing-of-samsung-remotes-and-tvs/"><u>Step-by-Step Tutorial: Mastering the Pairing of Samsung Remotes and TVs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010436-9781088244470-the-writers-house/"><u>The Writer's House | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-solve-starfield-games-peak-cpu-usage-challenge-latest-insights-202n4/"><u>Troubleshooting Tips to Solve Starfield Game's Peak CPU Usage Challenge - Latest Insights (202N4)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/versatile-speaker-in-depth-yamaha-mcr-b020bl-review/"><u>Versatile Speaker: In-Depth Yamaha MCR-B020BL Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-davinci-resolve-not-starting-properly-solutions-for-windows-users/"><u>Why Is DaVinci Resolve Not Starting Properly? Solutions for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-choice-elite-flashlights-as-chosen-by-industry-experts/"><u>ZDNet's Choice: Elite Flashlights as Chosen by Industry Experts</u></a></li>
+</ul></div>
 

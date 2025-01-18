@@ -1,7 +1,7 @@
 ---
 title: "Resolving Installation Issues: How to Fix Minecraft Setup Failures on Windows 11"
-date: 2024-08-18T15:19:21.238Z
-updated: 2024-08-19T15:19:21.238Z
+date: 2025-01-11T05:10:18.519Z
+updated: 2025-01-17T18:45:49.402Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,8 +29,9 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -42,6 +40,11 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. Launch the game and click**Option** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
@@ -56,26 +59,22 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 
 1. Run Steam. Right-click on the Fallout 3 and click**Properties** .
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
  The privilege issue might be the reason for Fallout 3 freezing issue. With high integrity access, Fallout 3 can make full use of its features, so run it as an administrator to see if this fixes your freezes.
@@ -84,22 +83,26 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your graphics card drivers
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter freezes. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -128,6 +131,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -137,9 +145,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5:**Reinstall**  Fallout 3
 
  If none of the fixes above works, it’s time to uninstall Fallout 3 and reinstall it. The broken system file may the reason for the freezes. Do a clean uninstall, then download the game and follow the[guide](https://tools.techidaily.com/drivereasy/download/) to set up the game.
@@ -156,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +168,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-simplified-nft-designing-guide/"><u>[New] First Steps in Simplified NFT Designing Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-clear-shots-a-guide-to-still-image-stability/"><u>[Updated] 2024 Approved Clear Shots A Guide to Still Image Stability</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-futures-finest-gaming-the-ultimate-list-of-new-psvr-titles/"><u>[Updated] Future's Finest Gaming The Ultimate List of New PSVR Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-design-practices-for-career-advancement/"><u>2024 Approved Cutting-Edge Design Practices for Career Advancement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-lag-problems-with-logitech-computer-mice-efficiently/"><u>Diagnosing and Fixing Lag Problems with Logitech Computer Mice Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-chatgpt-engagement-in-multilingual-scenarios/"><u>Efficient ChatGPT Engagement in Multilingual Scenarios</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-marvel-gaming-experience-the-ultimate-guide-to-fixing-guardians-of-the-galaxy-on-pc/"><u>Elevate Your Marvel Gaming Experience - The Ultimate Guide to Fixing Guardians of the Galaxy on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-red-dead-online-pc-stuttering-and-crashes-solutions-inside/"><u>How to Overcome Red Dead Online PC Stuttering and Crashes – Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-essential-view-total-to-secure-income/"><u>In 2024, YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-methods-to-mend-javascript-errors-in-your-discord-experience/"><u>Masterful Methods to Mend JavaScript Errors in Your Discord Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-intersection-of-cybersecurity-and-sustainable-power-unpacking-renewable-energys-risks/"><u>Navigating the Intersection of Cybersecurity and Sustainable Power: Unpacking Renewable Energy's Risks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avidemux-no-sound-solution/"><u>New Avidemux No Sound Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004210310-troubleshooting-steps-for-star-wars-battlefront-2-error-code-327-get-back-in-the-game/"><u>Troubleshooting Steps for Star Wars Battlefront 2 Error Code 327 – Get Back in the Game</u></a></li>
+</ul></div>
 

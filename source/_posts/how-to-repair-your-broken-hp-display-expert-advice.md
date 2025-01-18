@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Broken HP Display – Expert Advice
-date: 2025-01-09T16:38:22.230Z
-updated: 2025-01-12T16:05:38.614Z
+date: 2025-01-13T01:01:03.977Z
+updated: 2025-01-18T01:19:25.773Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -36,10 +36,6 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run Fortect to repair system files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update your Windows system](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Before getting started
 
@@ -66,12 +62,20 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-38-37.jpg)
 2. Click the**Network** tab on the top and then it will switch to the Network settings panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-25-55-network-settings.jpg)
 3. Click**Launch Setting** and then click the pointing arrow behind**Launch Setting** to select**Play Online** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
 
  After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your network drivers
 
@@ -97,7 +101,7 @@ Here are two ways to update your network drivers.
 1. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
@@ -117,17 +121,17 @@ Here are two ways to update your network drivers.
 3. Click the**UPDATES** tab on the left panel.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-14-13-update-1.jpg)
 4. Click**Always keep this game updated** under AUTOMATIC UPDATES. Whenever there is an available update, Steam will update the game automatically.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-12-34update-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-12-34update-3.jpg)
 
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
 
@@ -140,7 +144,7 @@ Here are two ways to update your network drivers.
 2. Right-click**ELDEN RING** and select**Properties…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
@@ -148,10 +152,6 @@ Here are two ways to update your network drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Steam will verify the game files. It may take a few minutes. Once the process is complete, click the**Close** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. After validating Steam files, check if your Elden Ring multiplayer works normally. If not, move to the next method.
 
@@ -169,12 +169,20 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  After repairing the system files, you can check if the Elden Ring multiplayer works normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Update your Windows system
 
@@ -187,16 +195,8 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-50-12-5.jpg)
 3. Click**Check for updates** under Windows Update. Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-48-21-1.jpg)
 4. After you’ve installed the updates, restart your PC and launch Elden Ring multiplayer. Then check if the Elden Ring multiplayer problem has been solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -229,22 +229,16 @@ Here are two ways to update your network drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-directors-academy-youtube-channels-for-cinematic-innovation-for-2024/"><u>[New] Directors Academy YouTube Channels for Cinematic Innovation for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-from-zero-to-hero-on-instagram-top-5-tips-with-examples-from-elites/"><u>[New] From Zero to Hero on Instagram Top 5 Tips with Examples From Elites</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevate-your-film-edits-with-final-cuts-top-10-tools/"><u>[Updated] Elevate Your Film Edits with Final Cut’s Top 10 Tools</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/descargar-conversiones-libres-de-opus-a-mp4-online-guia-con-movavi/"><u>Descargar Conversiones Libres De Opus a MP4 Online: Guía Con Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-pc-performance-to-stop-recurring-issues-with-hell-let-loose/"><u>Enhance PC Performance to Stop Recurring Issues with Hell Let Loose</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-micro-video-moment-a-deep-dive-into-2023-developments/"><u>Facebook's Micro-Video Moment A Deep Dive Into 2023 Developments</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-5-load-screen-troubles-here-are-your-answers/"><u>Far Cry 5 Load Screen Troubles? Here Are Your Answers!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-r-type-final-2-continuous-crashes-on-windows-a-comprehensive-guide/"><u>How to Fix R-Type Final 2 Continuous Crashes on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-note-30-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Note 30 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v27-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V27 to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigate-through-naraka-bladesport-lag-proven-fixes-and-advice/"><u>Navigate Through Naraka Bladesport Lag: Proven Fixes and Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-solving-gta-n-online-functionality-errors/"><u>Step-by-Step Guide to Solving GTA N Online Functionality Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-players-unable-to-boot-up-pathfinder-wrath-of-the-righteeous/"><u>Step-by-Step Solution for Players Unable to Boot up Pathfinder: Wrath of the Righteeous</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010500613-troubleshoot-and-overcome-warcraft-3-reforged-pc-game-freezes-expert-tips/"><u>Troubleshoot and Overcome Warcraft 3 Reforged PC Game Freezes - Expert Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-your-game-library-again-easy-remedies-for-steam-logon-challenges/"><u>Unlock Your Game Library Again: Easy Remedies for Steam Logon Challenges</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/visual-storyteller-toolkit-for-2024/"><u>Visual Storyteller Toolkit for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[New] In 2024, Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-dying-light-crash-quickly-and-easily/"><u>[Solved] Dying Light Crash | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-easy-access-to-10-free-official-passport-photos-webdesktop-available-for-2024/"><u>[Updated] Easy Access to 10 Free, Official Passport Photos - Web/Desktop Available for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>2024 Approved Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-codex-defeating-cod-warzone-error-6328-with-expert-guidance/"><u>Conquer the Codex: Defeating COD Warzone Error 6328 with Expert Guidance</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/enhancing-your-digital-persona-personalize-your-discord-status-with-custom-emojis-for-2024/"><u>Enhancing Your Digital Persona Personalize Your Discord Status with Custom Emojis for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-unfreeze-techniques-mozilla-firefox-tips-to-optimize-your-browsing/"><u>Mastering Unfreeze Techniques: Mozilla Firefox Tips to Optimize Your Browsing</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001048160-troubleshooting-steps-when-cortana-stops-responding-solutions-inside/"><u>Troubleshooting Steps When Cortana Stops Responding - Solutions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y100A? | Dr.fone</u></a></li>
 </ul></div>
 

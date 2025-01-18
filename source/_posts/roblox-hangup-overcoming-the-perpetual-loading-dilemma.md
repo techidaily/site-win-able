@@ -1,7 +1,7 @@
 ---
 title: "Roblox Hangup: Overcoming the Perpetual 'Loading' Dilemma"
-date: 2024-08-13T10:02:59.747Z
-updated: 2024-08-14T10:02:59.747Z
+date: 2025-01-12T22:50:30.549Z
+updated: 2025-01-18T02:27:28.035Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 ## Anthem Launch Glitch? Discover How to Overcome Perpetual Loading Issues
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-924.png)
 
  Anthem shows you the infinite loading screen and won’t load it up at all? This is quite frustrating, and you’re definitely not alone. The good news is, you can fix**Anthem stuck on loading screen** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Anthem stuck on loading screen
 
  Here are the solutions you can try. You shouldn’t have to try them all; just work your way down the list untile everything’s working again.
@@ -54,6 +48,10 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
@@ -68,16 +66,10 @@ Make sure that Anthem is closed and not running in the background.
 
 2) Click**My Game Library** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
  3) Right click**Anthem** , and click**Move game** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
@@ -88,6 +80,10 @@ Make sure that Anthem is closed and not running in the background.
  6) Re-launch Anthem and see if it can load properly.
 
 All good now? That’s great!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Repair Anthem in Origin
 
@@ -101,17 +97,19 @@ Here’s how to do it:
 
 3) Click**My Game Library** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right click on**Anthem** , and click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
@@ -120,8 +118,9 @@ Here’s how to do it:
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -154,9 +153,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Turn off Origin In-Game Overlay
 
  Sometimes the in-game overlays can result in game crashing as it may cause software conflicts. To rule it out as the cause, you can turn off Origin In-Game Overlay and see it you can fix your issue.
@@ -169,9 +165,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
  3) Click the**Origin In-Game** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
  4) Switch it to**Off** .
@@ -192,10 +185,11 @@ Here’s what you need to do:
 
 2) Right click on Anthem setup file, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
@@ -205,9 +199,6 @@ Here’s what you need to do:
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 6: Change your graphics settings
 
  Many Anthem players have reported that modifying Anthem graphics settings helps with the Anthem loading issue, especially in reducing Anthem loading times. So you can change the graphics settings for Anthem in your computer.
@@ -218,11 +209,19 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -239,8 +238,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +245,26 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-elite-tech-companies-for-video-to-twitter/"><u>[New] Elite Tech Companies for Video-to-Twitter</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-top-pick-ultimate-google-cardboard-virtual-reality-experiences/"><u>[New] Top Pick Ultimate Google Cardboard Virtual Reality Experiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevating-engagement-with-strategic-audio-additions/"><u>[Updated] 2024 Approved Elevating Engagement with Strategic Audio Additions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-powerpoint-tips-adding-and-capturing-speech-sounds/"><u>[Updated] PowerPoint Tips Adding and Capturing Speech Sounds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-video-dispatch-to-facebook-from-youtube-for-2024/"><u>[Updated] Streamlining Video Dispatch to Facebook From YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-microphones-for-idevices-and-their-benefits-explained-for-2024/"><u>[Updated] Top Microphones for iDevices & Their Benefits Explained for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-correcting-mlb-the-show-2021s-server-problems/"><u>Effective Solutions for Correcting MLB The Show 2021'S Server Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-gaming-boosting-horizon-zero-dawns-speed-and-efficiency/"><u>Elevate Your Gaming: Boosting Horizon Zero Dawn's Speed and Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/featured-photographer-nicola-armondi-explore-captivating-images-with-movavi/"><u>Featured Photographer Nicola Armondi - Explore Captivating Images with Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-overcoming-sea-of-thieves-stability-issues/"><u>Guide to Overcoming Sea of Thieves Stability Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-nvidia-geforce-stability-fixing-problematic-closures-for-a-seamless-gaming-experience/"><u>Mastering NVIDIA GeForce Stability: Fixing Problematic Closures for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimize-latency-streamlining-windows-vlc-videos/"><u>Minimize Latency: Streamlining Windows VLC Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/pharmacogenomics-can-influence-the-risk-of-drug-induced-liver-injury-dili-by-affecting-drug-metabolism-pathways/"><u>Pharmacogenomics Can Influence the Risk of Drug-Induced Liver Injury (DILI) by Affecting Drug Metabolism Pathways.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-missing-msvcr80dll-a-step-by-step-guide/"><u>Resolving the Issue: Missing msvcr80.dll - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994557089-successful-launch-of-it-takes-two-now-available/"><u>Successful Launch of 'It Takes Two' - Now Available!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-connecting-iphone-to-itunes-on-windows-11/"><u>Troubleshooting Tips for Connecting iPhone to iTunes on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-naraka-bloodpoint-freezing-issues/"><u>Troubleshooting Tips for Fixing 'Naraka: Bloodpoint' Freezing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stable-gaming-experience-fixing-crashes/"><u>Ultimate Troubleshooting Tips for Stable Gaming Experience : Fixing Crashes</u></a></li>
+</ul></div>
 

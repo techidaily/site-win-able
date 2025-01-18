@@ -1,7 +1,7 @@
 ---
 title: "How to Stop ELEX II From Frequently Crashing on Windows/Mac: Tips & Tricks for a Smooth Experience"
-date: 2024-08-18T15:18:17.977Z
-updated: 2024-08-19T15:18:17.977Z
+date: 2025-01-13T21:54:37.732Z
+updated: 2025-01-18T03:16:26.215Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
@@ -30,8 +34,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -58,16 +63,21 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -99,10 +109,11 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -111,10 +122,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -123,9 +130,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
@@ -140,16 +144,10 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
@@ -160,18 +158,15 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
@@ -194,8 +189,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +196,26 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-time-stamps-on-youtube-videos/"><u>[New] Mastering Time Stamps on YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-loading-error-resolved-speedy-tips-inside/"><u>Apex Legends Loading Error Resolved? Speedy Tips Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-pc-problems-with-outriders-solutions-for-smooth-gameplay/"><u>Common PC Problems with Outriders - Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-youtube-a-guide-to-viewing-video-comments/"><u>Demystifying YouTube A Guide to Viewing Video Comments</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-release-delayed-what-you-need-to-know/"><u>Diablo Immortal PC Release Delayed: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-more-affordable-and-surprisingly-superior-alternative-to-apples-vision-pro-travel-bag-zdnet-review/"><u>Discover the More Affordable & Surprisingly Superior Alternative to Apple's Vision Pro Travel Bag - ZDNet Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-lags-and-pauses-in-overwatch-gameplay/"><u>Effective Solutions for Continuous Lags & Pauses in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-cyberpunk-2077-keeps-freezing-on-your-device/"><u>Fixing the Issue: Why Cyberpunk 2077 Keeps Freezing on Your Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/freeze-the-frame-choose-the-best-9-gif-recipes-on-windows-systems-for-2024/"><u>Freeze the Frame! Choose the Best 9 GIF Recipes on Windows Systems for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-g22-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G22 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78plus-t1-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78+ (T1) Edition without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-windows-11-usb-detection-issues-step-by-step-guide/"><u>How to Fix Windows 11 USB Detection Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fast-downloads-top-techniques-for-optimizing-origin-in-2/"><u>Mastering Fast Downloads: Top Techniques for Optimizing Origin in 2</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-the-landscape-of-online-storytelling-with-reels/"><u>Navigating the Landscape of Online Storytelling with Reels</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-imovie-on-a-budget-the-best-free-online-video-editing-alternatives-for-2024/"><u>New IMovie on a Budget The Best Free Online Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-launches-game-changing-gpt-4-artificial-intelligence-model/"><u>OpenAI Launches Game-Changing GPT-4 Artificial Intelligence Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-running-slow-heres-the-fix/"><u>Steam Running Slow? Here’s the Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steam-cloud-desynchronization-issues-effectively/"><u>Troubleshooting Steam Cloud Desynchronization Issues Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-freezing-issues-in-path-of-exile/"><u>Troubleshooting Steps: Resolving Freezing Issues in Path of Exile</u></a></li>
+</ul></div>
 

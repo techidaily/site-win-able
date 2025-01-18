@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2025-01-09T16:26:12.866Z
-updated: 2025-01-12T16:29:36.340Z
+date: 2025-01-11T01:10:37.340Z
+updated: 2025-01-17T16:56:00.359Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Dauntless Crash On PC
 
@@ -50,7 +46,7 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
@@ -65,10 +61,6 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -87,10 +79,6 @@ Here is how to verify the integrity of Dauntless:
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -120,6 +108,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -130,23 +122,31 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -171,20 +171,22 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-detailed-walkthrough-implementing-look-up-tables-in-creative-suite/"><u>[New] 2024 Approved Detailed Walkthrough Implementing Look-Up Tables in Creative Suite</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-directvid-capture-kit-fb-version/"><u>[New] 2024 Approved DirectVid Capture Kit, FB Version</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-filming-blending-into-new-backgrounds-easily/"><u>[New] 2024 Approved Instagram Filming Blending Into New Backgrounds Easily</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-nostalgic-compassion-preferred-android-emulators-for-3ds/"><u>[New] 2024 Approved Nostalgic Compassion Preferred Android Emulators for 3DS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-expert-strategies-for-flawless-green-screen-videos/"><u>[Updated] Expert Strategies for Flawless Green-Screen Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>2024 Approved Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-3-troubleshooting-guide-eliminating-game-crashes-and-ensuring-smooth-running/"><u>ARMA 3 Troubleshooting Guide: Eliminating Game Crashes and Ensuring Smooth Running</u></a></li>
-<li><a href="https://win-able.techidaily.com/crusader-kings-iii-and-pc-compatibility-woes-heres-how-you-can-keep-your-game-running-smoothly/"><u>Crusader Kings III & PC Compatibility Woes? Here's How You Can Keep Your Game Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-access-gpeditmsc-on-your-windows-home-pc/"><u>Fix Guide: How to Access gpedit.msc on Your Windows Home PC</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reinstating-deleted-windows-update-service/"><u>Guide to Reinstating Deleted Windows Update Service</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-70-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor 70 Lite 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-battlefield-ebootstraps-launch-issue-guide/"><u>Mastering the Fix: Battlefield Ebootstraps Launch Issue Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010972963-no-more-wow-disruptions-easy-solutions-to-game-crashing-issues/"><u>No More WoW Disruptions: Easy Solutions to Game Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frequent-glitches-optimizing-your-persona-4-golden-experience/"><u>Resolving Frequent Glitches: Optimizing Your Persona 4 Golden Experience</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/slack-vs-discord-selecting-teams-ideal-chat-platform/"><u>Slack Vs. Discord Selecting Teams' Ideal Chat Platform</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>[New] 2024 Approved A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mirthful-user-sign-up-saga/"><u>[New] 2024 Approved Mirthful User Sign-Up Saga</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-parrot-prowess-in-bebop-an-in-depth-critique/"><u>[New] In 2024, Parrot Prowess in Bebop – An In-Depth Critique</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amplifying-video-clarity-on-youtube-for-2024/"><u>Amplifying Video Clarity on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-your-battle-rank-solutions-for-higher-fps-in-valorant/"><u>Boosting Your Battle Rank: Solutions for Higher FPS in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fixes-for-stuttering-issues-during-outriders-gameplay-on-pc/"><u>Definitive Fixes for Stuttering Issues During Outriders Gameplay on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solution-to-preventing-frontier-game-from-crashing-on-desktop/"><u>Effortless Solution to Preventing Frontier Game From Crashing on Desktop</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/elevar-la-capacidad-del-sistema-de-tu-xbox-one-s-instrucciones-para-cambiar-al-disco-duro-a-una-unidad-de-estado-solido-mayor-en-gramos/"><u>Elevar La Capacidad Del Sistema De Tu Xbox One S: Instrucciones Para Cambiar Al Disco Duro a Una Unidad De Estado Sólido Mayor en Gramos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enhance-its-understanding-from-conversing-with-people/"><u>How Does ChatGPT Enhance Its Understanding From Conversing With People?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-steam-corrupt-disk-error-easily/"><u>How to Fix Steam Corrupt Disk Error Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-dying-light-games-persistent-performance-lags/"><u>How to Fix the Dying Light Game's Persistent Performance Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-fixing-dauntless-pc-bugs-and-enjoying-uninterrupted-gaming/"><u>No More Frustration: Fixing Dauntless PC Bugs and Enjoying Uninterrupted Gaming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fps-boost-tips-for-ark-primeval-adventures-on-pc-a-comprehensive-walkthrough/"><u>Ultimate FPS Boost Tips for ARK: Primeval Adventures on PC – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services-for-2024/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-seamlessly-integrated-into-pc-gaming/"><u>Yakuza - Like a Dragon Seamlessly Integrated Into PC Gaming</u></a></li>
 </ul></div>
 

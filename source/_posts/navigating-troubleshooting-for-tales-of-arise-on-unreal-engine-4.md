@@ -1,7 +1,7 @@
 ---
 title: Navigating Troubleshooting for Tales of Arise on Unreal Engine 4
-date: 2025-01-06T16:38:06.690Z
-updated: 2025-01-12T16:46:56.287Z
+date: 2025-01-13T00:38:00.476Z
+updated: 2025-01-17T23:21:44.672Z
 tags:
   - win11
   - win10
@@ -58,13 +58,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-109.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**LOGOUT** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-110.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch Steam and enter your account name and password. Then, try launching your game again to test your issue. If you still receive the error code, don’t worry. There are still 6 fixes to try.
 
@@ -82,10 +82,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -93,6 +89,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your game to check if this helped. If not, read on and check the fix, below.
 
@@ -138,13 +138,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click **DELETE ALL BROWSER COOKIES** .
 
@@ -153,10 +153,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 **7)** Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Restart your game to test your issue.
 
@@ -192,9 +188,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -216,10 +220,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
@@ -227,10 +227,6 @@ OR
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -240,15 +236,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click your **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -257,6 +253,10 @@ OR
 **11)** Restart your game to see if this fixed the error code issue.
 
 Hopefully, your game works correctly now. Enjoy!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fixes for Xbox One Players
 
@@ -304,10 +304,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the update is complete, restart your game to see if it runs correctly now. If your problem still exists, move to the fix below.
 
 #### Fix 4: Reset your console
@@ -338,6 +334,10 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After resetting your console, restart your game to test your issue. If your problem persists, check the fix below.
 
 #### Fix 5: Reinstall your game
@@ -359,10 +359,6 @@ Hopefully, your game works correctly now. Enjoy!
 **4)** Highlight your game, press the**☰ button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-107-1024x439.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Select**Uninstall** .
 
@@ -421,6 +417,10 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart your game to see if this resolved your issues.
 
  If your problem persists after the latest version of the system software is installed on your PS4, try the fix below.
@@ -441,10 +441,6 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
@@ -456,6 +452,10 @@ Hope one of the fixes above worked for you.
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Restart your game to see if this fix worked.
 
@@ -481,17 +481,24 @@ Hope one of the fixes above worked for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-exit-wave-analysis/"><u>[New] In 2024, Instagram Exit Wave Analysis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>[Updated] 2024 Approved Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-guide-to-video-monetization-dailymotion-vs-youtube/"><u>[Updated] In 2024, The Ultimate Guide to Video Monetization Dailymotion Vs. YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-f5-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco F5 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-overcoming-directx-compatibility-problems-in-battlefield-2042/"><u>Comprehensive Guide: Overcoming DirectX Compatibility Problems in Battlefield 2042</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-12-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme 12 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-top-open-source-video-tools-for-pcs-and-macs-for-2024/"><u>Exploring Top Open Source Video Tools for PCs and Macs for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/half-life-alyx-performance-issues-addressed-resolving-pc-lags-and-stutters/"><u>Half-Life: Alyx Performance Issues Addressed – Resolving PC Lags and Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issues-preventing-immortals-fenyx-rising-from-releasing-corrected/"><u>Resolved: Issues Preventing Immortals Fenyx Rising From Releasing Corrected</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-restore-sounds-and-fix-audio-issues-in-your-minecraft-game-on-desktop/"><u>Solved! How to Restore Sounds and Fix Audio Issues in Your Minecraft Game on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005398019-steam-remote-play-malfunction-discover-effective-solutions-here/"><u>Steam Remote Play Malfunction? Discover Effective Solutions Here</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/l-blogging-essentials-step-by-step-path-to-success/"><u>Travel Blogging Essentials Step-by-Step Path to Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-harmonizing-sound-dynamics-in-ableton/"><u>[New] Harmonizing Sound Dynamics in Ableton</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-seamless-channel-transitions-with-customized-end-screens/"><u>[Updated] In 2024, Seamless Channel Transitions with Customized End Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-n3-comprehensive-solutions-to-avoid-game-crashing-scenarios/"><u>Arma N3: Comprehensive Solutions to Avoid Game Crashing Scenarios</u></a></li>
+<li><a href="https://win-able.techidaily.com/broccoli-encounter-bug-resolution-for-destiny-2-game-2024-edition/"><u>Broccoli Encounter Bug Resolution for Destiny 2 Game - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-eliminating-the-crossbow-malfunction-in-minecraft/"><u>Comprehensive Tutorial: Eliminating the Crossbow Malfunction in Minecraft</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-quality-in-their-affordable-feature-rich-laptops-a-comprehensive-review-zdnet/"><u>Discovering the Hidden Gems: How Dell Delivers Quality in Their Affordable, Feature-Rich Laptops - A Comprehensive Review | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-underlords-troubleshooting-putting-an-end-to-persistent-app-crashes/"><u>Dota Underlords Troubleshooting: Putting an End to Persistent App Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-nvidia-quadro-rtx-4000-drivers-step-by-step-download-and-setup/"><u>Get the Newest NVIDIA Quadro RTX 4000 Drivers: Step-by-Step Download and Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-repairing-a-frozen-discord-application-that-wont-open/"><u>Guide to Repairing a Frozen Discord Application That Won't Open</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-youtube-craft-your-ultimate-music-collection/"><u>In 2024, Mastering YouTube Craft Your Ultimate Music Collection</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-solution-eliminate-warzone-20-game-crashes-for-a-smooth-pc-gaming-experience/"><u>Mastering the Solution: Eliminate Warzone 2.0 Game Crashes for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/maximum-memory-accessory-for-sony-a7s-ii/"><u>Maximum Memory Accessory for Sony A7S II</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/most-recent-download-cross-platform-bluetooth-card-driver-for-windows-users/"><u>Most Recent Download: Cross-Platform Bluetooth Card Driver for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-unreachable-error-in-steam-contact-list-feature/"><u>Solution Found for 'Unreachable' Error in Steam Contact List Feature</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-8-mirrorless-cameras-for-vloggers-for-2024/"><u>The Ultimate Guide to 8 Mirrorless Cameras for Vloggers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-qbittorrent-halts-unexpectedly/"><u>Troubleshooting Steps When qBittorrent Halts Unexpectedly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-no-more-crashes-for-watch-dogs-legion-players-on-windows-1011/"><u>Troubleshooting Tips: No More Crashes for Watch Dogs Legion Players on Windows 10/11</u></a></li>
 </ul></div>
 

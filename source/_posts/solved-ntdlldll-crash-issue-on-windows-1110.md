@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | “ntdll.dll” Crash Issue on Windows 11/10"
-date: 2024-08-18T15:18:36.623Z
-updated: 2024-08-19T15:18:36.623Z
+date: 2025-01-14T03:28:46.824Z
+updated: 2025-01-18T00:28:07.012Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/ff490e74a3be5e6661ab6be94683c185117f3752a
 If that doesn’t work for you, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -49,26 +50,21 @@ If that doesn’t work for you, try the fixes below.
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. From the left menu, select**Privacy & security** . Then click**Windows Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 2\. Download & install all Windows updates
 
  Windows updates usually fix compatibility issues and come with new features. If you encounter any errors and failures when launching a program, you should consider checking for Windows updates. Follow the instructions to do this.
@@ -76,29 +72,20 @@ If that doesn’t work for you, try the fixes below.
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. Click **Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Update your device drivers
 
  Therefore, you’re supposed to always make sure that your device drivers are properly updated.
@@ -126,9 +113,6 @@ If that doesn’t work for you, try the fixes below.
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Scroll down and find**Troubleshoot** . Make sure you click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
 
@@ -136,11 +120,20 @@ If that doesn’t work for you, try the fixes below.
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run a full scan of your PC
 
@@ -153,6 +146,10 @@ If that doesn’t work for you, try the fixes below.
 3. If it detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -168,8 +165,6 @@ If that doesn’t work for you, try the fixes below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +172,21 @@ If that doesn’t work for you, try the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-expanding-possibilities-with-virtual-reality/"><u>[Updated] Expanding Possibilities with Virtual Reality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/"><u>[Updated] In 2024, YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-macs-screenflow-insights-complete-coverage/"><u>[Updated] Mac's ScreenFlow Insights - Complete Coverage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies-for-2024/"><u>[Updated] Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-revealed-best-8-costless-3d-vids-software-on-pcmac/"><u>2024 Approved Secrets Revealed Best 8 Costless 3D Vids Software on PC/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-financial-triumph-with-like-a-dragon-navigating-the-path-to-unending-fortune-on-pc/"><u>Achieve Financial Triumph with 'Like a Dragon': Navigating the Path to Unending Fortune on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-barnes-and-noble-nook-glowlight-3-perfect-for-evening-readers/"><u>Comprehensive Review of the Barnes & Noble Nook GlowLight 3 - Perfect for Evening Readers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/expert-tips-for-diagnosing-and-repairing-troubled-sound-cards-on-your-pc-windows/"><u>Expert Tips for Diagnosing and Repairing Troubled Sound Cards on Your PC (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-hiccups-for-a-smoother-thaumaturge-experience-on-pc/"><u>Fixing Performance Hiccups for a Smoother Thaumaturge Experience on PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-shadows-into-brilliance-the-transcendent-return-of-demons-souls-with-cutting-edge-graphics/"><u>From Shadows Into Brilliance - The Transcendent Return of Demon's Souls with Cutting-Edge Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gaming-fluidity-effective-fixes-to-combat-frame-skips-and-stuttering-issues/"><u>Master Gaming Fluidity: Effective Fixes to Combat Frame Skips and Stuttering Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011668390-solve-your-battlefield-2042-game-crashes-caused-by-directx-errors-today/"><u>Solve Your Battlefield 2042 Game Crashes Caused by DirectX Errors Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-error-code-327-in-star-wars-battlefront-ii-a-comprehensive-fix-guide/"><u>Solving Error Code 327 in Star Wars Battlefront II: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003126310-wwe-2k20-crashing-problems-heres-how-to-resolve-them-quickly-on-your-computer/"><u>WWE 2K20 Crashing Problems? Here's How to Resolve Them Quickly on Your Computer!</u></a></li>
+</ul></div>
 

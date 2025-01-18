@@ -1,7 +1,7 @@
 ---
 title: 'Days Gone' Not Working on Windows? Here’s How to Get It Running Smoothly
-date: 2025-01-10T17:00:55.237Z
-updated: 2025-01-12T16:45:12.124Z
+date: 2025-01-16T08:04:37.492Z
+updated: 2025-01-17T17:44:19.488Z
 tags:
   - win11
   - win10
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
   * [Fix 7 – Close unnecessary apps](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Preliminary steps: Check your PC specs
@@ -70,7 +70,7 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
@@ -104,17 +104,21 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Open the game in your launcher and see if it launches smoothly. If yes, you’ve fixed the problem. If it’s still failing, just head on to**Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Launch Days Gone in Windowed Mode
 
@@ -139,11 +143,7 @@ To check the specs of your PC:
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable all overlays
@@ -158,7 +158,7 @@ To check the specs of your PC:
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
@@ -183,7 +183,7 @@ To check the specs of your PC:
  Once you have disabled these overlays, run Days Gone and see if the launching problem is fixed. If not, move ahead to**Fix 5** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify game integrity
@@ -196,6 +196,10 @@ To check the specs of your PC:
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Click**LOCAL FILES** \>**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
 4. Wait a bit until the process finishes.  
@@ -211,20 +215,16 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify.png)
 3. Wait a bit until the process finishes. After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Rename the Movies Folder
 
  According to some players’ feedback, renaming the Movies folder has helped in recovering the game to normal. It may sound not too intuitive, but it’s worth a shot. To do so, simply find your game’s directory, locate the**Movies** folder, then rename the folder (e.g. Movies\_2).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/rename.png)
 
- Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
 
 ### Fix 7 – Close unnecessary apps
 
@@ -258,22 +258,16 @@ Here’s how to close background apps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-affordable-excellence-a-selection-of-best-free-srt-tools-for-2024/"><u>[New] Affordable Excellence A Selection of Best FREE SRT Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[New] Fostering Fandoms Top Three Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-leverage-editing-to-boost-youtube-profile-impact/"><u>[New] In 2024, Leverage Editing to Boost YouTube Profile Impact</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>[Updated] Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-stock-photos-free-flawless-and-legal/"><u>[Updated] Navigating Stock Photos Free, Flawless, and Legal</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-garrys-mod-from-crashing-gamers-guide/"><u>Effective Solutions to Stop Garry's Mod From Crashing: Gamer's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013607895-eradicate-your-pc-playthrough-problems-elite-strategies-to-resolve-troy-total-war-issues/"><u>Eradicate Your PC Playthrough Problems: Elite Strategies to Resolve 'Troy' Total War Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-when-your-voice-chat-strikes-a-content-warning/"><u>How to Restore Functionality when Your Voice Chat Strikes a Content Warning</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-elite-firefox-video-recording-apps/"><u>In 2024, Elite FireFox Video Recording Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ios-18-unveils-essential-emergency-messaging-update-for-iphones-beyond-ai-innovation-discover-how-at-zdnet/"><u>IOS 18 Unveils Essential Emergency Messaging Update for iPhones, Beyond AI Innovation - Discover How at ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007329785-optimized-cyberpunk-2077-gameplay-bid-farewell-to-lag-and-glitches-today/"><u>Optimized Cyberpunk 2077 Gameplay - Bid Farewell to Lag & Glitches Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-voice-chat-functionality-in-among-us-on-your-desktop-computer/"><u>Restoring Voice Chat Functionality in Among Us on Your Desktop Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-free-driver-downloads-for-your-lenovo-x1-carbon-windows-107/"><u>Step-by-Step Guide: Free Driver Downloads for Your Lenovo X1 Carbon (Windows 10/7)</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-2024-playbook-optimizing-discord-to-lower-high-cpu-demands/"><u>The 2024 Playbook: Optimizing Discord to Lower High CPU Demands</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-newcomers-guide-to-youtube-channel-setup-and-money-making-tips-for-2024/"><u>The Newcomer’s Guide to YouTube Channel Setup & Money-Making Tips for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-mw3-stability-issues-quick-fixes-to-prevent-game-crashes-on-windows-computers/"><u>Troubleshooting Common MW3 Stability Issues – Quick Fixes to Prevent Game Crashes on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/zoom-stability-enhancements-for-windows-11-and-10-users/"><u>Zoom Stability Enhancements for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-navigating-youtube-triumphs-an-in-depth-guide-to-creator-studio/"><u>[New] 2024 Approved Navigating YouTube Triumphs An In-Depth Guide to Creator Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-methods-for-capturing-stunning-timelapse-videos-on-gopro/"><u>[New] Proven Methods for Capturing Stunning Timelapse Videos on GoPro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-savvy-ways-to-record-mac-lectures-for-2024/"><u>[Updated] Tech-Savvy Ways to Record Mac Lectures for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-huawei-nova-y71-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Huawei Nova Y71 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-destiny2-improved-performance-eliminates-pc-version-crashing-problems/"><u>Destiny #Destiny2: Improved Performance Eliminates PC Version Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997084130-guide-resolve-your-world-of-warcraft-crash-problems-swiftly-and-effectively/"><u>Guide: Resolve Your World of Warcraft Crash Problems Swiftly & Effectively!</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-add-crop-and-edit-music-to-canva-video-in-2024/"><u>How To Add, Crop, And Edit Music To Canva Video, In 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-vanguard-initialization-problems-for-a-smoother-experience-in-valorant/"><u>Solving Vanguard Initialization Problems for a Smoother Experience in VALORANT</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-problems-on-the-platformer-game-avatar-frontiers-of-pandora/"><u>Troubleshooting Lag Problems on the Platformer Game - Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-the-issue-of-devolver-digitals-deathloop-crashing-on-pc-and-playstation-5/"><u>Ultimate Guide: Solving the Issue of Devolver Digital's Deathloop Crashing on PC and PlayStation 5</u></a></li>
 </ul></div>
 

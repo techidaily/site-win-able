@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Fixing the Infamous Crossbow Error on Minecraft Servers"
-date: 2025-01-10T17:57:45.040Z
-updated: 2025-01-12T18:03:48.793Z
+date: 2025-01-14T03:19:36.525Z
+updated: 2025-01-18T03:32:37.849Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Run Minecraft in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
@@ -41,18 +45,22 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -79,7 +87,7 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,10 +95,6 @@ If the issue remains, move on to the next fix.
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -104,7 +108,7 @@ If the issue remains, move on to the next fix.
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
@@ -116,10 +120,6 @@ If the issue remains, move on to the next fix.
 
 If this method doesn’t do the trick, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -127,10 +127,6 @@ If this method doesn’t do the trick, continue to the next fix.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
@@ -146,16 +142,20 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -184,18 +184,21 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-video-presentations-using-adobe-presenter/"><u>[Updated] In 2024, How to Record Video Presentations Using Adobe Presenter</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-step-by-step-tutorial-using-microsofts-movie-maker-on-w11-for-2024/"><u>[Updated] Step-By-Step Tutorial Using Microsoft's Movie Maker on W11 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/achieving-harmony-selecting-ideal-aspect-ratios-for-2024/"><u>Achieving Harmony Selecting Ideal Aspect Ratios for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/bless-unleashed-troubleshooting-how-to-eliminate-lag-spikes-and-reduce-ping-on-pc/"><u>Bless Unleashed Troubleshooting: How to Eliminate Lag Spikes and Reduce Ping on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-race-day-visuals-update-graphics-driver-for-fix-forza-horizon/"><u>Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/compatibility-guide-playing-ps4-titles-on-your-new-ps5-console/"><u>Compatibility Guide: Playing PS4 Titles on Your New PS5 Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012128769-cure-marvels-guardians-of-the-galaxy-pc-glitches-with-these-8-essential-fixes/"><u>Cure Marvel's Guardians of the Galaxy PC Glitches with These 8 Essential Fixes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficient-methods-for-keeping-your-windows-10-hardware-compatible-with-updated-drivers/"><u>Efficient Methods for Keeping Your Windows 10 Hardware Compatible with Updated Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/formula-1-22021-stability-improvements-resolving-frequent-crashes-on-personal-computers/"><u>Formula 1 2#2021 Stability Improvements: Resolving Frequent Crashes on Personal Computers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006890656-madden-nfl-21-pc-stability-issues-heres-how-to-resolve-them/"><u>Madden NFL 21 PC Stability Issues? Here's How to Resolve Them</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo-for-2024/"><u>Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-zero-price-path-to-enhanced-youtube-video-analysis/"><u>[New] 2024 Approved Zero-Price Path to Enhanced YouTube Video Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-9-free-youtube-logo-makers/"><u>[New] Top 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-time-lapse-screen-recorder/"><u>[Updated] 2024 Approved Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-and-repairing-game-character-conflicts-on-pc-a-guide/"><u>Avoiding and Repairing Game Character Conflicts on PC: A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor565/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-pop-7-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-resolving-the-missing-directx-component-d3derr/"><u>Expert Advice for Resolving The Missing DirectX Component (D3DERR)</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-booting-window-11s-boot-delay-adjustment-explained/"><u>Faster Booting: Window 11'S Boot Delay Adjustment Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-stutter-and-crashes-in-fall-guys-on-your-computer/"><u>Guide to Fixing Stutter and Crashes in Fall Guys on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-non-launch-problem-of-alan-wake-2-game/"><u>How To Resolve The Non-Launch Problem Of Alan Wake 2 Game?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-note-30-vip-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Note 30 VIP Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/jumpstart-your-filming-setups-8-sites-offering-free-eco-screens/"><u>Jumpstart Your Filming Setups - 8 Sites Offering Free Eco-Screens</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/low-cost-video-editing-alternatives/"><u>Low-Cost Video Editing Alternatives</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-load-speed-in-star-wars-battlefront-ii-for-pc-gamers/"><u>Optimizing Load Speed in Star Wars: Battlefront II for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-why-your-current-cpu-may-not-support-vanguard-software/"><u>Optimizing Performance: Why Your Current CPU May Not Support Vanguard Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-maplestorys-launch-problems/"><u>Troubleshooting Guide: Resolving Maplestory's Launch Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoid Frustration - Solve Persistent Garry's Mod Crashing !
-date: 2025-01-05T16:43:46.831Z
-updated: 2025-01-12T16:44:05.765Z
+date: 2025-01-12T03:41:04.211Z
+updated: 2025-01-18T08:30:05.763Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -74,13 +78,13 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
@@ -120,16 +124,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -145,12 +157,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Relaunch GMod.
@@ -166,10 +182,6 @@ OR
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
@@ -189,6 +201,10 @@ OR
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable automatic downloads from the server
 
  If you enable the automatic downloads of custom content from game servers, you’re likely to experience this issue when your Internet connection is bad. (This is because the downloading process can hog your Internet speed, thus crashing your game. )
@@ -201,17 +217,9 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
@@ -247,22 +255,14 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **10)**  Relaunch Steam and your game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
@@ -332,16 +332,17 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-insta-cinematography-tips-three-way-borders-for-2024/"><u>[New] Insta Cinematography Tips Three-Way Borders for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-luts-and-film-aesthetics-bridging-the-gap-for-2024/"><u>[New] Luts and Film Aesthetics Bridging the Gap for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-highlighting-progress-in-photo-shooting-algorithms/"><u>[Updated] In 2024, Highlighting Progress in Photo Shooting Algorithms</u></a></li>
-<li><a href="https://fox-search.techidaily.com/windows-10117superduper/"><u>最適合Windows 10/11/7使用者的SuperDuper優質異軍而來的夥伴</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-game-crash-issues-in-football-manager-2020-expert-tips-and-tricks/"><u>A Comprehensive Guide to Fixing Game Crash Issues in Football Manager 2020: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-undead-and-technical-difficulties-in-zombie-army-4-dead-war/"><u>Beat the Undead & Technical Difficulties in Zombie Army 4: Dead War</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fix-and-master-avatar-frontiers-of-pandora-pc-gaming-stability-issues/"><u>Guide to Fix and Master 'Avatar: Frontiers of Pandora' PC Gaming Stability Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-the-grounded-game-crashes-effective-tips-and-tricks/"><u>Solve the 'Grounded' Game Crashes : Effective Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-browser-troubles-how-to-unfreeze-chrome-in-windows-10-instantly/"><u>Stop Browser Troubles: How to Unfreeze Chrome in Windows 10 Instantly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-six-compelling-reasons-for-online-arabic-with-mondly/"><u>Unveiling Six Compelling Reasons for Online Arabic with Mondly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-digital-heroes-choice-top-10-astonishing-adventure-games-for-2024/"><u>[Updated] Digital Heroes' Choice Top 10 Astonishing Adventure Games for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cost-effective-aerospace-for-huge-datasets-at-low-rates/"><u>2024 Approved Cost-Effective AeroSpace for Huge Datasets at Low Rates</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-optimal-7-dslr-recommendations-for-dynamic-video-content/"><u>2024 Approved Optimal 7 DSLR Recommendations For Dynamic Video Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-premium-picks-top-macpc-bd-players-and-codecs/"><u>2024 Approved Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-your-photo-display-craft-the-ultimate-win11-slideshow/"><u>Automate Your Photo Display - Craft the Ultimate Win11 Slideshow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-online-presence-the-dead-internet-theory-demystified-for-modern-users/"><u>Decoding Online Presence: The Dead Internet Theory Demystified for Modern Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-cutting-down-discords-cpu-drain/"><u>Expert Advice for Cutting Down Discord's CPU Drain</u></a></li>
+<li><a href="https://win-able.techidaily.com/ice-apply-cold-packs-or-ice-wrapped-in-a-cloth-for-15-20-minutes-every-hour-on-the-first-day-then-reduce-frequency-as-swelling-subsides-icing-helps-minimize400/"><u>Ice: Apply Cold Packs or Ice Wrapped in a Cloth for 15-20 Minutes Every Hour on the First Day, Then Reduce Frequency as Swelling Subsides. Icing Helps Minimize Inflammation and Numbs Pain.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-itel-p40-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Itel P40 Phone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-invitation-goals-top-video-maker-apps-for-iphone-and-android-users/"><u>New 2024 Approved Invitation Goals Top Video Maker Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezes-left-4-dead-2-stability-fix-guide/"><u>No More Freezes: Left 4 Dead 2 Stability Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-how-to-stop-it-from-crashing-on-pcs/"><u>Red Dead Redemption 2 - How To Stop It From Crashing on PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Conquer High CPU Use with Zoom - Discover These 6 Strategies Now!
-date: 2025-01-05T17:03:33.204Z
-updated: 2025-01-12T16:15:44.140Z
+date: 2025-01-13T22:18:06.607Z
+updated: 2025-01-17T22:19:09.844Z
 tags:
   - win11
   - win10
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 8. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for game updates and server issues
@@ -59,15 +59,15 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-twitter-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tony Huynh is the Game Director of MultiVersus.
 
  When server issues happen, just wait until they solve these problems. For any pending game updates, install them immediately and see if the game still crashes.
 
 Nothing wrong with the game? Simply move on to the following fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -101,13 +101,13 @@ Nothing wrong with the game? Simply move on to the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/update-all-graphics.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the **[free version](https://tools.techidaily.com/drivereasy/download/)**  ; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  When everything is set, restart your PC and the game to see if the problem persists. If so, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Remove all game modifications
 
@@ -119,18 +119,14 @@ Simply remove all game mods and see if the issue disappears.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-folder-content-1.jpg)
 2. Then click the**Paks** folder.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-paks.jpg)
 3. You’ll see the**\~mod** folder where you put your game mods.**Delete** it to remove all the mods.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-mods-folder-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your game to check for any improvements. If no luck, move on to the next fix.
 
@@ -146,6 +142,10 @@ Try restarting your router to refresh your Internet connection.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/router-pixabay.jpg)
 2. Plug it back in and test your Internet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Outdated or missing WiFi drivers can also lead to on-and-off Internet connection. Try **[Diver Easy](https://tools.techidaily.com/drivereasy/download/)**  to automatically download and install all the drivers you need.
 
 #### Option 2 – Disable VPN
@@ -160,9 +160,17 @@ Try restarting your router to refresh your Internet connection.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/taskbar-task-manager.jpg)
 2. Right-click the app that you don’t need, then click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/task-manager-close-app.jpg)
 
  Relaunch your game and see if it still crashes. If so, move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -171,10 +179,6 @@ Try restarting your router to refresh your Internet connection.
 1. In the search box on your screen, type**updates** and click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/search-box-updates.jpg)
 2. Click**Check for updates** to see if there are available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/check-for-updates.jpg)
 
@@ -190,20 +194,16 @@ No changes? Move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-steam.jpg)
 2. Right-click it and select**Properties…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-properties.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files…**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-local-files.jpg)
 
- When the verifying finishes, launch MultiVersus again to see if it still crashes. If this issue persists, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When the verifying finishes, launch MultiVersus again to see if it still crashes. If this issue persists, try the next fix.
 
 ### Fix 7: Perform a clean boot
 
@@ -216,21 +216,17 @@ No changes? Move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-hide-all-microsoft-services-clean-boot.jpg)
 3. **Uncheck**  all the services EXCEPT for those belong to your graphics card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs with high Startup impact, and click **Disable** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 
  Restart your PC and launch MultiVersus again. If the game still crashes, repeat the steps above and disable another program.
 
@@ -246,6 +242,10 @@ If it’s not helpful, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/steam-multiversus-uninstall-1.jpg)
 3. Download MultiVersus from Steam. Once done, launch the installer and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -269,22 +269,16 @@ If it’s not helpful, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-63-chuckle-factory-on-tiktok/"><u>[New] 2024 Approved 63 Chuckle Factory on TikTok</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-effortless-webinar-capture-techniques-for-os-xwindows-enthusiasts/"><u>[New] 2024 Approved Effortless Webinar Capture Techniques for OS X/Windows Enthusiasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-achieving-high-quality-fb-video-1080p-streaming-guide/"><u>[New] Achieving High-Quality FB Video 1080P Streaming Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transform-your-snapshots-with-vsco-essentials-for-2024/"><u>[New] Transform Your Snapshots with VSCO Essentials for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-time-traveling-through-retro-filmmaking-techniques/"><u>[Updated] 2024 Approved Time Traveling Through Retro Filmmaking Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-soaring-above-limits-hubsans-new-h501s-x4-examined/"><u>2024 Approved Soaring Above Limits Hubsan's New H501S X4 Examined</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-art-of-anonymity-in-video-hiding-private-data/"><u>2024 Approved The Art of Anonymity in Video Hiding Private Data</u></a></li>
-<li><a href="https://win-able.techidaily.com/baldurs-gate-seemingly-unresponsive-at-launch-fixed/"><u>Baldur's Gate ˈSeemingly Unresponsive at Launch – Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-practices-to-overcome-unwanted-shutdowns-during-your-flight-missions-solutions-for-elite-dangerous/"><u>Best Practices to Overcome Unwanted Shutdowns During Your Flight Missions: Solutions for Elite Dangerous</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-for-non-functional-windows-11-spotlight-images/"><u>Common Problems and Solutions for Non-Functional Windows 11 Spotlight Images</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-expert-tips-for-a-smooth-uncrashed-gaming-experience/"><u>Jurassic World Evolution - Expert Tips for a Smooth, Uncrashed Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-constant-outlook-instability-fixes-for-regular-software-interruptions/"><u>Overcoming Constant Outlook Instability: Fixes for Regular Software Interruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-problems-in-call-of-duty-modern-warfare-fps-enjoy-the-fixes-and-features/"><u>Resolved Problems in Call of Duty: Modern Warfare FPS - Enjoy the Fixes and Features!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-playback-problems-with-dolby-atmos-on-your-windows-machine/"><u>Resolving Playback Problems with Dolby Atmos on Your Windows Machine</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/revamp-your-song-collection-party-tymes-exclusive-karaoke-library-membership-launched-on-10-22-18/"><u>Revamp Your Song Collection! Party Tyme's Exclusive Karaoke Library Membership Launched on 10-22-18</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solutions-for-persistent-pc-crashes-in-persona-3-fractal-edition-p3f/"><u>Troubleshooting & Solutions for Persistent PC Crashes in Persona 3 Fractal Edition (P3F)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-crafting-minecraft-perfect-circles-and-spheres-techniques/"><u>[New] 2024 Approved Crafting Minecraft Perfect Circles & Spheres Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elite-audit-the-updated-parrot-ar-drone-for-2024/"><u>[New] Elite Audit The Updated Parrot AR Drone for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-unable-to-sync-cloud-error/"><u>[Solved] Steam Unable to Sync Cloud Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003316328-6-quick-ways-to-fix-roblox-crashing-on-pc-2024/"><u>6 Quick Ways to Fix Roblox Crashing on PC – 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-european-union-written-by-your-name/"><u>Dissecting the European Union' Written By: [Your Name]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-real-time-gamcapture-hacks-and-insights/"><u>In 2024, Real-Time GamCapture Hacks and Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-screen-mirroring-techniques-for-seamless-iphone-and-ipad-projection-onto-big-screens/"><u>Mastering Screen Mirroring Techniques for Seamless iPhone and iPad Projection Onto Big Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-resolution-of-unexpected-ark-malfunctions/"><u>Mastering the Resolution of Unexpected ARK Malfunctions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/preserve-precision-4-advanced-screen-recording-for-gamers/"><u>Preserve Precision 4 Advanced Screen Recording for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-secret-how-to-prevent-recurrebl-crashes-in-valheim-while-playing-on-your-pc/"><u>Unlock the Secret: How to Prevent Recurrebl Crashes in Valheim While Playing on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Warship Gaming at Its Best: 5 Quick Fixes to Prevent WoW Sea Battles From Failing"
-date: 2024-08-18T15:18:41.884Z
-updated: 2024-08-19T15:18:41.884Z
+date: 2025-01-17T08:46:29.318Z
+updated: 2025-01-17T23:30:14.804Z
 tags:
   - win11
   - win10
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -42,6 +43,10 @@ Here is how to verify the integrity of Dauntless:
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
@@ -68,16 +73,14 @@ Here is how to verify the integrity of Dauntless:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
  You can also do it for free if you like, but it’s partly manual.
@@ -88,9 +91,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -111,28 +111,23 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
 
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -143,6 +138,10 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -158,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,24 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unlocking-the-secrets-of-successful-youtube-thumbnail-crafting/"><u>[New] 2024 Approved Unlocking the Secrets of Successful YouTube Thumbnail Crafting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-videography-on-fb-horizontal-or-vertical-placement-in-2024/"><u>[New] Videography on FB Horizontal or Vertical Placement, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>[Updated] Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-authoritative-guide-to-generating-srt-files-with-expert-tips/"><u>2024 Approved The Authoritative Guide to Generating SRT Files with Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/amazon-prime-video-malfunction-heres-how-you-can-fix-it/"><u>Amazon Prime Video Malfunction? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/camtasia-tutorial-implementing-the-classic-ken-burns-effect-for-2024/"><u>Camtasia Tutorial Implementing the Classic Ken Burns Effect for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/freeloading-futures-with-ae-creative-tools-for-2024/"><u>Freeloading Futures with AE Creative Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-13-ultra-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi 13 Ultra To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inclusive-dynamic-movement-examination/"><u>Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-craft-a-no-cost-audio-driven-visual-experience/"><u>New In 2024, Craft a No-Cost, Audio-Driven Visual Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-slowdowns-on-discord-comprehensive-guide-to-lag-solutions/"><u>Overcome Slowdowns on Discord - Comprehensive Guide to Lag Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-persistent-game-crashes-resolved/"><u>Pathfinder: Wrath of the Righteous - Persistent Game Crashes Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-endless-launches-solutions-for-a-constant-loading-fiasco-in-minecraft/"><u>Resolving Endless Launches: Solutions for a Constant 'Loading' Fiasco in Minecraft</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-directx-error-in-warzone-a-quick-4-step-guide/"><u>Resolving the 'DirectX Error in Warzone': A Quick 4-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stabilizing-your-gameplay-overcoming-pc-collapses-in-formula-one-2021/"><u>Stabilizing Your Gameplay: Overcoming PC Collapses in Formula One 2021</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-warzone-crashes-troubleshoot-and-resolve-the-notorious-directx-error-in-just-four-steps/"><u>Stop Warzone Crashes: Troubleshoot and Resolve the Notorious DirectX Error in Just Four Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/untangling-technical-glitches-how-to-correctly-diagnose-and-repair-your-desktops-thaumaturge-problem/"><u>Untangling Technical Glitches: How to Correctly Diagnose and Repair Your Desktop's Thaumaturge Problem</u></a></li>
+</ul></div>
 

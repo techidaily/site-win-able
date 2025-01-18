@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Fix: What to Do When Your MSI Mystic Light Won't Work on Windows"
-date: 2024-08-18T15:19:22.269Z
-updated: 2024-08-19T15:19:22.269Z
+date: 2025-01-12T18:35:53.134Z
+updated: 2025-01-17T18:51:26.412Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Storage       | 45 GB available space                                        |
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,9 +52,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -61,6 +59,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify your game cache
 
@@ -72,6 +74,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -79,23 +85,18 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
 
 1. Run Steam.
 2. Right-click on XCOM 2 and click**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -116,11 +117,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
@@ -136,8 +139,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,22 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-leverage-longer-vids-on-instagram-effectively/"><u>[New] How to Leverage Longer Vids on Instagram Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-perfecting-iphoneipad-screenshots-a-youtube-guide/"><u>[New] In 2024, Perfecting iPhone/iPad Screenshots A YouTube Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leading-tech-for-group-virtual-engagement/"><u>[New] Leading Tech for Group Virtual Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-10-ultimate-action-hunting-cameras-ranked/"><u>[Updated] 10 Ultimate Action Hunting Cameras Ranked</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-framefusion-matrix-the-ultimate-montage-craft/"><u>[Updated] FrameFusion Matrix The Ultimate Montage Craft</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamed-dialogue-scribe/"><u>2024 Approved Streamed Dialogue Scribe</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-photo-and-video-slideshow-makers-for-macos-sierra/"><u>2024 Approved Top Photo and Video Slideshow Makers for macOS Sierra</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nokia-c12-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nokia C12 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-to-fixing-pc-disruptions-during-forza-horizon-4-gameplay/"><u>Expert Guide to Fixing PC Disruptions During Forza Horizon 4 Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/follow-your-kiln-manufacturers-instructions-for-temperature-and-timing-typically-around-cone-03-1824f-or-995c-to-cone-6-2232f-or-1222c-depending-on-the-type425/"><u>Follow Your Kiln Manufacturer's Instructions for Temperature and Timing, Typically Around Cone 03 (1824°F or 995°C) to Cone 6 (2232°F or 1222°C), Depending on the Type of Underglaze Used</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enjoy-lag-free-fortnite-gaming-fixes-and-optimizations/"><u>How to Enjoy Lag-Free Fortnite Gaming: Fixes and Optimizations</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-mass-effect-legendary-edition-from-crashing-on-pc-or-your-gaming-console/"><u>How To Prevent Mass Effect Legendary Edition From Crashing on PC or Your Gaming Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-start-mass-effect-legendary-edition-fixes-for-common-launch-issues/"><u>How to Successfully Start Mass Effect Legendary Edition - Fixes for Common Launch Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-gadgets-with-toms-guide-your-hardware-companion/"><u>Navigating Gadgets with Tom's Guide - Your Hardware Companion</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-godfall-lag-ultimate-fix-for-pc-game-crashes-and-freezes/"><u>No More Godfall Lag: Ultimate Fix for PC Game Crashes and Freezes</u></a></li>
+</ul></div>
 

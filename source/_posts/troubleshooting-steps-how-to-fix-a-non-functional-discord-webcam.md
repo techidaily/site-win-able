@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: How to Fix a Non-Functional Discord Webcam"
-date: 2024-08-13T10:03:32.386Z
-updated: 2024-08-14T10:03:32.386Z
+date: 2025-01-10T18:41:35.257Z
+updated: 2025-01-18T00:34:28.623Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 
  Before trying any complicated fixes, make sure your Logitech C920 webcam is working properly. You can test it on another computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,40 +37,38 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-22-02.jpg)
 2. In the left pane, click**Camera** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.
 3. In the left pane, click**Microphone** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
 
 1. Press the**Windows logo key + R** together.
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click on Logitech software and select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Finish the uninstall process and run the camera again. It should be working with your software.
 6. But if it doesn’t help, you can uninstall the whole software and go to the[Logitech website](https://support.logi.com/hc/en-us/articles/360024361233) to re-download.
 7. Then install it and reboot it to check.
 
 There’s another situation that
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 3: Reinstall your drivers
 
  Outdated or wrong drivers could cause trouble. When you meet computer problems but have no clue to fix them, you can update related drivers for a try. Keeping your drivers updated can help you enhance device functions to improve computer performance.
@@ -90,9 +85,6 @@ OR
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Option 2 – Automatically update drivers
 
  If you don’t have time or patience to manually update drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -110,7 +102,15 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Disable conflict apps
 
@@ -122,9 +122,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/steam-end-task.png)
 3. Reboot your camera to check.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -133,14 +130,15 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -155,8 +153,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +160,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ffortless-estimation-of-digital-gains-for-2024/"><u>[New] Effortless Estimation of Digital Gains for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaming-and-beyond-a-deep-dive-into-the-cg318-4k-from-eizo/"><u>[New] Gaming and Beyond A Deep Dive Into the CG318-4K From EIZO</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-content-creators-revenue-gain-from-each-click/"><u>[Updated] Content Creators' Revenue Gain From Each Click</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-continuous-crashes-learn-how-to-fix-them-here/"><u>Dota 2 Continuous Crashes? Learn How to Fix Them Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-follow-guide-for-quick-download-of-linksys-ae1200-drivers-and-setup-assistance/"><u>Easy-to-Follow Guide for Quick Download of Linksys AE1200 Drivers & Setup Assistance</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-epic-battles-of-god-of-war-fps-newly-released-for-pc-gamers/"><u>Experience the Epic Battles of God of War FPS – Newly Released for PC Gamers!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-correct-microsoft-outlook-access-issues-efficiently/"><u>Expert Advice to Correct Microsoft Outlook Access Issues Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-stop-outpost-infinity-siege-game-from-freezing-or-crashing-on-your-pc/"><u>Expert Advice to Stop Outpost: Infinity Siege Game From Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv633/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-check-refresh-rate-on-a-monitor-easily/"><u>How to Check Refresh Rate on a Monitor [Easily]</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-the-endless-load-screen-in-fortnite/"><u>Troubleshooting Guide: Fixing the Endless Load Screen in Fortnite</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-simple-overcome-your-disappointing-discord-install-failure/"><u>Troubleshooting Made Simple: Overcome Your Disappointing Discord Install Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-overcoming-fortnite-error-84-and-joining-parties-successfully/"><u>Troubleshooting Steps for Overcoming Fortnite Error #84 and Joining Parties Successfully</u></a></li>
+</ul></div>
 

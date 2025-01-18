@@ -1,7 +1,7 @@
 ---
 title: "Bust the Glitches: Effective Strategies to Stop Football Manager 2022 From Crashing During Gameplay (PC)"
-date: 2024-08-18T15:18:16.942Z
-updated: 2024-08-19T15:18:16.942Z
+date: 2025-01-14T21:06:12.210Z
+updated: 2025-01-18T09:22:11.887Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 Looking for Football Manager 2023 won’t launch fixes? You’ve come to the right place and this post is here to help.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There are 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +29,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 2. [Update your graphic driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Add an exception to your antivirus
 
@@ -38,18 +43,22 @@ Take Avast as an example:
 
 1. Open your Avast.
 2. Click**Menu** on the top right of the window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
@@ -77,14 +86,8 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -98,11 +101,12 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
 
@@ -112,9 +116,6 @@ If this fix bring no luck, move to the next fix.
 
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
@@ -132,8 +133,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,19 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-optimize-your-macs-screen-record-functionality-with-keystrokes/"><u>[New] In 2024, Optimize Your Mac's Screen Record Functionality with Keystrokes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-wealth-of-words-carminati-ajay-and-his-money-making-mantra-on-youtube/"><u>2024 Approved The Wealth of Words Carminati (Ajay) and His Money-Making Mantra on Youtube</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-battles-solve-low-frame-rates-in-valorant/"><u>Boost Your Battles: Solve Low Frame Rates in VALORANT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-strangers-to-friends-essential-italian-greeting-phrases/"><u>From Strangers to Friends: Essential Italian Greeting Phrases</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-sound-problem-solutions-optimize-your-gaming-experience/"><u>Halo Infinite Sound Problem Solutions: Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashes-in-diablo-immortal-a-comprehensive-guide-pc-2024/"><u>How to Fix Continuous Crashes in Diablo Immortal: A Comprehensive Guide (PC, 2024)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>In 2024, Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722867441809-investigating-the-current-status-of-roblox-community-wide-problem-or-personal-glitches/"><u>Investigating the Current Status of Roblox: Community-Wide Problem or Personal Glitches?</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-resolution-guide-how-to-stop-rage-2-from-freezing/"><u>Quick Resolution Guide: How to Stop RAGE 2 From Freezing!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-install-microsofts-pc-manager/"><u>Steps to Install Microsoft's PC Manager</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-smart-approach-for-posting-igtv-on-your-story/"><u>The Smart Approach for Posting IGTV on Your Story</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-among-us-microphone-issues-on-pc/"><u>Troubleshooting Tips: Resolving 'Among Us' Microphone Issues on PC</u></a></li>
+</ul></div>
 

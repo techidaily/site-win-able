@@ -1,7 +1,7 @@
 ---
 title: "Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players"
-date: 2025-01-06T16:05:24.822Z
-updated: 2025-01-12T16:06:26.479Z
+date: 2025-01-11T06:44:17.913Z
+updated: 2025-01-17T17:21:47.566Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  We’ve prepared fixes for both PC and Xbox players. You might not need to try them all. Simply work your way down until you land on the one that does the trick.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify integrity of game files
 
  First you need to verify the integrity of your game files. In some cases, your game will keep crashing when certain game files are corrupted or missing. This could happen due to network fluctuation.
@@ -48,6 +48,10 @@ You can use these steps to scan and repair your game:
 1. Go to your steam**LIBRARY** . Right-click**Mass Effect Legendary Edition** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
@@ -66,10 +70,6 @@ If this doesn’t help, check out the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -93,6 +93,10 @@ Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Turn off VSync
 
  Another possible cause of the crashes is Vertical Sync. It’s a graphics feature that resolves screen tearing by locking the FPS to 60\. But there’re also reports showing that VSync could also lead to stability issues. So you need to make sure to disable VSync for Mass Effect.
@@ -105,11 +109,11 @@ Here’s how to disable VSync with NVIDIA graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
-Now you can launch Mass Effect and check if it crashes again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now you can launch Mass Effect and check if it crashes again.
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
@@ -121,15 +125,11 @@ Now you can launch Mass Effect and check if it crashes again.
 3. Enter one of the games from the launcher menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-2.jpg)
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -150,20 +150,21 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories/"><u>[New] 2024 Approved Mastering Narratives The Science and Art of Crafting Memorable FB Stories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-premiere-pro-a-launchpad-for-youtube-videos/"><u>[New] In 2024, Premiere Pro A Launchpad for YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-luxury-makeup-techniques-unveiled/"><u>[New] Luxury Makeup Techniques Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-websites-visual-content-via-cropping/"><u>[New] Streamlining Your Website's Visual Content via Cropping</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-players-how-to-fix-robocop-legacy-overcoming-pc-performance-glitches-in-rogue-city/"><u>Expert Advice for Players: How to Fix Robocop: Legacy - Overcoming PC Performance Glitches in Rogue City</u></a></li>
-<li><a href="https://win-able.techidaily.com/goodbye-flashes-solve-the-persistent-screen-shimmering-dilemma-today/"><u>Goodbye Flashes! Solve the Persistent Screen Shimmering Dilemma Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-life-is-strange-true-colors-game-crashes-and-stops-working/"><u>How to Fix Life Is Strange: True Colors Game Crashes and Stops Working</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-live-broadcasting-made-simple-a-practical-guide/"><u>In 2024, Live Broadcasting Made Simple A Practical Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-podcastpivot-avoiding-dacasts-pitfalls/"><u>In 2024, PodcastPivot Avoiding DaCast's Pitfalls</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008091429-ls-0013-launch-bug-in-fortnite-solved/"><u>LS-0013 Launch Bug in Fortnite: Solved</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/motion-mastery-top-free-afx-template-collection-for-2024/"><u>Motion Mastery Top Free AFX Template Collection for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-cannot-reach-live-configuration-servers-expert-tips-and-strategies/"><u>Overcoming 'Cannot Reach Live Configuration Servers': Expert Tips and Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-windows-11-taskbar-challenges-expert-fix-and-restoration-tips/"><u>Overcoming Windows 11 Taskbar Challenges: Expert Fix and Restoration Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-dragon-quest-xi-freezing-problem-comprehensive-fix-guide/"><u>Resolve Your Dragon Quest XI Freezing Problem – Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722990711114-twitch-no-audio-problem-heres-the-ultimate-fix-that-works/"><u>Twitch No Audio Problem? Here's the Ultimate Fix That Works</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-du-recorder-features-and-review/"><u>[Updated] Du Recorder Features and Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/back-4-blood-pc-stability-issues-troubleshooting-and-fixes/"><u>Back 4 Blood PC Stability Issues: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210148490-baffled-by-sd-detecting-errors-fixes-include/"><u>Baffled by SD Detecting Errors? Fixes Include!</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-fixes-for-low-frames-per-second-fps-and-hiccups-in-splitgate/"><u>Enhancing Performance: Fixes for Low Frames Per Second (FPS) and Hiccups in Splitgate</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-corsair-icue-compatibility-problems-with-windows-11-a-step-by-step-guide/"><u>Fixing the Corsair iCUE Compatibility Problems with Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-performance-fix-overcoming-lag-and-enhancing-play/"><u>Fortnite Performance Fix: Overcoming Lag and Enhancing Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998546024-getting-unstuck-from-fortnites-load-screen-dilemma-solutions-inside/"><u>Getting Unstuck From Fortnite's Load Screen Dilemma - Solutions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-windows-11-screen-brightness-under-control-again/"><u>Getting Your Windows 11 Screen Brightness Under Control Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-graphics-initialization-failure-in-destiny-2-solution-steps/"><u>How To Fix 'Graphics Initialization Failure' In Destiny 2 – Solution Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starfield-from-freezing-or-crashing-during-playtime-on-your-computer/"><u>How to Stop Starfield From Freezing or Crashing During Playtime on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-innovators-defining-next-gen-vr-experiences/"><u>In 2024, Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-ideapad-130s-analysis-constrained-performance-with-unexpected-user-experience/"><u>Lenovo IdeaPad 130S Analysis: Constrained Performance with Unexpected User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-troubleshooting-fixing-steam-freeze-in-windows-gaming/"><u>Mastering Troubleshooting: Fixing Steam Freeze in Windows Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/snapstream-app-rating-analysis-for-2024/"><u>SnapStream App Rating Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-blueprint-to-utilizing-google-docs-voice-recognition/"><u>The Essential Blueprint to Utilizing Google Docs Voice Recognition</u></a></li>
 </ul></div>
 

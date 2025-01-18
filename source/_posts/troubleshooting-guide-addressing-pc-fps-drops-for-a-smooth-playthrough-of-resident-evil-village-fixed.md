@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2025-01-08T17:38:17.654Z
-updated: 2025-01-12T17:36:18.430Z
+date: 2025-01-10T19:15:51.385Z
+updated: 2025-01-18T02:15:14.579Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
@@ -68,16 +68,16 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -88,10 +88,6 @@ There are mainly two ways to update your drivers:
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if the issue persists. If yes, continue to the next solution.
 
@@ -105,17 +101,21 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -168,15 +168,24 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[New] Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>[Updated] Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-game-recordings-in-the-era-of-win10/"><u>2024 Approved Efficient Game Recordings in the Era of Win10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-strategies-for-reducing-battlefield-5-game-lag/"><u>Efficient Strategies for Reducing Battlefield #5 Game Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-modern-warfare-2-experience-overcoming-windowed-woes-steady-fps-and-smooth-action-guaranteed/"><u>Enhance Your Modern Warfare 2 Experience: Overcoming Windowed Woes – Steady FPS and Smooth Action Guaranteed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-ios-n-contact-poster-creation-and-distribution-with-namedrop-feature/"><u>Master the Art of iOS N Contact Poster Creation & Distribution with NameDrop Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/screen-flickering-gone-discover-how-you-can-achieve-a-stable-display/"><u>Screen Flickering Gone! Discover How You Can Achieve a Stable Display</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-fps-issues-in-fallout-76-with-easy-to-follow-fixes-players/"><u>Solve FPS Issues in Fallout 76 with Easy-to-Follow Fixes Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-content-composer-arena/"><u>[New] 2024 Approved Content Composer Arena</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-clearing-up-tips-for-preventing-gopro-haze/"><u>[Updated] Clearing Up Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficient-thumbnail-generation-with-your-phone-for-video-content-for-2024/"><u>[Updated] Efficient Thumbnail Generation with Your Phone for Video Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-peeling-away-at-sharex-comparative-views-and-substitutes-for-2024/"><u>[Updated] Peeling Away at ShareX Comparative Views & Substitutes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-common-problems-of-mir4-crashes-in-personal-computers/"><u>Bypassing the Common Problems of MIR4 Crashes in Personal Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/downloading-twitters-animated-content-simplified-for-2024/"><u>Downloading Twitter's Animated Content Simplified for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-fixes-getting-tekken-amoored-pc-version-up-and-running-again/"><u>Essential Fixes: Getting Tekken Amoored PC Version Up and Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-launch-error-problems-in-video-games-a-comprehensive-guide/"><u>How to Fix 'Launch Error' Problems in Video Games - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-common-glitches-with-your-realtek-hd-graphic-cards-driver-software/"><u>How to Fix Common Glitches with Your Realtek HD Graphic Card's Driver Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-5-lite-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 5 Lite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286548394-mts/"><u>MTS形式に優れた変換ソフトで順位上位を目指せ!無料アプリランキング</u></a></li>
+<li><a href="https://win-able.techidaily.com/rising-as-a-wealthy-dragon-looter-the-ultimate-pc-gaming-guide/"><u>Rising as a Wealthy Dragon Looter: The Ultimate PC Gaming Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-warzone-cant-locate-matches-a-comprehensive-guide-for-pc-players/"><u>Solving 'Warzone Can't Locate Matches': A Comprehensive Guide for PC Players</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-installing-fresh-drivers-for-your-xp-pen-graphics-device/"><u>Step-by-Step Process: Installing Fresh Drivers for Your XP-Pen Graphics Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-launch-modern-warfare-successfully-on-pc-a-guide/"><u>Steps to Launch Modern Warfare Successfully on PC - A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-troubles-2024-crash-solutions-that-actually-work/"><u>Terraria Troubles? 2024 Crash Solutions That Actually Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-solving-street-fighter-6-connectivity-issues-latency-ping-tuning-for-pc/"><u>Troubleshoot & Improve: Solving Street Fighter 6 Connectivity Issues - Latency, Ping Tuning for PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-magic-6-lite-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor Magic 6 Lite IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

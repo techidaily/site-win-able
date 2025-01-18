@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends 2022: Resolving the 'Leaf' Error Code Issue"
-date: 2025-01-11T17:06:04.862Z
-updated: 2025-01-12T17:12:08.273Z
+date: 2025-01-17T00:30:46.831Z
+updated: 2025-01-17T16:34:08.528Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -72,28 +72,20 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -111,11 +103,19 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -131,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -157,22 +157,24 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-convert-any-youtube-tracking-ios-solutions-in-6-free-tools/"><u>[New] 2024 Approved Convert Any YouTube Tracking IOS Solutions in 6 Free Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-the-power-of-live-videos-on-facebook/"><u>2024 Approved Unlock the Power of Live Videos on Facebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-2s-performance-issues-fixes-for-fps-drop-and-stuttering-in-pc-gameplay/"><u>Dying Light 2'S Performance Issues: Fixes for FPS Drop & Stuttering in PC Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-speeding-techniques-for-a-lag-free-chrome-web-browsing/"><u>Effortless Speeding Techniques for a Lag-Free Chrome Web Browsing</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-stability-to-your-football-manager-2020-installation/"><u>Expert Advice on Restoring Stability to Your Football Manager 2020 Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-issues-when-launching-your-metropolitan-masterpiece-city-skylines-2-edition/"><u>Fixing Issues When Launching Your Metropolitan Masterpiece: City Skylines 2 Edition</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/guida-alla-selezione-del-meglio-nei-servizi-di-mastering-professionale/"><u>Guida Alla Selezione Del Meglio Nei Servizi Di Mastering Professionale</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-hitman-3-continuous-crashing-issues/"><u>How to Resolve Hitman 3 Continuous Crashing Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-x-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone X with iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y100-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y100 Phone Now with These Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/market-dominance-keyphrases-for-successful-advertising-for-2024/"><u>Market Dominance Keyphrases for Successful Advertising for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-effective-ways-to-prevent-ring-of-elysium-game-crashes/"><u>Overcoming the Challenge: Effective Ways to Prevent Ring of Elysium Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-launching-dead-space-remastered-troubleshooting-latest-fixes-2024/"><u>Step-by-Step Solutions for Launching Dead Space Remastered Troubleshooting - Latest Fixes 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-adding-source-scripts-to-word-docs/"><u>Step-by-Step Tutorial on Adding Source Scripts to Word Docs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-battle-against-lag-in-fortnite-expert-tips-for-optimal-performance/"><u>Winning the Battle Against Lag in Fortnite: Expert Tips for Optimal Performance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximize-your-impact-top-10-insta-tools-for-post-management/"><u>[New] 2024 Approved Maximize Your Impact Top 10 Insta Tools for Post Management</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-do-siri-voice-on-tiktok-in-2024/"><u>[Updated] How to Do Siri Voice on TikTok, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-convert-audio-online-mp3-to-youtube-live-upload-guide/"><u>[Updated] In 2024, Convert Audio Online MP3 to YouTube Live Upload Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>2024 Approved Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/are-services-active-on-xbox-live-real-time-xbox-online-status/"><u>Are Services Active on Xbox Live? Real-Time Xbox Online Status</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-and-firefox-tips-solving-the-problem-of-stalled-video-but-ongoing-audio-on-youtube/"><u>Chrome & Firefox Tips: Solving the Problem of Stalled Video but Ongoing Audio on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/complete-guide-to-record-desktop-screen-on-windows-for-free-3-ways/"><u>Complete Guide to Record Desktop Screen on Windows for Free [3 Ways]</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-fast-how-to-stop-fifa-22-from-crashing-on-your-computer/"><u>Fix It Fast: How to Stop FIFA 22 From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-gaming-smoothed-eliminating-stutters-and-lag/"><u>Grand Theft Auto V Gaming Smoothed: Eliminating Stutters and Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-disco-elysium-adventure-from-crashing-on-pc-a-comprehensive-guide/"><u>How to Stop Your Disco Elysium Adventure From Crashing on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-xs-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone XS to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-guide-solving-freezing-and-fps-dips-in-siftu-expert-advice/"><u>PC Gaming Guide: Solving Freezing and FPS Dips in SIFTU – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-optimization-solutions-to-stop-wrc-10-from-crashing-and-dive-into-the-fia-world-rally-action/"><u>PC Performance Optimization: Solutions to Stop WRC 10 From Crashing and Dive Into the FIA World Rally Action</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-overcoming-valorants-lag-issues/"><u>Solving the Mystery: Overcoming Valorant's Lag Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-art-of-capture-and-storage-managing-snapshots-like-a-pro-for-2024/"><u>The Art of Capture and Storage Managing Snapshots Like a Pro for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A78 5G FRP</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-black-ops-cold-war-overcoming-error-code-0xc0000005/"><u>Troubleshooting Black Ops Cold War: Overcoming Error Code 0Xc0000005</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-deals-grab-your-samsung-odyssey-neo-g8-for-just-550-during-best-buys-anti-prime-event-insights/"><u>Unlock Exclusive Deals - Grab Your Samsung Odyssey Neo G8 For Just $550 During Best Buy's Anti-Prime Event - Insights</u></a></li>
 </ul></div>
 

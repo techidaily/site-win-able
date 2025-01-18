@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today!
-date: 2024-08-13T10:03:37.852Z
-updated: 2024-08-14T10:03:37.852Z
+date: 2025-01-14T23:29:47.554Z
+updated: 2025-01-18T05:10:04.250Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 
 Jurassic World Evolution is an exciting game where you can create your own park with dinosaurs. However, many players complained the constant crashes have made the gameplay disappointing. If you’re troubled by the same problem, don’t worry, and here are 5 fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all; simply work your way down the list until you find the one that solves your issue.
@@ -42,17 +39,15 @@ There are two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -70,6 +65,11 @@ There are two ways you can update the graphics driver:
 2. Right-click**Jurassic World Evolution** from the game list and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files.jpg)
 4. Wait until the process finishes and re-open the game to test.
 
@@ -78,14 +78,8 @@ There are two ways you can update the graphics driver:
 #### On Epic Games Launcher
 
 1. Run the Epic Games Launcher and select the**Library** tab from the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-1.jpg)
 2. Mouse over the Jurassic World Evolution tile and click the**icons with three dots** . Then click**Verify** on the pop-up menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-1.jpg)
 3. After the process completes, restart your game to test.
 
@@ -97,6 +91,10 @@ Do the crashes disappear now? If not, try the next fix below.
 
  If you’re still unable to play the game, continue to the next fix then.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Disable overlays
 
  The overlay feature supported by third-party software is also a known culprit for the crashing of many games. Follow the instruction below and make sure overlay is disabled on[Steam](https://tools.techidaily.com/drivereasy/download/) and[Discord](https://tools.techidaily.com/drivereasy/download/) .
@@ -105,21 +103,29 @@ Do the crashes disappear now? If not, try the next fix below.
 
 1. Run the Steam client.
 2. Click**Steam** at the top left corner and click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1-1.jpg)
 3. Navigate to the**In-Game** tab. Then, untick**Enable the Steam Overlay while in-game** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Disable Discord overlay
 
 1. Open Discord and click the**cogwheel icon** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1.jpg)
 2. Select**Overlay** and**toggle off Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00.jpg)
 
  Check whether Jurassic World Evolution stops crashing or not. If this method doesn’t give any luck, proceed to the last one.
@@ -129,23 +135,18 @@ Do the crashes disappear now? If not, try the next fix below.
  If you’re running Jurassic World Evolution on a low-end PC, it’s suggested you lower the graphics settings for a smoother performance. Here is how:
 
 1. Launch the game and select**Settings** on the main screen.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-0.jpg)
 2. Go to the**Display** section.
 3. Change the Screen Mode to**Windowed** and make sure to**turn off VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-2.jpg)
 4. Go Back to the Settings Menu and navigate to the**Graphics** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-1.jpg)
 5. **Turn down the options** one by one.  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, you should see the game works better and the FPS boost.
 
@@ -161,8 +162,6 @@ Do the crashes disappear now? If not, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +169,23 @@ Do the crashes disappear now? If not, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-dissecting-the-capabilities-of-free2x-recording-software/"><u>[New] 2024 Approved Dissecting the Capabilities of Free2X Recording Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>[New] 2024 Approved The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-beyond-boundaries-revisited-assessing-current-realm-future-challenges-for-2024/"><u>[New] Beyond Boundaries Revisited Assessing Current Realm, Future Challenges for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitches-the-ultimate-fix-guide-for-preventing-vrchat-crashes-on-pc/"><u>Beat the Glitches: The Ultimate Fix Guide for Preventing VRChat Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-resolve-the-never-ending-crash-loop/"><u>Call of Duty: Modern Warfare - Resolve the Never-Ending Crash Loop</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-multiple-caped-crusaders-collide-during-pc-play/"><u>Effective Solutions for When Multiple Caped Crusaders Collide During PC Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-and-fps-in-tainted-grail-conquest-gameplay-guide/"><u>Enhancing Performance & FPS in Tainted Grail: Conquest Gameplay Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-loop-solve-your-anthem-games-unending-load-screens/"><u>Fixing the Endless Loop: Solve Your Anthem Game's Unending Load Screens</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-15-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 15 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-the-future-of-business-automation-discover-abbyys-innovative-enterprise-platform-abbyy-vantage/"><u>Introducing the Future of Business Automation: Discover ABBYY's Innovative Enterprise Platform, ABBYY Vantage™</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-fixing-your-ps4s-unresponsive-moments/"><u>Step-by-Step Solutions: Fixing Your PS4's Unresponsive Moments</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gpu-troubleshooting-for-the-most-recurrent-cases/"><u>Streamlining GPU Troubleshooting for The Most Recurrent Cases</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-5-mice-you-need-to-try-with-your-ipad-for-seamless-navigation/"><u>Top 5 Mice You Need to Try with Your iPad for Seamless Navigation</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-block-ensuring-seamless-minecraft-setup-on-your-windows-11-machine/"><u>Troubleshooting the Block: Ensuring Seamless Minecraft Setup on Your Windows 11 Machine</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-bringing-your-nikon-videos-to-life-essential-editing-skills-and-tools/"><u>Updated In 2024, Bringing Your Nikon Videos to Life Essential Editing Skills and Tools</u></a></li>
+</ul></div>
 

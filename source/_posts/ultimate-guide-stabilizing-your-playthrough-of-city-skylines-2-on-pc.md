@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2025-01-05T17:15:27.648Z
-updated: 2025-01-12T18:01:59.376Z
+date: 2025-01-14T00:51:01.889Z
+updated: 2025-01-18T05:29:33.510Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -56,6 +60,10 @@ Here’s how:
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
@@ -71,10 +79,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
  If this trick doesn’t give you luck, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Disable overlays
 
  In-game overlays allow you to interact with friends and place orders while you’re enjoying the game. But this handy feature might also be an interference to performance according to some. So if you’re using overlays such as**Steam** or**Discord** , try disabling them and see how it goes.
@@ -86,7 +90,7 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  If this fix doesn’t help you, simply move on to the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -100,16 +104,8 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -130,14 +126,18 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -157,14 +157,14 @@ To do so, follow these steps:
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -186,18 +186,19 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-power-of-3d-luts-in-creative-pixels/"><u>[New] Harnessing the Power of 3D LUTs in Creative Pixels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>[Updated] 2024 Approved Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-android-and-ios-guide-capturing-google-meet-sessions/"><u>2024 Approved Android & iOS Guide Capturing Google Meet Sessions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-one-device-one-storage-transferring-files-smoothly/"><u>2024 Approved One Device, One Storage Transferring Files Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-launch-errors-in-farming-simulator-22-and-how-to-correct-them/"><u>Common Launch Errors in Farming Simulator 22 and How to Correct Them</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/controlling-clockdate-visibility-in-windows-11-bar/"><u>Controlling Clock/Date Visibility in Windows 11 Bar</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-dvd6/"><u>DVDのリッピング・コピー: 著作権を侵害せずに安全に行うステップバイステップガイド - DVD保存技術6ページ目</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/getting-started-in-the-world-of-online-product-evaluation-channels-for-2024/"><u>Getting Started in the World of Online Product Evaluation Channels for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-x50i-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor X50i to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/play-without-pause-fixing-the-crash-glitches-of-immortals-fenyx-rising/"><u>Play Without Pause: Fixing the Crash Glitches of Immortals Fenyx Rising</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-instant-reload-resolving-apex-legends-issues/"><u>Quick Fixes for Instant Reload: Resolving Apex Legends Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-football-manager-202n1-pc-solutions-to-end-game-crashing-woes/"><u>Troubleshooting Your Football Manager 202N1 PC: Solutions to End Game Crashing Woes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-low-cost-digital-video-capture-software/"><u>[Updated] Essential Low-Cost Digital Video Capture Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-frp-bypass-by-drfone-android/"><u>About Xiaomi FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-application-wont-boot-resolve-error-code-0xc0000022-and-start-successfully/"><u>Adobe Application Won't Boot? Resolve Error Code 0xC0000022 and Start Successfully.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/earn-big-on-insta-ranking-top-money-makers/"><u>Earn Big on Insta Ranking Top Money Makers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/eclipse-antenna-from-clearstream-delivers-outstanding-results-with-effortless-setup/"><u>Eclipse Antenna From ClearStream Delivers Outstanding Results with Effortless Setup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-practices-logging-google-voice-dialogues-for-2024/"><u>Efficient Practices Logging Google Voice Dialogues for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-now-available/"><u>Insights Unveiled: 'It Takes Two' Now Available</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-the-art-of-video-annotation-using-markers-with-ease-for-2024/"><u>Master the Art of Video Annotation Using Markers with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-best-video-editing-apps-for-macbook-and-imac/"><u>New 2024 Approved S Best Video Editing Apps for MacBook and iMac</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-common-causes-of-a-purely-black-display/"><u>Resolved: Troubleshooting Common Causes of a Purely Black Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-no-more-crusader-kings-iii-computer-freezes/"><u>Solution Guide: No More Crusader Kings III Computer Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-issues-in-avatar-the-game-optimizing-performance-on-pandora/"><u>Solving Lag Issues in 'Avatar: The Game': Optimizing Performance on Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-civilization-6-installation-issues-in-windows-10-environments/"><u>Troubleshooting Civilization 6 Installation Issues in Windows 10 Environments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-enhanced-effect-of-a-concentrated-focus-in-marvels-spider-man-miles-morales/"><u>Unpacking the Enhanced Effect of a Concentrated Focus in Marvel's Spider-Man: Miles Morales</u></a></li>
 </ul></div>
 

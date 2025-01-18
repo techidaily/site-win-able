@@ -1,7 +1,7 @@
 ---
 title: "'Days Gone': PS4 FPS Hits Computers, Unleash the Wild Bandit in Epic Open World"
-date: 2025-01-06T17:50:00.555Z
-updated: 2025-01-12T17:24:39.919Z
+date: 2025-01-12T07:44:24.134Z
+updated: 2025-01-18T07:19:40.586Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -95,24 +95,12 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Perform a Windows update
 
@@ -125,6 +113,10 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Titanfall 2 patch
 
@@ -151,7 +143,15 @@ Below are the system requirements for Titanfall 2:
 3. Select**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/repair.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -161,31 +161,31 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -226,16 +226,19 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-elevating-vimeo-video-speed-for-2024/"><u>[New] Elevating Vimeo Video Speed for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/configuring-windows-11-for-automatic-hdr-mode-for-2024/"><u>Configuring Windows 11 for Automatic HDR Mode for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhance-your-livestream-going-beyond-obs-for-2024/"><u>Enhance Your Livestream Going Beyond OBS for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-black-ops-4s-frame-rate-dips-and-steady-your-gameplay/"><u>How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-v-rising-game-lag-and-ensure-fluid-playback-on-pc/"><u>How to Stop V Rising Game Lag and Ensure Fluid Playback on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-11x-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 11X 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-device-sync-how-to-resolve-iphone-recognition-failures-on-windows-10-using-itunes/"><u>Mastering Device Sync: How to Resolve iPhone Recognition Failures on Windows 10 Using iTunes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-call-of-duty-wwii-display-problems-fixes-for-windows-players/"><u>Resolving Call of Duty: WWII Display Problems - Fixes for Windows Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003299648-troubleshooting-steams-remote-play-top-solutions-for-when-it-fails/"><u>Troubleshooting Steam's Remote Play: Top Solutions for When It Fails!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-14-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 14 FRP Bypass</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-solutions-for-fixing-any-iphone-model-issues/"><u>Ultimate Guide: Top 15 Solutions for Fixing Any iPhone Model Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rofessional-content-creation-tools-review-studio-vs-beta/"><u>[New] Professional Content Creation Tools Review Studio Vs. Beta</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlit-splendor-hues-and-highlights-technique/"><u>[New] Streamlit Splendor Hues and Highlights Technique</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-social-media-savvy-ig-filter-hits/"><u>[Updated] 2024 Approved Social Media Savvy IG Filter Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[Updated] Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-cost-free-text-animation-techniques/"><u>2024 Approved Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-tips-for-preventing-and-repairing-phoenix-point-game-crashes/"><u>Definitive Tips for Preventing & Repairing Phoenix Point Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-discord-wont-open-a-comprehensive-guide/"><u>Effective Fixes for 'Discord Won't Open' - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fixes-tackling-cod-mws-multiplayer-bugs/"><u>Final Fixes: Tackling Cod: MW's Multiplayer Bugs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-bodycam-brands-dominating-the-market-your-must-see-selection/"><u>Leading Bodycam Brands Dominating the Market - Your Must-See Selection</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-error-0xc0000022-fixes-for-troubleshooting-adobe-app-launch-failures/"><u>Resolving Error 0xC0000022: Fixes for Troubleshooting Adobe App Launch Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-a-guide-to-smoother-play-in-total-war-saga-troy-edition/"><u>Resolving Performance Hiccups - A Guide to Smoother Play in Total War: Saga, Troy Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-up-to-ultra-fast-gaming-the-new-asus-rog-strix-xg27wcs-monitor-delivers-crisp-visuals-on-its-27-va-screen-running-at-180-hz/"><u>Step Up to Ultra-Fast Gaming - The New Asus Rog Strix XG27WCS Monitor Delivers Crisp Visuals on Its 27 VA Screen Running at 180 Hz</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-in-your-system-delete-or-preserve/"><u>The Role of msdia80.dll in Your System - Delete or Preserve?</u></a></li>
 </ul></div>
 

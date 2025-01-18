@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2025-01-09T17:28:10.829Z
-updated: 2025-01-12T17:17:26.242Z
+date: 2025-01-16T18:18:21.111Z
+updated: 2025-01-17T17:00:38.314Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 [3: Configure Windows sound settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Set Dynamic Range to Compressed mode
 
  If you find it hard to hear the game audio sometimes, for example, little spatial sound feedback when enemies approach or when you’re firing a gun, you can try this quick fix first. By changing the game audio setting, dynamic range, to compressed mode, the game audio will be adjusted to play at the same level of volume. Here’s how:
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 3. Play a game to test the issue.
 
 If this fix doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -79,7 +79,7 @@ If this fix doesn’t solve your problem, try the next fix.
  Restart your PC for the new drivers to take effect. If the audio problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure Windows sound settings
@@ -87,7 +87,7 @@ If this fix doesn’t solve your problem, try the next fix.
  Last but not least, you can try to adjust the sound settings on your PC to see if it helps. While we’re waiting for the developers to recognize and work on the bugs, these workarounds may improve the in-game audio quality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Configure the output device settings
@@ -98,11 +98,15 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-14.jpg)
 2. Make sure you select the**Stereo** audio. Hands-Free audio allows you to use your device as both the output and input device, but your audio quality will be very low.  
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn on loudness equalization
 
@@ -115,16 +119,12 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-11.jpg)
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Turn on spatial sound
@@ -135,7 +135,7 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disable the communication option
@@ -169,20 +169,24 @@ If this fix doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-clearer-captures-smartphone-specific-tripods-guide/"><u>[Updated] Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-performance-issues-and-latency-drops-expected-for-players/"><u>COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-computer-lags-advanced-solutions-for-enhancing-your-sims-4-gameplay-pro-advice-2024/"><u>Conquering Computer Lags: Advanced Solutions for Enhancing Your Sims 4 Gameplay (Pro Advice, 2024)</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-solve-printer-scan-failures/"><u>Easy Steps to Solve Printer Scan Failures</u></a></li>
-<li><a href="https://win-top.techidaily.com/ensure-crystal-clear-audiovideo-in-your-next-gotomeeting-by-following-these-simple-recording-tips/"><u>Ensure Crystal Clear Audio/Video in Your Next GoToMeeting by Following These Simple Recording Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-how-to-stop-emergency-and-amber-notifications-on-ios-devices/"><u>Guide: How to Stop Emergency & AMBER Notifications on iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-k11x-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo K11x in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y02t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y02T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamline-the-conversion-vimeo-videos-to-mp3-files/"><u>In 2024, Streamline the Conversion Vimeo Videos to MP3 Files</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/r-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/set-financial-goals/"><u>Set Financial Goals</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-memory-card-for-sony-a7s-ii/"><u>[New] Best Memory Card for Sony A7S II</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/et-inspired-from-top-10-recruitment-videos/"><u>[New] Get Inspired From Top 10 Recruitment Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamlining-video-production-with-clear-sound-effects-for-2024/"><u>[Updated] Streamlining Video Production with Clear Sound Effects for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-seamless-transitions-smooth-editing-techniques-for-youtube-content/"><u>2024 Approved Seamless Transitions Smooth Editing Techniques for YouTube Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-4-startup-troubles-heres-how-you-can-resolve-them/"><u>Age of Empires 4 Startup Troubles? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-face-off-ranking-the-best-response-to-the-same-creative-cue/"><u>AI Face-Off: Ranking the Best Response to the Same Creative Cue</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-11-ways-to-manage-and-share-your-ios-data-alternative-solutions-to-itunes/"><u>Best 11 Ways To Manage & Share Your iOS Data: Alternative Solutions To iTunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-robloxs-403-denial-message-for-windows-users/"><u>Decoding Roblox's 403 Denial Message for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-amicable-guide-troubleshooting-and-repairing-pc-game-freezes/"><u>Fallout Amicable Guide: Troubleshooting and Repairing PC Game Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-origin-not-launching-on-windows-11-a-step-by-step-guide/"><u>Fixes for 'Origin Not Launching on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fully-optimized-enjoy-the-chaos-of-tiny-tinas-wonderlands-a-complete-fix-for-pc-users/"><u>Fully Optimized: Enjoy the Chaos of Tiny Tina's Wonderlands - A Complete Fix for PC Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-best-lightroom-alternatives-free-and-paid/"><u>In 2024, 10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>In 2024, Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-for-a-smooth-experience-how-to-fix-football-manager-2022s-stability-issues-on-windows/"><u>Optimizing Your PC for a Smooth Experience: How to Fix Football Manager 2022'S Stability Issues on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-survival-avatar-triumphs-in-pandoras-wild-realm/"><u>PC Gaming Survival: Avatar Triumphs in Pandora’s Wild Realm</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-gaming-woes-fixing-recurring-crashes-in-outriders/"><u>Resolve Your Gaming Woes: Fixing Recurring Crashes in Outriders</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/resolving-incompatibility-how-to-fix-a-scanner-that-wont-work-with-your-windows-pc-tips-from-yl-computing/"><u>Resolving Incompatibility: How to Fix a Scanner That Won't Work with Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-crash-fixing-the-unresponsive-game-issue/"><u>Rocket League Crash: Fixing the Unresponsive Game Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-stop-nioh-2-from-crashing-full-version-help-guide/"><u>Step-by-Step Fixes to Stop Nioh 2 From Crashing: Full Version Help Guide</u></a></li>
 </ul></div>
 

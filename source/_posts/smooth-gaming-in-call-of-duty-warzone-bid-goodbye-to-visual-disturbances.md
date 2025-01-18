@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming in Call of Duty Warzone: Bid Goodbye to Visual Disturbances"
-date: 2024-08-18T15:19:23.319Z
-updated: 2024-08-19T15:19:23.319Z
+date: 2025-01-15T20:34:10.867Z
+updated: 2025-01-18T04:56:31.040Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
 We have been receiving a lot of complaints about the[Vanguard Dev error 5573](https://tools.techidaily.com/drivereasy/download/) , and now the Vanguard error 0x00001338 N. It might be Error Code 0x00001338 (6328) N, 0x00001338 (5573) N, 0x00001338 (0) N, etc. No matter what code you’re getting, you will be able to find possible fixes for the 0x00001338 N series error codes.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are a few fixes that have helped other users resolve their CoD Vanguard error code 0x00001338 N. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -32,14 +29,15 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 6. [**Disable in-game overlays**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Repair your system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 1\. Remove the operator skin
 
  For those who’re getting 0x00001338 (5573) N error code, according to many Vanguard players, the game works right after they remove the operator skin and switch back to the base skin.
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Clear the game cache
 
@@ -56,9 +54,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  4) Delete every folder or file under the**Cache** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
@@ -66,8 +61,9 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update device drivers
 
  For any avid gamers, we can’t emphasize the importance of keeping your graphics driver and audio driver up to date more. Manufacturers deliver new drivers to optimize your gaming experience and fix known bugs, especially for new games such as CoD Vanguard.
@@ -78,24 +74,24 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -149,6 +145,10 @@ Launch CoD Vanguard and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -163,9 +163,6 @@ Launch CoD Vanguard and test the gameplay.
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -177,6 +174,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -227,8 +228,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +235,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>[New] 2024 Approved Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-mememix-download-now/"><u>[Updated] In 2024, Ultimate Mememix Download Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-step-into-the-world-of-vrecorder-downloading-and-using/"><u>2024 Approved Step Into the World of VRecorder Downloading and Using</u></a></li>
+<li><a href="https://fox-links.techidaily.com/compreenas-an-insightful-guide-to-photography-mastery/"><u>Compreenas An Insightful Guide to Photography Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-fallout-3-launch-failures-with-our-top-troubleshooting-tactics/"><u>Defeat Fallout 3 Launch Failures with Our Top Troubleshooting Tactics</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-functionality-to-keyboards-in-pathfinders-wrath-of-the-righteous/"><u>Expert Advice on Restoring Functionality to Keyboards in Pathfinder's Wrath of the Righteous</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-performance-boost-updating-your-graphics-drivers/"><u>Forza Horizon 5 Performance Boost: Updating Your Graphics Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-rectify-errors-in-your-ryzen-master-driver-setup/"><u>How To Successfully Reinstall and Rectify Errors in Your Ryzen Master Driver Setup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ig-peak-performers-iphone-plus-androids-top-covers-app/"><u>In 2024, IG Peak Performers IPhone + Android's Top Covers App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultra-fast-picture-reader-for-windows-11/"><u>In 2024, Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-call-of-duty-warzone-launching-problems-today/"><u>Solve Your Call of Duty Warzone Launching Problems Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-driver-problems-with-your-hp-officejet-pro-6978-printer/"><u>Solving Driver Problems with Your HP OfficeJet Pro 6978 Printer</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-status-of-wolcen-release-an-in-depth-look-at-why-its-not-yet-available/"><u>The Status of Wolcen Release: An In-Depth Look at Why It's Not Yet Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-stop-your-cities-skylines-from-crashing-expert-advice/"><u>The Ultimate Guide to Stop Your Cities: Skylines From Crashing - Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-helldivers-ii-wont-start-on-steam-and-how-to-successfully-fix-it/"><u>Why Helldivers II Won't Start on Steam and How to Successfully Fix It</u></a></li>
+</ul></div>
 

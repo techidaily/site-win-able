@@ -1,7 +1,7 @@
 ---
 title: "Winning Against Lag: Expert Fixes for Dota < 2> - Update Your Game Now"
-date: 2024-08-18T15:19:52.150Z
-updated: 2024-08-19T15:19:52.150Z
+date: 2025-01-14T20:32:08.661Z
+updated: 2025-01-18T08:44:02.019Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/92b37c07bddbdc531cfaf008b46137ba5e744b7d9
 
 Delays and lags in-game are no doubt ruining the fun of the game. If that’s a problem for you when you’re playing Dota 2 and you want to fix Dota 2 lag during gameplay, you’re in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 2 types of lag relevant to gaming – one is FPS lag, the other is network lag. If you’re experience the FPS lag, usually you can adjust your graphics settings to fix it. If you’re experiencing network lag instead – your network connection has slowed down, you can check for bandwidth-hungry apps and your network settings.
@@ -33,9 +30,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 5. **[Adjust the proxy settings](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 6. **[Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: End unwanted background programs
 
  Lags might occur if you’re running multiple applications on your computer, hogging network resources. If that’s the case for you, follow the instructions below to check for and turn off them:
@@ -51,18 +45,12 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
  After you close unwanted programs, restart your game to test your problem. If your problem still exists, try[**fix 2**](https://tools.techidaily.com/drivereasy/download/) , below.
@@ -77,13 +65,14 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
 **4)** Relaunch Dota 2 to see if this has resolved your problem.
@@ -91,8 +80,9 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 If not, don’t worry. There are still 5 more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Rule out driver issues
 
  One of the most common causes of lags during gameplay is the faulty or incompatible graphics driver. If Dota 2 starts lagging after you updated the graphics driver, you’ll need to **[roll back the driver to the previous version](https://tools.techidaily.com/drivereasy/download/)**  ; if you haven’t made any changes to the driver, then **[try updating it to the latest version](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -109,23 +99,18 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **3)** Double-click**Display adapters** to expand the category.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-45-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Right-click the driver and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-46-28.jpg)
 
 **5)** Click**Roll Back Driver** , then click**Yes** to confirm the action if a Window pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-47-09.jpg)
 
 6) Relaunch your game to test the issue.
@@ -142,19 +127,11 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -176,11 +153,12 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-327.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **VIDEO**  tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-328.png)
 
 **4)**  Modify the video settings following the screenshot below.
@@ -194,18 +172,20 @@ If not, don’t worry. There are still 5 more fixes to try.
  Relaunch your game to test your problem. If your issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Change your PC’s power plan
 
  Your computer may slow down to save energy if it’s set to Power Saver Mode. If that’s the case for you, try changing your power plan to High Performance. Here is how:
 
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -215,11 +195,12 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 **5)** Restart your computer, and then relaunch Dota 2 to test your problem.
@@ -258,23 +239,14 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **1)**  Right-click the Steam icon, and then select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
 **2)**  Click **Steam** , and then select **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
 
 **4)** Click **OK** .
@@ -285,11 +257,12 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
 
 **7)**  Click**Downloads** , and then click **CLEAR DOWNLOAD CACHE** .
@@ -299,6 +272,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 **8)**  Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Restart your game to see if this resolved your problem.
 
@@ -317,8 +294,6 @@ If not, don’t worry. There are still 5 more fixes to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -326,4 +301,20 @@ If not, don’t worry. There are still 5 more fixes to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-pioneering-filmmakers-using-vimeo-for-live-captures/"><u>[Updated] 2024 Approved Pioneering Filmmakers Using Vimeo for Live Captures</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-centipede-bug-explained-steps-towards-a-solution/"><u>Destiny 2 Centipede Bug Explained: Steps Towards a Solution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-gaming-experience-on-samsung-qled-q60r-4k-television-expert-review/"><u>Elevate Your Gaming Experience on Samsung QLED Q60R 4K Television - Expert Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-fix-youtube-shorts-thumbnail-not-showing-problem-for-2024/"><u>How to Fix YouTube Shorts Thumbnail Not Showing Problem for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-common-problem-of-exit-code-0-in-minecraft/"><u>How to Overcome the Common Problem of Exit Code 0 in Minecraft</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-make-a-video-call-in-whatsapp-web-in-laptop/"><u>In 2024, How to Make a Video Call in WhatsApp Web in Laptop</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-unable-to-sync-hiccup-with-steam-cloud-services/"><u>Resolved: Overcome 'Unable to Sync' Hiccup with Steam Cloud Services</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/steps-for-retrieving-personal-hidden-snapchat-photos-for-2024/"><u>Steps for Retrieving Personal, Hidden Snapchat Photos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-age-of-empires-iv-download-and-installation-from-the-microsoft-store-now-functional/"><u>Troubleshooting Guide: Age of Empires IV Download and Installation From the Microsoft Store, Now Functional</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-arise-game-crashes/"><u>Troubleshooting Steps: Fixing Arise Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-windows-10-causality-of-0xc19001e1-errors/"><u>Understanding and Solving the Windows 10 Causality of 0Xc19001e1 Errors</u></a></li>
+<li><a href="https://discover-community.techidaily.com/why-your-hard-drive-is-noisy-and-how-to-fix-it-tips-by-yl-technology-experts/"><u>Why Your Hard Drive Is Noisy and How to Fix It - Tips by YL Technology Experts</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/wiederherstellung-von-durch-viren-beschadigten-dateien/"><u>Wiederherstellung Von Durch Viren Beschädigten Dateien</u></a></li>
+</ul></div>
 

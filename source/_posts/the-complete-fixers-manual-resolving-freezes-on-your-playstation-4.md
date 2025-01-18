@@ -1,7 +1,7 @@
 ---
 title: "The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4"
-date: 2025-01-06T17:33:50.398Z
-updated: 2025-01-12T16:23:10.132Z
+date: 2025-01-14T04:57:48.981Z
+updated: 2025-01-18T06:00:10.562Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -70,14 +66,14 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Steam Overlay
 
@@ -86,10 +82,6 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _It Takes Two_ . Then select **Properties** .
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
@@ -112,15 +104,15 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -136,7 +128,7 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -146,7 +138,7 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
@@ -171,12 +163,20 @@ To optimize the graphics settings, follow the steps below:
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -186,15 +186,7 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
@@ -206,7 +198,15 @@ To optimize the graphics settings, follow the steps below:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -232,24 +232,22 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-metaverse-laughs-crafting-funny-virtual-memes/"><u>[New] 2024 Approved Metaverse Laughs Crafting Funny Virtual Memes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-building-an-online-empire-ramp-up-video-views/"><u>[New] In 2024, Building an Online Empire Ramp Up Video Views</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pixel-perfection-leading-ps5-compatible-hdmi-21-monitors/"><u>[New] Pixel Perfection Leading PS5 Compatible HDMI 2.1 Monitors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-waveform-to-ringtone-best-places-to-pick-from-youtubemusic-for-2024/"><u>Audio Waveform to Ringtone Best Places To Pick From YoutubeMusic for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-c33-2023-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme C33 2023 Activity | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>In 2024, A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4-windows-11/"><u>MP4ビデオの切断方法 - Windows 11用ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4m2ts/"><u>MP4ファイルからM2TSへの変換手順を詳しく解説</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-procedures-for-surface-hardware-firmware-updates/"><u>Optimal Procedures for Surface Hardware Firmware Updates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/proven-techniques-for-captivating-viewers-with-live-video-graphics-for-2024/"><u>Proven Techniques for Captivating Viewers with Live Video Graphics for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pubgpc/"><u>PUBGゲームの最高キャプチャ手順：PCおよびスマホ向け</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-straightforward-methods-for-converting-multimedia-into-bulk-ogg-audiovideo/"><u>Quick & Straightforward Methods for Converting Multimedia Into Bulk OGG Audio/Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gopro-video-transformation-quickly-convert-your-adventures-into-mp4-avi-or-other-formats-with-our-specialized-tool/"><u>Seamless GoPro Video Transformation: Quickly Convert Your Adventures Into MP4, AVI, or Other Formats with Our Specialized Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-inserting-your-brands-logo-into-videos-using-computer-tools/"><u>Simple Steps: Inserting Your Brand's Logo Into Videos Using Computer Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-windows-10-movie-and-tv-show-volume-blankness-fixing-sound-malfunctions/"><u>Solve Your Windows 10 Movie and TV Show Volume Blankness - Fixing Sound Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-capturing-spotify-tracks-for-free-on-windows-10-or-11/"><u>Step-by-Step Tutorial: Capturing Spotify Tracks for Free on Windows (10 or 11)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-audacitys-mp4-file-import-error-a-step-by-step-guide/"><u>Troubleshooting Audacity's MP4 File Import Error - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-essential-free-fcpx-plugins-you-need-to-know/"><u>Updated In 2024, 10 Essential Free FCPX Plugins You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/movwindowsmac/"><u>ビデオファイル(MOV形式)から静止画像を取り出せるプロの手法（Windows/Mac）</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-9-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft/"><u>[New] 2024 Approved Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-chrome-video-errors-a-step-by-step-fix-guide-for-2024/"><u>[New] Chrome Video Errors A Step-by-Step Fix Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-views-strategic-partnerships-on-youtube-for-rapid-growth-for-2024/"><u>[Updated] Boost Views Strategic Partnerships on YouTube for Rapid Growth for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-masterclass-8-selecting-top-live-stream-cameras-for-2024/"><u>[Updated] Masterclass 8 Selecting Top Live Stream Cameras for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-changing-your-apple-id-password-in-2020/"><u>Complete Guide: Changing Your Apple ID Password in 2020</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-inquisition-wont-boot-up-discover-effective-methods-to-resolve-the-problem/"><u>Dragon Age Inquisition Wont Boot Up? Discover Effective Methods to Resolve the Problem</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-the-perfect-binge-worthy-mukbang-experience/"><u>In 2024, Crafting the Perfect Binge-Worthy Mukbang Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/naraka-point-blank-unravelled-glitches-and-fixes/"><u>Naraka: Point Blank - Unravelled Glitches and Fixes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatai-for-auto-tailoring-techniques/"><u>Navigating ChatAI for Auto Tailoring Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-new-frontiers-in-web-surfing-unveiling-the-advantages-and-limitations-of-opera-one-browser-as-featured-on-zdnet/"><u>Navigating New Frontiers in Web Surfing: Unveiling the Advantages & Limitations of Opera One Browser as Featured on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011200421-overcome-the-roblox-error-277-on-windows-expert-tips-for-2n24/"><u>Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24!</u></a></li>
+<li><a href="https://win-able.techidaily.com/path-of-exile-instance-connection-woes-beat-them-with-our-2024-guide-to-flawless-gameplay/"><u>Path of Exile Instance Connection Woes? Beat Them with Our 2024 Guide to Flawless Gameplay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-gionee-f3-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Gionee F3 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-lost-connection-with-battlenet-how-to-restore/"><u>Resolved: Lost Connection with Battle.net - How to Restore</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-comprehensive-guide-to-smoothing-out-google-chromes-flickering-issues-on-your-pc-updated/"><u>The Comprehensive Guide to Smoothing Out Google Chrome’s Flickering Issues on Your PC (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-solutions-stabilizing-marvels-guardians-of-the-galaxy-game-on-your-pc/"><u>Top 8 Solutions: Stabilizing Marvel's Guardians of the Galaxy Game on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-prevent-hitman-3-from-freezing-on-pc-expert-tips-inside/"><u>Ultimate Guide to Prevent Hitman 3 From Freezing on PC - Expert Tips Inside</u></a></li>
 </ul></div>
 

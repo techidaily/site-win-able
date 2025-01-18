@@ -1,7 +1,7 @@
 ---
 title: "Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix"
-date: 2025-01-10T17:35:18.331Z
-updated: 2025-01-12T16:18:41.551Z
+date: 2025-01-10T18:31:45.263Z
+updated: 2025-01-17T19:09:11.756Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 7. **[Uninstall Optifine](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure Minecraft is using the dedicated GPU
 
  Sometimes the operating system won’t recognize Minecraft as a game and won’t run it with the dedicated GPU for high performance. If that’s the case for you, you’re likely to experience stuttering in Minecraft. To fix it, you can force the game to use the dedicated GPU via Graphics settings. Here’s how:
@@ -57,32 +65,28 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings.jpg)
 2. In Display settings, scroll down the page and select**Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
 If this solution doesn’t help, continue with the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -108,7 +112,7 @@ If this solution doesn’t help, continue with the next fix below.
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -154,7 +158,7 @@ But if it doesn’t, take a look at the next fix.
 2. Click the**Gaming** Tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
@@ -163,19 +167,15 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Turn off threaded optimization
 
@@ -188,19 +188,11 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
 If the stuttering issue remains, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Allocate more RAM
 
@@ -211,16 +203,24 @@ If the stuttering issue remains, try the next fix.
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch Minecraft and see if this helps fix the stuttering.
 
@@ -257,20 +257,19 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/ai-revolutionizes-bing-with-microsofts-innovation/"><u>AI Revolutionizes Bing with Microsoft's Innovation</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a14-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A14 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-steps-to-remove-drm-from-list-des-epotres-epub-files/"><u>Comprehensive Guide: Steps to Remove DRM From List Des Épôtres ePub Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-the-delay-an-in-depth-look-at-why-guilty-gear-strive-is-yet-to-hit-shelves/"><u>Decoding the Delay: An In-Depth Look at Why 'Guilty Gear Strive' Is Yet to Hit Shelves</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disable-the-autoplay-function-in-apple-music-effortlessly/"><u>Disable the Autoplay Function in Apple Music Effortlessly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fanfare-gaming-patch/"><u>Fanfare Gaming Patch</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-pc-players-when-hitman-3-refuses-to-open/"><u>Fixes for PC Players When Hitman 3 Refuses to Open</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-tackle-high-cpu-drainage-by-svchostexe-in-windows-11-complete-solution/"><u>How to Tackle High CPU Drainage by svchost.exe in Windows 11 [Complete Solution]</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-your-playthrough-tips-to-eliminate-stuttering-in-fallout-76/"><u>Improve Your Playthrough: Tips to Eliminate Stuttering in Fallout 76</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-voice-over-mastery-essential-fcp-recording-hacks/"><u>New In 2024, Voice Over Mastery Essential FCP Recording Hacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/stardew-valley-launching-problems-heres-how-to-fix-them/"><u>Stardew Valley Launching Problems? Here's How to Fix Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/terraria-continuously-crashes-top-fixes-and-solutions/"><u>Terraria Continuously Crashes? - Top Fixes & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-the-notorious-black-screen-issue/"><u>Troubleshooting and Repairing the Notorious Black Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-msvcr1ebdll-file-missing-on-helldivers-2-game/"><u>Troubleshooting Steps: MSVCR1eb.dll File Missing on HellDivers 2 Game</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-creativity-in-canva-uncovered-photo-editor-secrets/"><u>[New] Elevate Creativity in Canva Uncovered Photo Editor Secrets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-text-gymnastics-ingenious-techniques-for-animated-bounces/"><u>[New] Text Gymnastics Ingenious Techniques for Animated Bounces</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-garrys-mod-crashing-woes-updated-fixes-tips-and-solutions/"><u>Banish Garry's Mod Crashing Woes: Updated Fixes, Tips, and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-solving-steam-cannot-update-cloud-library-issues/"><u>Expert Advice for Solving 'Steam Cannot Update Cloud Library' Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/farm-tastic-gaming-best-trio-of-agricultural-games-for-2024/"><u>Farm-Tastic Gaming Best Trio of Agricultural Games for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-5s-new-dimensions-4-features-we-crave/"><u>GPT-5's New Dimensions: 4 Features We Crave</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-evaluating-dji-flying-visor-experience/"><u>In 2024, Evaluating DJI Flying Visor Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-guide-mastering-gopro-video-editing/"><u>In 2024, The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-navigate-past-the-new-world-connection-snag/"><u>Mastering Fixes: Navigate Past The 'New World Connection' Snag</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmx-200-review-superior-sounds-with-room-for-growth/"><u>MMX 200 Review: Superior Sounds with Room for Growth</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-resolving-javascript-issues-in-discord/"><u>Quick Solutions: Resolving JavaScript Issues in Discord</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-schedule-using-these-4-insights-on-chatgpt/"><u>Streamline Your Schedule Using These 4 Insights on ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-initialization-error-of-vanguard-ability-on-valorant-a-comprehensive-fix/"><u>Troubleshooting the Initialization Error of Vanguard Ability on Valorant: A Comprehensive Fix</u></a></li>
 </ul></div>
 

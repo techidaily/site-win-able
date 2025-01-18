@@ -1,7 +1,7 @@
 ---
 title: "Step Up Your Gameplay: Supercharge Horizon Zero Dawn's Frame Rate for Optimal Play."
-date: 2024-08-18T15:19:53.220Z
-updated: 2024-08-19T15:19:53.220Z
+date: 2025-01-16T22:28:07.685Z
+updated: 2025-01-17T18:23:36.464Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 **League of Legends FPS drops?**  Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only one to experience this issue. Thousands of LoL players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 6. [**Change the power plan of your PC and adjust your Windows system for the best performance**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check If your PC meets the minimum system requirements for League of Legends**
 
@@ -83,11 +88,13 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. Run **Driver Easy**  and click the **Scan Now**  button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap759.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap760.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  See if this issue is fixed after you updated your graphics driver. If not, try the next fix, below.
@@ -105,19 +112,20 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap761.png)
 2. View Control Panel by   **Large icons**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap762.png)
 3. Select **NVIDIA Control Panel**  to open it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap763.png)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap764.png)
 
 #### **If you’re using AMD graphics card:**
@@ -125,12 +133,14 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap765.png)
 2. View Control Panel by   **Large icons**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap766.png)
 3. Select your **AMD Radeon Settings**   to open it.
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap767.png)
 
 #### **If you’re using Intel graphics card:**
@@ -140,46 +150,36 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. View Control Panel by   **Large icons**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap769.png)
 3. Select **Intel Graphics Settings**  to open it.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap770.png)
 4. Click **3D**  to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap771.png)
 5. Click **Scan**  to add your **League of Legends**  to the application list.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap772.png)
 6. Modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap773.png)
 7. Click **Apply**  to save the settings.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap774.png)
 
  Run League of Legends again to see if the FPS will drop or not. If this issue reappears, don’t worry, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### **Fix 4: Enable low spec mode**
 
  If your PC fails to meet the recommended system requirements for League of Legends, you may need to **enable low spec mode**  to ensure that League of Legends runs smoothly. Here is how to do it:
 
 1. Launch League of Legends and log in.
 2. In the upper-right corner, click**the gear button**  to open the game settings.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 3. **Check the box** next to**Enable Low Spec Mode** and click**DONE** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
  Run League of Legends to see if you resolved this issue. If not, try the next fix, below.
@@ -190,14 +190,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 1. Launch League of Legends and log in.
 2. In the upper-right corner, click**the gear button**  to open the game settings.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 3. Click**Initiate Full Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 4. Click**Yes** to continue. This may take a while.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you fixed this issue after the full repair process completed. If this issue reappears, try the next fix, below.
 
@@ -210,19 +211,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap782.png)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap783.png)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap784.png)
 5. Select **Adjust for best performance** and click **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap785.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -238,8 +235,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +242,22 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-no-hassle-just-hilarity-embark-on-the-ifunny-meme-journey/"><u>[New] 2024 Approved No Hassle, Just Hilarity Embark on the iFunny Meme Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fallout-3-freezes-on-windows-10/"><u>[Solved] Fallout 3 Freezes on Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-fps-in-low-speed-clips/"><u>[Updated] In 2024, Optimal FPS in Low-Speed Clips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-soundbank-freeness-central/"><u>2024 Approved FB Soundbank Freeness Central</u></a></li>
+<li><a href="https://win-able.techidaily.com/eradicate-your-fortnite-lag-problems-with-these-easy-fixes/"><u>Eradicate Your Fortnite Lag Problems with These Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frustrating-103003-glitch-in-battlegrounds-of-arma-a-complete-walkthrough/"><u>Fixing the Frustrating 103003 Glitch in Battlegrounds of Arma - A Complete Walkthrough</u></a></li>
+<li><a href="https://solve-help.techidaily.com/getting-current-printer-drivers-with-yl-software-tips-and-tricks-from-the-experts-at-yl-computing/"><u>Getting Current Printer Drivers with YL Software - Tips and Tricks From the Experts at YL Computing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enjoy-endless-creativity-discover-the-best-in-cheap-online-video-downloading/"><u>In 2024, Enjoy Endless Creativity Discover the Best in Cheap, Online Video Downloading</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-find-x7-ultra-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo Find X7 Ultra to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-tips-for-a-smooth-uninterrupted-experience-in-gta-5/"><u>Master Tips for a Smooth, Uninterrupted Experience in GTA 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-gta-5-wont-start-up/"><u>Resolved: Fixes for 'GTA 5 Won't Start Up'</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-image-capture-with-ios-11-updates-for-2024/"><u>Revolutionizing Image Capture with iOS 11 Updates for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Plus from iCloud</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-why-doesnt-my-metro-exodus-pc-version-continuously-work/"><u>Troubleshooting Steps: Why Doesn't My Metro Exodus PC Version Continuously Work?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-the-ultimate-guide-to-reestablishing-icloud-photo-sync/"><u>Unstuck iPhone: The Ultimate Guide to Reestablishing iCloud Photo Sync</u></a></li>
+</ul></div>
 

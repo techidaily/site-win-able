@@ -1,7 +1,7 @@
 ---
 title: Red Dead Redemption 2 - How To Stop It From Crashing on PCs
-date: 2024-08-13T10:03:08.280Z
-updated: 2024-08-14T10:03:08.280Z
+date: 2025-01-10T19:27:06.317Z
+updated: 2025-01-17T22:22:17.144Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 
 Left 4 Dead 2 is an old game but there’re still gamers who love playing it. The game is quite steady but if you’re newbies and encounter crashing, don’t worry, this post is here to help.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -28,6 +25,10 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 4. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable add-ons](https://tools.techidaily.com/drivereasy/download/)
 6. [Change compatibility mode](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Check your system requirement
 
@@ -81,21 +82,24 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If it doesn’t work for you, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 3\. Shut down background apps
 
  Shutting down background apps completely might fix your problem. The workshop items could be the culprit for crashing. The computer will have more power and resources for Left 4 Dead 2 when there are no other applications in the background.
@@ -114,14 +118,8 @@ If it doesn’t work for you, move to the next fix.
 2. Right-click on**Left 4 Dead 2** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
 
@@ -130,10 +128,16 @@ You can also disable Steam overlay in Left 4 Dead 2.
 1. Run Steam client and head to**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-34.jpg)
 2. Click**In-Game** , then disable “**Enable the Steam Overlay while in-game** ” and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it doesn’t work for you, move to the next fix.
 
@@ -162,9 +166,6 @@ To check if your add-ons are the fault, here the following things to do:
 1. Navigate to Left 4 Dead 2 saving folder.
 2. Right-click on the game and click **Properties** .
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
 
@@ -178,8 +179,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,20 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-interface-to-enlarge-videography-elements/"><u>[Updated] Interface to Enlarge Videography Elements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics-for-2024/"><u>[Updated] Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a54-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A54 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721898948720-can-machines-tell-jokes-discovering-the-past-of-portable-computers-and-vpn-innovations-today/"><u>Can Machines Tell Jokes? Discovering the Past of Portable Computers & VPN Innovations Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-gaming-fixing-the-complete-edition-of-horizon-forbidden-west-to-prevent-pc-game-crashes/"><u>Effortless Gaming: Fixing the Complete Edition of Horizon Forbidden West to Prevent PC Game Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-exclusive-roundup-best-hdmi-21-tvs-compared-directly/"><u>In 2024, Exclusive Roundup Best HDMI 2.1 TVs Compared Directly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-asus-pce-ac68-wireless-network-card-driver-update-free-download/"><u>Latest ASUS PCE-AC68 Wireless Network Card Driver Update - Free Download</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-iphone-files-discover-superior-data-rescue-services-limited-time-offer/"><u>Lost iPhone Files? Discover Superior Data Rescue Services – Limited Time Offer</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connection-problems-in-elden-rings-multiplayer-mode-a-guide/"><u>Overcoming Connection Problems in Elden Ring's Multiplayer Mode: A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gameplay-in-lost-ark-addressing-fps-fluctuations-and-ensuring-optimal-performance/"><u>Smooth Gameplay in Lost Ark: Addressing FPS Fluctuations & Ensuring Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-discord-javascript-faults-a-user-friendly-approach/"><u>Unraveling Discord JavaScript Faults: A User-Friendly Approach</u></a></li>
+</ul></div>
 

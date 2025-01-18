@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Cyberpunk 2Ebdnuyqkjvhz,nhgf897cyr654wopm[SOLVED] - Fixing Game Crashes on PC
-date: 2024-08-18T15:19:38.475Z
-updated: 2024-08-19T15:19:38.475Z
+date: 2025-01-16T04:26:57.592Z
+updated: 2025-01-18T08:53:24.703Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ## Optimizing Graphics Performance in Cyberpunk 2077 on New Windows 11 - Issue Resolved
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,11 +66,17 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -83,32 +93,21 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates include some security patches and sometimes, a performance booster. The important part is that these system updates could tackle compatibility issues, thus being a potential fix to your issue.
@@ -118,10 +117,11 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -137,8 +137,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,24 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-creating-a-narrative-structure/"><u>[New] Creating a Narrative Structure</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevating-engagement-tips-to-share-your-screen-on-facebook-lives/"><u>[New] Elevating Engagement Tips to Share Your Screen on Facebook Lives</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-10-0x81000037/"><u>解決 Windows 10 系統儲存協定錯誤 (0X81000037) : 三種有效的修改方式</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-women-gaming-leaders-top-10-on-yt/"><u>Elite Women Gaming Leaders Top 10 On YT</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-hyper-v-virtualization-on-your-pc-with-windows-11-instructions/"><u>Enabling Hyper-V Virtualization on Your PC with Windows 11 Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-eliminating-unwanted-shutdowns-while-playing-ffxiv-on-pc/"><u>Expert Advice: Eliminating Unwanted Shutdowns While Playing FFXIV On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-persistent-crashes-in-the-popular-ring-of-elysium-title/"><u>Expert Tips for Fixing Persistent Crashes in the Popular Ring of Elysium Title</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005916670-fix-your-world-of-tanks-blitz-app-stability-issues-end-the-constant-crashes-now/"><u>Fix Your World of Tanks Blitz App Stability Issues - End the Constant Crashes Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-m6-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco M6 Pro 5G Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-depth-tips-for-srt-file-production-mastery/"><u>In-Depth Tips for SRT File Production Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-optimization-tips-to-prevent-battlefield-amoor-from-crashing-in-game/"><u>PC Optimization Tips to Prevent Battlefield Amoor From Crashing In-Game</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/premium-opening-scenes-top-16-youtube-intros-for-popularity-for-2024/"><u>Premium Opening Scenes Top 16 YouTube Intros for Popularity for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-boost-your-gaming-performance-solutions-to-high-fps-issues-in-valorant/"><u>Ultimate Guide: Boost Your Gaming Performance - Solutions to High FPS Issues in VALORANT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlock-potential-with-free-premiere-pro-plans-for-2024/"><u>Unlock Potential with Free Premiere Pro Plans for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-simple-fixes-to-stop-playstation-4-like-crashing-issues-on-pc/"><u>WWE 2K20: Simple Fixes to Stop PlayStation 4-Like Crashing Issues on PC</u></a></li>
+</ul></div>
 

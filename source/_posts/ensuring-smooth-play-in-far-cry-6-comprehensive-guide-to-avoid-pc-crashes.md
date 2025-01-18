@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Smooth Play in Far Cry 6: Comprehensive Guide to Avoid PC Crashes"
-date: 2025-01-10T17:43:46.573Z
-updated: 2025-01-12T16:34:47.109Z
+date: 2025-01-14T03:17:55.550Z
+updated: 2025-01-17T17:06:00.687Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,10 +38,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. [**Run a System File Checker**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
 
@@ -64,6 +56,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -75,12 +71,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -89,10 +85,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -103,16 +95,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
@@ -144,17 +144,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -165,6 +161,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,17 +194,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>[Updated] Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-to-starting-a-sports-channel-on-mac/"><u>[Updated] In 2024, The Ultimate Guide to Starting a Sports Channel on Mac</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>[Updated] Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-fixes-for-sony-vegas-mp4-troubles-overcoming-challenges-with-no-sound-no-picture-and-more/"><u>Essential Fixes for Sony Vegas MP4 Troubles: Overcoming Challenges with No Sound, No Picture, and More</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-choosing-and-utilizing-leading-dvd-encryption-crackers-effectively/"><u>Expert Guide: Choosing and Utilizing Leading DVD Encryption Crackers Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-and-easy-guide-to-changing-your-videos-audio-format/"><u>Fast and Easy Guide to Changing Your Video's Audio Format</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-spark-go-2024-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Spark Go (2024) Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/installing-loonatons-unleashed-with-trusted-aio-streams-on-your-kodi-device-complete-tutorial/"><u>Installing Loonatons Unleashed with Trusted AIO Streams on Your Kodi Device - Complete Tutorial</u></a></li>
-<li><a href="https://win-studio.techidaily.com/mac3/"><u>Macオペレーティングシステム用トップ3コピーソフトウェア：効率的なフォルダ複製</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-restoring-usb-peripherals-mouse-keyboard-on-windows-woody/"><u>Troubleshooting Steps for Restoring USB Peripherals (Mouse, Keyboard) on Windows Woody</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-video-vanishing-act-cutting-duration-on-youtube/"><u>[Updated] Video Vanishing Act Cutting Duration on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ai-windows-and-mac/"><u>頂級免費AI 影片強化器: Windows & Mac的前十名選擇</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/decoding-the-dichotomy-between-tiktok-and-its-alternative-triller/"><u>Decoding the Dichotomy Between TikTok and Its Alternative, Triller</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-your-perfect-travel-companion-discovering-the-most-innovative-portable-photo-printers-of-2024-techadvise/"><u>Find Your Perfect Travel Companion: Discovering the Most Innovative Portable Photo Printers of 2024 | TechAdvise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic-5-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor Magic 5 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-constant-crashes-while-playing-age-of-wonders-planetfall-on-a-pc/"><u>How to Fix Constant Crashes While Playing 'Age of Wonders: Planetfall' On a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a25-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A25 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-the-strength-of-cookiebot-to-boost-your-websites-performance/"><u>Leverage the Strength of Cookiebot to Boost Your Website's Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-fixing-minecraft-game-crashes-with-this-handy-6-step-tutorial/"><u>Master the Art of Fixing Minecraft Game Crashes with This Handy 6-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gaming-avoid-house-flipper-2-crashes-on-pc-with-these-steps/"><u>Trouble-Free Gaming: Avoid House Flipper 2 Crashes on PC with These Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-the-dead-space-remake-not-starting/"><u>Troubleshooting Guide: Resolving Issues with the Dead Space Remake Not Starting</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-the-valorant-wont-start-problem-on-windows/"><u>Troubleshooting Steps for the 'Valorant Won't Start' Problem on Windows</u></a></li>
 </ul></div>
 

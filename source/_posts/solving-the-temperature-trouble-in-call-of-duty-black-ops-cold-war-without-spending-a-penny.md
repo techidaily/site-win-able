@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2025-01-09T16:34:00.842Z
-updated: 2025-01-12T16:23:07.056Z
+date: 2025-01-17T05:18:35.641Z
+updated: 2025-01-18T06:06:57.826Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -75,7 +75,7 @@ You can do it with only 2 steps:
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -92,6 +92,10 @@ You can do it with only 2 steps:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
@@ -99,7 +103,7 @@ You can do it with only 2 steps:
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
@@ -111,10 +115,6 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
@@ -132,7 +132,7 @@ And it’s quite easy to update too:
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
@@ -151,13 +151,13 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -180,14 +180,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-converting-your-clips-upload-to-youtube-via-premiere-for-2024/"><u>[New] Converting Your Clips Upload to YouTube Via Premiere for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-elaborate-study-of-uncomplicated-hdr-techniques-for-2024/"><u>[New] Elaborate Study of Uncomplicated HDR Techniques for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unfollow-trail-on-the-social-giant-instagram-for-2024/"><u>[Updated] Unfollow Trail on the Social Giant Instagram for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/blackout-no-more-solving-cyberpunk-2077s-persistent-display-dilemma/"><u>Blackout No More: Solving Cyberpunk 2077'S Persistent Display Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-free-gaming-how-to-overcome-lost-ark-network-problems/"><u>Error-Free Gaming: How To Overcome Lost Ark Network Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-performance-problems-optimize-your-resident-evil-village-game-on-pc/"><u>Fixing Performance Problems: Optimize Your Resident Evil Village Game on PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-poco-x5-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Poco X5 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/snapchat-profitability-techniques/"><u>Snapchat Profitability Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-the-google-app-ensure-that-you-have-the-latest-version-of-the-google-app-installed-on-your-device-go-to-the-play-store-search-for-google-and-update-i435/"><u>Update the Google App: Ensure that You Have the Latest Version of the Google App Installed on Your Device. Go to the Play Store, Search for Google, and Update if Necessary</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-complete-guide-to-registering-with-youtube/"><u>[New] 2024 Approved A Complete Guide to Registering with YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-high-end-sound-pumping-tools-pcs-and-smartphones/"><u>[New] 2024 Approved High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-minecraft-recording-on-mac-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Minecraft Recording on Mac A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-effortless-methods-to-archive-slideshows-for-2024/"><u>[New] Effortless Methods to Archive Slideshows for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cut-down-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile/"><u>[New] In 2024, Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-mastering-full-screen-in-ppro/"><u>[Updated] Expert Advice for Mastering Full Screen in PPro</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-darkness-correcting-helldivers-2s-black-outage-on-start-up/"><u>Banish the Darkness: Correcting Helldivers 2'S Black Outage on Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-fallout-76-performance-top-techniques-to-eliminate-lag/"><u>Boost Your Fallout 76 Performance: Top Techniques to Eliminate Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-the-bug-solving-apex-legends-loading-issues-fast/"><u>Bypass the Bug: Solving Apex Legends Loading Issues Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-recurring-shutdowns-in-your-moonlight-user-interface/"><u>How To Stop Recurring Shutdowns in Your Moonlight User Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-fix-for-windows-11-supported/"><u>Nvidia Fix for Windows 11 Supported</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012802785-overcome-your-phasmophobia-game-glitch-fix-the-endless-load-screen-of-90/"><u>Overcome Your Phasmophobia Game Glitch - Fix the Endless Load Screen of 90%</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-re5-startup-difficulties-effective-fixes-for-personal-computers/"><u>Overcoming RE5 Startup Difficulties: Effective Fixes for Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-game-crashes-for-sword-and-fairy-vii-a-comprehensive-guide/"><u>Solved! Overcoming PC Game Crashes for Sword and Fairy VII – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-freezing-issue-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>Solving the 'Freezing' Issue in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-selecting-an-alternative-browser-on-samsung-smart-tv/"><u>Step-by-Step Tutorial: Selecting an Alternative Browser on Samsung Smart TV</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-description-engineer/"><u>Video Description Engineer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Troubleshooting: Overcoming Minecraft Not Opening Hurdles"
-date: 2025-01-06T16:05:57.311Z
-updated: 2025-01-12T17:35:44.743Z
+date: 2025-01-15T01:40:09.389Z
+updated: 2025-01-17T22:15:05.789Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
 ### Fix 2 – Run OBS as an administrator
@@ -52,7 +48,15 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
@@ -64,18 +68,14 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -86,7 +86,7 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Select**System** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
@@ -103,14 +103,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -126,6 +122,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -153,24 +153,24 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-age-of-wonders-planetfall-keeps-crashing-on-pc/"><u>[SOLVED] Age of Wonders: Planetfall Keeps Crashing on PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-the-best-videographer/"><u>2024 Approved How to Find the Best Videographer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-optimize-video-quality-turning-on-av1-in-youtube-settings/"><u>2024 Approved Optimize Video Quality Turning ON AV1 in YouTube Settings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-ultimate-smartphone-camera-recording-tools-iphoneandroid-edition/"><u>2024 Approved Ultimate Smartphone Camera Recording Tools - iPhone/Android Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-dragons-dogma-2-pc-crash-problems-with-these-simple-fixes/"><u>Beat Dragon's Dogma 2 PC Crash Problems with These Simple Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-glitch-avoiding-garrys-mod-game-crashes-with-proven-solutions-22024-edition/"><u>Beat the Glitch: Avoiding Garry's Mod Game Crashes with Proven Solutions (2^2024 Edition)</u></a></li>
-<li><a href="https://win-able.techidaily.com/bluestacks-crash-issues-solved-a-step-by-step-guide-to-stability/"><u>BlueStacks Crash Issues Solved: A Step-by-Step Guide to Stability</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-sound-distortions-in-the-most-recent-technology-release/"><u>Diagnosing and Correcting Sound Distortions in the Most Recent Technology Release</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/discovering-vimeo-home-for-high-quality-films-for-2024/"><u>Discovering Vimeo Home for High-Quality Films for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-pics-advanced-techniques-for-editing-photo-text/"><u>Elevate Your Pics Advanced Techniques for Editing Photo Text</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-disruptions-effective-solutions-to-combat-modern-warfare-2-crashes-on-desktops/"><u>Eliminate Disruptions: Effective Solutions to Combat Modern Warfare 2 Crashes on Desktops</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-experiencing-double-frame-drop-in-pc-game-solved/"><u>Fixes: Experiencing Double Frame Drop in PC Game - Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-trouble-to-triumph-diagnosing-and-solving-your-pcs-random-shutdown-dilemma/"><u>From Trouble to Triumph: Diagnosing & Solving Your PC's Random Shutdown Dilemma.</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722984246916-halo-infinite-stability-guide-stop-pc-disruptions-and-get-back-to-gaming-smoothly/"><u>Halo Infinite Stability Guide - Stop PC Disruptions and Get Back to Gaming Smoothly</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14/iPad Without Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secrets-revealed-the-blue-checkmark-guide-for-aspiring-verified-users-on-x/"><u>Secrets Revealed: The Blue Checkmark Guide for Aspiring Verified Users on X</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-phasmophobia-game-breaks-top-patches/"><u>Solving Phasmophobia Game-Breaks: Top Patches</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-tips-for-stabilizing-world-of-warships-performance-on-windows-computers/"><u>Top 5 Tips for Stabilizing World of Warships Performance on Windows Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-visual-quality-with-enhancer-22/"><u>[New] Maximizing Visual Quality with Enhancer 2.2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[Updated] Perfect Your iPhone Photography Top-Tier Filming Aids</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/before-you-launch-the-importance-of-web-page-previews-in-uploading/"><u>Before You Launch: The Importance of Web Page Previews in Uploading</u></a></li>
+<li><a href="https://win-able.techidaily.com/debugging-battles-ensuring-smooth-gameplay-for-midgardian-clans/"><u>Debugging Battles: Ensuring Smooth Gameplay for Midgardian Clans</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-resolving-issues-with-your-discord-camera-feature/"><u>Diagnosing and Resolving Issues with Your Discord Camera Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-war-thunder-game-crashes-top-solutions/"><u>How to Fix Recurring War Thunder Game Crashes : Top Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-crashes-and-stabilize-your-mordhau-gaming-experience/"><u>How to Overcome Crashes and Stabilize Your Mordhau Gaming Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-mini-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 mini Before the Plan Expires</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-navigating-around-troublesome-loading-screens-problem-solved/"><u>Red Dead Redemption Navigating Around Troublesome Loading Screens – Problem Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011085197-resolve-oculus-link-problems-quickly-with-these-proven-6-fixes/"><u>Resolve Oculus Link Problems Quickly with These Proven 6 Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-bugs-solve-your-football-manager-2eplus23-7-pc-launching-problems-now/"><u>Say Goodbye to Game Bugs! Solve Your Football Manager 2E+23-7 PC Launching Problems Now!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-transferring-iphone-footage-to-mac-top-seo-strategies/"><u>Step-by-Step Tutorial on Transferring iPhone Footage to Mac - Top SEO Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/swfiphone/"><u>SWFファイルの動作方法：iPhoneで見るためのガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-the-cs-go-no-user-logon-issue/"><u>Top 5 Solutions for Resolving the CS: GO 'No User Logon' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-the-issue-of-deathloop-game-crashing-frequently/"><u>Troubleshooting Steps: Resolving the Issue of Deathloop Game Crashing Frequently</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-color-grading-in-final-cut-pro/"><u>Updated Mastering Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-ping-perfection-comprehensive-troubleshooting-steps-to-minimize-lag-on-pcs/"><u>Valheim Ping Perfection: Comprehensive Troubleshooting Steps to Minimize Lag on PCs</u></a></li>
 </ul></div>
 

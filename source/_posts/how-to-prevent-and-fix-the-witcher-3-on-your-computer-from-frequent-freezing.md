@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Fix 'The Witcher 3' On Your Computer From Frequent Freezing
-date: 2025-01-05T16:22:49.006Z
-updated: 2025-01-12T16:25:44.753Z
+date: 2025-01-16T21:36:44.096Z
+updated: 2025-01-17T20:13:58.192Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,7 +40,7 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 7. [Move the files to the SSD drive](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -54,12 +54,12 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -75,6 +75,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 1. Open your Steam client and go to **LIBRARY** . Right-click **New World** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
@@ -93,16 +97,16 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -132,11 +136,15 @@ If it’s still not working, try the next fix.
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Play New World to check.
 
@@ -155,20 +163,12 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -195,19 +195,22 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premium-hd-screensnap-tools/"><u>[New] 2024 Approved Premium HD Screensnap Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-upgrading-your-cinematic-story-with-video-edges/"><u>[Updated] In 2024, Upgrading Your Cinematic Story with Video Edges</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-gimbals-matched-for-high-res-dslrs/"><u>2024 Approved Best Gimbals Matched for High-Res DSLRs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-minimizing-film-length-mac-solutions-for-instagram-posting/"><u>2024 Approved Minimizing Film Length Mac Solutions for Instagram Posting</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-telescope-truth-expose/"><u>2024 Approved Telescope Truth Exposé</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-2042-tips-to-eliminate-frame-rate-drops-and-stutters-for-optimal-pc-gaming-performance/"><u>Battlefield 2042 - Tips to Eliminate Frame Rate Drops & Stutters for Optimal PC Gaming Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-successfully-downloading-and-setting-up-minecraft-on-windows-11/"><u>Fix Guide: Successfully Downloading and Setting up Minecraft on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-generative-ai-and-large-language-models-llms-in-your-business-strategy-insights-from-zdnet/"><u>Leveraging Generative AI and Large Language Models (LLMs) in Your Business Strategy - Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-online-play-a-comprehensive-guide-to-address-high-latency-in-back-n-blood/"><u>Optimizing Online Play: A Comprehensive Guide to Address High Latency in 'Back N Blood'</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-valheim-stability-issues-a-guide-to-stop-pc-freezing-and-crashing/"><u>Overcoming Valheim Stability Issues - A Guide to Stop PC Freezing and Crashing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/starting-up-key-gopro-add-ons-unveiled-for-2024/"><u>Starting Up Key GoPro Add-Ons Unveiled for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/top-10-essential-malware-scanning-tools-for-your-websites-security-featuring-malwarefox/"><u>Top 10 Essential Malware Scanning Tools for Your Website's Security: Featuring MalwareFox</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-graphics-driver-errors-on-your-oculus-setup/"><u>Troubleshooting Guide for Graphics Driver Errors on Your Oculus Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-effective-solutions-for-the-common-steam-ui-error-missing-steamuidll-file/"><u>Troubleshooting Tips: Effective Solutions for the Common Steam UI Error - Missing steamui.dll File</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-animations-how-to-craft-engaging-professional-looking-gifs/"><u>[New] In 2024, YouTube Animations How To Craft Engaging, Professional-Looking GIFs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-should-you-monitor-off-facebook-a-guide-for-users/"><u>[Updated] Should You Monitor Off-Facebook? A Guide for Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-capture-one-advanced-techniques/"><u>2024 Approved Capture One Advanced Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-perfect-guide-to-assembling-a-top-tier-4k-video-editor-pc/"><u>2024 Approved The Perfect Guide to Assembling a Top-Tier 4K Video Editor PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-ways-government-may-regulate-ai-tools/"><u>4 Ways Government May Regulate AI Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-guide-essential-troubleshooting-techniques/"><u>Alan Wake 2 Stability Guide: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-enhanced-the-future-of-artificial-intelligence-powered-searches/"><u>Bing Enhanced: The Future of Artificial Intelligence-Powered Searches</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-addressing-the-graphics-state-issue-in-red-dead-redemption-2-errgfxstate/"><u>Comprehensive Guide to Addressing the Graphics State Issue in Red Dead Redemption 2 (ERR_GFX_STATE)</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-on-steams-locked-file-conundrum-a-comprehensive-fix/"><u>Cracking the Code on Steam’s Locked File Conundrum – A Comprehensive Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-gaming-now-a-step-by-step-guide-to-solving-overwatch-2s-boot-difficulties/"><u>Get Gaming Now: A Step-by-Step Guide to Solving Overwatch 2'S Boot Difficulties</u></a></li>
+<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-performance-hacks-how-to-prevent-unexpected-game-stalls-and-freezes/"><u>Grand Theft Auto V Performance Hacks: How to Prevent Unexpected Game Stalls and Freezes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-motorola-edge-2023-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Edge 2023 Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo S17 FRP</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-recurrent-freezing-and-closure-issues-with-microsoft-outlook/"><u>Resolving Recurrent Freezing & Closure Issues with Microsoft Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steams-error-code-130-a-comprehensive-solution-guide/"><u>Resolving Steam's Error Code 130: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-cant-i-start-evil-genius-2-game/"><u>Troubleshooting Guide: Why Can't I Start Evil Genius 2 Game?</u></a></li>
 </ul></div>
 

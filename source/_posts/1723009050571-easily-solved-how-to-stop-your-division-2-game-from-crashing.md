@@ -1,7 +1,7 @@
 ---
 title: "Easily Solved: How to Stop Your Division 2 Game From Crashing"
-date: 2025-01-06T17:42:34.969Z
-updated: 2025-01-12T16:07:51.513Z
+date: 2025-01-12T06:12:04.198Z
+updated: 2025-01-17T23:34:28.310Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 methods that have helped other players solve Diablo 2 Resurrected crashing on PC. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 4. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 | **Memory**    | 8 GB RAM                          | 16 GB RAM                             |
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
 
@@ -91,13 +95,17 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -109,6 +117,10 @@ If this method doesn’t help, check out your graphics driver.
 3. Click**Begin Scan** to process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -122,15 +134,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -138,14 +142,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -172,17 +172,16 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>[New] Ranking the Best 8 Websites with Shimmering 3D & Text</u></a></li>
-<li><a href="https://discover-best.techidaily.com/die-dynamik-zwischen-etl-and-elt-schlusselaspekte-fur-moderne-datenerfassung/"><u>Die Dynamik Zwischen ETL & ELT - Schlüsselaspekte Für Moderne Datenerfassung</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-extraction-for-desktops-and-phones/"><u>In 2024, FB Video Extraction for Desktops & Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insightful-owners-discovering-these-five-game-changing-ais/"><u>Insightful Owners: Discovering These Five Game-Changing AIs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/no-cost-visual-aids-free-templates-and-slide-show-resources/"><u>No-Cost Visual Aids Free Templates & Slide Show Resources</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-pathfinder-wrath-of-the-righteous-continuously-fails-on-launch/"><u>Resolved: Pathfinder: Wrath of the Righteous Continuously Fails on Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-connection-problems-and-lags-in-the-latest-version-of-new-world/"><u>Solving Connection Problems & Lags in the Latest Version of 'New World'</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-get-your-broken-paradox-launcher-back-in-action/"><u>Step-by-Step Guide to Get Your Broken Paradox Launcher Back in Action</u></a></li>
-<li><a href="https://win-net.techidaily.com/techniques-simples-pour-recuperer-facilement-ton-contenu-sur-une-carte-sd/"><u>Techniques Simples Pour Récupérer Facilement Ton Contenu Sur Une Carte SD</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-6-applicazioni-di-intelligenza-artificiale-per-scalare-i-video/"><u>Top 6 Applicazioni Di Intelligenza Artificiale per Scalare I Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/valorant-pc-performance-issue-fixing-the-games-input-lag/"><u>Valorant PC Performance Issue: Fixing the Game's Input Lag</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>[New] In 2024, Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3-effective-steps-to-brighten-your-photos/"><u>[Updated] 3 Effective Steps to Brighten Your Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-taking-control-youtube-visibility-personalization/"><u>[Updated] Taking Control YouTube Visibility Personalization</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-ultimate-latency-control-troubleshoot-and-enhance-valheim-fps-on-windows-machines/"><u>Achieve Ultimate Latency Control: Troubleshoot & Enhance Valheim FPS on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-update-debunking-the-fake-news-on-its-postponement-or-cancellation/"><u>Assassin's Creed Valhalla Update: Debunking the Fake News on Its Postponement or Cancellation</u></a></li>
+<li><a href="https://win-able.techidaily.com/bug-free-gaming-enshrouded-game-now-stable-and-crash-resistant-for-windows-users/"><u>Bug-Free Gaming - Enshrouded Game Now Stable and Crash-Resistant for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-pc-configurations-for-efficient-chia-farming-and-maximizing-yields/"><u>Ideal PC Configurations for Efficient Chia Farming and Maximizing Yields</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-exclusive-free-photo-upscaler-for-modern-devices/"><u>In 2024, Exclusive Free Photo Upscaler for Modern Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-issues-with-outriders-techniques-to-prevent-freezing-and-delays-on-pc/"><u>Resolving Performance Issues with Outriders: Techniques to Prevent Freezing and Delays on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-warzone-not-initializing-correctly-on-pcxboxps5/"><u>Solutions for Warzone Not Initializing Correctly on PC/Xbox/PS5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-introductory-editor-software-devices-for-2024/"><u>Ultimate Introductory Editor Software (Devices) for 2024</u></a></li>
 </ul></div>
 

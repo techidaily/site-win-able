@@ -1,7 +1,7 @@
 ---
 title: Infinite Wealth Strategies on PC - Unleashing 'Like a Dragon' Potential
-date: 2024-08-13T10:05:01.646Z
-updated: 2024-08-14T10:05:01.646Z
+date: 2025-01-14T22:38:23.452Z
+updated: 2025-01-18T02:04:09.733Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
  With the full game being launched on Steam, now you can operate your own gas station in Gas Station Simulator. However, some players reported that the**game keeps crashing on their PC** . If you happen to be one of them, don’t worry. Here are some working fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before you start
 
  Before you begin to troubleshoot the crashing issue in Gas Station Simulator, you need to make sure your PC meets the game’s minimum requirements.
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
  After confirming that your computer is powerful enough to run the game, read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -51,21 +52,24 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
  If the game still keeps crashing after installing the latest update, check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you’re more likely to encounter crashing issues with your game. To fix it, you can scan and repair your game files via Steam. Here’s how:
 
 1. Go to your Steam**Library** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-library-1.jpg)
 2. Right-click**Gas Station Simulator** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -78,14 +82,8 @@ If the crashing issue persists, continue to the next fix.
  Some programs need administrator rights to function properly on your PC. To ensure that Gas Station Simulator has the full rights it needs, you can run this game as an administrator. Here’s how:
 
 1. **Right-click** the executable file of Gas Station Simulator and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
@@ -93,8 +91,9 @@ If the crashing issue persists, continue to the next fix.
 If the crashing issue remains, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If you’re using a faulty or outdated graphics driver, you’re more likely to encounter the crashing issue in Gas Station Simulator. To fix the potential problem and get the best performance, you should always **ensure you have the latest drivers for your graphics card installed** .
@@ -117,10 +116,6 @@ If the crashing issue remains, move on to the next fix.
 
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your antivirus settings
 
  Some antivirus programs could block your game from running and cause the game to crash. To see if that’s the case for you, you can temporarily disable your antivirus.
@@ -136,23 +131,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Gas Station Simulator to check if the game crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -170,8 +170,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +177,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-expert-filmmaking-skills-on-youtube-and-diverse-platforms/"><u>[New] 2024 Approved Expert Filmmaking Skills on YouTube and Diverse Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-compelling-game-replays-a-detailed-guide-for-sony-playstation-4/"><u>[Updated] Crafting Compelling Game Replays A Detailed Guide for Sony PlayStation 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-glitch-expert-tips-for-fixing-gears-5-stability-issues/"><u>Defeat the Glitch: Expert Tips for Fixing Gears 5 Stability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-ways-to-stop-your-overwatch-2-game-from-crashing-on-windowsmac/"><u>Effortless Ways to Stop Your Overwatch 2 Game From Crashing on Windows/Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-tips-activating-or-deactivating-youtube-comments/"><u>Expert Tips Activating or Deactivating YouTube Comments</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-persistent-steam-not-loading-problem-top-7-strategies/"><u>How to Resolve the Persistent Steam Not Loading Problem: Top 7 Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-warzone-20-not-starting-on-your-computer-key-fixes/"><u>How to Resolve Warzone 2.0 Not Starting on Your Computer - Key Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-steam-stability-overcoming-responsiveness-issues/"><u>Mastering Steam Stability: Overcoming Responsiveness Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/megadatasky-affordable-space-for-big-files/"><u>MegaDataSky - Affordable Space for Big Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-voice-chat-obstacles-in-among-us-a-pc-players-handbook/"><u>Overcoming Voice Chat Obstacles in Among Us: A PC Player's Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-auditory-theatre-plays-for-2024/"><u>Top-Tier Auditory Theatre Plays for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-transform-your-mxf-media-to-high-quality-aiff-with-top-desktop-applications-and-online-tools/"><u>Ultimate Guide: Transform Your MXF Media to High-Quality AIFF with Top Desktop Applications & Online Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-the-legality-of-online-video-recordings/"><u>Understanding the Legality of Online Video Recordings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-unlocking-the-dialer/"><u>Win 11: Unlocking the Dialer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Genshin Impact's Recurring Shutdown Problems on PC Systems
-date: 2024-08-18T15:19:45.776Z
-updated: 2024-08-19T15:19:45.776Z
+date: 2025-01-14T05:07:57.921Z
+updated: 2025-01-18T07:33:53.419Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -62,9 +59,6 @@ If this method doesn’t help, check out your graphics driver.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -76,6 +70,10 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
@@ -84,15 +82,18 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
@@ -102,21 +103,17 @@ If this method doesn’t help, check out your graphics driver.
 
 1. Open the Battle.net launcher and select**Diablo 2 Resurrected** from the top pane.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Turn off overlays
 
  As many players reported, programs with an overlay like Discord or GeForce Experience can cause the Blizzard games to crash or get a black screen. To avoid an incompatibility issue like this, simply disable or uninstall it as follows:
@@ -124,14 +121,13 @@ If this method doesn’t help, check out your graphics driver.
 **On Discord**
 
 1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -140,6 +136,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -156,8 +156,6 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +163,21 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-perfecting-your-video-content-for-instagram-feed/"><u>[New] Perfecting Your Video Content for Instagram Feed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[Updated] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-6-free-youtube-endings-for-pros/"><u>[Updated] Unlock 6 Free YouTube Endings for Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-an-in-depth-review-of-dji-drone-model-3s-performance/"><u>2024 Approved An In-Depth Review of DJI Drone Model 3'S Performance</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/yl-yl-software/"><u>深究YL计算:揭示千金原始广告月收益每一个角落的内幕 - YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-cod-black-ops-4-experience-by-eliminating-fps-drops/"><u>Enhance Your COD Black Ops 4 Experience by Eliminating FPS Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-borderlands-11-effective-troubleshooting-steps/"><u>Fix Your Borderlands 지정된 문제: 11 Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-and-fun-capture-and-convert-skype-calls-mp3/"><u>Free & Fun Capture and Convert Skype Calls (MP3)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-memorable-content-with-personalized-gifs/"><u>In 2024, Crafting Memorable Content with Personalized GIFS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-masterclass-in-visualization-perfectly-cropped-instagram-videos/"><u>In 2024, Masterclass in Visualization Perfectly Cropped Instagram Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-how-to-resolve-steamvr-is-not-functioning-issues/"><u>Quick Fixes: How to Resolve 'SteamVR Is Not Functioning' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-preventing-and-correcting-gtfo-crashes/"><u>Step-by-Step Guide: Preventing and Correcting GTFO Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-repair-the-voice-chatting-glitches-on-your-among-us-game-pc/"><u>Step-by-Step Solutions to Repair the Voice Chatting Glitches on Your Among Us Game (PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/your-quick-guide-leveraging-the-compact-drivereasy-app-for-device-management/"><u>Your Quick Guide: Leveraging the Compact DriverEasy App for Device Management</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ice: Apply Cold Packs or Ice Wrapped in a Cloth for 15-20 Minutes Every Hour on the First Day, Then Reduce Frequency as Swelling Subsides. Icing Helps Minimize Inflammation and Numbs Pain."
-date: 2024-08-13T10:03:09.262Z
-updated: 2024-08-14T10:03:09.262Z
+date: 2025-01-11T02:42:15.298Z
+updated: 2025-01-18T01:45:47.578Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
  Fallout 76 has been quite popular since it was released. However, some players complain that they**experienced very low FPS** while playing the game. If you’re facing the same problem, don’t worry. Here we’ll tell you how to fix it easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -35,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 7. **[Optimize NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check the game’s system requirements
 
  Before you begin to troubleshoot the low FPS issue in Fallout 76, make sure your device meets Fallout 76’s system requirements. If it doesn’t, you may need to upgrade your hardware to improve performance. The system requirements for Fallout 76 on PC are as follows:
@@ -59,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  After confirming that your PC is good enough to run the game, continue to the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable background applications
 
  The applications running in the backgrounds can eat up your system resources, causing your device to have no sufficient RAM for your game. To free up more system resources and improve your game performance, you can disable all the unnecessary background applications before gaming. Here’s how:
@@ -70,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 2. Once at a time,**right-click** the CPU and RAM heavy program (like Chrome and Discord) and select**End task** to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/task-manager-end-task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
 Once done, launch Fallout 76 to see if your FPS has improved.
@@ -77,10 +80,9 @@ Once done, launch Fallout 76 to see if your FPS has improved.
 If this fix doesn’t do the trick, check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of low FPS is that you’re using a faulty or outdated graphics driver. The graphics card manufacturers regularly release new drivers to optimize for new games. To get the best performance of your hardware, you should keep your graphics driver updated.
@@ -97,6 +99,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and launch Fallout 76 to check the game performance.
@@ -108,14 +114,8 @@ If this method doesn’t work for you, take a look at the next one.
  Lowering the game’s graphics settings can also help you boost FPS. To do so:
 
 1. Launch Fallout 76 and click**SETTINGS** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-settings.jpg)
 2. Select**DISPLAY** , then set the Window mode to**Fullscreen** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-fullscreen.jpg)
 3. Lower the**Quality** settings on**Texture** ,**Water** ,**Lighting** and**Shadow** .
 4. Lower the**Fade** settings on**Actor** /**Item** /**Object** /**Grass** .
@@ -125,16 +125,14 @@ Restart the game to test the game performance.
  If you’re still experiencing low FPS in Fallout 76, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Turn off VSync
 
  VSync, or vertical sync, is a graphics technology that synchronizes the frame rate of a game with a gaming monitor’s refresh rate. Many players have confirmed that turning off VSync helps improve their FPS in Fallout 76\. You can give it a shot. Here’s how:
 
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open**File Explorer** . Then type**Documents\\My Games\\Fallout 76** in the address bar.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/file-explorer-fallout-76.jpg)
 2. Open the**Fallout76Prefs.ini** file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76prefs.jpg)
@@ -151,23 +149,6 @@ If this fix doesn’t help, proceed to the next one.
  Your computer’s performance could be limited by the power plan you selected. To make the most out of your PC, you can change your power plan to High performance. Here’s how:
 
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke The Run dialog box. Then type**powercfg.cpl** in the field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/powercfg.cpl_.jpg)
 2. Under Preferred plans, select**High performance** . (If you don’t see it, expand Hide additional plans.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/power-plan-high-performance.jpg)
@@ -183,9 +164,11 @@ If your FPS is still very low, try the next fix.
 1. On your desktop, right-click any empty space and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left panel.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-manage-3d-settings.jpg)
 3. Navigate to the**Program Settings** and select the**Fallout 76.exe** file from the drop-down list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/program-settings-fallout76.jpg)
@@ -212,8 +195,6 @@ Once done, restart Fallout 76 and your FPS should increase dramatically.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +202,24 @@ Once done, restart Fallout 76 and your FPS should increase dramatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-detailed-instructions-to-record-and-save-facetime-calls/"><u>[New] Detailed Instructions to Record and Save FaceTime Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[New] Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-method-for-recorded-instagram-stories/"><u>[Updated] 2024 Approved The Ultimate Method for Recorded Instagram Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation/"><u>2024 Approved Discover the Next Big Thing in Design The Best 9 Sites Featuring Dynamic 3D Text Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-ways-to-use-chatgpt-without-an-openai-account/"><u>5 Ways to Use ChatGPT Without an OpenAI Account</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-stuck-a-step-by-nstep-solution-for-opening-problems/"><u>Discord Stuck? A Step-by-nStep Solution for Opening Problems</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/efficient-long-term-storage-solutions-harnessing-the-power-of-s3-glaciers-deep-archive-in-just-3-steps/"><u>Efficient Long-Term Storage Solutions: Harnessing the Power of S3 Glacier's Deep Archive in Just 3 Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enregistrez-votre-ecran-avec-musique-sur-un-mac-5-solutions-parfaites-avec-movavi/"><u>Enregistrez Votre Écran Avec Musique Sur Un Mac: 5 Solutions Parfaites Avec Movavi!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-apex-legends-crashes-comprehensive-guide-to-resolving-game-engine-issues/"><u>Fixing Apex Legends Crashes: Comprehensive Guide to Resolving Game Engine Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fixing-startup-glitches-a-guide-for-troubled-players-of-farming-simulator-22/"><u>Fixing Startup Glitches: A Guide for Troubled Players of Farming Simulator 22</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-detailed-tutorial-on-screen-capturing-in-online-meetings-google/"><u>In 2024, Detailed Tutorial on Screen Capturing in Online Meetings (Google)</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-fallout-3-launch-issues-expert-advice-gamers/"><u>Overcome Fallout 3 Launch Issues - Expert Advice Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-how-to-address-persistent-crashes-while-playing-manor-lords/"><u>PC Gaming Tips: How to Address Persistent Crashes While Playing Manor Lords</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issues-with-launching-civilization-vi-on-windows-10-fixed/"><u>Resolved: Issues with Launching Civilization VI on Windows 10 – Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-minecraft-dungeon-issues-expert-tips-to-prevent-pc-crashes/"><u>Stop Minecraft Dungeon Issues: Expert Tips to Prevent PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-overcoming-persistent-crashes-in-tower-of-fantasy-for-your-pc/"><u>Unlock Seamless Gameplay: Overcoming Persistent Crashes in Tower of Fantasy for Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-your-graphics-driver-a-solution-to-optimize-forza-horizon-5-performance/"><u>Update Your Graphics Driver: A Solution to Optimize Forza Horizon #5 Performance</u></a></li>
+</ul></div>
 

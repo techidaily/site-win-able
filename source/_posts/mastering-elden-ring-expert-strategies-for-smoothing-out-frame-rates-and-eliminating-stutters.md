@@ -1,7 +1,7 @@
 ---
 title: "Mastering Elden Ring: Expert Strategies for Smoothing Out Frame Rates and Eliminating Stutters"
-date: 2024-08-13T10:02:17.419Z
-updated: 2024-08-14T10:02:17.419Z
+date: 2025-01-17T00:25:16.605Z
+updated: 2025-01-17T22:59:57.563Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 
  Before start doing fixes, make sure your PC specs have reached the[requirement](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,11 +35,6 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 
  If you feel the mouse movement snappy or slow, check[this Input lag post](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 1: Change graphics card settings
 
  If you’re an NVIDIA user, open NVIDIA’s control panel to change the settings.
@@ -77,36 +76,32 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Both NVIDIA and AMD released specific updates for their graphics cards on Cyberpunk 2077’s launch day. You can[update](https://tools.techidaily.com/drivereasy/download/) your AMD or NVIDIA with the latest update, it will improve the gaming performance on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Lower in-game graphic settings
 
  One common fix for lagging is to change the in-game graphic settings. This fix has been proved by some gamers, it works for them. If you’re playing on PS4 and Xbox One, why not have a try. It may help.
 
 1. Run Cyberpunk 2077 and go to **SETTINGS** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Go to the GAMEPLAY tab. Set**Crowd Density** as**Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
 **NOTE** : Ray Tracing is not for the AMD cards right now.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
 6. Back to the game and check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphics driver
 
@@ -129,6 +124,11 @@ If this fix doesn’t work, move to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -144,15 +144,13 @@ If this fix doesn’t work, move to the next one.
 1. Press the**Windows logo key** +**I** (the ‘i’ key) together.
 2. Click**Gaming** .
 3. Go to the**Game bar** tab, make sure the toggle is off.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_14-33-30.jpg)
 4. Relaunch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Shut down unnecessary apps
 
  If you can play the game, but it’s lagging and viewers get spikes, shutting down unnecessary background applications is a good option. It’s because Stream requires some CPU power too, the less other stuff, the more power for Cyberpunk 2077.
@@ -169,8 +167,6 @@ If this fix doesn’t work, move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +174,21 @@ If this fix doesn’t work, move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-direct-your-media-essential-flv-to-youtube-applications-ranked/"><u>[New] In 2024, Direct Your Media Essential Flv-to-YouTube Applications Ranked</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-1110-stuck-on-restarting/"><u>[SOLVED] Windows 11/10 Stuck On Restarting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-starting-your-own-platform-a-guide-to-critiquing-home-essentials/"><u>2024 Approved Starting Your Own Platform A Guide to Critiquing Home Essentials</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-persistent-glitches-ensuring-stable-playthroughs-of-age-of-wonders-planetfall-on-your-computer/"><u>Battling Persistent Glitches: Ensuring Stable Playthroughs of 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-nv-76-pc-server-disconnection-heres-how-you-fix-it/"><u>Fallout nV-76 PC Server Disconnection? Here’s How You Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-resolving-msi-afterburners-inability-to-detect-gpu-on-latest-windows-versions/"><u>Guide: Resolving MSI Afterburner's Inability to Detect GPU on Latest Windows Versions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y78t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y78t Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-flawless-conversion-needed-try-these-top-8-sub-and-srt-tools/"><u>In 2024, Flawless Conversion Needed? Try These Top 8 Sub & Srt Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-get-instant-fake-faces-top-free-online-generators/"><u>New In 2024, Get Instant Fake Faces Top Free Online Generators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/powerdirector-unboxed-a-complete-review-users/"><u>PowerDirector Unboxed A Complete Review Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-troubleshooting-for-eliminating-lag-in-counter-strike-online-gameplay/"><u>Quick Troubleshooting for Eliminating Lag in Counter-Strike Online Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-league-of-legends-connectivity-glitch-patch-update-2024/"><u>Resolving the League of Legends Connectivity Glitch: Patch Update 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saiyan-chronicles-unveiled-how-to-experience-dragons-and-heroes-sequentially-from-start-to-finish/"><u>Saiyan Chronicles Unveiled: How to Experience Dragons and Heroes Sequentially From Start to Finish</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flac-mp4mp3-converter-online-movavi/"><u>무료 기회: FLAC 라이브 스타일에서 MP4/MP3를 원형으로 강력한 구성값으로 Converter - Online Movavi</u></a></li>
+</ul></div>
 

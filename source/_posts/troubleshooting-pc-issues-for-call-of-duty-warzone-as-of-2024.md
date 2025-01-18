@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues for Call of Duty: Warzone as of 2024"
-date: 2025-01-08T17:10:51.480Z
-updated: 2025-01-12T18:03:58.804Z
+date: 2025-01-11T20:58:55.953Z
+updated: 2025-01-18T08:21:43.266Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -56,11 +56,11 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-If it’s not working, move to next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If it’s not working, move to next fix.
 
 ### Fix 2: Disable overclocking
 
@@ -104,18 +104,22 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -127,10 +131,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -158,18 +158,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/oosting-traffic-on-youtube-mastering-the-art-of-video-outros/"><u>[New] Boosting Traffic on YouTube Mastering the Art of Video Outros</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unraveling-the-mystery-of-disappearing-youtube-shorts-thumbnails/"><u>[Updated] 2024 Approved Unraveling the Mystery of Disappearing YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-android-the-ultimate-recorder-at-no-cost/"><u>[Updated] Capture Android The Ultimate Recorder at No Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-guilty-gear-strive-continuous-crashing-on-desktop-pcs/"><u>Comprehensive Fix for Guilty Gear Strive Continuous Crashing on Desktop PCs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-analysis-strategy-for-music-video-creation/"><u>Cost Analysis Strategy for Music Video Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enable-your-xboxps-controller-connection-for-gaming-in-steam-windows-fix/"><u>How to Enable Your Xbox/PS Controller Connection for Gaming in Steam (Windows Fix)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ice-capped-inspiration-chinas-sports-spectacle/"><u>Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revival-artisan-selection/"><u>In 2024, Revival Artisan Selection</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-to-reduce-high-ping-enhancing-your-multiplayer-gaming-experience-in-back-4-blood/"><u>Quick Fixes to Reduce High Ping: Enhancing Your Multiplayer Gaming Experience in Back 4 Blood</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reflex-toolbox-bundle-for-2024/"><u>Reflex Toolbox Bundle for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/spatial-audio-not-playing-on-win11-or-win10-quick-fixes-and-solutions/"><u>Spatial Audio Not Playing on Win11 or Win10: Quick Fixes and Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-kid-friendly-ipads-the-ultimate-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : The Ultimate Guide (ZDNet)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-the-issue-of-multiversus-not-starting-on-your-pc/"><u>Troubleshooting Steps: Resolving the Issue of MultiVersus Not Starting on Your PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-camcorders-enhancing-podcasting/"><u>[New] Premium Camcorders Enhancing Podcasting</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fifa-21-not-launching/"><u>[SOLVED] FIFA 21 Not Launching</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-resolving-fb-message-app-video-not-sending-error-on-mobile-devices-for-2024/"><u>[Updated] Resolving FB Message App Video Not Sending Error on Mobile Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-6-social-media-platforms-for-business-for-2024/"><u>[Updated] Top 6 Social Media Platforms for Business for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-iv-fixed-no-more-pc-game-crashes/"><u>Age of Empires IV Fixed: No More PC Game Crashes!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-s23-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel S23 Fingerprint Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-dead-by-daylight-crashes-proven-strategies-and-fixes-of-2024/"><u>Defeat Dead by Daylight Crashes: Proven Strategies and Fixes of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-zoom-cant-start-video-error-5-effective-solutions-for-smooth-streaming/"><u>Eliminate 'Zoom Can’t Start Video' Error: 5 Effective Solutions for Smooth Streaming</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhancing-process-analytics-the-strategic-alliance-of-alteryx-and-abbyy/"><u>Enhancing Process Analytics: The Strategic Alliance of Alteryx & ABBYY</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-resident-evil-village-not-loading-errors/"><u>Expert Advice on Fixing Resident Evil Village Not Loading Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/hell-let-loose-pc-performance-issues-now-solved-with-easy-steps/"><u>Hell Let Loose PC Performance Issues – Now Solved with Easy Steps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-registration-simplified/"><u>In 2024, Facebook Registration Simplified</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-innovative-approaches-to-lut-creation/"><u>In 2024, Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-k70-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi K70 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/obs-vs-wirecast-which-should-you-trust-for-live-in-2024/"><u>OBS Vs. Wirecast - Which Should You Trust for Live, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-fifa-21-from-crashing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop FIFA 21 From Crashing: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-deadly-glitches-with-ghostrunner-under-windows-11-solutions-unveiled/"><u>Troubleshooting Deadly Glitches with Ghostrunner Under Windows 11: Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworld-top-solutions-for-launch-and-load-issues/"><u>Troubleshooting Palworld: Top Solutions for Launch and Load Issues</u></a></li>
 </ul></div>
 

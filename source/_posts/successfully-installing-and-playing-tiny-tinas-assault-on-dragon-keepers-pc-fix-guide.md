@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2025-01-09T17:41:31.953Z
-updated: 2025-01-12T17:17:11.337Z
+date: 2025-01-11T01:53:14.820Z
+updated: 2025-01-18T03:47:39.373Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,6 +63,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -71,7 +79,7 @@ Here’s how:
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
@@ -79,6 +87,10 @@ Here’s how:
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -107,19 +119,11 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -131,14 +135,10 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -164,18 +164,22 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-comic-corner-best-funny-content-on-the-planet-web/"><u>[New] In 2024, Comic Corner Best Funny Content on the Planet Web</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-top-10-economical-platforms-for-seamless-online-video-meetings/"><u>[New] In 2024, The Top 10 Economical Platforms for Seamless Online Video Meetings</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-civ-6-not-launching-on-windows-11/"><u>[SOLVED] Civ 6 Not Launching on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-steam-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Steam Keeps Crashing | Quickly & Easily!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/3mp4aac/"><u>3無料ツールで簡単にMP4からAACへの変換ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-rockstar-games-launcher-errors-expert-tips-for-a-flawless-fix/"><u>Dealing With Rockstar Games Launcher Errors? Expert Tips for a Flawless Fix!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-fix-error-code-n-103003-in-arma-tarkov-mission/"><u>Expert Solutions to Fix 'Error Code N 103003' In Arma Tarkov Mission</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-stumbling-blocks-the-top-5-times-users-were-letdown/"><u>Facebook's Stumbling Blocks: The Top 5 Times Users Were Letdown</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-bless-unleashed-lag-spikeshigh-ping-on-pc/"><u>How To Fix Bless Unleashed Lag Spikes/High Ping on PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-blueprint-for-building-an-iconic-online-identity-on-youtube/"><u>In 2024, The Blueprint for Building an Iconic Online Identity on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-top-vr-treadmills-review/"><u>In 2024, Top VR Treadmills Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-acid-pro-analysis-and-substitutes-for-2024/"><u>Professional ACID Pro Analysis and Substitutes for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/untangling-directdraw-glitches-effective-solutions-for-gamers-and-developers/"><u>Untangling DirectDraw Glitches: Effective Solutions for Gamers and Developers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-from-basics-to-advanced-crafting-powerful-instagram-hashtags/"><u>[New] 2024 Approved From Basics to Advanced Crafting Powerful Instagram Hashtags</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-apply-spiral-depth-enhancement-to-images-psx/"><u>[New] Apply Spiral Depth Enhancement to Images PSX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>[New] Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quintessential-6-realistic-mojave-homes-for-2024/"><u>[Updated] Quintessential 6 Realistic Mojave Homes for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-newly-improved-budget-friendly-apple-ipad-102-gen-8/"><u>Comprehensive Evaluation of the Newly Improved, Budget-Friendly Apple iPad 10.2 - Gen 8</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-is-donating-5-million-to-the-whos-covid-19-fundraising-campaign/"><u>Facebook Is Donating $5 Million to the WHO's COVID-19 Fundraising Campaign</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-not-opening-heres-what-you-need-to-know/"><u>Hogwarts Legacy Not Opening? Here's What You Need to Know !</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-riot-games-addressed-the-202e-connectivity-issue-in-lols-latest-patch/"><u>How Riot Games Addressed the 202E Connectivity Issue in LoL's Latest Patch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-c51-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme C51 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-narzo-n53-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme Narzo N53? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stream-stability-essential-troubleshooting-steps-for-twitch-glitches/"><u>Mastering Stream Stability: Essential Troubleshooting Steps for Twitch Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-successfully-solving-your-fortnite-technical-problems-easily/"><u>PC Gaming Successfully: Solving Your Fortnite Technical Problems Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-no-more-freezes-smooth-sailing-with-assassins-creed-odyssey-on-pc/"><u>Resolved: No More Freezes - Smooth Sailing with Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-ghostrunner-critical-crashes-in-windows-11-a-complete-guide/"><u>Resolving GhostRunner Critical Crashes in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-hogwarts-legacy-launch-issues-top-tips-and-tricks-of-2024/"><u>Solving the 'Hogwarts Legacy' Launch Issues: Top Tips and Tricks of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-dota-2-crashing-for-good-expert-fix-tips-and-techniques/"><u>Stop Dota 2 Crashing for Good – Expert Fix Tips & Techniques</u></a></li>
 </ul></div>
 

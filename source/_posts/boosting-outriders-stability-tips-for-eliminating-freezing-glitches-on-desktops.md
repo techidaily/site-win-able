@@ -1,7 +1,7 @@
 ---
 title: "Boosting Outriders Stability: Tips for Eliminating Freezing Glitches on Desktops"
-date: 2024-08-13T10:01:45.279Z
-updated: 2024-08-14T10:01:45.279Z
+date: 2025-01-10T22:50:10.129Z
+updated: 2025-01-18T05:53:52.475Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -32,13 +33,14 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -49,10 +51,11 @@ Check your region and language settings on your computer:
 
  2) Click **Time** **& language** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -60,10 +63,11 @@ Check your region and language settings on your computer:
 
 4) Make sure the region and language settings is matched with yours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
 
@@ -73,9 +77,6 @@ Check your region and language settings on your computer:
 
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
  2) Click **Check for updates** .
@@ -85,6 +86,10 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -110,16 +115,10 @@ Check your region and language settings on your computer:
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -130,17 +129,15 @@ Or click  **Update All** to automatically download and install the correct versi
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -153,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +157,18 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-download-unlimited-mcb-visual-elements/"><u>[New] 2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-journey-enhancers-best-narrative-methods-for-2024/"><u>[Updated] YouTube Journey Enhancers Best Narrative Methods for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-speed-up-instagram-videos-on-desktop-effective-techniques/"><u>2024 Approved Speed Up Instagram Videos on Desktop Effective Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-and-the-cpu-overload-ultimate-guide-to-optimizing-your-system/"><u>Baldur's Gate 3 and the CPU Overload: Ultimate Guide to Optimizing Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-your-tracks-with-movavi-quick-and-free-online-m4a-mp3-file-changer/"><u>Convert Your Tracks with Movavi: Quick & FREE Online M4A MP3 File Changer!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/formulating-balanced-meal-plans-via-ai-help/"><u>Formulating Balanced Meal Plans via AI Help</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004415606-overcoming-pc-boot-issues-in-resident-evil-5-now-running-smoothly/"><u>Overcoming PC Boot Issues in Resident Evil 5 - Now Running Smoothly!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-documenting-digital-entertainment/"><u>The Art of Documenting Digital Entertainment</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-defeating-mouse-glitches-in-resident-evil-village/"><u>The Ultimate Guide to Defeating Mouse Glitches in Resident Evil Village</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-freezing-issues-in-call-of-duty-vanguard/"><u>Troubleshooting Steps to Resolve Freezing Issues in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-launch-issues-heres-how-you-can-resolve-them-easily/"><u>Warzone Launch Issues? Here's How You Can Resolve Them Easily!</u></a></li>
+</ul></div>
 

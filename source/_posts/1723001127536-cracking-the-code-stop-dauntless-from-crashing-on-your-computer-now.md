@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now"
-date: 2025-01-08T17:39:24.724Z
-updated: 2025-01-12T17:46:47.173Z
+date: 2025-01-14T01:00:00.260Z
+updated: 2025-01-18T04:30:47.547Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
@@ -66,13 +66,13 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -90,14 +90,14 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,7 +109,7 @@ This could take several minutes. Wait for the process to be complete.
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
@@ -124,9 +124,17 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -140,10 +148,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -155,10 +159,6 @@ If the crashing still happens, continue with the next solution below.
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -187,18 +187,18 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[New] In 2024, The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-enhancing-synchronization-between-cameras-and-obs/"><u>2024 Approved Enhancing Synchronization Between Cameras and OBS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>2024 Approved Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/beat-the-heat-in-battle-royale-havits-5-fan-cooling-pad-for-gamers-a-comprehensive-review/"><u>Beat the Heat in Battle Royale: HAVIT's 5-Fan Cooling Pad for Gamers - A Comprehensive Review</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2416121-9780786450879-children-who-remember-previous-lives/"><u>Children Who Remember Previous Lives | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-latest-update-beyond-light-pc-version-glitches-resolved/"><u>Destiny 2'S Latest Update - Beyond Light PC Version Glitches Resolved</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-insights-into-synchronizing-desktops-in-google-meet/"><u>Expert Insights Into Synchronizing Desktops in Google Meet</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997903683-how-to-fix-starfield-high-cpu-usage-issue-2024-tips/"><u>How to Fix Starfield High CPU Usage Issue - 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-level-resolving-lag-and-hitches-in-grounded-on-your-pc-new-guide/"><u>Master Level: Resolving Lag and Hitches in 'Grounded' On Your PC (New Guide)</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-nier-automata-freezing-issues/"><u>Resolved: Fixes for NieR: Automata Freezing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-chrome-and-firefox-issues-how-to-fix-youtube-videos-when-the-audio-keeps-playing-but-video-freezes/"><u>Resolving Chrome and Firefox Issues: How to Fix YouTube Videos When the Audio Keeps Playing but Video Freezes</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-tutorial-on-downloading-closed-captioning-files-for-your-vimeo-content/"><u>Step-by-Step Tutorial on Downloading Closed Captioning Files for Your Vimeo Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722985057941-tips-to-amplify-performance-in-horizon-zero-dawn-boost-fps-and-enjoy-seamless-action/"><u>Tips to Amplify Performance in Horizon Zero Dawn – Boost FPS & Enjoy Seamless Action!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-painttool-pro-techniques-unveiled/"><u>[New] In 2024, PaintTool Pro Techniques Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-triller-101-the-unique-path-of-non-tiktok-social-media/"><u>[New] Triller 101 The Unique Path of Non-TikTok Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-series-top-tier-webcam-grips/"><u>[Updated] In 2024, Ultimate Series Top-Tier Webcam Grips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-success-across-social-networks-youtube-plus-more-for-2024/"><u>Channel Success Across Social Networks YouTube + More for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-steps-to-repair-missing-rockalldlldll-files-and-prevent-system-failures/"><u>Critical Steps to Repair Missing Rockalldll.dll Files and Prevent System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-origins-solved-game-stability-for-windows-11-operating-system/"><u>Dragon Age: Origins - Solved Game Stability for Windows 11 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-errors-what-to-do-when-qbittorrent-performance-drops/"><u>Fixing Errors: What to Do When qBittorrent Performance Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-persistent-startup-problems-in-the-cold-war-game-tips-for-xbox-and-pc-gamers/"><u>How to Resolve Persistent Startup Problems in the Cold War Game - Tips for Xbox and PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-critical-error-ntdlldll-failed-to-load-on-pc/"><u>How to Resolve Window's Critical Error: ntdll.dll Failed To Load on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S23+ Phone?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-eliminate-the-unwanted-black-screens-in-hitman-3-on-windows/"><u>Step-by-Step Guide to Eliminate the Unwanted Black Screens in Hitman 3 on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-thunder-tier-1s-stability-problems-a-guide-to-preventing-in-game-collapses-on-desktops/"><u>Tackling Thunder Tier 1'S Stability Problems: A Guide to Preventing In-Game Collapses on Desktops</u></a></li>
 </ul></div>
 

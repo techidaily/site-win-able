@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Red Dead Redemption 2 Crashing on PC"
-date: 2024-08-13T10:01:36.740Z
-updated: 2024-08-14T10:01:36.740Z
+date: 2025-01-12T22:21:13.708Z
+updated: 2025-01-17T23:31:50.633Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/d9e5776de3811350c1a1e02825a34775cfed017b7
 
 Left 4 Dead 2 is an old game but there’re still gamers who love playing it. The game is quite steady but if you’re newbies and encounter crashing, don’t worry, this post is here to help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -83,11 +80,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -104,10 +102,6 @@ If it doesn’t work for you, move to the next fix.
 
  Also, low-end computers crash without mods. It’s recommended to have more than 4 GB of ram for gaming on any game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4\. Verify game files
 
  It may sound like an old cliché, but most problems can be solved by verifying Steam files.
@@ -116,13 +110,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Right-click on**Left 4 Dead 2** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also disable Steam overlay in Left 4 Dead 2.
 
@@ -134,8 +129,9 @@ You can also disable Steam overlay in Left 4 Dead 2.
 If it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Disable add-ons
 
  If your game keeps crashing when you want to load into an addon map, it probably your addons are causing those crashes. When the addon map is attempting to load a texture or model that has already been loaded from another addon you’ve got installed, you’ll get a crash.
@@ -153,8 +149,9 @@ To check if your add-ons are the fault, here the following things to do:
 9. Find the exact add-on that causes the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.
@@ -164,11 +161,12 @@ To check if your add-ons are the fault, here the following things to do:
 1. Navigate to Left 4 Dead 2 saving folder.
 2. Right-click on the game and click **Properties** .
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -180,8 +178,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +185,26 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-expedite-visuals-drawing-and-enhancing-with-windows-photos-app/"><u>[New] In 2024, Expedite Visuals Drawing & Enhancing with Windows Photos App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-virtual-quality-assurance-examining-apps-with-vll/"><u>[Updated] 2024 Approved Virtual Quality Assurance Examining Apps with VLL</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-becoming-a-youtube-star-utilizing-the-power-of-featured-channels/"><u>[Updated] Becoming a Youtube Star Utilizing the Power of Featured Channels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tag-like-a-pro-the-most-trending-hashtags-on-instagram-to-increase-engagement/"><u>[Updated] In 2024, Tag Like a Pro The Most Trending Hashtags on Instagram to Increase Engagement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-prime-data-keepers-expert-top-10-selections-for-2024/"><u>[Updated] Prime Data Keepers Expert Top 10 Selections for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-list-of-androids-gb-compatible-simulators/"><u>[Updated] Ultimate List of Android's GB-Compatible Simulators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-recording-process-across-all-tech-platforms/"><u>2024 Approved Streamline Your Recording Process Across All Tech Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008725590-achieve-smooth-gameplay-in-outriders-by-solving-persistent-lag-issues-today/"><u>Achieve Smooth Gameplay in Outriders by Solving Persistent Lag Issues Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/cutting-edge-techniques-for-advanced-hdr-images-in-aps/"><u>Cutting-Edge Techniques for Advanced HDR Images in APS</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-freezing-in-sovled-warno-game-for-windows-computers/"><u>Fixing Persistent Freezing in [SOVLED] Warno Game for Windows Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-ace-2v-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus Ace 2V Phone Network-Ready</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-game-overcoming-hell-let-loose-runtime-errors-and-system-crashes/"><u>Master the Game: Overcoming 'Hell Let Loose' Runtime Errors and System Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-sharing-your-gaming-moments-a-guide-to-nintendo-switch-screencaps/"><u>Mastering the Art of Sharing Your Gaming Moments: A Guide to Nintendo Switch Screencaps</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-maintenance-mastery-tackling-the-tricky-exit-code-0-dilemma-with-ease/"><u>Minecraft Maintenance Mastery - Tackling the Tricky Exit Code 0 Dilemma with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-pcs-minecraft-dungeon-crash-problem-with-these-easy-fixes/"><u>Solve Your PC's Minecraft Dungeon Crash Problem with These Easy Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-adobe-startup-error-0xc0000022/"><u>Step-by-Step Guide to Fixing Adobe Startup Error: 0Xc0000022</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-failed-connections-fixing-no-ping-error-in-halo-infinite-game/"><u>Troubleshooting Failed Connections - Fixing 'No Ping' Error in Halo Infinite Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-addressing-and-resolving-packet-loss-challenges-on-discord/"><u>Troubleshooting Guide: Addressing & Resolving Packet Loss Challenges on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-internet-explorer-no-longer-responding-issues/"><u>Troubleshooting Tips: Resolving 'Internet Explorer No Longer Responding' Issues</u></a></li>
+</ul></div>
 

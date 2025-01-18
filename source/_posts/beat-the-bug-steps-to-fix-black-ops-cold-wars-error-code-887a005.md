@@ -1,7 +1,7 @@
 ---
 title: "Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005"
-date: 2025-01-07T16:51:33.072Z
-updated: 2025-01-12T17:20:35.383Z
+date: 2025-01-16T05:26:07.276Z
+updated: 2025-01-17T20:36:31.058Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [1. Scan and repair](https://tools.techidaily.com/drivereasy/download/)
@@ -37,19 +33,11 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [5. Delete the Battle.net Cache folder](https://tools.techidaily.com/drivereasy/download/)
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
@@ -63,7 +51,15 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -79,7 +75,7 @@ The first thing, as it suggests, is to perform a scan and repair.
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update the graphics driver
@@ -100,13 +96,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
 
@@ -116,17 +112,25 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
- Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
 ## 5\. Delete the Battle.net Cache folder
 
@@ -141,11 +145,7 @@ The first thing, as it suggests, is to perform a scan and repair.
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
@@ -186,24 +186,21 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-a-century-of-sparks-the-10-most-voted-on-reddit-posts/"><u>[Updated] In 2024, A Century of Sparks The 10 Most Voted on Reddit Posts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-expert-video-lighting-advice-maximizing-visual-impact/"><u>2024 Approved Expert Video Lighting Advice Maximizing Visual Impact</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-the-shadows-effective-solutions-for-overwatch-launch-blackouts/"><u>Banishing the Shadows: Effective Solutions for Overwatch Launch Blackouts</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-common-palworld-search-session-problems/"><u>Easy Fixes for Common Palworld Search Session Problems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 11 Pro Max</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-expert-tips-for-shifting-gender-identity-in-digital-imagery/"><u>In 2024, Expert Tips for Shifting Gender Identity in Digital Imagery</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-c53-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme C53 to iPad | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-multi-fps-drop-problems-a-guide-to-enhancing-pc-gameplay/"><u>Mastering Multi-FPS Drop Problems: A Guide to Enhancing PC Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frame-drops-and-stutters-during-gameplay-on-naraka-bladepoint/"><u>Resolving Frame Drops & Stutters During Gameplay on Naraka: Bladepoint</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-your-fallout-76-online-play-solutions-for-pc-users/"><u>Restoring Your Fallout 76 Online Play: Solutions for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/sharpen-your-gaming-experience-solutions-for-outriders-blurry-image-issues/"><u>Sharpen Your Gaming Experience: Solutions for Outriders' Blurry Image Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-connection-issues-how-to-resolve-no-match-found-in-warzone-on-pc/"><u>Solving Connection Issues: How to Resolve No Match Found in Warzone on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-vr-detection-issues-6-fixes-you-need-to-try/"><u>Steam VR Detection Issues: 6 Fixes You Need to Try</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-compatibility-issues-of-your-windows-tablet-stylus/"><u>Streamlining Compatibility Issues of Your Windows Tablet Stylus</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-top-picks-excellent-fb-lite-video-downloaders-of-2023/"><u>The Top Picks Excellent FB Lite Video Downloaders of 2023</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transcodez-en-h264-gratuit-guide-detaille-pour-migrer-du-format-hevc-h2eplus8-a-windowsmacos/"><u>Transcodez en H.264 Gratuit : Guide Détaillé Pour Migrer Du Format HEVC (H.2e+8) À Windows/macOS</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 13 Pro Max/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-ultimate-gaming-experience-now-flawlessly-running-on-pcs-worldwide/"><u>Yakuza: Like a Dragon – Ultimate Gaming Experience Now Flawlessly Running on PCs Worldwide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-intova-x-changes-action-camera-game-for-2024/"><u>[New] How Intova X Changes Action Camera Game for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-expert-tips-6-advanced-strategies-for-gif-artistry/"><u>[New] In 2024, Expert Tips 6 Advanced Strategies for GIF Artistry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-techniques-for-high-quality-android-recordings/"><u>2024 Approved Expert Techniques for High-Quality Android Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721412293357-chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure.</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-in-game-disruptions-solving-valorants-frequent-pc-shutdowns/"><u>Dealing with In-Game Disruptions: Solving Valorant's Frequent PC Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-destiny-warzone-memory-error-xboxpc-code-0-1766-a-step-by-step-fix-guide/"><u>Defeat the Destiny Warzone Memory Error (Xbox/PC, Code 0-1766): A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975547165-download-the-epson-wf-2630-printer-drivers-for-windows-7-81-and-10-get-your-printing-started/"><u>Download the Epson WF-2630 Printer Drivers for Windows 7, 8.1 & 10 - Get Your Printing Started</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-qbittorrent-stalling-problems-a-comprehvehicle-guide/"><u>Fixing qBittorrent Stalling Problems: A Comprehvehicle Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-c51-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco C51 Unlock Without Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-techniques-to-stop-age-of-empires-iv-from-stuttering-and-lagging/"><u>Master the Techniques to Stop Age of Empires IV From Stuttering and Lagging</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-experience-the-best-90-day-free-trial-of-final-cut-pro-now/"><u>New 2024 Approved Experience the Best 90-Day Free Trial of Final Cut Pro Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-performance-fixing-high-cpu-drain-in-cyberpunk-2077/"><u>Optimized Performance: Fixing High CPU Drain in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-resolved-fixes-for-continuous-game-crashes/"><u>Pathfinder: Wrath of the Righteous - Resolved: Fixes for Continuous Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-dead-by-daylight-error-8014-start-playing-now/"><u>Ultimate Solution for Dead By Daylight Error 8014 – Start Playing Now</u></a></li>
 </ul></div>
 

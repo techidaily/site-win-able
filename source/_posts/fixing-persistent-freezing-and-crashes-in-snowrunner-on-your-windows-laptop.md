@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2025-01-05T17:23:02.843Z
-updated: 2025-01-12T16:44:20.740Z
+date: 2025-01-13T05:28:37.218Z
+updated: 2025-01-17T22:24:54.028Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
   * [Step 3: Install beta patch](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Official Fix
 
@@ -60,15 +64,11 @@ Follow the steps below to fix the crashing issue.
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -91,10 +91,6 @@ Restart your computer for the changes to take effect.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Lower your graphics settings
 
  Some players have reported that dropping their graphics to the lowest as they can go and running the game in windowed mode would fix the issue.
@@ -104,8 +100,16 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
@@ -113,7 +117,7 @@ Restart your computer for the changes to take effect.
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
@@ -125,11 +129,15 @@ Restart your computer for the changes to take effect.
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
@@ -142,18 +150,10 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -174,20 +174,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-visibility-with-youtube-branding-techniques/"><u>[New] Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-yourselfie-instagrams-verification-essentials-for-2024/"><u>[New] Mastering Yourselfie Instagram's Verification Essentials for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>[Updated] How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigate-metaverse-success-7-crucial-tech-gadgets/"><u>[Updated] Navigate Metaverse Success 7 Crucial Tech Gadgets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-x-audio-studio-pro-for-computer-users/"><u>[Updated] X-Audio Studio Pro for Computer Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/alien-fireteam-elite-on-pc-top-fixes-for-game-crashes-and-uninterrupted-gaming-experience/"><u>Alien: Fireteam Elite on PC - Top Fixes for Game Crashes and Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-major-event-highlights-the-arrival-of-powerful-ipad-lineup-featuring-m4-ipad-pro-expanded-ipad-air-and-the-next-gen-apple-pencil-tech-analysis/"><u>Apple's Major Event Highlights: The Arrival of Powerful iPad Lineup Featuring M4 iPad Pro, Expanded iPad Air, and the Next-Gen Apple Pencil | Tech Analysis</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-tips-on-acquiring-profitable-yt-channels-for-2024/"><u>Essential Tips on Acquiring Profitable YT Channels for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-your-steam-game-library-up-and-running-again-on-win-10-devices/"><u>How to Get Your Steam Game Library Up and Running Again on Win 10 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-stardew-valley-from-crashing-on-your-windows-or-mac/"><u>How to Stop Stardew Valley From Crashing on Your Windows or Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-conversation-game-mastering-the-art-of-sending-gifs-in-snapchat/"><u>In 2024, Elevate Your Conversation Game Mastering the Art of Sending GIFs in Snapchat</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-csglobal-offensive-initialization-failures-a-guide-to-fixing-the-issue/"><u>Overcoming CS:Global Offensive Initialization Failures - A Guide to Fixing the Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed!</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v27e-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27e Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-free-ways-to-save-your-desktop-on-windows-8/"><u>[Updated] 2024 Approved Free Ways to Save Your Desktop on Windows 8</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-economical-360-cameras-for-quality-videography/"><u>2024 Approved Economical 360° Cameras for Quality Videography</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-flavorful-journey-into-the-whirlwind-world-of-overcooked-2-a-reviewers-perspective/"><u>A Flavorful Journey Into the Whirlwind World of Overcooked! 2: A Reviewer's Perspective</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-gaming-expert-tips-to-resolve-ghost-recon-breakpoint-issues-instantly/"><u>Crash-Free Gaming: Expert Tips to Resolve Ghost Recon Breakpoint Issues Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deducing-the-return-on-investment-for-elite-ai-services/"><u>Deducing the Return on Investment for Elite AI Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-compatible-realtek-rtl8188cu-network-adapter-for-windows-11-7/"><u>Download Compatible Realtek RTL8188CU Network Adapter for Windows 11, 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-problems-with-non-responsive-google-chrome-browser/"><u>Expert Advice on Overcoming Problems with Non-Responsive Google Chrome Browser</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-15-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 15?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-7-hd-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 7 HD Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/seamless-transition-transferring-exclusive-youtube-content-to-gmail/"><u>Seamless Transition Transferring Exclusive YouTube Content to Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-overcoming-the-nba-2k21-pc-crash-challenge/"><u>Smooth Gaming Experience: Overcoming the NBA 2K21 PC Crash Challenge</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-farming-simulator-22-not-starting-properly/"><u>Step-by-Step Troubleshooting for Farming Simulator 22 Not Starting Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998758079-trouble-launching-civilization-vi-solve-the-problems-for-a-smooth-windows-10-experience/"><u>Trouble Launching Civilization VI? Solve the Problems for a Smooth Windows #10 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-continuous-zoom-disruptions-on-windows-11-and-windows-10/"><u>Troubleshooting Guide: How to Fix Continuous Zoom Disruptions on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-far-cry-6-game-crashes-on-desktops-effective-fixes-and-tweaks/"><u>Winning the Battle Against Far Cry 6 Game Crashes on Desktops: Effective Fixes and Tweaks</u></a></li>
 </ul></div>
 

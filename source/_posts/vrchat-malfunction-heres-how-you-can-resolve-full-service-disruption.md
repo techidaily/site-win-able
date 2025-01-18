@@ -1,7 +1,7 @@
 ---
 title: VRChat Malfunction? Here's How You Can Resolve Full Service Disruption
-date: 2024-08-13T10:01:22.372Z
-updated: 2024-08-14T10:01:22.372Z
+date: 2025-01-15T20:50:09.832Z
+updated: 2025-01-17T22:55:29.822Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 
  Before trying any fixes below, please check your camera doesn’t have any physical problem and is working fine on another computer or application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)
@@ -42,9 +39,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
 
@@ -62,8 +56,9 @@ Here’s how…
 If it doesn’t help, please move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -74,8 +69,9 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update camera driver
 
  If your camera driver is not properly configured, outdated, or corrupt, it won’t work on your computer normally. In this situation, updating the driver may solve the problem.
@@ -104,11 +100,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -118,9 +120,6 @@ OR
  The outdated operating system could be the reason for the camera not working problem, the new version may have a patch to fix bugs. So update your system may help you fix the problem.
 
 1. Press the**Windows logo key + I** and click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
@@ -135,27 +134,30 @@ If your camera is still not working on Discord, move to the next fix.
 
 1. Exit Discord completely.
 2. Press the**Windows logo key + I** together and click**Apps** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
-5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
@@ -175,8 +177,6 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +184,23 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-primer-to-perfect-hdr-cameras-the-definitive-list/"><u>A Primer to Perfect HDR Cameras The Definitive List</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefront-2-pc-performance-optimization-solving-slow-launch-problems/"><u>Battlefront 2 PC Performance Optimization - Solving Slow Launch Problems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig/"><u>Becoming an Influencer Entrepreneur Creating a Business Profile on IG</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-2024-solution-manual-fixing-discord-latency-problems/"><u>Complete 2024 Solution Manual: Fixing Discord Latency Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000883214-deal-with-outdated-minecraft-drivers-learn-the-simple-trick-to-upgrade-and-enjoy-smooth-gameplay/"><u>Deal with 'Outdated' Minecraft Drivers? Learn the Simple Trick to Upgrade and Enjoy Smooth Gameplay!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-freezing-in-your-overwatch-matches/"><u>How to Fix Persistent Freezing in Your Overwatch Matches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-noxplayer-from-recurrently-shutting-down-on-laptop-or-computer/"><u>How to Stop Your NoxPlayer From Recurrently Shutting Down on Laptop or Computer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maintaining-morale-amidst-online-adversity/"><u>In 2024, Maintaining Morale Amidst Online Adversity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-7-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 7? 5 Tips You Must Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722900617475-solutions-for-sudden-failures-in-car-radio-performance/"><u>Solutions for Sudden Failures in Car Radio Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-prevent-and-fix-pc-issues-with-cult-of-the-lamb/"><u>Step-by-Step Guide: Prevent and Fix PC Issues with Cult of the Lamb</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-9-drone-video-editing-software-for-different-level-for-2024/"><u>Top 9 Drone Video Editing Software for Different Level for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-powerful-ammo-tactics-a-deep-dive-into-fps-changes-for-me-le-players/"><u>Unlocking Powerful Ammo Tactics: A Deep Dive Into FPS Changes for ME LE Players</u></a></li>
+<li><a href="https://techtrends.techidaily.com/update-or-replace-samsung-tvs-default-internet-explorer-with-ease/"><u>Update or Replace Samsung TV's Default Internet Explorer with Ease</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-novice-to-pro-20-adobe-premiere-shortcuts-to-take-your-skills-to-the-next-level-for-2024/"><u>Updated From Novice to Pro 20 Adobe Premiere Shortcuts to Take Your Skills to the Next Level for 2024</u></a></li>
+</ul></div>
 

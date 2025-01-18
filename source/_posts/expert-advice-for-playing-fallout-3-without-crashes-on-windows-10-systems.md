@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Playing Fallout 3 Without Crashes on Windows 10 Systems
-date: 2024-08-13T10:02:20.350Z
-updated: 2024-08-14T10:02:20.350Z
+date: 2025-01-11T22:32:45.245Z
+updated: 2025-01-17T16:56:02.862Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -33,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -40,27 +41,18 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 Here’s how you can check the file integrity on Steam:
 
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of launching issue is**a broken or outdated graphics driver** . You can try updating your driver and see if that fixes the issue. New drivers often tackle compatibility issues and come with a performance boost.
@@ -71,6 +63,11 @@ Here’s how you can check the file integrity on Steam:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -87,10 +84,11 @@ Here’s how you can check the file integrity on Steam:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -105,23 +103,17 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
 
 1. Visit[the website](http://www.sb-online.org/maluc/index.php?did=bh5fixes) and download the patch at the bottom of the page.
 2. Unzip the patch and copy all the files.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
@@ -135,9 +127,11 @@ The ultimate burning program for all your needs!</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -152,8 +146,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +153,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pushing-boundaries-with-lightrooms-hdr-merging-capability/"><u>2024 Approved Pushing Boundaries with Lightroom’s HDR Merging Capability</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-halo-infinite-pc-crashes-expert-solutions/"><u>Fix Your Halo Infinite PC Crashes: Expert Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>In 2024, WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-in-minecraft-advanced-tutorial-to-stop-pc-hitches-and-lags-in-2-cups-of-coffee/"><u>Mastering Smooth Gameplay in Minecraft: Advanced Tutorial to Stop PC Hitches and Lags in 2 Cups of Coffee?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/memes-unleashed-ranking-the-best-templates-10-for-2024/"><u>Memes Unleashed Ranking the Best Templates #10 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010472598-oculus-link-not-working-here-are-six-swift-solutions-to-revitalize-your-virtual-reality-experience/"><u>Oculus Link Not Working? Here Are Six Swift Solutions to Revitalize Your Virtual Reality Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dragon-quest-xi-performance-hiccups-solved/"><u>Overcoming Dragon Quest XI Performance Hiccups: Solved!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-for-fixing-code-nt00000035-in-device-manager-a-comprehensive-guide/"><u>Quick Solutions for Fixing Code nT!00000035 In Device Manager: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-issues-preventing-your-game-from-starting/"><u>Quick Solutions: Overcome Issues Preventing Your Game From Starting!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reducing-auditory-intensity-with-careful-adjustments-in-logic-pro/"><u>Reducing Auditory Intensity with Careful Adjustments in Logic Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009008108-resolved-starfield-sound-glitches-no-more-crackling-or-skipping/"><u>Resolved: Starfield Sound Glitches - No More Crackling or Skipping!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-vanishing-mouse-pointer-in-windows-10/"><u>Resolving the Issue of Vanishing Mouse Pointer in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/speedy-advice-navigating-through-shader-optimization-snags-in-star-wars-battlefront-ii/"><u>Speedy Advice: Navigating Through Shader Optimization Snags in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-grand-unveiling-of-it-takes-two-a-landmark-achievement-in-collaboration/"><u>The Grand Unveiling of 'It Takes Two': A Landmark Achievement in Collaboration</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-scavengers-game-errors-for-a-smooth-pc-experience/"><u>Troubleshooting and Repairing 'Scavengers' Game Errors for a Smooth PC Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/x-cite-reviews-and-simpler-choices-for-2024/"><u>X-Cite Reviews & Simpler Choices for 2024</u></a></li>
+</ul></div>
 

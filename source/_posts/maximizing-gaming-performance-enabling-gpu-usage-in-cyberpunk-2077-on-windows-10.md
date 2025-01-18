@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gaming Performance: Enabling GPU Usage in Cyberpunk 2077 on Windows 10"
-date: 2024-08-13T10:04:24.141Z
-updated: 2024-08-14T10:04:24.141Z
+date: 2025-01-10T22:50:15.892Z
+updated: 2025-01-17T19:41:52.217Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ GTFO
 
  GTFO, an extrame cooperative horror shooter, is finally ready for release after two years of early access. On December 9 at the Game Awards, 10 Chambers revealed that GTFO 1.0 has arrived. As more and more PC gamers come back to play the game, many of them are bothered by**GTFO FPS drop issue on their PC** . If you find yourself on the same boat, don’t worry. You’ve come to the right place. After reading this article, you shloud be able to fix the GTFO performance issues and boost the GTFO in-game FPS easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have helped other PC gamers fix the GTFO FPS drop issues. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,8 +37,9 @@ GTFO
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -61,14 +66,13 @@ There are mainly two methods for you to update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -77,9 +81,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Set the power plan of your PC for high performance
 
  Windows power plans are designed to manage how your computer consumes and conserves power. You may encouter FPS drops when your computer is using the balanced or power saver plan.
@@ -91,13 +92,15 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel would also boost the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -140,9 +143,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar
 
  Those who love sharing game highlight videos would love Xbox Game Bar and the background recording feature in Windows 10 and Windows 11\. However, once thesefeatures are enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -150,20 +150,20 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled background recording and Xbox Game Bar, and you’re suffering from in-game FPS drops, try disabling them:
 
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch GTFO to see you can play it smoothly.
 
@@ -181,8 +181,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +188,26 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-explore-extravagance-best-terrafirma-mapping/"><u>[New] Explore Extravagance Best Terrafirma Mapping</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-go-digital-capturing-lifes-motion-with-ios-device-for-2024/"><u>[New] Go Digital Capturing Life's Motion with iOS Device for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets/"><u>[New] In 2024, Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[New] Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-masterpiece-wave-for-2024/"><u>[Updated] Meme Masterpiece Wave for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-guide-to-resolving-minecraft-black-screen-glitch-tips-and-tricks-for-smooth-gaming/"><u>2024 Guide to Resolving Minecraft Black Screen Glitch: Tips and Tricks for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/bust-assassins-creed-odyssey-pc-freeze-glitches-with-these-new-fixes-202n/"><u>Bust Assassin's Creed Odyssey PC Freeze Glitches with These New Fixes (202N)</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-fixes-resolved-issues-with-game-not-starting-or-getting-stuck-during-load/"><u>Dota 2 Fixes: Resolved Issues with Game Not Starting or Getting Stuck During Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-left-4-dead-2-ultimate-guide-to-resolving-game-crashes/"><u>Fixing Left 4 Dead 2: Ultimate Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/getting-started-with-langchain-llm-essential-tips-for-newcomers/"><u>Getting Started with LangChain LLM: Essential Tips for Newcomers</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-steam-launch-failures-in-helldivers-2-tips-and-tricks/"><u>Guide to Fixing Steam Launch Failures in Helldivers 2 - Tips & Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-minecraft-black-screen-woes-expert-advice-and-fixes-by-solved/"><u>Overcome Your Minecraft Black Screen Woes: Expert Advice and Fixes by [SOLVED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-fifa-21s-unsuccessful-boot-dilemma-a-solution-found/"><u>Overcoming FIFA 21'S Unsuccessful Boot Dilemma: A Solution Found</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014036325-quick-solutions-upping-the-pace-of-your-utorrent-transfer-speeds/"><u>Quick Solutions: Upping the Pace of Your uTorrent Transfer Speeds!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-slow-loading-in-the-elder-scrolls-online-blackwood-region/"><u>Resolving the Issue of Slow Loading in The Elder Scrolls Online - Blackwood Region</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-turn-any-video-into-a-live-photo-with-these-top-rated-apps/"><u>Updated Turn Any Video Into a Live Photo with These Top-Rated Apps</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/winx-mediatrans-ideviceiphoneipad-pc/"><u>WinX MediaTrans™: 스마트폰 iDevice(iPhone/iPad)에서 PC 게시를 위한 유연하고 강력한 이미지, 음악, 비디오 전송 기능</u></a></li>
+</ul></div>
 

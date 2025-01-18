@@ -1,7 +1,7 @@
 ---
 title: "No More Frustration: Fixing Dauntless PC Bugs and Enjoying Uninterrupted Gaming"
-date: 2024-08-13T10:03:16.164Z
-updated: 2024-08-14T10:03:16.164Z
+date: 2025-01-15T16:30:38.688Z
+updated: 2025-01-18T06:08:59.358Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
  If this is happening to you, you’re no doubt very frustrated, but the good news is you should be able to fix it quite easily. We’ve put together some fixes for you to try…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,9 +31,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart Origin completely
 
  This is the first thing you should try when you’re experiencing the “login unavailable” error. Just restart Origin completely:
@@ -48,8 +42,9 @@ Many Origin users have recently experienced an error while trying to log in Orig
 If this fixes your Origin error, great! But if not, move on to Fix 2.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check your system date and time
 
  The wrong date or time can cause the “online login is currently unavailable” error. You should check the date and time on your computer. If they’re not right, follow the instructions below to correct them:
@@ -57,38 +52,47 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Click**OK** .
 
  Now the date and time on your computer is in sync with an Internet time server. Try logging in Origin and see if the error is gone. Hopefully it is. But if not, then try Fix 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re experiencing the Origin error because you’re using a**wrong or outdated device driver** . You should update your drivers and see if this fixes your error.
@@ -103,13 +107,12 @@ or
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to your device to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
 
@@ -126,9 +129,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Click**Control Panel** in the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
@@ -137,10 +137,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. Select the**Advanced** tab, then click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff147f315.jpg)
 7. Click the**Reset** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now restart your computer and check to see if this fixed your Origin error.
 
@@ -152,11 +153,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Type “devmgmt.msc” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-62.png)
 3. Double click**Universal Serial Bus controller** , then right click Realtek USB 2.0 Card Reader and select Disable device.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-72.png)
 4. Run Origin and see if the error is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, one of the fixes above worked for you. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
 
@@ -169,8 +171,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +178,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-lens-and-light-essential-camera-movements-every-novice-needs/"><u>[New] 2024 Approved Lens & Light Essential Camera Movements Every Novice Needs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-exploring-the-unspoken-rules-of-instagram-mastery/"><u>[New] Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-quintessential-accessories-list-for-sj4000-lovers/"><u>[New] In 2024, The Quintessential Accessories List for SJ4000 Lovers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-zoom-into-your-workspace-learn-screen-casting-via-ezvide-for-2024/"><u>[New] Zoom Into Your Workspace Learn Screen Casting via EZvide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtubes-monetization-a-deep-dive/"><u>[Updated] 2024 Approved YouTube's Monetization A Deep Dive</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-monthly-income-on-youtubes-revenue-model-for-2024/"><u>[Updated] Monthly Income on YouTube's Revenue Model for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-gif-maestro-the-meme-creators-handbook/"><u>2024 Approved Becoming a GIF Maestro The Meme Creator’s Handbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/accelerate-chrome-swift-and-simple-fixes-for-speedier-surfing/"><u>Accelerate Chrome: Swift & Simple Fixes for Speedier Surfing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006804201-cyberpunk-2077-performance-optimized-no-more-lag-or-stutter/"><u>Cyberpunk 2077 Performance Optimized: No More Lag or Stutter!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-drivers-update-with-portable-driver-easy-how-to-get-started/"><u>Effortless Drivers Update with Portable Driver Easy - How to Get Started?</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-for-persistent-red-dead-redemption-2-crash-errors-on-personal-computers/"><u>Expert Solutions for Persistent Red Dead Redemption 2 Crash Errors on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-instability-problems-with-persona-3-reloaded-on-your-computer/"><u>How to Resolve Instability Problems with Persona 3 Reloaded on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/netflix-troubleshooting-guide-for-xbox-gamers-now-functional/"><u>Netflix Troubleshooting Guide for Xbox Gamers – Now Functional</u></a></li>
+<li><a href="https://win-able.techidaily.com/re5-wont-boot-on-pc-discover-proven-strategies-to-get-it-running-smoothly/"><u>RE5 Won't Boot on PC? Discover Proven Strategies to Get It Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-path-of-exile-hiccups-a-step-by-step-fix-for-game-stalling/"><u>Resolving Path of Exile Hiccups: A Step-by-Step Fix for Game Stalling</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-the-destiny-2-launch-issue-on-your-computer/"><u>Solved: How to Fix the Destiny 2 Launch Issue on Your Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamlining-media-transfer-fb-video-to-whatsapp/"><u>Streamlining Media Transfer FB Video to WhatsApp</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-potential-effective-approaches-when-societal-development-stalls/"><u>Unlocking Potential: Effective Approaches When Societal Development Stalls</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Football Manager 2020 Stability Issues & Enjoy Uninterrupted Gaming Experience
-date: 2025-01-08T16:05:55.664Z
-updated: 2025-01-12T18:02:37.793Z
+date: 2025-01-14T07:50:05.885Z
+updated: 2025-01-18T07:59:14.927Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -35,10 +31,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 3. **[Check for Software conflicts](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Delete the Preferences and/or Caches Folder](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -54,10 +46,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -69,10 +57,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If your issue persists after updating your graphics driver, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of your game files
 
@@ -88,12 +72,16 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Restart your game to test your issue.
@@ -108,6 +96,10 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the program you want to close and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -115,6 +107,10 @@ If your game still crashes, then go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-55-26.jpg)
 
  Now, relaunch _**FM20**_ to see if this has resolved your issue. If your game crashes again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Delete the Preferences and/or Caches folder**
 
@@ -130,21 +126,21 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Delete the **Preferences** and **Cache folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall _FM20_  and/or Steam
 
@@ -177,10 +173,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
@@ -190,7 +182,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
@@ -201,11 +193,19 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
@@ -236,17 +236,19 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-novice-to-pro-the-complete-creator-hub-guide-for-2024/"><u>[New] From Novice to Pro The Complete Creator Hub Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-practices-for-documenting-live-streamed-sporting-matches/"><u>[Updated] In 2024, Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[Updated] In 2024, From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-a-list-makeup-tutorials-who-to-watch/"><u>2024 Approved A-List Makeup Tutorials Who to Watch ?</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-launch-errors-in-division-2-with-these-proven-techniques/"><u>Beat Launch Errors in Division 2 with These Proven Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/crisp-and-clear-imagery-how-recent-fixes-have-refined-outriders-visual-presentation/"><u>Crisp and Clear Imagery: How Recent Fixes Have Refined Outriders' Visual Presentation</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-for-the-nier-gestalt-games-unexpected-closures-now-fixed/"><u>Cure for the NieR Gestalt Game's Unexpected Closures - Now Fixed!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-for-acquiring-and-keeping-your-epson-et-3760-driver-updated-on-windows-machines/"><u>Expert Advice for Acquiring and Keeping Your Epson ET-3760 Driver Updated on Windows Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-f1-2021-game-crashes-effective-solutions-for-pc-players/"><u>Fix the F1 2021 Game Crashes: Effective Solutions for PC Players</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-you-through-youtubes-security-settings-for-2024/"><u>Guiding You Through YouTube's Security Settings for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-troubleshoot-and-repair-windows-runtime-error-code-0xc000018/"><u>How to Troubleshoot and Repair Windows Runtime Error Code 0xC000018</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-track-without-interruptions-solving-f1-202-pc-crashes/"><u>Master the Track Without Interruptions: Solving F1 202# PC Crashes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[New] 2024 Approved Beyond Staged Success Ten Truths About Reels on Instagram</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-display-dilemma-comparing-premium-8k-tvs/"><u>[New] The Ultimate Display Dilemma Comparing Premium 8K TVs</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-launch-glitch-ultimate-guide-to-troubleshoot-stray/"><u>Beat the Launch Glitch: Ultimate Guide to Troubleshoot Stray</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-faulty-m365-functionality-code-30015-26/"><u>Disabling Faulty M365 Functionality: Code 30015-26</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-tune-transfers-discover-how-hypem-downloader-can-convert-and-save-songs-in-various-formats-from-hype-machine/"><u>Effortless Tune Transfers: Discover How Hypem Downloader Can Convert and Save Songs in Various Formats From Hype Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/honorable-highlights-elite-websites-for-obtaining-snapalert-beats-for-2024/"><u>Honorable Highlights Elite Websites for Obtaining SnapAlert Beats for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-rectify-not-installed-error-on-eac-launch-a-step-by-step-guide-to-easy-anti-cheat-setup/"><u>How to Rectify 'Not Installed' Error on EAC Launch – A Step by Step Guide to Easy Anti-Cheat Setup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-lego-star-wars-the-skywalker-saga-crash-issue-on-windows/"><u>Resolved: Fixing the 'Lego Star Wars: The Skywalker Saga' Crash Issue on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-league-of-legends-not-starting-problem-with-easy-fixes/"><u>Resolving the 'League of Legends Not Starting' Problem with Easy Fixes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-spectrum-of-present-use-to-future-drones-potential/"><u>The Spectrum of Present Use to Future Drones' Potential</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-wallpaper-engine-stability-problems-on-windows-11-and-10-systems/"><u>Troubleshooting Tips for Wallpaper Engine Stability Problems on Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/wiederherstellung-geloschter-bildschirmfotos-in-windows-11-schnelllosungen-und-tipps/"><u>Wiederherstellung Gelöschter Bildschirmfotos in Windows 11 – Schnelllösungen Und Tipps</u></a></li>
 </ul></div>
 

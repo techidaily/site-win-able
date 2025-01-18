@@ -1,7 +1,7 @@
 ---
 title: Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now
-date: 2025-01-09T16:31:58.779Z
-updated: 2025-01-12T17:54:43.932Z
+date: 2025-01-12T07:38:37.733Z
+updated: 2025-01-17T23:11:11.167Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ## Why am I getting this error message?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
@@ -53,7 +57,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
@@ -80,12 +84,12 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -96,7 +100,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Click **OK** to confirm your action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
@@ -110,10 +114,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -124,8 +124,16 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -134,11 +142,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -156,10 +160,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
@@ -204,20 +204,18 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-remote-podcast-production/"><u>[Updated] 2024 Approved Mastering the Art of Remote Podcast Production</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[Updated] In 2024, Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>2024 Approved How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-on-pc-how-to-eliminate-gameplay-interruptions-and-improve-performance/"><u>Assassin's Creed Valhalla on PC - How to Eliminate Gameplay Interruptions and Improve Performance</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-websites-traffic-using-cookiebot-solutions/"><u>Boost Your Website's Traffic Using Cookiebot Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-performance-in-battle-proven-strategies-to-overcome-lag-issues-in-war-thunder/"><u>Elevate Performance in Battle: Proven Strategies to Overcome Lag Issues in War Thunder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-itel-a05s-by-fonelab-android-recover-video/"><u>How to recover old videos from your Itel A05s</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-top-8-facebook-movie-downloaders/"><u>In 2024, Top 8 Facebook Movie Downloaders</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-correct-hp-thunderbolt-dock-g2-software-easy-driver-downloads-for-120-and-230-watts-options/"><u>Install the Correct HP Thunderbolt Dock G2 Software: Easy Driver Downloads for 120 and 230 Watts Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/is-doom-eternal-still-on-hold-unlock-the-trick-to-start-playing-today/"><u>Is DOOM Eternal Still on Hold? Unlock the Trick to Start Playing Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-linguistic-leap-translating-words-via-windows-1011-hotkeys/"><u>Quick Linguistic Leap: Translating Words via Windows 10/11 Hotkeys</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/rapid-capture-sounds-alongside-images/"><u>Rapid Capture Sounds Alongside Images</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-steams-controller-recognition-issue-on-a-windows-machine/"><u>Troubleshoot Steam's Controller Recognition Issue on a Windows Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004154591-troubleshooting-starfield-sound-glitches-cut-out-and-stuttering-fixed/"><u>Troubleshooting Starfield Sound Glitches: Cut Out and Stuttering Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-resolving-issues-with-gray-zone-warfare-game-crashes-on-windows/"><u>Troubleshooting Techniques: Resolving Issues with Gray Zone Warfare Game Crashes on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-masterpieces-without-barriers-publicly-available-artwork/"><u>[Updated] In 2024, Masterpieces Without Barriers Publicly Available Artwork</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>2024 Approved From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/202-cuisine-dvd/"><u>免費下載202 Cuisine: 完美烹調般 DVD 或主要電影的全部複制工具列表</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-2022-spotify-web-player-back-on-track-optimizing-speed-and-functionality/"><u>Get Your 2022 Spotify Web Player Back on Track: Optimizing Speed & Functionality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/guidelines-for-selecting-an-engaging-movie-trailer-song-for-2024/"><u>Guidelines for Selecting an Engaging Movie Trailer Song for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-12-mini-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 12 mini in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>In 2024, Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-note-30-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Note 30 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fixes-to-stop-me3-from-crashing-on-your-console-or-computer/"><u>Mastering the Fixes to Stop ME3 From Crashing on Your Console or Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-support-troubleshooting-star-wars-jedi-fallen-orders-crashing-problems/"><u>PC Gaming Support: Troubleshooting Star Wars Jedi: Fallen Order's Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-new-world-connection-issues-a-step-by-step-guide/"><u>Resolving New World Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-audio-editing-software-for-m4a-files-top-5/"><u>Updated In 2024, Free Audio Editing Software for M4A Files Top 5</u></a></li>
 </ul></div>
 

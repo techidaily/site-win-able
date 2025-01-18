@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Handling Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Fixed"
-date: 2024-08-13T10:02:19.381Z
-updated: 2024-08-14T10:02:19.381Z
+date: 2025-01-15T04:20:03.999Z
+updated: 2025-01-18T09:10:22.055Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
@@ -31,8 +27,9 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -57,11 +54,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -69,6 +68,10 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -85,6 +88,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t do the trick, you can take a look at the next one.
 
 ### Fix 3: Remove Multiplayer game packs
@@ -92,21 +99,16 @@ To do so, first visit the website of your GPU manufacturer:
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
 
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -126,8 +128,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,22 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-synchronizing-soundscapes-a-guide-to-multi-service-moves-for-2024/"><u>[Updated] Synchronizing Soundscapes A Guide to Multi-Service Moves for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-100-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor 100 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/continuous-monitoring-for-arrhythmias-respiratory-failure-and-organ-dysfunction-is-essential-during-treatment/"><u>Continuous Monitoring for Arrhythmias, Respiratory Failure, and Organ Dysfunction Is Essential During Treatment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-your-artistic-expression-10plus-luts-for-zero-price/"><u>Enhance Your Artistic Expression – 10+ LUTs for Zero Price</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-and-windows-10-compatibility-issues-fixes-for-seamless-gaming-experience/"><u>Fallout 3 and Windows 10 Compatibility Issues – Fixes for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-wait-solutions-to-sea-of-thieves-persistent-start-menu-problems/"><u>Fixing the Endless Wait: Solutions to Sea of Thieves' Persistent Start Menu Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-40-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Hot 40 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-microsoft-retiring-its-free-windows-10-upgrade-program-find-out-here/"><u>Is Microsoft Retiring Its Free Windows 10 Upgrade Program? Find Out Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-performance-hiccups-in-gta-5-with-these-tweaks/"><u>Overcome Performance Hiccups in GTA 5 with These Tweaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-failures-solving-battlefield-4s-launch-issues-on-windows-machines/"><u>Overcoming Startup Failures: Solving Battlefield 4'S Launch Issues on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-marketplace-failure-0x80131500/"><u>Resolving Windows Marketplace Failure #0X80131500</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001912885-star-citizen-update-brings-an-end-to-windows-users-crash-woes-what-you-need-to-know/"><u>Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-solutions-for-preventing-hogwarts-legacy-from-crashing-during-launch-on-your-computer/"><u>Top 8 Solutions for Preventing Hogwarts Legacy From Crashing During Launch on Your Computer</u></a></li>
+</ul></div>
 

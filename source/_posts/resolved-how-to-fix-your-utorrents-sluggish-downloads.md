@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Your uTorrent's Sluggish Downloads"
-date: 2024-08-18T15:20:10.592Z
-updated: 2024-08-19T15:20:10.592Z
+date: 2025-01-16T20:22:14.048Z
+updated: 2025-01-17T18:24:14.819Z
 tags:
   - win11
   - win10
@@ -25,17 +25,16 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 
 **[Get Surfshark VPN>>](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttps%253A%252F%252Fsurfshark.com%252Fdeal%252Fbrand%253Fgclid%253DCjwKCAjwwo-WBhAMEiwAV4dybejzozzK1qZimhCj6PdnqzaiMyTCeLVu3aC48qHC8PIG6ZGb4eDIChoCdX4QAvD%255FBwE%26id%3Ddrivereasyen153112)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Hide your IP address with Surfshark VPN
 
  As low as $2.49/mo. 100% money-back guarantee for your first 30 days.
 
 [Get Surshark VPN](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttps%253A%252F%252Fsurfshark.com%252Fdeal%252Fbrand%253Fgclid%253DCjwKCAjwwo-WBhAMEiwAV4dybejzozzK1qZimhCj6PdnqzaiMyTCeLVu3aC48qHC8PIG6ZGb4eDIChoCdX4QAvD%255FBwE%26id%3Ddrivereasyen153112)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Table of contents
 
 * [Fix 1. Check Your Internet Speed](https://tools.techidaily.com/drivereasy/download/)
@@ -50,9 +49,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * [Fix 10. Add Trackers](https://tools.techidaily.com/drivereasy/download/)
 * [IMPORTANT: Protect Your Privacy When Torrenting!](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1\. Check Your Internet Speed
 
  You can check your current internet speed by searching**internet speed test** on Google. If your speed score is low, it could be an indication that your internet is the problem. Try the following steps:
@@ -68,8 +64,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If the problem wasn’t your internet, it may be your device. The easiest fix to try would be restarting your computer which will close apps running in the background, reset your desktop environment. So if you haven’t yet, give it a shot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Configure uTorrent Settings
 
  If you’re running uTorrent Classic (the desktop client), you can try tweaking a few settings to maximum download speed.
@@ -78,31 +75,30 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-preference.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**General** tab, check the box next to**Append .!ud to incomplete files** and **Pre-allocate all files** . Then click**Apply**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-general-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the**Bandwidth tab** , then set your**Global Upload/Download Rate** and**Number of Connections** as followed:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-bandwidth-settings.png)
 
  4) Go to the **Queueing**  tab and set the value as followed. Then, click**Apply** .
 
  If you’re downloading multiple files at a time, it would take more time for each file to be downloaded because each file you download will take a piece of your bandwidth.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-queueing.png)
 
  5) Go to the**Connection** tab, then set the Random port value to**45682** and click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
 
 6) Apply the settings and restart uTorrent to test the issue.
@@ -131,6 +127,10 @@ If your download speed is still slow, move on and try the next fix.
 
 4) Now you can download securely and anonymously!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5\. Allow uTorrent through Firewall
 
  If your download speed drops to zero, it could be Windows Firewall that is blocking your torrent client. In this case, you can add an exception to the Windows firewall to fix the issue:
@@ -139,20 +139,18 @@ If your download speed is still slow, move on and try the next fix.
 
 2) Go to**Options> Preferences** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-preference.png)
 
  3) Click**Connections** and check the **Add Windows Firewall exception**  box and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the box is already checked, or if this didn’t fix the issue, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Fix 6\. Update uTorrent
 
  uTorrent updates can eliminate hidden issues and enhance its performance.
@@ -163,13 +161,14 @@ If your download speed is still slow, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-03_16-25-29.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) After the update is finished, open uTorrent to test your issue.
 
 If the problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7\. Check for Windows Updates
 
  When is the last time you updated your computer system? If you’re running an older operating system, it could cause issues such as a slow speed when downloading.
@@ -177,6 +176,10 @@ If the problem persists, try the next fix below.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -186,9 +189,6 @@ If the problem persists, try the next fix below.
 
 If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Fix 8\. Update Device Drivers
 
  Missing or outdated device drivers can also lead to the download speed slow problem, especially your network adapter driver. So you want to make sure your drivers are up to date.
@@ -203,18 +203,12 @@ If your issue persists, then move on to the next fix below.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_18-45-58.jpg)
 
 **3)** Click the **Update button** next to the driver you need to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_18-46-06.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -227,8 +221,9 @@ If your issue persists, then move on to the next fix below.
 If the problem still exists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 9\. Download Files with More Seeders
 
  Apart from your internet speed, your download speed also depends on the number of seeders and peers. Seeders are those who share their file for it to be downloaded and peers are those who download the same file.
@@ -247,10 +242,11 @@ If the problem still exists, read on and try the next fix.
 
  3) Copy the tracker list that you found and paste it to the end of the existing tracker list box.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-trackers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## IMPORTANT: Protect Your Privacy When Torrenting
 
@@ -274,8 +270,6 @@ If the problem still exists, read on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +277,23 @@ If the problem still exists, read on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-a-complete-guide-of-screenrec-for-laptop/"><u>[New] 2024 Approved A Complete Guide of ScreenRec for Laptop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-secure-and-quality-the-top-5-choice-of-recorders-for-2024/"><u>[New] Secure and Quality - The Top 5 Choice of Recorders for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>[Updated] 2024 Approved Speedy Drawing in Photos A Win10 Guide to Efficient Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-step-by-step-crafting-and-uploading-360-vids-for-fb/"><u>[Updated] 2024 Approved Step-by-Step Crafting & Uploading 360 Vids for FB</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-snap-into-fb-shorts-saga/"><u>[Updated] Snap Into FB Shorts Saga</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-effortless-giggle-editor/"><u>2024 Approved Ultimate Effortless Giggle Editor</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-cyberpunk-2077s-deadly-error-code-2024-what-gamers-need-to-know-now/"><u>Decoding Cyberpunk 2077'S Deadly Error Code 2024: What Gamers Need to Know Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-graphic-errors-in-your-rust-projects/"><u>How to Correctly Address Graphic Errors in Your Rust Projects</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-shadowplays-failure-to-record-on-your-pc-windows-guide/"><u>How to Resolve Shadowplay's Failure to Record on Your PC - Windows Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a38-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A38 Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-browser-performance-tackling-chromes-cpu-overload-issue-resolved/"><u>Optimized Browser Performance: Tackling Chrome's CPU Overload Issue Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-lag-troubles-with-these-fixes-for-dying-light-gameplay/"><u>Resolve Your Lag Troubles with These Fixes for Dying Light Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-successfully-start-age-of-empires-ii-on-windows-11/"><u>Resolved: How to Successfully Start Age of Empires II on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-windows-11-gaming-recordings-for-2024/"><u>The Ultimate Guide to Windows 11 Gaming Recordings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-the-challenge-of-non-launchable-gta-5/"><u>Troubleshooting Guide: Overcoming the Challenge of Non-Launchable GTA 5</u></a></li>
+</ul></div>
 

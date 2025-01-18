@@ -1,7 +1,7 @@
 ---
 title: "Farewell to Frustration: Expert Strategies for Solving State of Decay 2'S Crashing Problem"
-date: 2024-08-18T15:18:57.759Z
-updated: 2024-08-19T15:18:57.759Z
+date: 2025-01-15T07:29:14.588Z
+updated: 2025-01-17T23:12:56.573Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
 Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing experience that captivates players around the world. While the game is well-optimized, some enthusiasts encounter a vexing challenge: high CPU usage during gameplay. This guide unveils**six proven solutions** that can help you conquer**Baldur’s Gate 3 high CPU usage** issue and relish a seamless adventure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Baldur’s Gate 3 high CPU usage?
 
  You don’t need to try them all. Just work your way down the list until you find the one that fixes the problem for you.
@@ -32,8 +29,9 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 6. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Before we begin
 
  Prior to diving into these fixes, it’s vital to ensure **your computer meets the game’s minimum system requirements** . Consult the table below to confirm your setup aligns with the game’s prerequisites:
@@ -56,9 +54,11 @@ To ascertain your computer’s specifications:
 3. Now you can check your system information under the **System**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-34.png)
 
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
@@ -76,9 +76,17 @@ To ascertain your computer’s specifications:
  Or, you can click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-graphics-card-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart the computer and relaunch the game to see if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 Change the power plan setting
 
@@ -88,33 +96,17 @@ To ascertain your computer’s specifications:
 2. Select**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-54.png)
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
 
 Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 Set CPU affinity only use 0-3
 
@@ -124,9 +116,6 @@ Open the game to check for any improvement.
 2. In the Process tab, right-click on**Baldur’s Gate 3.exe** and select**Go to details** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/details.jpg)
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
@@ -134,28 +123,25 @@ Open the game to check for any improvement.
 Note: You may need to repeat this process each time you launch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4 Allow high graphics performance for the game
 
  Setting an individual game with high-performance graphics might reduce its CPU usage. That’s because anything that requires GPU in the game will be using GPU, instead of CPU. However, this method has no guaranteed results. You can switch between different modes to see which one works better in easing the Baldur’s Gate 3 high cpu usage headache.
 
 1. Type**graphics settings** in the Windows search bar and click**Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
 Launch the game again to check if the problem has been fixed.
@@ -165,23 +151,18 @@ Launch the game again to check if the problem has been fixed.
  Running too many programs and processes absolutely lowers your system response time. When your GPU and CPU need more time to handle the data transition, it’s usual for game stuttering to occur, even with high FPS. And these tasks add burdens to your CPU usage. To have a better insight into what’s slowing down your system and end those unnecessary tasks, follow these steps:
 
 1. Right-click the taskbar and select **Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go back to your game to see if it works smoother.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6 Repair system files
 
  It’s common to see your computer has stability issues after continued use. Although they may depend on different factors, most of them are related to the Windows registry and the damage it may have sustained. Don’t worry, **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is the most effective way to fix issues on a PC. Run a quick and thorough scan, then fix issues at a click of a button.
@@ -192,11 +173,18 @@ Go back to your game to see if it works smoother.
 2. Open Fortect and click **Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 ---
@@ -211,8 +199,6 @@ Go back to your game to see if it works smoother.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +206,24 @@ Go back to your game to see if it works smoother.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unparalleled-screenplay-craftsmanship-across-varied-fields/"><u>[New] In 2024, Unparalleled Screenplay Craftsmanship Across Varied Fields</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-zoom-performance-on-chrome-devices/"><u>2024 Approved Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/5kplayer/airplay/"><u>5KPlayer - AirPlay</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-input-latency-mastering-valorant-on-your-pc/"><u>Beat Input Latency: Mastering Valorant on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-fix-resolving-endless-boot-loop-problems/"><u>Far Cry 5 Fix: Resolving Endless Boot Loop Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-fallout-n4s-black-display-a-step-by-step-guide-for-gamers/"><u>Fixing Fallout N4's Black Display: A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-13-pro-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 13 Pro Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-3-stability-issues-on-pc-discover-the-fix/"><u>Halo 3 Stability Issues on PC? Discover the Fix</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>In 2024, A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-like-a-dragon-a-step-by-step-guide-to-amassing-endless-riches-in-pc/"><u>Mastering 'Like a Dragon': A Step-by-Step Guide to Amassing Endless Riches in Pc</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-google-duets-a-comprehensive-guide-to-integrating-with-gmail/"><u>Mastering Google Duets: A Comprehensive Guide to Integrating with Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-unexpected-shutdowns-in-rust-applications/"><u>Preventing Unexpected Shutdowns in Rust Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-roam-tips-for-resolving-stalling-start-up-in-far-cry-5/"><u>Ready to Roam? Tips for Resolving Stalling Start-Up in Far Cry 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-how-to-stop-minecraft-dungeons-from-continuously-crashing/"><u>Solving PC Issues: How to Stop Minecraft Dungeons From Continuously Crashing</u></a></li>
+</ul></div>
 

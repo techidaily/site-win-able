@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DirectX Problems in Call of Duty: Modern Warfare 2 – A Comprehensive Walkthrough"
-date: 2024-08-13T10:04:26.148Z
-updated: 2024-08-14T10:04:26.148Z
+date: 2025-01-15T05:08:20.744Z
+updated: 2025-01-17T21:09:25.316Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -50,8 +51,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -80,34 +82,34 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -122,8 +124,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-links-for-acquiring-youtube-preview-templates-online/"><u>[New] In 2024, Essential Links for Acquiring YouTube Preview Templates Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-slow-motion-revolution-comprehensive-look-at-2024-version/"><u>[New] Slow Motion Revolution Comprehensive Look at 2024 Version</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-infuse-your-visuals-with-melody-adding-music-in-youtube-editing/"><u>[Updated] Infuse Your Visuals With Melody Adding Music in YouTube Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-transform-your-speech-the-7-top-vocal-changer-mobile-apps/"><u>[Updated] Transform Your Speech The 7 Top Vocal Changer Mobile Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-high-ping-and-lag-issues-in-chivalry-ii-with-cutting-edge-tips-guide-for-the-modern-gamer-2024/"><u>Conquering High Ping & Lag Issues in Chivalry II with Cutting-Edge Tips [Guide for the Modern Gamer, 2024]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-flawless-hd-audio-performance-idt-codec-drivers-on-windows-11-made-simple/"><u>Ensuring Flawless HD Audio Performance: IDT Codec Drivers on Windows 11 Made Simple</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fix-facebook-messenger-not-sending-videos-on-iphone-and-android-for-2024/"><u>Fix “Facebook Messenger Not Sending Videos” On iPhone and Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/hearts-of-iron-4-troubleshooting-solutions-for-crashing-problems/"><u>Hearts of Iron 4 Troubleshooting - Solutions for Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/six-quick-solutions-to-prevent-constant-minecraft-game-crashes/"><u>Six Quick Solutions to Prevent Constant Minecraft Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-gamers-toolkit-for-beating-steams-2024-loading-and-display-glitches-with-quick-solutions/"><u>The Gamer's Toolkit for Beating Steam’s 2024 Loading & Display Glitches with Quick Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-a-persistent-loading-screen-in-dota-2/"><u>Troubleshooting: How to Fix a Persistent Loading Screen in Dota 2</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-online-livestream-technology-for-2024/"><u>Ultimate Online Livestream Technology for 2024</u></a></li>
+</ul></div>
 

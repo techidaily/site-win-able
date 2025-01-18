@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2025-01-10T16:45:47.082Z
-updated: 2025-01-12T17:04:44.113Z
+date: 2025-01-16T16:46:25.488Z
+updated: 2025-01-18T04:24:45.024Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -34,19 +30,11 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -60,6 +48,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -78,6 +70,10 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
@@ -85,7 +81,7 @@ Restart your computer for the changes to take effect.
 7. Check the issue is persist or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
@@ -96,12 +92,12 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
@@ -110,6 +106,10 @@ Restart your computer for the changes to take effect.
 5. Click **Apply** \> **OK** to save the changes.
 
 6. Restart your computer and check to see if the problem resolves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -141,14 +141,21 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-best-fb-videos-top-10-watcher-tools-for-2024/"><u>[New] Best FB Videos Top 10 Watcher Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-effortless-android-screenshot-and-screen-record-for-2024/"><u>[Updated] Effortless Android Screenshot & Screen Record for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dimensions-and-edits-the-imovie-crop-enigma/"><u>Dimensions and Edits The iMovie Crop Enigma</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-to-prevent-bluestacks-from-freezing-a-step-by-step-guide/"><u>Effortless Solutions to Prevent BlueStacks From Freezing - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-siege-predictions-and-tips-for-the-upcoming-patch-of-2024/"><u>Rainbow Six Siege: Predictions and Tips for the Upcoming Patch of 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-audio-issues-on-itunes-fixing-the-errors-in-playback-settings/"><u>Resolving Audio Issues on iTunes: Fixing the Errors in Playback Settings</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-steam-doesnt-recognize-my-controller-issue-on-pc/"><u>Solving 'Steam Doesn't Recognize My Controller' Issue on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-top-5-online-converters-for-gifs-to-videos/"><u>Ultimate Guide Top 5 Online Converters for GIFs to Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-top-notch-audio-without-microphone-dependency-for-2024/"><u>[New] Capturing Top-Notch Audio Without Microphone Dependency for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-iphone-video-mastery-from-fast-to-extremely-slow-motion-content-for-2024/"><u>[New] IPhone Video Mastery From Fast to Extremely Slow Motion Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-easy-win-for-pc-basic-clownfish-sound-change-guide/"><u>[Updated] In 2024, Easy-Win for PC Basic Clownfish Sound Change Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally-for-2024/"><u>A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-asus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Asus</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-corsairs-icue-software-malfunctions-on-recent-windows-versions/"><u>Easy Fixes for Corsair's iCUE Software Malfunctions on Recent Windows Versions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-your-tvs-frequent-malfunctions-a-step-by-step-guide/"><u>Easy Fixes for Your TV's Frequent Malfunctions – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-for-heart-of-iron-4-bugs-and-performance-issues-now-fixed/"><u>Expert Solutions for Heart of Iron 4 Bugs & Performance Issues - Now Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ping-woes-and-smooth-gameplay-expert-advice-on-chivalry-2-optimization-tips-updated-for-2nnd-quarter-of-2024/"><u>Fixing Ping Woes and Smooth Gameplay: Expert Advice on Chivalry 2 Optimization [Tips Updated for 2Nnd Quarter of 2024]</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-gas-station-simulator-troubleshooting-pc-crashes/"><u>Fixing the Gas Station Simulator - Troubleshooting PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-slow-startup-problems-with-star-wars-battlefront-ii-for-pc-users/"><u>How to Fix Slow Startup Problems with Star Wars: Battlefront II for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-thx-spatial-audio-feature-on-your-windows-1110-device/"><u>How to Restore Thx Spatial Audio Feature on Your Windows 11/10 Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10plus-best-online-screen-recorders/"><u>In 2024, Top 10+ Best Online Screen Recorders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-apple-vision-pro-exploring-costs-capabilities-and-more-through-firsthand-experience-a-complete-guide-by-zdnet/"><u>Inside the Apple Vision Pro: Exploring Costs, Capabilities & More Through Firsthand Experience - A Complete Guide by ZDNet</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/leverage-cookiebot-technology-for-improved-analytics-and-personalized-engagement-on-your-website/"><u>Leverage Cookiebot Technology for Improved Analytics and Personalized Engagement on Your Website</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-detected-game-protection-policy-violation-mistake-resolved/"><u>Troubleshooting the Detected Game Protection Policy Violation Mistake (Resolved)</u></a></li>
 </ul></div>
 

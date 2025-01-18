@@ -1,7 +1,7 @@
 ---
 title: Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer
-date: 2025-01-05T16:14:18.198Z
-updated: 2025-01-12T17:14:29.371Z
+date: 2025-01-13T07:48:01.045Z
+updated: 2025-01-17T17:24:33.349Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -55,7 +59,7 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -63,10 +67,6 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -76,11 +76,11 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -101,12 +101,16 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -120,10 +124,6 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -155,18 +155,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/treamline-your-way-to-a-thriving-biz-youtube-channel/"><u>[New] Streamline Your Way to a Thriving Biz YouTube Channel</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube-for-2024/"><u>[New] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-revolutionize-your-vlog-with-these-elite-12-cameras/"><u>[Updated] Revolutionize Your Vlog with These Elite 12 Cameras</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective/"><u>2024 Approved Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-solutions-for-stabilizing-wwe-2k20-on-windows-platforms/"><u>Easy Solutions for Stabilizing WWE 2K20 on Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/enjoy-a-smooth-experience-now-discords-update-failure-temporarily-repaired/"><u>Enjoy a Smooth Experience Now - Discord's Update Failure Temporarily Repaired</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-tips-by-the-leaders-at-tomamoorium-hardware/"><u>Expert Advice and Tips by the Leaders at Tom'amoorium Hardware</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-11-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 11 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-problem-solved-unfreeze-your-fall-guys-experience-today/"><u>PC Gaming Problem Solved: Unfreeze Your Fall Guys Experience Today</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-for-when-your-epic-games-app-fails-to-load/"><u>Quick Solutions for When Your Epic Games App Fails to Load</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-gadgets-toms-expert-analysis/"><u>The Ultimate Guide to Gadgets - Tom's Expert Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller/"><u>[Updated] Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-earnings-potential-essential-view-numbers/"><u>[Updated] In 2024, Unlocking Earnings Potential Essential View Numbers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-performance-problems-in-dying-light-how-to-solve-the-games-lags/"><u>Fixing Persistent Performance Problems in 'Dying Light': How to Solve the Game's Lags</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a1-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A1 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-x6-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco X6 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-ryu-ga-gotoku-series-how-yakuza-like-a-dragon-performs-on-pc/"><u>Master the Ryu Ga Gotoku Series: How 'Yakuza: Like a Dragon' Performs on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-problems-when-starting-farmers-simulator-22-a-comprehvew-guide/"><u>Solving Problems When Starting Farmer's Simulator 22 – A Comprehvew Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/studio-softbox-review-for-novice-producers/"><u>Studio Softbox Review for Novice Producers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-getting-past-robloxs-stuck-loading-page/"><u>Troubleshooting Tips for Getting Past Roblox's Stuck Loading Page</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/verifying-hardware-compatibility-a-guide-for-your-windows-pc-tips-from-yl-computing/"><u>Verifying Hardware Compatibility: A Guide for Your Windows PC - Tips From YL Computing</u></a></li>
 </ul></div>
 

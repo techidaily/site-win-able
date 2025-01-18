@@ -1,7 +1,7 @@
 ---
 title: "Necromunda: Hired Gun Continuously Freezing & Crashing on PC | Solutions"
-date: 2025-01-10T16:35:57.456Z
-updated: 2025-01-12T16:20:13.170Z
+date: 2025-01-10T20:15:46.889Z
+updated: 2025-01-18T03:30:21.837Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -59,16 +55,16 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 **4)** Restart your computer and the game to test your issue.
 
  If this didn’t resolve your issue, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Steam as an administrator
 
@@ -94,10 +90,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of game files
 
  Occasionally, game files can become corrupted or altered due to malware on your PC. If your game is crashing for no obvious reason, consider verifying the integrity of your game files through Steam.
@@ -108,17 +100,21 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
@@ -140,16 +136,12 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
@@ -161,12 +153,16 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
@@ -180,19 +176,23 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
 
@@ -217,15 +217,16 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-game-changing-growl-techniques-in-free-fire/"><u>[New] Game-Changing Growl Techniques in Free Fire</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-optimize-your-solid-state-drive-with-ssd-fresh-for-windows/"><u>How to Optimize Your Solid State Drive With SSD Fresh for Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-samsung-qn55q60rafxza-smart-television-with-advanced-4k-capabilities/"><u>In-Depth Analysis of the Samsung QN55Q60RAFXZA Smart Television with Advanced 4K Capabilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/radeon-rx-470-graphics-cards-driver-download-and-updates-easily/"><u>Radeon RX 470 Graphics Cards Driver Download & Updates Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-transforming-avi-files-into-ogg-format-videoaudio/"><u>Step-by-Step Guide: Transforming AVI Files Into Ogg Format (Video/Audio)</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-how-to-enable-the-uss-defiant-extension-with-a-preset-selection-on-kodi-platforms/"><u>Step-by-Step Tutorial: How to Enable The USS Defiant Extension with a Preset Selection on Kodi Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-3-methods-to-transform-m4a-audio-files-into-high-quality-flac/"><u>Top 3 Methods to Transform M4A Audio Files Into High-Quality FLAC</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-8-wav-to-mp3-conversion-tools-compare-windows-mac-and-online-options/"><u>Top 8 WAV to MP3 Conversion Tools: Compare Windows, Mac & Online Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-create-stunning-animations-on-the-go-top-mobile-apps/"><u>Updated In 2024, Create Stunning Animations On-the-Go Top Mobile Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-perfection-on-the-move-easy-lut-adjustment/"><u>[New] Picture Perfection on the Move Easy LUT Adjustment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-accelerated-learning-for-chromakey-artistry/"><u>[Updated] Accelerated Learning for Chromakey Artistry</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-next-gen-players-guide-rift-vive-vs-ps-vr-games-for-2024/"><u>[Updated] Next-Gen Players Guide Rift, Vive, vs PS VR Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-new-ipados-18-update-at-wwdc-2024-the-game-changing-feature-that-could-convert-users-overnight-insights/"><u>Apple's New iPadOS 18 Update at WWDC 2024: The Game-Changing Feature That Could Convert Users Overnight - Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/convenient-tips-for-navigating-the-drive-easy-portable-application/"><u>Convenient Tips for Navigating the Drive Easy Portable Application</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-folders-a-merged-path-guide/"><u>Navigating Folders: A Merged Path Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issues-with-launching-team-fortress-2-fixed/"><u>Resolved: Issues with Launching Team Fortress 2 - Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-the-soundscape-fixing-complete-audio-absence-in-minecraft-pc-edition/"><u>Reviving the Soundscape: Fixing Complete Audio Absence in Minecraft PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-correcting-common-javascript-issues-in-discord/"><u>Simple Steps: Correcting Common JavaScript Issues in Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-apex-legends-understanding-and-fixing-the-error-403695870/"><u>Troubleshooting Apex Legends - Understanding and Fixing the Error 403695870</u></a></li>
 </ul></div>
 

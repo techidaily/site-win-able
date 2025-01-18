@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Enabling Dolby Atmos Sound on Your PC Running Windows 11 or 10"
-date: 2024-08-13T10:03:34.821Z
-updated: 2024-08-14T10:03:34.821Z
+date: 2025-01-12T22:53:57.165Z
+updated: 2025-01-18T01:38:44.452Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
  Before you try out the following solutions, make sure you’ve tried to restart your PC and Roblox to see if your problem is just a one-time random error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Turn up the volume for Roblox
 
  Sometimes your PC is unmuted but the volume of a certain app is turned down. You can check the audio for Roblox to see if it’s enabled and adjust the volume:
@@ -53,9 +50,6 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Check Roblox settings
 
  The next thing you can do is to check if the sound is enabled in your Roblox game. Roblox allows players to adjust settings for individual games. You can follow the steps below:
@@ -66,29 +60,28 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 3. Switch to the**Settings** tab. Make sure your audio is not muted and the**Volume** is not too low.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-35-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have turned up the in-game volume but still hear no sound, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Set your output device
 
  Sometimes you don’t hear the sound because it’s playing through other output devices instead of your computer speaker. Here’s how to switch audio output devices
 
 1. Right-click the**little speaker icon** on the far right side of your taskbar, then click**Open Sound Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-settings.png)
 2. Under**Output** , make sure you choose your speaker or the device you wish to use. You can double-check by clicking**App volume and device preferences** and setting the output device and volume for Roblox.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
 
 If the problem persists, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -101,29 +94,13 @@ If the problem persists, move on to the next solution.
 **Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact audio card, then it will download and install it correctly:
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-24-02.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-23-23.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -137,28 +114,26 @@ Key features:
 
 1. On your keyboard, press the**Windows logo key** and**R** to invoke the Run box.
 2. Type**control panel** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
  If configuring the audio channel on your PC doesn’t bring the sound back in Roblox, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Run the Windows audio troubleshooter
 
  If you followed the fixes above, you may have touched most of the audio settings that could bring back the sound. One more thing you can try is to use the Windows troubleshooter. It may help identify any issues left and suggest a fix. Here’s how:
@@ -167,32 +142,42 @@ Key features:
 2. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Troubleshooting** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-26-18.jpg)
 4. Click**Troubleshoot audio playback** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
 6. Wait for it to detect problems. This usually takes only a few seconds.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
 9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
 If the problem persists, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Reinstall Roblox
 
@@ -204,16 +189,13 @@ If the problem persists, try the last fix.
 3. Switch to**View by: Category** , then click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-24-05.jpg)
 4. Find Roblox player, right-click it then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-26-30.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After you restart your computer, make sure other programs are closed. Go ahead and[download Roblox](https://www.roblox.com/Download) .
 7. Find**RobloxPlayerLauncher.exe** in your Downloads folder, double-click to install.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-33-24.jpg)
@@ -234,8 +216,6 @@ If the problem persists, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +223,23 @@ If the problem persists, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-ai-assisted-creativity-the-best-name-makers-for-pods/"><u>[New] AI-Assisted Creativity The Best Name Makers for Pods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-step-by-step-guide-to-perfect-close-up-cinematic-shots-for-2024/"><u>[New] Step-by-Step Guide to Perfect Close-Up Cinematic Shots for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-4k-revolution-takes-flight-q500-review/"><u>[Updated] The 4K Revolution Takes Flight - Q500 Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-down-this-years-latest-tiktok-wave-for-2024/"><u>Breaking Down This Year's Latest TikTok Wave for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-14-pro-max-how-to-unlock-a-disabled-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 14 Pro Max How to Unlock a Disabled Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-paladins-stability-avoid-crashes-and-play-smoothly/"><u>Expert Fixes for Paladins Stability: Avoid Crashes and Play Smoothly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ipad-speech-recording-uncovered-top-methods/"><u>In 2024, IPad Speech Recording Uncovered Top Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-teardown-application-malfunctions/"><u>Master the Art of Troubleshooting Teardown Application Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-online-konvertalas-ezrede-klein-allamkor-vikon-rekam-online-halozat-operamacintosh/"><u>MP4 Online Konvertálás Ezrede Klein Államkör - Víkon Rekám Online Hálózat [Opera/Macintosh]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-easy-fixes-to-stop-graphics-driver-crash-in-valorant-gaming/"><u>Quick and Easy Fixes to Stop 'Graphics Driver Crash' In Valorant Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-preventing-and-fixing-rocket-league-stuttering-issues/"><u>Solution Guide: Preventing and Fixing Rocket League Stuttering Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-recurrent-microsoft-edge-problems-on-windows-11-systems/"><u>Step-by-Step Fixes for Recurrent Microsoft Edge Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-to-overcome-tarkovs-error-103003-issue/"><u>The Ultimate Fix Guide to Overcome Tarkov's Error 103003 Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-to-overcome-the-launch-failure-of-dead-space-reboot-expert-advice-players/"><u>Top Tips to Overcome the Launch Failure of Dead Space Reboot – Expert Advice Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gameplay-eliminating-mid-game-crashes-in-gta-5/"><u>Trouble-Free Gameplay: Eliminating Mid-Game Crashes in GTA 5</u></a></li>
+</ul></div>
 

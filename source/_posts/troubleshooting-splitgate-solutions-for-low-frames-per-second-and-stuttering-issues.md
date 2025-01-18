@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Splitgate: Solutions for Low Frames Per Second and Stuttering Issues"
-date: 2025-01-11T17:45:32.718Z
-updated: 2025-01-12T16:17:12.747Z
+date: 2025-01-13T07:31:41.198Z
+updated: 2025-01-17T19:01:27.781Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -55,6 +55,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
 
@@ -71,7 +75,7 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -104,15 +108,11 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -129,7 +129,7 @@ OR
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -158,14 +158,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-10-survival-arena-matches/"><u>[New] Ultimate 10 Survival Arena Matches</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-viewer-insights-understanding-subscriber-feedback/"><u>[Updated] Unveiling Viewer Insights Understanding Subscriber Feedback</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-restoring-functionality-to-logitech-configurations-on-windows/"><u>Comprehensive Guide: Restoring Functionality to Logitech Configurations on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-not-found-issues-with-launchdll-for-windows-users/"><u>Fixing 'Not Found' Issues with Launch.dll for Windows Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-preventing-chrome-from-crashing-on-your-windows-10-pc/"><u>Quick Fixes for Preventing Chrome From Crashing on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/sketch-out-your-design-on-paper-before-painting-directly-onto-the-tile-this-helps-prevent-mistakes-and-allows-for-planning-of-color-transitions/"><u>Sketch Out Your Design on Paper Before Painting Directly Onto the Tile. This Helps Prevent Mistakes and Allows for Planning of Color Transitions</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-when-your-pc-experiences-pacific-drive-crashing/"><u>Step-by-Step Fixes for When Your PC Experiences Pacific Drive Crashing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-urban-armor-gear-macbook-pro-carrier-a-synthesis-of-durability-and-ease-of-use/"><u>Unboxing and Testing the Urban Armor Gear MacBook Pro Carrier – A Synthesis of Durability and Ease of Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-adding-realism-to-portraits-applying-motion-blur-in-picsart/"><u>[New] In 2024, Adding Realism to Portraits Applying Motion Blur in Picsart</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-secrets-to-flawless-game-recording-in-windows-11/"><u>[Updated] Secrets to Flawless Game Recording in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-find-doom-eternal-release-date-discover-how-to-access-it-now/"><u>Can't Find DOOM Eternal Release Date? Discover How To Access It Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-how-to-implement-chatgpt-functionality-into-your-google-spreadsheet-and-documents/"><u>Enhancing Productivity: How to Implement ChatGPT Functionality Into Your Google Spreadsheet and Documents</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-wont-start-a-comprehensive-fix-guide-for-gamers-what-to-do/"><u>Hogwarts Legacy Won't Start? A Comprehensive Fix Guide for Gamers - What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-8-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 8 With or Without Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-call-for-mega-discounts-secure-your-premium-october-202-prime-deals-before-theyre-gone/"><u>Last Call for Mega Discounts: Secure Your Premium October 202# Prime Deals Before They're Gone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-optimal-performance-6-tweaks-for-lowering-zooms-cpu-usage/"><u>Mastering Optimal Performance: 6 Tweaks for Lowering Zoom's CPU Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-witcher-3-wild-hunt-launch-errors-for-a-smooth-gaming-experience/"><u>Overcoming 'Witcher 3: Wild Hunt' Launch Errors for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/publicizing-personalized-gpt-dialogues-securely/"><u>Publicizing Personalized GPT Dialogues Securely</u></a></li>
+<li><a href="https://win-able.techidaily.com/scrutinizing-the-best-deals-on-modern-pet-cameras/"><u>Scrutinizing the Best Deals on Modern Pet Cameras</u></a></li>
 </ul></div>
 

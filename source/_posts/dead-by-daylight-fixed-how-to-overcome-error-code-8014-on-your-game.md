@@ -1,7 +1,7 @@
 ---
 title: Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game
-date: 2025-01-08T17:42:49.873Z
-updated: 2025-01-12T17:26:13.464Z
+date: 2025-01-10T17:39:42.964Z
+updated: 2025-01-18T05:38:37.567Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ _Dead by Daylight (DBD)_ keeps crashing on startup, or it constantly closes to d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Select your gaming platform
 
@@ -71,6 +67,10 @@ Before you move on, select your gaming platform first:
 1. On your keyboard, press the **Windows logo**  key and **R** at the same time. Type **dxdiag**  and click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 2. Check your **Operating System, Processor, Memory** and **DirectX Version** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
@@ -151,14 +151,14 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-190.png)
 4. Click the box, and then select**Dead by Daylight** from the drop-down list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
 5. Click**Repair Service** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-192.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
@@ -194,6 +194,10 @@ Follow the instructions below to see how to fix it:
 4. Select **High Performance** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -248,7 +252,15 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 11. Restart_Dead by Daylight_ to see if this fixed your issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Xbox One
 
@@ -288,10 +300,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
@@ -299,6 +307,10 @@ If this didn’t work for you, check the fix, below.
 4. Select **Update console.**  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the update is complete, restart Dead by Daylight to see if it runs correctly now. If your problem still exists, read on and try the fix below.
 
@@ -314,7 +326,7 @@ If this didn’t work for you, check the fix, below.
 3. Select **System** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
@@ -323,12 +335,12 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 5. Select **Reset console** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
@@ -358,21 +370,17 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
  Hope one of the solutions here worked for you. Feel free to leave a comment below if you have any questions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PlayStation 4
 
  If the Dead by Daylight crashing issue happens while gaming on your PlayStation 4, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -421,10 +429,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Restart your game to see if this resolved your issues.
 
  If your issue persists after the latest version of the system software is installed, try the fix below.
@@ -448,7 +452,7 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Select **Restore to Default Settings** .  
@@ -458,10 +462,6 @@ If this didn’t work for you, check the fix, below.
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Restart your game to see if this fix worked.
 
@@ -490,14 +490,15 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rewind-on-request-swift-iphone-video-flip/"><u>[New] Rewind on Request Swift iPhone Video Flip</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effective-steps-to-shut-down-non-responsive-programs-in-windows-11/"><u>Effective Steps to Shut Down Non-Responsive Programs in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-from-crashing-the-ultimate-guide-for-fixes-in-modern-warfare-2/"><u>How to Stop Your Game From Crashing: The Ultimate Guide for Fixes in Modern Warfare 2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-camera-capabilities-in-ios-11/"><u>In 2024, Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k21-pc-issues-resolved-no-more-crashes/"><u>NBA 2K21 PC Issues Resolved: No More Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-pacific-drive-not-working-effective-tips-and-tricks/"><u>Overcoming Pacific Drive Not Working: Effective Tips & Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-performance-graphics-tablet-vs-mouse/"><u>Precision Performance: Graphics Tablet Vs. Mouse</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-the-no-user-logon-issue-in-csgo/"><u>Top 5 Solutions for Resolving the 'No User Logon' Issue in CSGO</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-launching-witcher-3-wild-hunt-here-are-fixes-that-work/"><u>Trouble with Launching Witcher 3: Wild Hunt? Here Are Fixes That Work!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-at-the-top-discover-how-to-watch-in-full-hd/"><u>[Updated] 2024 Approved Tweeting at the Top Discover How to Watch in Full HD</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-for-addressing-farming-simulator-22-startup-problems/"><u>Effective Strategies for Addressing Farming Simulator 22 Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-image-scanning-discrepancies/"><u>Expert Tips on Overcoming Image Scanning Discrepancies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-disabling-text-overlays-on-amazon-video-for-a-cleaner-viewing-option/"><u>Guide to Disabling Text Overlays on Amazon Video for a Cleaner Viewing Option</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rejuvenate-itunes-that-wont-respond-on-windows/"><u>How to Rejuvenate iTunes That Won't Respond on Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-hdr-cameras-a-buyers-selection-guide/"><u>In 2024, Elite HDR Cameras A Buyer's Selection Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unlocking-cash-on-the-snapchat-grid/"><u>In 2024, Unlocking Cash on the Snapchat Grid</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/multicam-pro-advanced-live-broadcast-technology-with-virtual-camera-capabilities/"><u>MultiCam Pro: Advanced Live Broadcast Technology with Virtual Camera Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-address-the-audio-glitches-in-dying-light/"><u>Solved: How to Address the Audio Glitches in Dying Light</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-game-from-crashing-8-strategies-for-hogwarts-legacy/"><u>Troubleshoot and Prevent Your Game From Crashing - 8 Strategies for Hogwarts Legacy</u></a></li>
 </ul></div>
 

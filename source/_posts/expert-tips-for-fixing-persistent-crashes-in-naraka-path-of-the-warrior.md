@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Fixing Persistent Crashes in Naraka: Path of the Warrior"
-date: 2024-08-13T10:05:02.637Z
-updated: 2024-08-14T10:05:02.637Z
+date: 2025-01-13T17:06:16.047Z
+updated: 2025-01-18T01:14:56.497Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -45,10 +42,11 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -71,9 +69,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 **2)** Right-click the**Steam icon** and select**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-24-59.jpg)
 
 **3)** Click**Yes** .
@@ -83,8 +78,9 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable your antivirus temporarily
 
  Sometimes, antivirus software can interfere with game performance. Temporarily disabling your antivirus can help determine if it’s causing the problem. You can consult your antivirus documentation for instructions on disabling it.
@@ -105,10 +101,11 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
@@ -116,9 +113,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run your game in compatibility mode
 
  Incompatibility with Windows updates can lead to game crashes. If you experience crashes after updating Windows, try running Risk of Rain 2 in compatibility mode:
@@ -132,6 +126,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
@@ -147,44 +145,44 @@ If your problem still exists, go ahead with the fix below.
 
 **1)** Right-click the**Steam icon** and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
@@ -205,8 +203,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +210,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premier-video-record-breakdown-and-alternatives/"><u>[New] 2024 Approved Premier Video Record Breakdown and Alternatives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-assessing-the-usefulness-of-instas-verified-posts-for-2024/"><u>[New] Assessing the Usefulness of Insta’s Verified Posts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleashing-creativity-in-education-making-amazing-videography-a-reality-on-youtube/"><u>[New] In 2024, Unleashing Creativity in Education Making Amazing Videography a Reality on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-smooth-and-quick-download-4-websites-for-tones-for-2024/"><u>[New] Smooth and Quick Download 4 Websites for Tones for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-your-youtube-unique-slot-for-2024/"><u>[Updated] Discovering Your YouTube Unique Slot for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-multiverse-crashes-top-8-strategies-for-a-smooth-gaming-experience/"><u>Beat Multiverse Crashes: Top 8 Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomutant-on-pc-crashing-problems-solved-with-latest-techniques-and-advice/"><u>Biomutant on PC - Crashing Problems Solved with Latest Techniques & Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-endurance-and-quiet-strength-in-the-asus-tuf-gaming-a14-series/"><u>Discovering Endurance and Quiet Strength in the Asus TUF Gaming A14 Series</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-irritating-ue4-madness-bug-a-solution-for-outrider-players/"><u>How to Fix the Irritating 'UE4-Madness' Bug: A Solution for Outrider Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-insiders-selection-prime-vr-device-picks/"><u>In 2024, Insider's Selection Prime VR Device Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/masterful-hacks-for-hardware-enthusiasts-dive-into-toms-comprehensive-guide/"><u>Masterful Hacks for Hardware Enthusiasts - Dive Into Tom's Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-stability-guide-how-to-prevent-game-crashes-on-your-computer/"><u>Modern Warfare 3 Stability Guide: How to Prevent Game Crashes on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008646838-solving-the-msvcr110dll-missing-issue-in-helldivers-2/"><u>Solving the 'MSVCR110.dll Missing' Issue in HellDivers 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-for-fixing-the-problematic-game-launch-in-fortnite-ls-0013/"><u>Steps for Fixing the Problematic Game Launch in Fortnite (LS-0013)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolve-dead-by-daylights-error-code-8014-quickly/"><u>Troubleshooting Tips: Resolve Dead by Daylight's Error Code 8014 Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selection-of-usb-drive-options-for-swift-iphone-information-transfers/"><u>Ultimate Selection of USB Drive Options for Swift iPhone Information Transfers</u></a></li>
+</ul></div>
 

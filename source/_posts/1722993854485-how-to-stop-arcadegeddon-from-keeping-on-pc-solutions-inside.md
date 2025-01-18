@@ -1,7 +1,7 @@
 ---
 title: How to Stop Arcadegeddon From Keeping on PC – Solutions Inside
-date: 2024-08-13T10:05:03.611Z
-updated: 2024-08-14T10:05:03.611Z
+date: 2025-01-10T20:30:22.514Z
+updated: 2025-01-17T21:35:32.404Z
 tags:
   - win11
   - win10
@@ -32,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  One common cause of the Arcadegeddon crashing issue is the corrupted game files. If it’s the case, you just need to repiar the corrupted game files.
@@ -44,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -60,16 +69,22 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -79,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Fix 4: Close CPU / memory hogging applications
 
  Insufficient memory would also leading to the Arcadegeddon crashing issue. If there’s too many applications running in the background while you’re playing Arcadegeddon, your computer may run out of RAM and the game may crash.
@@ -90,18 +102,12 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
  If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Perform a clean boot
 
  Arcadegeddon would also crash if there is a certain application conlicting with it. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -109,24 +115,19 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -151,8 +152,6 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +159,21 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>[New] Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-treasure-hunt-accessing-previously-deleted-content-for-2024/"><u>[New] YT Treasure Hunt Accessing Previously Deleted Content for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/a-friendly-how-to-participating-in-tiktok-livestreams-for-2024/"><u>A Friendly How-To Participating in TikTok Livestreams for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blitz-prevent-war-thunder-from-crashing-this-year-with-proven-solutions/"><u>Beat the Blitz: Prevent War Thunder From Crashing This Year with Proven Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-testing-of-the-samsung-galaxy-note20-ultra-with-5g-capability/"><u>Comprehensive Testing of the Samsung Galaxy Note20 Ultra with 5G Capability</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/diving-deep-incorporating-luts-into-your-creative-workflow-for-2024/"><u>Diving Deep Incorporating LUTs Into Your Creative Workflow for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvdps5q/"><u>DVD再生ができないPS5？使用可能な見え方テクニッQ</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuttering-and-freezes-in-football-manager-2022-on-windows-and-macs/"><u>Overcoming Stuttering & Freezes in Football Manager 2022 on Windows and Macs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>Pioneering Pixels A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995810436-say-goodbye-to-frustrations-effective-solutions-for-constant-blender-crashes-on-desktop-computers/"><u>Say Goodbye to Frustrations: Effective Solutions for Constant Blender Crashes on Desktop Computers.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-update-your-usb-device-drivers-on-windows-11-and-earlier-versions/"><u>Simple Steps: Update Your USB Device Drivers on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-2024-handbook-must-have-raspberry-pi-peripherals-for-optimal-performance/"><u>The 2024 Handbook: Must-Have Raspberry Pi Peripherals for Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-star-wars-battlefront-2s-error-code-327-a-comprehensive-walkthrough/"><u>Ultimate Solution for Star Wars Battlefront 2'S Error Code 327 - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/warno-not-working-top-strategies-to-prevent-the-game-from-crashing-on-your-desktop/"><u>Warno Not Working? Top Strategies to Prevent the Game From Crashing on Your Desktop</u></a></li>
+</ul></div>
 

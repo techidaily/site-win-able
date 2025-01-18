@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes For When Red Dead Online Keeps Crashing (Windows)
-date: 2024-08-13T10:02:35.125Z
-updated: 2024-08-14T10:02:35.125Z
+date: 2025-01-17T00:20:59.940Z
+updated: 2025-01-18T05:53:04.566Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -59,9 +56,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -73,29 +67,31 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
 
 1. Run Steam.
 2. Right-click on XCOM 2 and click**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -117,13 +113,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -137,8 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +146,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-youtube-caption-insertion-for-2024/"><u>[New] The Ultimate Guide to YouTube Caption Insertion for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-behind-the-scenes-with-top-influencers-insights-into-their-fb-stories/"><u>[Updated] 2024 Approved Behind the Scenes with Top Influencers – Insights Into Their FB Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-designing-dynamic-movie-synopses/"><u>[Updated] Designing Dynamic Movie Synopses</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-battle-of-tech-giants-detailed-insights-into-ipad-pro-vs-macbook-pro/"><u>Decoding the Battle of Tech Giants: Detailed Insights Into iPad Pro vs MacBook Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-problem-why-isnt-my-copy-of-modern-warfare-2-working/"><u>Fix the Problem! Why Isn't My Copy of Modern Warfare 2 Working?</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-critical-bugs-in-arise-game-ue4-edition/"><u>Fixing Critical Bugs in Arise Game - UE4 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011070316-how-to-address-and-solve-discords-packet-disruption-issues-fixed-solution/"><u>How To Address & Solve Discord's Packet Disruption Issues - Fixed Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-motorola-moto-g24-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola Moto G24 to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-one-device-one-storage-transferring-files-smoothly/"><u>In 2024, One Device, One Storage Transferring Files Smoothly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-podcast-titling-a-step-by-step-guide/"><u>In 2024, The Art of Podcast Titling A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-five-essential-fixes-to-stop-world-of-warships-from-freezing-in-windows/"><u>Master Five Essential Fixes to Stop World of Warships From Freezing in Windows!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013788625-monster-hunter-rise-not-launching-quick-fixes-you-can-try/"><u>Monster Hunter Rise Not Launching - Quick Fixes You Can Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-total-war-warhammer-ii-fixes-for-common-crash-problems/"><u>Resolving Total War: WARHAMMER II - Fixes for Common Crash Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/supreme-narrative-designers-den-for-2024/"><u>Supreme Narrative Designer's Den for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tf2-fixes-for-team-fortress-2-startup-issues/"><u>Troubleshooting TF2: Fixes for 'Team Fortress 2' Startup Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Division 2 Not Loading on Your PC or Console? Here's How to Solve It (Latest Guide)
-date: 2025-01-06T16:01:00.792Z
-updated: 2025-01-12T16:30:13.293Z
+date: 2025-01-16T23:07:37.083Z
+updated: 2025-01-18T08:42:45.895Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -49,7 +45,7 @@ Here is how to reset Winsock data:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -58,11 +54,19 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -76,6 +80,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
@@ -83,7 +91,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
@@ -122,10 +130,6 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
@@ -140,10 +144,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -155,7 +155,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -163,6 +163,10 @@ _wireless router_
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -184,10 +188,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
@@ -204,13 +204,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
 
@@ -224,10 +224,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
@@ -239,6 +235,10 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -267,22 +267,22 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-limited-time-dji-drone-visual-enhancements-no-pay-required/"><u>[New] In 2024, Limited-Time DJI Drone Visual Enhancements No Pay Required</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-extensive-movement-analysis-2023/"><u>[Updated] 2024 Approved Extensive Movement Analysis 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-soundtracks-with-imovie-tools/"><u>2024 Approved Perfecting Soundtracks with iMovie Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assistance-in-cryptocurrency-how-chatgpt-can-improve-your-trading-decisions-by-fivefold/"><u>AI Assistance in Cryptocurrency: How ChatGPT Can Improve Your Trading Decisions by Fivefold</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-launch-crisis-addressed-what-you-need-to-know/"><u>Cyberpunk 2077 Launch Crisis Addressed: What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-forza-horizon-4-running-perfectly-pro-tips-for-dealing-with-launch-difficulties/"><u>Get Forza Horizon 4 Running Perfectly: Pro Tips for Dealing with Launch Difficulties</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-cant-display-page-errors-on-chrome-for-easy-browsing/"><u>How to Overcome 'Can’t Display Page' Errors on Chrome for Easy Browsing</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-game-crash-issues-with-nba-2k21-on-windows-computers/"><u>How to Overcome Game Crash Issues with NBA 2K21 on Windows Computers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-beginning-to-connect-a-comprehensive-facebook-setup-walkthrough/"><u>In 2024, Beginning to Connect A Comprehensive Facebook Setup Walkthrough</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-pova-6-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Pova 6 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-these-techniques-to-repair-relink-functionality-and-enjoy-granblue-fantasy-without-glitches/"><u>Master These Techniques to Repair 'Relink' Functionality and Enjoy Granblue Fantasy Without Glitches!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-how-to-fix-oculus-graphics-driver-errors/"><u>Resolving Issues: How to Fix Oculus Graphics Driver Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-bless-unleashed-latency-issues-effective-ways-to-reduce-lag-and-improve-your-gaming-experience/"><u>Solving Bless Unleashed Latency Issues: Effective Ways to Reduce Lag and Improve Your Gaming Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/specialized-vs-general-skills-in-tech-industry-understanding-compensation-trends-with-expert-analysis-by-zdnet/"><u>Specialized vs General Skills in Tech Industry: Understanding Compensation Trends with Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-overcome-persistent-freezing-problems-in-fusion-360/"><u>Steps to Overcome Persistent Freezing Problems in Fusion 360</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ubertrage-von-computerbildern-auf-den-ipad-pro-3-effektive-techniken/"><u>Überträge Von Computerbildern Auf Den iPad Pro - 3 Effektive Techniken</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-soundstage-networking/"><u>[New] Best Soundstage Networking</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tailored-transitions-5-innovative-techniques-for-video-length-optimization-on-vimeo-for-2024/"><u>[New] Tailored Transitions 5 Innovative Techniques for Video Length Optimization on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-novice-to-pro-steps-in-online-streaming/"><u>[Updated] 2024 Approved From Novice to Pro Steps in Online Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-to-follow-steps-crafting-animated-gifs-from-youtube-content-pcmobile/"><u>[Updated] In 2024, Easy-to-Follow Steps Crafting Animated GIFs From YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-navigating-the-landscape-post-vlc-dominance-for-2024/"><u>[Updated] Navigating the Landscape Post-VLC Dominance for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-taking-control-youtube-visibility-personalization/"><u>[Updated] Taking Control YouTube Visibility Personalization</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-concept-of-index-or-homepage-your-guide-to-browsers-main-file/"><u>Exploring the Concept of 'Index' Or Homepage: Your Guide to Browser's Main File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-non-responsive-huion-pen-instantly-with-these-5-tips/"><u>Fix Your Non-Responsive Huion Pen Instantly with These 5 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-f1-202n-game-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop F1 202N Game From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-stuck-launch-screen-in-updated-dota-2-version/"><u>Getting Past the Stuck Launch Screen in Updated Dota 2 Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-drones-expert-buyers-choices-top-5/"><u>In 2024, High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-strategies-to-solve-division-2-startup-problems/"><u>Latest Strategies to Solve Division 2 Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-system-interruptions-nier-replicant-crashes-now-sorted/"><u>Overcoming System Interruptions - NieR: Replicant Crashes Now Sorted</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-tfla0002-issue-in-final-exams-a-step-by-step-guide/"><u>Resolving the 'TFLA0002' Issue in Final Exams: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fixes-to-overcome-firefox-freezing-problems-in-the-new-year/"><u>The Definitive Fixes to Overcome Firefox Freezing Problems in the New Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-why-cant-i-play-league-of-legends-in-2eight-fourteen/"><u>Ultimate Troubleshooting: Why Can’t I Play League of Legends in 2Eight Fourteen?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Banish Cod: Black Ops Cold War Error Code 80070057 for Smooth Gaming"
-date: 2024-08-18T15:20:09.553Z
-updated: 2024-08-19T15:20:09.553Z
+date: 2025-01-11T03:19:53.491Z
+updated: 2025-01-17T23:36:43.652Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 
  This error code 80070057 is not lethal and it can be solved easily. We’ve put together all the possible fixes that proved helpful to other gamers.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 * [1. Scan and repair](https://tools.techidaily.com/drivereasy/download/)
@@ -32,13 +29,18 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
@@ -46,24 +48,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 1. Open the Battle.net app.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -73,9 +71,11 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
@@ -94,14 +94,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
 
@@ -110,9 +116,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 1. Open the**Battle.net** app and locate your**Call of Duty: BOCW** under the**GAMES** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
@@ -131,28 +134,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Set English as the Windows display language
 
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
 
 1. In the Windows Search bar, start typing**language** and select**Language settings** from the results list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -170,8 +165,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +172,18 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-optimize-iphone-cinematography-ultimate-capture-additions/"><u>[New] 2024 Approved Optimize iPhone Cinematography Ultimate Capture Additions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/atheros-driver-installation-tutorial-for-windows-operating-systems/"><u>Atheros Driver Installation Tutorial for Windows Operating Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210800701-9781399949569-fear-not-the-spiritual-truth/"><u>Fear not the Spiritual Truth | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grok-ai-deciphering-its-meaning-functionality-and-cost-with-elon-musk/"><u>Grok AI: Deciphering Its Meaning, Functionality & Cost with Elon Musk</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-freezing-in-sifu-fps-on-pc-troubleshooting-steps/"><u>How to Eliminate Freezing in 'Sifu' FPS on PC - Troubleshooting Steps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-lava-yuva-3-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Lava Yuva 3 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/intriguing-book-trailers-on-display-for-2024/"><u>Intriguing Book Trailers on Display for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-eliminating-mount-and-blade-2-bannerlords-persistent-crashes/"><u>Mastering Stability: Eliminating Mount & Blade 2: Bannerlord's Persistent Crashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/professionals-choice-top-10-ig-video-editing-platforms/"><u>Professionals' Choice Top 10 IG Video Editing Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-persistent-minecraft-crashing-in-just-6-steps/"><u>Troubleshoot Persistent Minecraft Crashing in Just 6 Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-madden-nfl-2n-on-pc-stability-problems/"><u>Troubleshooting: Resolving Madden NFL 2N on PC Stability Problems</u></a></li>
+</ul></div>
 

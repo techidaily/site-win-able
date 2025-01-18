@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Access Denied: No Permission to Play' In Fortnite"
-date: 2024-08-18T15:20:11.629Z
-updated: 2024-08-19T15:20:11.629Z
+date: 2025-01-16T05:42:34.464Z
+updated: 2025-01-17T22:47:01.989Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -54,11 +50,12 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -69,12 +66,13 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -84,9 +82,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -94,12 +89,22 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -107,19 +112,12 @@ The outdated or broken graphics driver often crashes the game.
 
 1. Launch the Steam client and go to Steam **Library** .**Right-click on DIRT 5** and select **Properties** .
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -141,8 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-cloud-apps-for-android-the-most-reliable/"><u>2024 Approved Premium Cloud Apps for Android The Most Reliable</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-most-popular-and-convenient-video-streaming-solutions/"><u>2024'S Most Popular and Convenient Video Streaming Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209952090-9781071519851-black-belt/"><u>Black Belt | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-boundaries-meta-quest-3-examined/"><u>Breaking Boundaries: Meta Quest 3 Examined</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-features-gps-enabled-vs-cellular-capabilities-in-apple-watches/"><u>Comparing Features: GPS-Enabled Vs. Cellular Capabilities in Apple Watches</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-prevent-and-solve-gaming-applications-from-crashing/"><u>Comprehensive Guide to Prevent and Solve Gaming Applications From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-prevent-dead-by-daylight-crashes-top-tricks-for-a-stable-gameplay-experience/"><u>Expert Advice to Prevent Dead By Daylight Crashes: Top Tricks for a Stable Gameplay Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-radeon-r9-driver-crashes-in-win11-resolved/"><u>Fixing AMD Radeon R9 Driver Crashes in Win11 [Resolved]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-tecno-camon-30-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Tecno Camon 30 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-absent-items-from-file-explorer-list/"><u>Mending Absent Items From File Explorer List</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-stuttering-and-freezing-in-baldurs-gate-with-these-6-proven-remedies/"><u>Overcome Stuttering & Freezing in Baldur's Gate with These 6 Proven Remedies</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-fixes-successfully-boot-outriders-without-errors-in-the-latest-update/"><u>PC Gaming Fixes: Successfully Boot Outriders Without Errors in the Latest Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-wont-start-discover-the-fixes-that-work/"><u>Resident Evil Village Won't Start? Discover the Fixes That Work!</u></a></li>
+<li><a href="https://win11.techidaily.com/rewiring-qbittorrent-fixing-the-freeze-problems/"><u>Rewiring qBittorrent: Fixing the Freeze Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-lag-fix-baldurs-gate-stuttering-and-freezing-using-our-expert-guide/"><u>Say Goodbye to Lag! Fix Baldur's Gate Stuttering & Freezing Using Our Expert Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/unanswered-questions-surrounding-diablo-immortals-pc-launch-date-amidst-delay-rumors/"><u>Unanswered Questions Surrounding Diablo Immortal's PC Launch Date Amidst Delay Rumors</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warcraft-stability-easy-fixes-for-recurring-game-crash-problems/"><u>World of Warcraft Stability: Easy Fixes for Recurring Game Crash Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix the 'Insufficient Memory' Problem in God of War - Solutions and Tips
-date: 2024-08-13T10:04:34.702Z
-updated: 2024-08-14T10:04:34.702Z
+date: 2025-01-12T09:32:26.874Z
+updated: 2025-01-18T04:27:26.695Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -40,18 +45,16 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 Here’s how you can check the file integrity on Steam:
 
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -61,13 +64,14 @@ Here’s how you can check the file integrity on Steam:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -75,14 +79,15 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
@@ -90,6 +95,10 @@ Here’s how you can check the file integrity on Steam:
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -107,15 +116,9 @@ Here’s how you can check the file integrity on Steam:
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -124,15 +127,8 @@ Here’s how you can check the file integrity on Steam:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -147,8 +143,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +150,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-video-recording-decisions-optimal-fps-is-it-30-or-60/"><u>[New] 2024 Approved Video Recording Decisions Optimal FPS – Is It 30 or 60?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-identifying-the-top-10-hidden-story-admirers-for-2024/"><u>[New] Identifying the Top 10 Hidden Story Admirers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-concise-guide-to-speedy-mac-screen-capture/"><u>[Updated] In 2024, A Concise Guide to Speedy Mac Screen Capture</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-effortless-techniques-crafting-youtube-shorts-images-on-the-fly/"><u>[Updated] In 2024, Effortless Techniques Crafting YouTube Shorts Images on the Fly</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-heres-how-to-fix-it-on-your-windows-10-pc/"><u>Civilization 6 Wont Start? Here's How to Fix It on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosis-and-fixes-to-curb-gas-station-simulator-regular-system-interruptions-on-desktops/"><u>Diagnosis & Fixes to Curb Gas Station Simulator Regular System Interruptions on Desktops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-cutting-edge-computing-the-msi-tiny-pc-powered-by-raptor-lake-cpu-and-boasting-a-quad-lan-setup-with-25-gbps-speeds/"><u>Experience Cutting-Edge Computing: The MSI Tiny PC, Powered by Raptor Lake CPU and Boasting a Quad LAN Setup with 2.5 Gbps Speeds</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-how-to-fix-continuous-crashes-in-assassins-creed-odyssey-when-playing-on-a-computer/"><u>Expert Advice: How to Fix Continuous Crashes in Assassin's Creed Odyssey When Playing on a Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ffpm-demystified-your-guide-to-multi-tasking/"><u>In 2024, FFPM Demystified Your Guide to Multi-Tasking</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621200-9781601635402-on-the-edge-of-reality/"><u>On the Edge of Reality | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/showcase-your-2016-redux-brilliance-join-the-exclusive-build-showdown/"><u>Showcase Your 2016 Redux Brilliance: Join the Exclusive Build Showdown</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-insiders-guide-to-safe-social-media-habits-on-fb/"><u>The Insider’s Guide to Safe Social Media Habits on FB</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-trouble-shoot-beating-the-dead-by-daylight-e-code-8014-glitch/"><u>Ultimate Trouble Shoot: Beating the Dead by Daylight E-Code 8014 Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-users-rejoice-permanently-fix-your-origin-browser-wont-start-problem-today/"><u>Windows 11 Users Rejoice: Permanently Fix Your Origin Browser Won’t Start Problem Today!</u></a></li>
+</ul></div>
 

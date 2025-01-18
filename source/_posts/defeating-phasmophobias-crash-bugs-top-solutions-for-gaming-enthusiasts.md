@@ -1,7 +1,7 @@
 ---
 title: Defeating Phasmophobia's Crash Bugs - Top Solutions for Gaming Enthusiasts
-date: 2024-08-13T10:03:56.230Z
-updated: 2024-08-14T10:03:56.230Z
+date: 2025-01-10T16:09:14.607Z
+updated: 2025-01-17T23:28:03.262Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -58,9 +54,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -71,15 +64,21 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -103,10 +102,12 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -116,8 +117,9 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -127,9 +129,11 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -146,8 +150,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +157,17 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-android-and-ios-best-ps2-emulator-comparisons-for-2024/"><u>[Updated] Android & iOS Best PS2 Emulator Comparisons for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-detailed-walkthrough-monitoring-and-managing-your-off-facebook-activities-for-2024/"><u>[Updated] Detailed Walkthrough Monitoring and Managing Your Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-slack-mastering-the-apps-top-features-for-enhanced-workflow-zdnet/"><u>Boost Your Efficiency with Slack: Mastering the App's Top Features for Enhanced Workflow | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-game-crashing-glitches-in-elite-dangerous-for-pc-users/"><u>Diagnosing and Fixing Game-Crashing Glitches in Elite Dangerous for PC Users</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-cellphone-viruses-operate-and-threaten-security-a-deep-dive-by-malwarefox/"><u>How Cellphone Viruses Operate and Threaten Security: A Deep Dive by MalwareFox</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-year-smooth-gaming-2024s-top-solutions-for-lol-black-screen-glitches/"><u>New Year, Smooth Gaming: 2024'S Top Solutions for LoL Black Screen Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-stop-kernelbasedll-from-crashing-effective-methods-unveiled/"><u>Quick Fixes to Stop KernelBase.dll From Crashing - Effective Methods Unveiled!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-city-skylines-crashing-problems-with-expert-2024-troubleshooting-guide/"><u>Resolve 'City Skylines' Crashing Problems with Expert 2024 Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-unable-to-connect-on-kodi-platform-for-seamless-streaming/"><u>Troubleshooting Unable to Connect on Kodi Platform for Seamless Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-tutorial-for-downloading-wm6/"><u>Ultimate Tutorial for Downloading WM6</u></a></li>
+</ul></div>
 

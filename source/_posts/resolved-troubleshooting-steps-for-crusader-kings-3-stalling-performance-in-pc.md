@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2025-01-10T17:55:01.106Z
-updated: 2025-01-12T16:59:06.480Z
+date: 2025-01-11T01:43:29.305Z
+updated: 2025-01-17T19:54:09.417Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Necromunda: Hired Gun
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The system requirements of Necromunda: Hired Gun
 
  Before trying the fixes in this article, you need to check if your PC meets the minimum system requirements of Necromunda: Hired Gun.
@@ -48,6 +44,10 @@ Necromunda: Hired Gun
 
  If you play Necromunda: Hired Gun on a powerful PC and the game still keeps crashing, read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether Necromunda: Hired Gun crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -61,10 +61,6 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -74,6 +70,10 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -104,8 +104,16 @@ It may take some time to complete the verifying process.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -116,10 +124,6 @@ It may take some time to complete the verifying process.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  Streum On Studio (the developers of Necromunda: Hired Gun) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -127,10 +131,6 @@ It may take some time to complete the verifying process.
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
 
@@ -148,6 +148,10 @@ It may take some time to complete the verifying process.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
  Some third-party antivirus software hooks very deep into your system, and it may interfere with the game. If some important game files are blocked by the third-party antivirus software, the game will crash.
@@ -155,10 +159,6 @@ It may take some time to complete the verifying process.
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -188,21 +188,19 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-from-amateur-to-expert-iphones-audio-recording-journey-for-2024/"><u>[New] From Amateur to Expert IPhone's Audio Recording Journey for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aximize-reach-the-top-ten-keywords-discovery-platforms-for-youtubers-for-2024/"><u>[New] Maximize Reach The Top Ten Keywords Discovery Platforms for YouTubers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unlock-professional-graphics-custom-templates-on-the-house/"><u>[New] Unlock Professional Graphics - Custom Templates on the House</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-artistry-designing-channels-visual-assets-bannersicons/"><u>[Updated] In 2024, YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mapping-instagrams-unfollowers-landscape/"><u>[Updated] Mapping Instagram's Unfollowers Landscape</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/1725286476270-winxvideo/"><u>官方WinxVideo人工智能技術介紹:最新影像調製規格詳解</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-game-over-resolving-gtfo-fps-dips-and-stutter-in-real-time/"><u>Fixes for Game Over: Resolving GTFO FPS Dips and Stutter in Real-Time</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-launch-issues-for-dragons-dogma-2-on-windows-computers/"><u>Fixing Launch Issues for Dragon's Dogma 2 on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/hassle-free-ways-to-prevent-chrome-sluggishness-and-freezing-on-pcs-with-windows-10/"><u>Hassle-Free Ways to Prevent Chrome Sluggishness and Freezing on PCs with Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005407611-hit-the-battlefields-pc-release-of-god-of-war-fps-now-available/"><u>Hit the Battlefields: PC Release of God of War FPS Now Available!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-of-cold-war-across-platforms/"><u>How to Overcome the Endless Loading Screen of Cold War Across Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-the-beat-saber-game/"><u>How to Resolve Constant Crashes in the Beat Saber Game</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-find-monster-sounds-effect/"><u>New Find Monster Sounds Effect</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-ending-your-ghost-recon-breakpoint-crash-woes-today/"><u>Troubleshooting Guide - Ending Your Ghost Recon Breakpoint Crash Woes Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-audio-capture-on-obs-desktop/"><u>Troubleshooting Guide: Restoring Audio Capture on OBS Desktop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-1011-recognize-disk-drive/"><u>Windows 10/11: Recognize Disk Drive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-grandmasters-choice-best-martial-arts-games-list-for-2024/"><u>[New] The Grandmasters' Choice Best Martial Arts Games List for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>[Updated] Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-deep-dive-into-dts-virtualx-technology-for-enhanced-sound-immersion/"><u>A Deep Dive Into DTS Virtual:X Technology for Enhanced Sound Immersion</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dispelling-dark-pixels-youtube-solution-guide/"><u>Dispelling Dark Pixels YouTube Solution Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cial-forecasting-in-the-world-of-youtube-snippet-creation-for-2024/"><u>Financial Forecasting in the World of YouTube Snippet Creation for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-back-in-the-game-fixes-when-multiversus-wont-open-on-your-computer/"><u>Get Back in the Game: Fixes When MultiVersus Won't Open on Your Computer</u></a></li>
+<li><a href="https://solve-news.techidaily.com/harnessing-the-power-of-cookiebot-for-superior-site-analytics-and-targeting/"><u>Harnessing the Power of Cookiebot for Superior Site Analytics & Targeting</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-black-screen-glitches-in-mtg-arena-solutions-unveiled/"><u>How to Overcome Black Screen Glitches in MTG Arena - Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-persistent-crash-of-persona-3-on-personal-computers/"><u>How to Resolve the Persistent Crash of Persona 3 on Personal Computers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixelperfect-tools-overview-series/"><u>In 2024, PixelPerfect Tools Overview Series</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tracking-down-enhanced-alien-voices-effects-for-2024/"><u>New Tracking Down Enhanced Alien Voices Effects for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-low-fps-guide-step-by-step-solutions-to-improve-your-frames-per-second/"><u>Outriders Low FPS Guide: Step-by-Step Solutions to Improve Your Frames Per Second</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-solution-why-does-overwatch-2-keep-collapsing-and-how-to-fix-it/"><u>PC Players' Solution: Why Does Overwatch 2 Keep Collapsing & How to Fix It?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-directx-issues-in-call-of-duty-modern-warfare-2/"><u>Ultimate Guide: Solving DirectX Issues in Call of Duty Modern Warfare 2</u></a></li>
 </ul></div>
 

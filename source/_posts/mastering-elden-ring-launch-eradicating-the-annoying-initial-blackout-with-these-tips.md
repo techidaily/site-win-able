@@ -1,7 +1,7 @@
 ---
 title: Mastering Elden Ring Launch - Eradicating the Annoying Initial Blackout with These Tips
-date: 2024-08-13T10:04:17.056Z
-updated: 2024-08-14T10:04:17.056Z
+date: 2025-01-12T21:50:55.115Z
+updated: 2025-01-18T04:33:18.646Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ _Image source: ea.com_
 
  But there are some issues pissing players off, one of which is that the game doesn’t even launch! Some are getting an error **“Your game failed to launch. An error on our end caused your launch to fail. Try again a little later.”** If you have no clue what has happened, you’ve come to the right place! In this guide, we’ll walk you through the methods to solve your problem and bring your game back to the deep and immersive gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Before proceeding to the fixes below…
 
  Before you take any troubleshooting steps as follows, we suggest you**perform a restart on your computer** . Sometimes your problem is temporary and can be solved by a simple restart.
@@ -65,9 +62,6 @@ To check your PC hardware specifications, you can follow the steps below.
 1. On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box.
 2. Type **dxdiag**  and hit Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to open DIrectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. Now you can check your system information under the **System**  tab.  
 
@@ -85,13 +79,6 @@ To check your PC hardware specifications, you can follow the steps below.
 6. **[Verify your game files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 1\. Temporarily disable firewall and antivirus software
 
  To protect our computer from malware, most of us will turn on Windows Firewall and install some antivirus software. However, there are some circumstances where they mistakenly block legitimate programs like Dead Space. To determine the cause of your problem, you can try**turning Windows Defender Firewall off** and disable your antivirus when launching Dead Space.
@@ -102,12 +89,28 @@ No advertising on the website.
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Close conflicting or non-essential programs
 
@@ -120,16 +123,18 @@ No advertising on the website.
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unnecessary applications.  
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you can attempt to open your game. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run your game as an administrator
 
  Sometimes a program may not launch because it lacks the administrative rights. To rule out the cause of your issue, try to run Dead Space as an administrator. All you have to do is:
@@ -140,24 +145,20 @@ No advertising on the website.
 
  Till now, launch the game to test if it works. If this method doesn’t give you any luck, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 4\. Download & install all Windows updates
 
  Windows updates are released on a regular basis to provide users with bug fixes and new features. So you should make sure they are installed in your system to get all the performance enhancements. If your issue is triggered by the incompatibilities, updating Windows is more likely to help.
 
 1. In the Search box, type **check for updates** . Then click **Check for updates**  from the list of results.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. If updates are available, follow the on-screen instructions to download and install the updates for your system.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
 
@@ -167,9 +168,6 @@ The powerful video editing program for your Windows PC</a>
 
  There are mainly two ways you can update your drivers: manually and automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your drivers
 
  If you have the time, patience and computer skills to update drivers on your own, you can visit your graphics card manufacturer’s website:
@@ -190,11 +188,12 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -202,15 +201,13 @@ The powerful video editing program for your Windows PC</a>
  After updating drivers, restart your computer. If your game isn’t loading, don’t fret! Below are some other fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Verify your game files
 
  From time to time, game files can get corrupted and some important ones may even be missing, causing the issue of your game failing to launch as expected. To replace the corrupted files and make sure they are intact, you should try to verify them within the gaming platform.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Open your Steam client. Under**LIBRARY** , right-click your game title and select**Properties** .
@@ -235,13 +232,14 @@ The powerful video editing program for your Windows PC</a>
 
 1. Navigate to the game in your Library. Then click on the**three dots** . Select**Manage** from the drop-down.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of your game, it may take a few minutes to verify all your files. Once it finishes, try to launch your game to check whether verifying game files works.
 
@@ -251,9 +249,6 @@ The powerful video editing program for your Windows PC</a>
 
 1. In the search box on the taskbar, type **cmd** . Find Command Prompt from the list of results and right-click it. Then select **Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd.jpg)
 2. Click **Yes**  when you receive a prompt.
 3. Copy and paste the following commands in Command Prompt, then press Enter.  
@@ -261,9 +256,6 @@ The powerful video editing program for your Windows PC</a>
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 4. Wait until you see a message saying “The operation completed successfully.”  
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type **sfc /scannow**  and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 
@@ -279,9 +271,6 @@ The powerful video editing program for your Windows PC</a>
 2. Launch Fortect and it will run a free scan of your PC. Upon completion of the scan, the software will conduct a diagnosis and show you a summary of system issues. This will take a few minutes.
 3. If it detects any issues on your PC, click **Start Repair**  to let it start the repairing process.  
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
@@ -294,8 +283,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +290,19 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-pathway-to-creating-metaverse-identities/"><u>[New] The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-dota-2-fps-drops-on-windows-11-10/"><u>[SOLVED] Dota 2 FPS Drops on Windows 11, 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-android-and-ios-best-ps2-emulator-comparisons/"><u>2024 Approved Android & iOS Best PS2 Emulator Comparisons</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-strategies-for-restoring-accidentally-deleted-images-from-your-iphone-device/"><u>Effective Strategies for Restoring Accidentally Deleted Images From Your iPhone Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-critical-pc-stability-errors-for-lego-star-wars-2024-release-fixes/"><u>Expert Advice: Addressing and Correcting Critical PC Stability Errors for Lego Star Wars - 2024 Release Fixes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-tips-for-photo-hdr-mastery-in-photoshop-for-2024/"><u>Expert Tips for Photo-HDR Mastery in Photoshop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-selecting-the-finest-displays-for-your-xbox-series-x-console/"><u>In 2024, Game On Selecting the Finest Displays for Your Xbox Series X Console</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-step-by-step-download-vimeo-to-mp4-files/"><u>In 2024, Step-by-Step Download Vimeo to MP4 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-unable-to-join-a-party-issue-a-guide-through-fortnite-error-code-84/"><u>Resolving the 'Unable to Join a Party' Issue: A Guide Through Fortnite Error Code #84</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seeing-beyond-the-ordinary-with-ar/"><u>Seeing Beyond the Ordinary with AR</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-problems-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Guide: Fixing Launch Problems in A Total War: Saga - Troy on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-stability-problems-in-watch-dogs-legion-on-pc/"><u>Troubleshooting Guide: Overcoming Stability Problems in Watch Dogs Legion on PC</u></a></li>
+</ul></div>
 

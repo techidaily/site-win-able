@@ -1,7 +1,7 @@
 ---
 title: Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action
-date: 2025-01-08T16:09:57.067Z
-updated: 2025-01-12T16:37:17.113Z
+date: 2025-01-11T19:59:06.205Z
+updated: 2025-01-17T20:00:51.098Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Civilization VI is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -44,15 +48,15 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game crashing or freezing. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Update your graphics card driver
 
@@ -98,10 +102,6 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Use Medium or Low settings for your game
 
  Settings a high graphics effect for your game may crash your computer, so it’s always a go-to option to set the graphics options to Medium or Low.
@@ -112,6 +112,10 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Disable DLC for CIV 6
 
  Usually the game developers release Downloadable Content (DLC) for players, which is additional content created for an already-released video game to have better experience.
@@ -121,10 +125,6 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
  If CIV 6 works properly after turning off DLC, then you should stop using DLC when playing your game, or report your issue to the game support.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 6: Turn off antivirus program for your game
 
@@ -141,7 +141,7 @@ Still no luck? Okay, there is one more thing to try.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 7: Reinstall CIV 6
@@ -164,13 +164,13 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-242.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Uninstall Game** , then follow the on-screen instructions to uninstall CIV 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-243.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Open**File Explorer** that you just open via Steam, and ensure to delete all the files in that game folder.
 
@@ -201,21 +201,14 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-great-video-editing-tools-debate-bandicam-vs-camtasia/"><u>[New] In 2024, The Great Video Editing Tools Debate Bandicam Vs Camtasia</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-guide-to-ai-infused-gaming-broadcasts/"><u>2024 Approved The Ultimate Guide to AI-Infused Gaming Broadcasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-resolving-full-game-crashes-in-horizon-forbidden-west-pc-tips/"><u>Complete Guide: Resolving Full Game Crashes in Horizon Forbidden West - PC Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-release-put-on-hold-detailed-analysis-and-future-prospects/"><u>Diablo Immortal PC Release Put on Hold – Detailed Analysis and Future Prospects</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008669317-fix-your-deathloop-starting-problem-with-these-simple-solutions/"><u>Fix Your Deathloop Starting Problem with These Simple Solutions!</u></a></li>
-<li><a href="https://discover-help.techidaily.com/free-techniques-to-transform-your-avchd-videos-into-mp4-format-on-a-windows-10-pc/"><u>Free Techniques to Transform Your AVCHD Videos Into MP4 Format on a Windows 10 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-launching-problems-with-monster-hunter-stories-2-wings-of-ruin-tips-and-tricks/"><u>How to Overcome Launching Problems with Monster Hunter Stories 2: Wings of Ruin - Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/path-of-exile-connection-woes-heres-your-2024-step-by-step-solution/"><u>Path of Exile Connection Woes? Here's Your 2024 Step-by-Step Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-excel-2013-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/"><u>Recover Excel 2013 Files from Virus-Infected Pen Drives for Free</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-guide-retrieving-your-files-from-an-external-hard-drive/"><u>Step-by-Step Guide: Retrieving Your Files From an External Hard Drive</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-for-starting-far-cry-6-successfully-on-desktops-and-laptops/"><u>The Ultimate Fix Guide for Starting Far Cry 6 Successfully on Desktops and Laptops</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-eradicating-the-dota-2-account-bans-of-2022/"><u>The Ultimate Guide: Eradicating the Dota 2 Account Bans of 2022</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-gpu-usage-issue-on-windows-10-problem-fixed/"><u>Troubleshooting Warzone's GPU Usage Issue on Windows 10 – Problem Fixed</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/troubleshooting-your-scanner-common-reasons-why-it-wont-power-on-tips-from-yl-computing/"><u>Troubleshooting Your Scanner: Common Reasons Why It Won't Power On - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unmatched-ai-tools-for-visual-storytelling/"><u>Unmatched AI Tools for Visual Storytelling</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-alternatives-at-a-glance-choosing-the-best-platforms/"><u>YouTube Alternatives at a Glance Choosing the Best Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-from-single-shots-to-unified-visions-a-mosaic-story/"><u>[New] In 2024, From Single Shots to Unified Visions A Mosaic Story</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>[Updated] 2024 Approved Top 30 Metaverse Memes Crafting Hilarious Digital Delights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online/"><u>2024 Approved Gifts That Speak Volumes A Compendium of Custom Box Shops Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-comprehensive-steps-for-successfully-starting-overwatch-2-troubleshooting-guide-2e4/"><u>Beat the Bug: Comprehensive Steps for Successfully Starting Overwatch 2 (Troubleshooting Guide - 2E4)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 13</u></a></li>
+<li><a href="https://win-able.techidaily.com/revamping-visual-experience-improving-outriders-blurry-display-problems/"><u>Revamping Visual Experience: Improving Outriders' Blurry Display Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-for-your-nvidia-geforce-error-code-0x0003-a-comprehve-guide/"><u>The Ultimate Fix for Your NVIDIA GeForce Error Code 0X0003: A Comprehve Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-directdraw-compatibility-errors/"><u>Understanding and Resolving DirectDraw Compatibility Errors</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728499237181-wbadmin/"><u>バックアップおよびシステムの再構築: Wbadminコマンドラインオプションでするべきこと - 詳細解説</u></a></li>
 </ul></div>
 

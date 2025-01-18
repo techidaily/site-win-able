@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Football Manager 2023 Won’t Launch"
-date: 2024-08-18T15:18:44.025Z
-updated: 2024-08-19T15:18:44.025Z
+date: 2025-01-16T02:53:47.020Z
+updated: 2025-01-17T19:21:29.037Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -42,12 +39,21 @@ Take Avast as an example:
 3. Click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -71,50 +77,46 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
 
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 If this fix bring no luck, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
 
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
@@ -132,8 +134,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,26 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-tips-record-powerpoint-live-with-webcam/"><u>[New] 2024 Approved Essential Tips Record PowerPoint Live with Webcam</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-iphone-x-identity-verification-restoring-biometric-lock/"><u>[New] In 2024, Mastering iPhone X Identity Verification Restoring Biometric Lock</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-reference-for-content-creators-youtube-copyright/"><u>[New] The Complete Reference for Content Creators YouTube Copyright</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-farm-frenzy-fun-pack-the-ultimate-agritainment-guide/"><u>[Updated] 2024 Approved Farm Frenzy Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-preventing-social-media-platforms-intrusive-ads/"><u>2024 Approved Preventing Social Media Platform's Intrusive Ads</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/best-online-broadcast-toolkit-with-manycam-and-digital-webcams-features/"><u>Best Online Broadcast Toolkit with ManyCam and Digital Webcams Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-fatal-javascript-issue-with-ease-on-win-11-discord/"><u>Conquering Fatal Javascript Issue with Ease on Win 11 Discord</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-tips-for-optimal-screen-recording-with-showmore/"><u>Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
+<li><a href="https://win-able.techidaily.com/experts-reveal-ultimate-tips-to-prevent-your-sword-and-faery-epic-continuation-from-breaking-down-on-pc/"><u>Experts Reveal Ultimate Tips to Prevent Your Sword & Faery Epic Continuation From Breaking Down on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sons-of-the-forest-glitches-for-smooth-gaming-on-your-computer/"><u>Fixing Sons of the Forest Glitches for Smooth Gaming on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-dark-screen-issue-in-hitman-3-pc-guide/"><u>How to Fix the Dark Screen Issue in Hitman 3 - PC Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-trouble-free-gameplay-correcting-serious-faults-in-tales-of-arise-ue4-version/"><u>Mastering Trouble-Free Gameplay: Correcting Serious Faults in Tales of Arise, UE4 Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-battle-royale-bloopers-resolve-call-of-duty-mobiles-warzone-read-errors/"><u>Solving Battle Royale Bloopers: Resolve Call of Duty Mobile's Warzone Read Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-persistent-problem-of-new-world-games-crashing-on-your-computer/"><u>Solving the Persistent Problem of 'New World' Games Crashing on Your Computer</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-becomes-the-first-data-recovery-company-to-recover-data-from-hardware-encrypted-hard-drives-news-of-stellar/"><u>Stellar Becomes The First Data Recovery Company To Recover Data From Hardware Encrypted Hard Drives - News of Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-seamless-start-for-your-resident-evil-village-adventure/"><u>Success Story: Seamless Start for Your Resident Evil Village Adventure</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-disk-errors-on-pc/"><u>Troubleshooting Steam Disk Errors on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-the-elder-scrolls-online-launching-issues/"><u>Troubleshooting Tips: How to Resolve 'The Elder Scrolls Online' Launching Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now</u></a></li>
+</ul></div>
 

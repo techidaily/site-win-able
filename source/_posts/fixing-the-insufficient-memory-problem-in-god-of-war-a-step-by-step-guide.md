@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Insufficient Memory' Problem in God of War: A Step-by-Step Guide"
-date: 2025-01-08T17:12:31.496Z
-updated: 2025-01-12T17:44:48.780Z
+date: 2025-01-11T19:15:02.708Z
+updated: 2025-01-17T16:28:41.651Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the system requirements
@@ -60,7 +60,15 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your driver
 
@@ -80,10 +88,6 @@ There are mainly two ways you can update the driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -97,15 +101,11 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Disable integrated graphics through Device Manager** :
@@ -119,6 +119,10 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update God of War
 
  The game development team is working on this issue. Santa Monica Studios has just deployed God of War Update 1.0.1\. Although the new patch doesn’t fix the issue for everyone, the dev team may fix the memory leak issue in the future. So don’t forget to update the God of War when there are available patches.
@@ -128,10 +132,6 @@ There are mainly two ways you can update the driver:
 3. Right-click on God of War and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
@@ -146,21 +146,21 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Save and restart regularly
 
@@ -187,19 +187,24 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-strategies-for-skipping-virtual-learning-videos/"><u>[New] 2024 Approved Strategies for Skipping Virtual Learning Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/et-your-hand-on-the-latest-50-youtube-promo-banners/"><u>[New] Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-discovering-elite-gif-apps-for-iphone-x8-series/"><u>[New] In 2024, Discovering Elite GIF Apps for iPhone X/8 Series</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-using-videos-in-education/"><u>2024 Approved The Art of Using Videos in Education</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ss-thumbnails-for-epic-battle-royale-for-2024/"><u>Express Thumbnails for Epic Battle Royale for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-guide-starting-your-echo-dot-by-entering-setup-mode/"><u>How To Guide: Starting Your Echo Dot by Entering Setup Mode</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-and-ipad-set-to-receive-significant-boost-in-web-application-experience/"><u>IPhone & iPad Set to Receive Significant Boost in Web Application Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-uncovered-factors-behind-its-delay/"><u>Mafia: Definitive Edition - Uncovered Factors Behind Its Delay</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-rainbow-six-siege-play-a-guide-to-overcoming-connection-issues-and-lag/"><u>Optimize Rainbow Six Siege Play - A Guide to Overcoming Connection Issues and Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stagnation-effective-solutions-for-a-smooth-qbittorrent-experience/"><u>Overcoming Stagnation: Effective Solutions for a Smooth qBittorrent Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/snapcutmaster-insights-full-scrutiny/"><u>SnapCutMaster Insights – Full Scrutiny</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-the-ipad-mini-power-in-tiny-packages/"><u>The Ultimate Guide to the iPad Mini ˈPower in Tiny Packages</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-solution-overcoming-halo-infinites-crashing-problem-in-pc-edition/"><u>The Ultimate Solution: Overcoming Halo Infinite's Crashing Problem in PC Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-persistent-chrome-freezes-in-windows-10-instantly/"><u>Troubleshoot and Resolve Persistent Chrome Freezes in Windows 10 Instantly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-wizardry-flipping-your-video-narrative/"><u>[Updated] 2024 Approved Snapchat Wizardry Flipping Your Video Narrative</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-spearheading-social-media-select-the-best-video-editors-for-ig/"><u>[Updated] 2024 Approved Spearheading Social Media Select the Best Video Editors for IG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-clear-capture-top-microphones-for-cams/"><u>2024 Approved Clear Capture Top Microphones for Cams</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bugs-improve-your-cyberpunk-2077-experience-without-lag-or-stutter-issues/"><u>Beat the Bugs: Improve Your Cyberpunk 2077 Experience Without Lag or Stutter Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/easily-resolve-bluestacks-app-crashes-with-these-5-simple-fixes/"><u>Easily Resolve BlueStacks App Crashes with These 5 Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-resolve-the-frequent-breakdown-of-thunder-tier-one-on-pc-systems/"><u>Effective Ways to Resolve the Frequent Breakdown of Thunder Tier One on PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/gear-up-for-smooth-gameplay-bungie-tackles-and-fixes-destiny-2s-broccoli-issue/"><u>Gear Up for Smooth Gameplay - Bungie Tackles and Fixes Destiny 2'S Broccoli Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-logitech-brio-camera-on-windows-1187-download-required-drivers-now/"><u>Install Your Logitech BRIO Camera on Windows 11/8/7 - Download Required Drivers Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/inverted-illusions-the-art-of-rotating-visuals-for-social-media-success/"><u>Inverted Illusions The Art of Rotating Visuals for Social Media Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-optimization-overcoming-lag-issues-successfully/"><u>League of Legends Optimization - Overcoming Lag Issues Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/managing-notification-preferences-avoiding-amber-warnings-on-android/"><u>Managing Notification Preferences: Avoiding Amber Warnings on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-approach-to-advanced-arithmetic/"><u>OpenAI's Approach to Advanced Arithmetic</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-performance-optimization-conquering-in-game-stutters-and-delays/"><u>Outriders Performance Optimization: Conquering In-Game Stutters and Delays</u></a></li>
+<li><a href="https://win-able.techidaily.com/samurai-warriors-5-pc-stability-solved-tips-for-uninterrupted-gaming-experience/"><u>Samurai Warriors 5 PC Stability Solved: Tips for Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-the-infamous-pacific-drive-crash-bug-on-desktop-systems/"><u>Step-by-Step Guide to Fixing the Infamous Pacific Drive Crash Bug on Desktop Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1124143-9781934708217-the-egypt-code/"><u>The Egypt Code | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-forza-horizon-5-from-crashing-on-your-computer/"><u>Troubleshooting Tips: Preventing Forza Horizon 5 From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-limits-why-chatgpt-struggles-with-self-detection-of-text-generation/"><u>Unveiling the Limits: Why ChatGPT Struggles with Self-Detection of Text Generation</u></a></li>
 </ul></div>
 

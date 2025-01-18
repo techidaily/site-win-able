@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solve Your Minecraft Performance Issues - Top Tricks for PC in 2Eby"
-date: 2024-08-13T10:04:36.696Z
-updated: 2024-08-14T10:04:36.696Z
+date: 2025-01-14T23:23:19.883Z
+updated: 2025-01-18T00:29:36.664Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -49,10 +53,6 @@ Here’s how you can download and install Windows updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
  (If you’re not using a NVIDIA graphics card, simply head to[fix 3](https://tools.techidaily.com/drivereasy/download/) . )
@@ -63,23 +63,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Type**devmgmt.msc** and press Enter.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
  After you’ve done these, launch Outriders to check if it solves your issues.
@@ -98,9 +97,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -112,9 +108,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 4\. Switch to DX11
 
  DX12 was designed to bring performance boost, maximize frame rate and minimize latency by optimizing hardware utilization. Having said that, in some circumstances, some titles may not really get along well with DX12 and the truth is, for many games, DX11 is still a great option. Outriders developers also[post](https://steamcommunity.com/app/680420/discussions/2/3075370188227922699/) that switching to DX11 can fix the performance issues.
@@ -127,14 +120,15 @@ Here’s how you can do this:
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -144,16 +138,14 @@ To verify the integrity of game files, take these steps:
 
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
@@ -168,18 +160,27 @@ To verify the integrity of game files, take these steps:
 
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now play Outriders to see if you can get better gaming performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
 
@@ -189,14 +190,6 @@ Now play Outriders to see if you can get better gaming performance.
 
  2) Type **taskmgr** , then press **Enter**  on your keyboard to open the Task Manager.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
@@ -215,8 +208,6 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +215,26 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-channel-visuals-hub-icon-and-banner-crafting-tips-for-2024/"><u>[Updated] Channel Visuals Hub Icon & Banner Crafting Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>[Updated] In 2024, Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-soaring-with-mi-drone-an-in-depth-4k-study/"><u>[Updated] Soaring with MI Drone - An In-Depth 4K Study</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-adventure-aces-ranking-games-that-make-you-want-to-explore/"><u>2024 Approved Adventure Aces Ranking Games That Make You Want to Explore</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-taskbar-with-numeric-keys-icons-on-win11s-tray/"><u>Enhancing Taskbar with Numeric Keys Icons on Win11's Tray</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-call-of-duty-black-ops-4-not-starting/"><u>Expert Tips to Resolve Call of Duty Black Ops 4 Not Starting</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-freezes-on-boot-troubleshooting-and-fixes/"><u>Far Cry 5 Freezes on Boot: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-mute-button-on-pubg-tips-to-restore-your-sound-experience/"><u>Fixing the Mute Button on PUBG - Tips to Restore Your Sound Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-does-imovie-set-dimensions-for-2024/"><u>How Does iMovie Set Dimensions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-demand-developer-positions-and-cutting-edge-code-languages-of-2023-forecasts-and-insights-silicon-republic/"><u>In-Demand Developer Positions & Cutting-Edge Code Languages of 2023: Forecasts and Insights | Silicon Republic</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-update-issue-problem-solved/"><u>Microsoft Flight Simulator 2020 Update Issue: Problem Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-installation-issues-with-age-of-empires-iv-on-microsofts-digital-shop/"><u>Resolving Installation Issues with Age of Empires IV on Microsoft's Digital Shop</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-problems-in-total-war-warhammer-ii-a-comprehensive-guide/"><u>Resolving Stability Problems in Total War: Warhammer II - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-game-performance-sluggishness-quick-fixes-and-tips/"><u>Solving Game Performance Sluggishness - Quick Fixes & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-2022-apex-legends-glitch-decoding-the-mystery-of-error-code-leaf/"><u>Solving the 2022 Apex Legends Glitch: Decoding the Mystery of Error Code 'Leaf'</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-the-dilemma-overcoming-usb-compatibility-problems-with-the-260ci-wi-fi-driver/"><u>Solving the Dilemma: Overcoming USB Compatibility Problems with the 260Ci Wi-Fi Driver</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-6-metaverse-case-studies-for-in-depth-understanding/"><u>Top 6 Metaverse Case Studies for In-Depth Understanding</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-star-citizens-windows-crash-issues/"><u>Troubleshooting: Resolving Star Citizen's Windows Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-issues-in-ffxiv-navigating-incomplete-version-checks/"><u>Update Issues in FFXIV: Navigating Incomplete Version Checks</u></a></li>
+</ul></div>
 

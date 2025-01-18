@@ -1,7 +1,7 @@
 ---
 title: Overcome Launch Hurdles for Fallout 3 with These Essential Fixes & 2024 Insights
-date: 2025-01-09T16:29:00.020Z
-updated: 2025-01-12T16:43:13.771Z
+date: 2025-01-13T17:48:35.515Z
+updated: 2025-01-17T22:21:40.053Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -73,12 +69,20 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Verify the integrity of game files
 
@@ -96,10 +100,6 @@ Marvel’s Guardians of the Galaxy system requirements
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -120,7 +120,7 @@ If this issue persists, try the next fix, below.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
@@ -130,7 +130,7 @@ If this issue persists, try the next fix, below.
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Temporarily disable anti-virus software
@@ -160,16 +160,20 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
 
@@ -179,10 +183,6 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -190,14 +190,14 @@ If this fix didn’t work, try the next fix, below.
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -238,16 +238,16 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops-for-2024/"><u>[New] Seamless Video Communication in WhatsApp Web for Laptops and Desktops for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-upgrade-the-beginners-roadmap-to-video-mastery-for-2024/"><u>[Updated] Channel Upgrade The Beginner's Roadmap to Video Mastery for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-optimization-for-seamless-play-overcoming-stuttering-challenges-on-personal-computers/"><u>Assassin’s Creed Valhalla Optimization for Seamless Play: Overcoming Stuttering Challenges on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-discord-screen-sharing-and-audio-glitches/"><u>Expert Tips for Fixing Discord Screen Sharing and Audio Glitches</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-address-the-80n070057-bug-in-cod-black-ops-cold-war/"><u>How To Correctly Address the 80N070057 Bug in COD: Black Ops Cold War</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-valorant-on-your-windows-or-mac-computer/"><u>How to Fix Persistent Crashes in Valorant on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-spectacularly-free-luts-elevate-with-exclusive-purchase-options/"><u>In 2024, 10 Spectacularly Free LUTs; Elevate with Exclusive Purchase Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-phasmophobia-game-crashing-fix-guide-at-90-load-on-pcconsole/"><u>Overcome Phasmophobia Game Crashing: Fix Guide at 90% Load on PC/Console</u></a></li>
-<li><a href="https://techtrends.techidaily.com/superior-gaming-at-bargain-get-the-cyberpower-pc-with-nvidia-rtx-4060-for-999/"><u>Superior Gaming at Bargain: Get the CyberPower PC with NVIDIA RTX 4060 for $999</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unpacking-the-best-youtube-music-reactions-2023/"><u>[Updated] 2024 Approved Unpacking the Best YouTube Music Reactions, 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-vector-graphics-our-top-10-pics-stores/"><u>[Updated] In 2024, Mastering Vector Graphics Our Top 10 Pics Stores</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-the-digital-maze-to-save-snaps-from-social-media/"><u>[Updated] In 2024, Navigating the Digital Maze to Save Snaps From Social Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try/"><u>2024 Approved Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-directx-drawing-issues-a-step-by-step-guide/"><u>How to Fix DirectX Drawing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-fixed-graphics-driver-issues-now-resolved/"><u>Overwatch Fixed: Graphics Driver Issues Now Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gamers-unite-fixing-the-payday-2-wont-launch-dilemma-easily/"><u>PC Gamers Unite! Fixing the 'Payday 2 Won't Launch' Dilemma Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-crafting-custom-chart-templates-in-excel/"><u>Step-by-Step Guide: Crafting Custom Chart Templates in Excel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ior-watchlist-analyzer-highest-chart-positions-for-2024/"><u>Superior Watchlist Analyzer Highest Chart Positions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-stop-red-dead-redemption-amo-from-crashing-on-windows/"><u>Troubleshooting Steps: How to Stop 'Red Dead Redemption Amo' From Crashing on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vmixadaptive-mac-and-pc-harmony/"><u>VMixAdaptive Mac & PC Harmony</u></a></li>
 </ul></div>
 

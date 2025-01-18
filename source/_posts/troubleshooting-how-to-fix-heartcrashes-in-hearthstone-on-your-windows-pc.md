@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix Heartcrashes in Hearthstone on Your Windows PC"
-date: 2024-08-13T10:04:55.174Z
-updated: 2024-08-14T10:04:55.174Z
+date: 2025-01-13T17:53:55.272Z
+updated: 2025-01-18T03:59:07.242Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,9 +28,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -44,8 +38,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -54,6 +49,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Enter** keys on your keyboard at the same time to switch back to the full screen view.
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -85,28 +84,33 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +125,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +132,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[New] Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dive-into-the-world-of-youtuber-shorts/"><u>[Updated] Dive Into the World of Youtuber Shorts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-tips-for-shaping-images-with-photoshop-curves/"><u>[Updated] In 2024, Tips for Shaping Images with Photoshop Curves</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-turbocharged-titans-compile-the-finest-srt-enhancements-for-pcs-and-macs/"><u>[Updated] Turbocharged Titans Compile the Finest SRT Enhancements for PCs & Macs</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-success-boost-your-sites-performance/"><u>Cookiebot-Driven Success: Boost Your Site's Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defrost-your-digital-life-quick-fixes-for-a-computer-thats-too-cold/"><u>Defrost Your Digital Life: Quick Fixes for a Computer That's Too Cold</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hd-drone-footage-downloader-and-editor-free-tool-for-djiparrot-4k-video-conversion/"><u>HD Drone Footage Downloader & Editor - Free Tool for DJI/Parrot 4K Video Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/horizon-zero-dawn-pc-stability-improved-overcoming-common-gameplay-interruptions-and-bugs/"><u>Horizon Zero Dawn PC Stability Improved: Overcoming Common Gameplay Interruptions and Bugs</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-silent-gameplay-in-dark-souls-iiis-lost-ark/"><u>How to Fix Silent Gameplay in Dark Souls III's LOST ARK</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-dying-light-from-stuttering-and-slowing-down-on-your-pc/"><u>How to Stop Dying Light ² From Stuttering and Slowing Down on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-playability-comprehensive-guide-to-addressing-stutter-and-boosting-fps-in-rdr2/"><u>Improved Playability: Comprehensive Guide to Addressing Stutter and Boosting FPS in RDR2</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-web-warriors-championing-screen-recording-tools/"><u>In 2024, Web Warriors Championing Screen Recording Tools</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/overcoming-abrupt-silence-in-your-devices-expert-tips-by-yl-computing-and-yl-software-experts/"><u>Overcoming Abrupt Silence in Your Devices - Expert Tips by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-ethernet-malfunction-on-optibay-slidecaster/"><u>Recover Ethernet Malfunction on OptiBay Slidecaster</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-guide-for-ntdlldll-errors-in-windows-11-and-windows-10/"><u>Resolved: Troubleshooting Guide for ntdll.dll Errors in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013877151-stardew-valley-wont-start-on-your-console-heres-what-you-need-to-know/"><u>Stardew Valley Won’t Start on Your Console? Here’s What You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002610637-stardew-valley-wont-start-here-are-solutions-that-worked-for-players/"><u>Stardew Valley Won't Start? Here Are Solutions That Worked for Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-wallpaper-engine-from-crashing-in-windows-operating-systems/"><u>Troubleshooting Guide: How to Stop Wallpaper Engine From Crashing in Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-applications-stuck-or-crashing-master-fixes-and-techniques-guide-of-2024/"><u>Troubleshooting PC Applications Stuck or Crashing? Master Fixes & Techniques (Guide of 2024)</u></a></li>
+</ul></div>
 

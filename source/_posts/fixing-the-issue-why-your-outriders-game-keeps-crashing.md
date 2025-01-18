@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your Outriders Game Keeps Crashing"
-date: 2024-08-13T10:03:35.794Z
-updated: 2024-08-14T10:03:35.794Z
+date: 2025-01-11T08:04:28.060Z
+updated: 2025-01-18T00:46:06.115Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 ## Fix the Crashing Issue in Elite Dangerous on Your Computer Today
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -32,17 +36,15 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -61,24 +63,16 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 This could take several minutes. Wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -93,10 +87,6 @@ This could take several minutes. Wait for the process to be complete.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -109,13 +99,18 @@ This could take several minutes. Wait for the process to be complete.
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -126,10 +121,11 @@ This could take several minutes. Wait for the process to be complete.
 
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -147,10 +143,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -181,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +180,18 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>[New] How to React if Your Live Video Is Quashed on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] 2024 Approved Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>2024 Approved The Art of Seamless Editing Mastering the Filmora Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-connectivity-woes-modern-solutions-to-high-ping-issues-in-chivalry-2-updated-advice/"><u>Conquer Connectivity Woes: Modern Solutions to High Ping Issues in Chivalry 2 - Updated Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-addressing-and-resolving-gameplay-glitches-in-guilty-gear-strive-on-desktop-systems/"><u>Expert Advice for Addressing and Resolving Gameplay Glitches in Guilty Gear Strive on Desktop Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-your-non-functional-lucidsound-ls30-microphone/"><u>Fixing the Issue: Troubleshooting Your Non-Functional LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-a-non-responsive-elder-scrolls-online-game-startup/"><u>How to Fix a Non-Responsive Elder Scrolls Online Game Startup</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-reduce-lag-and-boost-fps-in-fall-guys/"><u>How to Reduce Lag and Boost FPS in Fall Guys</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/maximize-your-speed-with-motorola-mg7-7700-in-depth-review-revealed/"><u>Maximize Your Speed with Motorola MG7 7700: In-Depth Review Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/safeguarding-secrets-within-fb-chat-rooms/"><u>Safeguarding Secrets Within FB Chat Rooms</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-0x803f8001-issue-fixes-for-minecraft-launcher-on-windows-11-and-10/"><u>Solving the 0X803F8001 Issue: Fixes for Minecraft Launcher on Windows 11 and 10</u></a></li>
+</ul></div>
 

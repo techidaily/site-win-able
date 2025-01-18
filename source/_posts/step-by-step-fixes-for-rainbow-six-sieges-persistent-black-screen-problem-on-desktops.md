@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes for Rainbow Six Siege's Persistent Black Screen Problem on Desktops
-date: 2024-08-18T15:19:59.006Z
-updated: 2024-08-19T15:19:59.006Z
+date: 2025-01-14T05:05:14.420Z
+updated: 2025-01-18T05:27:16.640Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
  Seeing a black screen when playing Tom Clancy’s Rainbow Six Siege? You are not alone. It’s a common issue many players face when playing video games. But the good news is, it’s fixable. In this post, we will show you how to fix Rainbow Six Siege black screen issues.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Check the game’s minimum requirements
 
  Before trying the methods below, it will be better for you to check the game’s minimum requirements first and see if your computer’s hardware is good enough for Rainbow Six Siege. If your computer doesn’t meet the requirements, this will most likely be the cause of the black screen issue. Then you’ll need to upgrade your hardware components before you can play this game normally.
@@ -49,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 #### **Ubisoft Connect**
 
 1. Launch**Ubisoft Connect** and navigate to the**Games** tab. At the bottom right corner of Rainbow Six Siege, click the**arrow icon** , then select**Verify files** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/verify-files-r6s.jpg)
 2. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
@@ -67,6 +65,11 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 2. Right-click Tom Clancy’s Rainbow Six Siege, then select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-1.jpg)
 3. Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-verify-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -90,9 +93,6 @@ Here are two ways you can try to update your graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/scannow-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
  Or you can click Update next to the flagged device driver to do it for free, but it’s partly manual.  
@@ -115,13 +115,14 @@ If the black screen issue still remains, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Once the update is completed, restart your computer to apply changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can launch Rainbow Six Siege again to see if the black screen problem persists or not.
 
 If the problem still remains, you can try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check the advanced power options
 
  Your power settings might affect your GPU’s performance based on power saving options. To make sure your graphics card is properly powered, you can check the advanced power settings. Here’s how to do it:
@@ -129,45 +130,46 @@ If the problem still remains, you can try the following fixes.
 1. On your keyboard, press the**Windows logo key** and**R** key together to open the Run dialog box. Then type in**control panel** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/control-panel.jpg)
 2. In Control Panel, click**Hardware and Sound** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hardware-sound.jpg)
 3. Click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/power-options.jpg)
 4. Then click**Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-power-settings.jpg)
 5. Click**Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/advanced.jpg)
 6. In the pop-up window, double click**PCI Express** , then extend**Link State Power Management** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/link.jpg)
 7. Open the drop-down menu next to**On battery** and**Plugged in** orderly, then select**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off01.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Apply** and**OK** to save settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can relaunch Rainbow Six Siege. This should fix your black screen issue. But if not, then you should try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Force borderless windowed mode in games
 
  Some gamers have reported that they fixed the black screen issue by changing the fullscreen mode to borderless windowed mode. The change was made by**editing the .ini file** . Here’s how to do it:
@@ -176,17 +178,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The path should be: **C:\\Users\\Your\_username\\Documents\\My Games\\Rainbow Six-Siege\\a\_bunch\_of\_letters\_and\_numbers\_folder\\GameSettings.ini**
 2. **Right-click** the .ini file and select**Edit with Notepad** to open it.
 3. Changing**WindowMode=0** to**WindowMode=2** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/game-settings.jpg)
 4. **Save** the file and run Rainbow Six Siege to see if it fixes the black screen issue.
 
 If the issue remains, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Run the game in compatibility mode
 
  Sometimes the Windows update may conflict with Rainbow Six Siege. If that’s the case, you can try to run the game in compatibility mode. To do so:
@@ -206,20 +202,22 @@ If the issue remains, you can try the next fix below.
 If the issue still remains, here’s one last fix for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall the game
 
  If none of the fixes above help, you can try to reinstall Rainbow Six Siege. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** key together to open the Run dialog box.
 2. Type**appwiz.cpl** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/appwiz.cpl_.jpg)
 3. Right-click Tom Clancy’s Rainbow Six Siege and select**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Reinstall** the game from where you purchased it.
 
  Now you can launch Rainbow Six Siege again and see if it solves the black screen issue.
@@ -237,8 +235,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +242,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-the-ascent-keeps-crashing-on-pc/"><u>[SOLVED] The Ascent Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-affordable-methods-for-video-and-text-synergy/"><u>[Updated] Affordable Methods for Video and Text Synergy</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008988825-easy-solutions-to-prevent-gamepad-malfunctions-no-more-crashing/"><u>Easy Solutions to Prevent Gamepad Malfunctions - No More Crashing!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-sims-4-game-wont-start-correctly/"><u>Effective Fixes for When Your Sims 4 Game Won't Start Correctly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-game-crashes-in-armored-core-n6-fires-of-rubicon-for-your-computer-system/"><u>Fixing Game Crashes in Armored Core N°6: Fires of Rubicon for Your Computer System</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-easily-resolve-world-of-warcraft-crashing-issues-today/"><u>How To Easily Resolve World of Warcraft Crashing Issues Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-huawei-nova-y91-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Huawei Nova Y91 Lock Screen Password?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-fundamentals-of-podcast-production-an-introduction-to-basic-editing-techniques/"><u>New In 2024, The Fundamentals of Podcast Production An Introduction to Basic Editing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/revolutionize-your-webcam-experience-now-for-2024/"><u>Revolutionize Your Webcam Experience Now for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cant-i-start-origin-in-windows-10-or-11-how-to-resolve-it/"><u>Solution Guide: Why Can't I Start Origin in Windows 10 or 11? How to Resolve It?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-successfully-starting-adobe-with-error-message-0xc0000022-handled/"><u>Troubleshooting Tips: Successfully Starting Adobe with Error Message 0xC0000022 Handled</u></a></li>
+</ul></div>
 

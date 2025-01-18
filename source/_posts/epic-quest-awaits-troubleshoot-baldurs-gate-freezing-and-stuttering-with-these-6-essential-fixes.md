@@ -1,7 +1,7 @@
 ---
 title: "Epic Quest Awaits: Troubleshoot Baldur's Gate Freezing & Stuttering with These 6 Essential Fixes!"
-date: 2025-01-07T16:28:48.943Z
-updated: 2025-01-12T17:31:29.847Z
+date: 2025-01-10T22:54:00.413Z
+updated: 2025-01-17T21:01:52.458Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 6. [**Switch to DX9**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Repair the system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Allow your game through Windows Firewall
 
  If Lost Ark fails to access the Internet on your PC, it won’t launch properly. To make sure the game works without interruption, you should manually allow it to bypass the firewall. Here are the steps:
@@ -44,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
@@ -77,10 +81,14 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -97,15 +105,11 @@ Now see if you could start the game. If not, try the next method.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,14 +126,14 @@ Now see if you could start the game. If not, try the next method.
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
@@ -144,11 +148,11 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
 
@@ -157,10 +161,6 @@ Now see if you could start the game. If not, try the next method.
 1. Launch Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
@@ -181,7 +181,7 @@ Now see if you could start the game. If not, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -213,24 +213,17 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-elite-game-line-up-best-7-fps-classics/"><u>[New] Elite Game Line-Up Best 7 FPS Classics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-explore-the-excitement-of-high-speed-photography-with-iphone/"><u>[New] In 2024, Explore the Excitement of High-Speed Photography with iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-choice-in-motion-typography-designs/"><u>[Updated] Best Choice in Motion Typography Designs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-morphvox-transformation-top-techniques-revealed/"><u>[Updated] Mastering MorphVOX Transformation Top Techniques Revealed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-enhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>2024 Approved Enhancing Your Video Impact A Compreranble Plan for YouTube Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-complete-guide-for-windows-11-users/"><u>Civilization 6 Won't Start? Complete Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-broccoli-glitch-ultimate-guide-to-the-2024-patch/"><u>Destiny 2'S Broccoli Glitch: Ultimate Guide to the 2024 Patch</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-your-battle-with-unstable-lunar-client-on-windows-learn-how-here/"><u>End Your Battle with Unstable Lunar Client on Windows - Learn How Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004347437-epic-action-unleashed-god-of-wars-thrilling-fps-adventure-launches-on-pc/"><u>Epic Action Unleashed - God of War's Thrilling FPS Adventure Launches on PC!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-enhanced-security-with-the-budget-friendly-remobell-video-doorbell-review/"><u>Experience Enhanced Security with the Budget-Friendly RemoBell Video Doorbell Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-a-nonfunctional-clownfish-voice-changer-quick-tips-and-tricks/"><u>How to Fix a Nonfunctional Clownfish Voice Changer – Quick Tips & Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>In 2024, Become the Brand You Want With Our Exclusive Set of FREE Graphics</u></a></li>
-<li><a href="https://win-able.techidaily.com/monitor-your-diet-certain-foods-and-beverages-may-irritate-your-bladder-and-contribute-to-uti-symptoms-limit-intake-of-caffeine-alcohol-spicy-foods-and-arti592/"><u>Monitor Your Diet: Certain Foods and Beverages May Irritate Your Bladder and Contribute to UTI Symptoms. Limit Intake of Caffeine, Alcohol, Spicy Foods, and Artificial Sweeteners, Which Can Potentially Worsen the Condition</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-how-to-prevent-recurring-pc-crashes-while-playing-valheim/"><u>Overcoming Stability Issues: How to Prevent Recurring PC Crashes While Playing Valheim</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-call-of-duty-warzones-gpu-hurdle-on-windows-11-platforms/"><u>Resolved: Overcoming Call of Duty Warzone’s GPU Hurdle on Windows 11 Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/slow-mobile-connection-woes-learn-how-to-supercharge-your-data-pace-with-these-simple-steps/"><u>Slow Mobile Connection Woes? Learn How to Supercharge Your Data Pace with These Simple Steps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-ae-plug-ins-enhance-your-visual-storytelling/"><u>Top AE Plug-Ins Enhance Your Visual Storytelling</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-football-manager-2e21-stability-problems-for-pc-users/"><u>Ultimate Troubleshooting Guide: Resolving Football Manager 2E21 Stability Problems for PC Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-block-youtube-previews-embrace-full-length-videos/"><u>[New] Block YouTube Previews, Embrace Full-Length Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ext-gen-streaming-prosperity-for-gamers/"><u>[New] Next-Gen Streaming Prosperity for Gamers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-features-of-the-new-xbox-vr-headset-price-estimates-release-window-and-technical-specs-unveiled/"><u>Anticipated Features of the New Xbox VR Headset: Price Estimates, Release Window, and Technical Specs Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-discord-stream-malfunctions-preventing-the-platform-from-crashing-mid-stream/"><u>How to Resolve Discord Stream Malfunctions: Preventing the Platform From Crashing Mid-Stream</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edge-application-errors-on-windows-systems/"><u>How to Resolve Microsoft Edge Application Errors on Windows Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-note-12r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi Note 12R Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-13-mini-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 13 mini on MetroPCS</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mac-users-guide-to-quickly-converting-and-watching-mkv-content-with-ease/"><u>Mac User's Guide to Quickly Converting & Watching MKV Content with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-failed-initialization-issues-in-call-of-duty-black-ops-4-expert-advice/"><u>Resolving Failed Initialization Issues in Call of Duty: Black Ops 4 - Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-frequent-crashes-on-desktop/"><u>Troubleshooting Guide: How to Stop 'Hell Let Loose' From Frequent Crashes on Desktop</u></a></li>
 </ul></div>
 

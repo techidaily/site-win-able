@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2025-01-09T17:24:45.990Z
-updated: 2025-01-12T17:33:03.695Z
+date: 2025-01-14T01:24:25.848Z
+updated: 2025-01-18T05:16:06.288Z
 tags:
   - win11
   - win10
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -94,12 +98,16 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -108,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -120,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -141,15 +153,7 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -166,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,24 +193,15 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-engagement-todays-must-use-instagram-hashtags/"><u>[New] 2024 Approved Elevate Engagement Today's Must-Use Instagram Hashtags</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-legends-unite-battle-for-midgard/"><u>[New] 2024 Approved Legends Unite Battle for Midgard</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-how-to-facetime-with-your-android-phone-for-2024/"><u>[New] How To Facetime with Your Android Phone for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-reliving-fun-the-vhs-era-of-goof-troop-comedy-for-2024/"><u>[New] Reliving Fun The VHS Era of 'Goof Troop' Comedy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-audio-festivals-online/"><u>[Updated] Prime Audio Festivals Online</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/access-the-free-taylor-swift-exclusive-with-siriusxm-no-charge-on-mobile-devices-and-vehicles/"><u>Access the Free Taylor Swift Exclusive with SiriusXM - No Charge on Mobile Devices and Vehicles!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-storage-woes-removing-youtube-media-for-2024/"><u>Avoiding Storage Woes Removing YouTube Media for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/commanding-attention-top-20-creative-tiktok-captions/"><u>Commanding Attention Top 20 Creative TikTok Captions</u></a></li>
-<li><a href="https://win-able.techidaily.com/converting-mov-files-into-efficient-h264-format-a-comprehensive-guide/"><u>Converting MOV Files Into Efficient H.264 Format - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-greatest-zero-cost-film-streamers-for-immediate-access-your-guide-to-free-online-cinema-without-setup-hassles/"><u>Discover the Greatest Zero-Cost Film Streamers for Immediate Access: Your Guide to FREE Online Cinema without Setup Hassles</u></a></li>
-<li><a href="https://win-able.techidaily.com/dvd-windows-7/"><u>DVD再生手順: Windows 7マシンの最適化と操作方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-beginners-guide-mastering-video-cropping-techniques-in-davinci-resolve/"><u>Easy Beginners Guide: Mastering Video Cropping Techniques in DaVinci Resolve</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-change-your-lol-replay-from-rofl-to-mp4-format/"><u>Easy Steps to Change Your LoL Replay From .rofl to MP4 Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-tutorial-convert-any-youtube-video-into-an-animated-gif-file/"><u>Easy Tutorial: Convert Any YouTube Video Into an Animated GIF File</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-transformation-the-ultimate-tutorial-for-converting-webm-to-high-quality-m4a-audio-files/"><u>Effortless Transformation: The Ultimate Tutorial for Converting WebM to High-Quality M4A Audio Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-dvd-ripping-tool-with-zero-watermarks-how-to-transform-your-dvds-perfectly/"><u>Free DVD Ripping Tool with Zero Watermarks - How to Transform Your DVDs Perfectly</u></a></li>
-<li><a href="https://win-able.techidaily.com/gi-joe-retaliation-dvd-unlocks-secure-your-copy-today/"><u>G.I. Joe: Retaliation DVD Unlocks - Secure Your Copy Today!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-claude-3-capabilities-functions-and-uses-explained/"><u>Unveiling Claude 3 Capabilities: Functions & Uses Explained</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-epson-error-code-0x97/"><u>[Solved] Epson Error Code 0X97</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994582044-banish-the-shadows-expert-fixes-to-minecrafts-ominous-black-screen-problem-2024-solutions-revealed/"><u>Banish the Shadows: Expert Fixes to Minecraft's Ominous Black Screen Problem - 2024 Solutions Revealed</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-websites-to-add-emojis-to-photos-online-for-2024/"><u>Best Websites to Add Emojis to Photos Online for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/boost-conversion-rates-using-innovative-cookiebot-tracking-solutions/"><u>Boost Conversion Rates Using Innovative Cookiebot Tracking Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-server-connection-lost-these-proven-fixes-will-restore-your-gameplay-without-a-hitch/"><u>Destiny 2 Server Connection Lost? These Proven Fixes Will Restore Your Gameplay Without a Hitch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-6-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 6 IMEI Checker</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-driver-rollouts-for-nvidias-760/"><u>Rapid Driver Rollouts for Nvidia's 760</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/er-surgeons-top-7-sketches-for-youtube-laughter-aficionados/"><u>Snicker Surgeons Top 7 Sketches for YouTube Laughter Aficionados</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-saga-troy-solved-issues-and-crash-fixes-for-pc-gaming/"><u>TOTAL WAR SAGA: TROY - Solved Issues & Crash Fixes for PC Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007278229-trouble-with-logitech-c920-heres-how-to-get-your-webcam-up-and-running-again/"><u>Trouble with Logitech C920? Here's How to Get Your Webcam Up and Running Again</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bypassing Atomic Heart Challenges for a Smooth Initial Boot Process
-date: 2024-08-13T10:04:35.697Z
-updated: 2024-08-14T10:04:35.697Z
+date: 2025-01-16T02:21:57.120Z
+updated: 2025-01-18T05:32:39.879Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 Looking for Football Manager 2023 won’t launch fixes? You’ve come to the right place and this post is here to help.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There are 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +25,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 2. [Update your graphic driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Add an exception to your antivirus
 
@@ -42,22 +43,22 @@ Take Avast as an example:
 3. Click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -87,9 +88,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
@@ -98,13 +96,14 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 If this fix bring no luck, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -112,11 +111,13 @@ If this fix bring no luck, move to the next fix.
 
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
 
@@ -132,8 +133,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,24 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-leaders-in-education-top-15-sci-yt-innovators/"><u>[New] In 2024, Leaders in Education Top 15 Sci-YT Innovators</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-power-of-tags-boost-traffic-with-top-genres-and-keywords/"><u>[Updated] 2024 Approved The Power of Tags Boost Traffic with Top Genres & Keywords</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-harness-the-power-of-playback-speed-control-in-youtube/"><u>[Updated] Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-making-your-vrchat-run-smoothly-again/"><u>Comprehensive Troubleshooting: Making Your VRChat Run Smoothly Again</u></a></li>
+<li><a href="https://driver-install.techidaily.com/correct-windows-10-sounds-with-audio-driver-installation/"><u>Correct Windows 10 Sounds with Audio Driver Installation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/diverse-alternatives-to-winmovie-editor-applications-for-2024/"><u>Diverse Alternatives to WinMovie Editor Applications for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-steps-to-rectify-severe-startup-malfunctions-in-the-new-year-tips/"><u>Essential Steps to Rectify Severe Startup Malfunctions in the New Year (Tips)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tabs-to-transcribe-on-tablets-and-laptops/"><u>Essential Tabs to Transcribe on Tablets & Laptops</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fixes-released-stabilized-total-war-warhammer-iii-say-goodbye-to-pc-freezes/"><u>Final Fixes Released: [STABILIZED] Total War: Warhammer III - Say Goodbye to PC Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fifa-2022-game-crashes-on-windows-systems/"><u>Resolved: Fixes for FIFA 2022 Game Crashes on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-printer-difficulties-effective-fixes-for-the-hp-laserjet-p2035-on-windows-pcs/"><u>Resolving Printer Difficulties: Effective Fixes for the HP Laserjet P2035 on Windows PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios-for-2024/"><u>Sketch Up Your Ideas An Essential Guide to the Top 8 Drawing Tools on iOS for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/starcraft-2-pc-troubleshooting-how-to-address-unexpected-game-closures/"><u>StarCraft 2 PC Troubleshooting - How to Address Unexpected Game Closures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-secret-sauce-to-outstanding-online-identity-creation-for-2024/"><u>The Secret Sauce to Outstanding Online Identity Creation for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-tackle-crashing-problems-in-diablo-iv-for-a-smooth-gaming-experience/"><u>Top Strategies to Tackle Crashing Problems in Diablo IV for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-call-of-dutys-black-ops-cold-war-understanding-error-887a0005/"><u>Troubleshooting Call of Duty's Black Ops Cold War - Understanding Error 887A0005</u></a></li>
+<li><a href="https://win-able.techidaily.com/xbox-live-connection-stability-confirming-whether-its-up-and-running-or-down/"><u>Xbox Live Connection Stability - Confirming Whether It’s Up and Running or Down!</u></a></li>
+</ul></div>
 

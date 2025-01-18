@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Dota 2 From Suddenly Shutting Down"
-date: 2024-08-13T10:01:34.776Z
-updated: 2024-08-14T10:01:34.776Z
+date: 2025-01-17T01:51:18.252Z
+updated: 2025-01-18T02:18:13.458Z
 tags:
   - win11
   - win10
@@ -15,17 +15,10 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
 ## Troubleshooting Steps When Cortana Stops Responding - Solutions Inside
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -36,9 +29,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -46,9 +47,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 Check your region and language settings on your computer:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
  2) Click **Time** **& language** .
@@ -57,10 +55,6 @@ Check your region and language settings on your computer:
 
  3) Click**Region & language.**
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 4) Make sure the region and language settings is matched with yours.
@@ -70,29 +64,19 @@ Check your region and language settings on your computer:
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
 
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
  2) Click **Check for updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
 3) Install the available updates.
@@ -119,20 +103,26 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -160,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +157,21 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-dynamic-diversity-30plus-fresh-biographical-strategies-to-triple-your-views-following-on-tiktok-filmora-platform/"><u>[New] 2024 Approved Dynamic Diversity 30+ Fresh Biographical Strategies to Triple Your Views, Following on TikTok-Filmora Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-in-game-magic-captured-advanced-methods-for-logging-virtual-realities/"><u>[New] 2024 Approved In-Game Magic Captured Advanced Methods for Logging Virtual Realities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-online-resources-for-picture-framing/"><u>[New] Cutting-Edge Online Resources for Picture Framing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leading-systems-for-real-time-play-broadcasts-for-2024/"><u>[Updated] Leading Systems for Real-Time Play Broadcasts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-game-instability-resolving-persistent-crash-issues-in-frostpunk/"><u>Bypassing Game Instability: Resolving Persistent Crash Issues in Frostpunk</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gaming-experience-tips-for-increasing-fps-and-eliminating-stuttering-in-the-ascent/"><u>Enhance Your Gaming Experience: Tips for Increasing FPS & Eliminating Stuttering in The Ascent</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-limited-memory-glitch-in-god-of-war-title-for-smooth-gaming-experience/"><u>How to Fix Limited Memory Glitch in God of War Title for Smooth Gaming Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-simplify-with-top-10-free-mac-tools-for-screen-recording/"><u>In 2024, Simplify with Top 10 Free Mac Tools for Screen Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modificacoes-de-arquivos-para-wav-offline-e-online-gratuitas-pelo-movavi/"><u>Modificações De Arquivos Para WAV Offline E Online Gratuitas Pelo Movavi!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/navigating-15-of-tiktoks-hottest-innovations-for-2024/"><u>Navigating 15 of TikTok's Hottest Innovations for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-play-experience-fix-lag-issues-in-forza-horizon-5-now/"><u>Optimizing Play Experience: Fix Lag Issues in Forza Horizon 5 Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/slime-rancher-2-stability-fixes-for-a-seamless-pc-gaming-experience-top-strategies-and-tips/"><u>Slime Rancher 2 Stability Fixes for a Seamless PC Gaming Experience – Top Strategies and Tips</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-repairing-a-corrupted-raw-usb-with-command-prompt-steps/"><u>Ultimate Guide: Repairing a Corrupted RAW USB with Command Prompt Steps</u></a></li>
+</ul></div>
 

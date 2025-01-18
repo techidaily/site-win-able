@@ -1,7 +1,7 @@
 ---
 title: Elevate the Fun with Smoother Gameplay - A Guide to Improve Frame Rates and Decrease Latency Issues in Fall Guys
-date: 2025-01-06T17:02:05.736Z
-updated: 2025-01-12T16:35:20.486Z
+date: 2025-01-14T03:28:27.458Z
+updated: 2025-01-18T00:11:14.831Z
 tags:
   - win11
   - win10
@@ -48,12 +48,12 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run Avatar: Frontiers of Pandora to see if the frame rate is higher, and if the stuttering issue is improved. If the problem remains still, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -68,18 +68,22 @@ To make sure that you have the latest available updates installed:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try your Avatar: Frontiers of Pandora again to see if it still stutters and its FPS still drops. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update graphics card driver
 
@@ -110,6 +114,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -120,7 +128,7 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Add Avatar to the exception list in Windows Security
@@ -136,15 +144,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-26.png)
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
 4. Click **Add an exclusion** , then select **File** , and browse to the folder where you save the Avatar: Frontiers of Pandora execution file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
@@ -168,6 +184,10 @@ To verify the game’s files on Epic Games Launcher:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When the validation is done, run your Avatar: Frontiers of Pandora again to see if the problems are fixed.
 
 ### 5.2 Ubisoft Connect
@@ -178,16 +198,16 @@ To verify the game’s files on Ubisoft Connect:
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch Avatar: Frontiers of Pandora again to see if the problems are sorted.
 
 If this still doesn’t help, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify Registry Editor
 
@@ -200,10 +220,6 @@ If this still doesn’t help, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to `**Computer\HKEY_CURRENT_USER\System\GameConfigStore**` , then double-click the**GameDVR\_Enabled** entry on the right-side panel.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-48.png)
 4. Change the value to**0** , then click**OK** to save.  
 
@@ -213,20 +229,12 @@ If this still doesn’t help, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-50.png)
 6. Change the value to**0** and click**OK** to save.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-51.png)
 7. Restart your computer for the changes to take effect.
 
  Launch Avatar: Frontiers of Pandora again to see if the above changes help to fix the FPS dropping and stuttering problems. If not, please restore your computer to the previous state with the restore point you created in step 1, then move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Close resource-hungry programs
 
@@ -238,15 +246,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then run Avatar: Frontiers of Pandora again and see if the low FPS and stuttering issues are fixed. If the problem still remains, please move on to the next fix below.
 
@@ -271,19 +271,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nlocking-youtube-dominance-exploring-the-quintessential-five-tactics-for-2024/"><u>[New] Unlocking YouTube Dominance - Exploring the Quintessential Five Tactics for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-your-snapchat-creativity-with-these-6-editors/"><u>[Updated] In 2024, Elevate Your Snapchat Creativity with These 6 Editors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/create-tailored-gpt-variants-with-chatgpts-newly-released-enhancements/"><u>Create Tailored GPT Variants with ChatGPT's Newly Released Enhancements</u></a></li>
-<li><a href="https://win-able.techidaily.com/dive-into-action-the-latest-god-of-war-fps-adventure-now-on-pc/"><u>Dive Into Action: The Latest God of War FPS Adventure Now on PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-pova-5-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Pova 5 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-securely-snap-fb-video-conversations-4-methods/"><u>In 2024, Securely Snap FB Video Conversations [4 Methods]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s18e-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S18e Device</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovators-uniting-video-sound-and-imagery-for-2024/"><u>Innovators Uniting Video, Sound & Imagery for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/insightful-analysis-of-all-your-social-interactions-on-facebook/"><u>Insightful Analysis of All Your Social Interactions on Facebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-rainbow-six-siege-quick-solutions-for-dealing-with-a-black-screen-on-your-computer/"><u>Mastering Rainbow Six Siege: Quick Solutions for Dealing With a Black Screen on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-difficulties-with-the-latest-patches-for-overwatch/"><u>Overcoming Launch Difficulties with the Latest Patches for Overwatch</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-in-overwatch-2-for-windows-users-a-step-by-step-guide/"><u>Overcoming Stability Issues in Overwatch 2 for Windows Users - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/valorant-mastery-proven-methods-to-optimize-and-improve-fps-for-uninterrupted-gaming/"><u>Valorant Mastery: Proven Methods to Optimize & Improve FPS for Uninterrupted Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-analysis-breaking-down-the-google-podcast-app/"><u>[New] Complete Analysis Breaking Down the Google Podcast App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>[New] In 2024, Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-and-speed-share-youtube-playlists-now-for-2024/"><u>[Updated] Easy & Speed Share YouTube Playlists Now for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-tips-and-tricks-how-to-choose-a-winner-amongst-360-degree-cameras/"><u>[Updated] In 2024, Tips & Tricks How to Choose a Winner Amongst 360-Degree Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-virtual-console-with-top-5-ps3-emulators/"><u>[Updated] Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-for-turning-on-hyper-v-in-windows-10-systems/"><u>Comprehensive Tutorial for Turning On Hyper-V in Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolve-stutter-and-collapse-issues-with-v-rising-on-desktop/"><u>Expert Advice: Resolve Stutter and Collapse Issues with V Rising on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fifa-20-on-pc-stability-guide-top-tips-to-prevent-game-crashes/"><u>FIFA 20 on PC Stability Guide: Top Tips to Prevent Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/hitman-3-not-working-fix-the-steam-pc-crash-issues-with-ease/"><u>Hitman 3 Not Working? Fix the Steam PC Crash Issues with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-resident-evil-village-pc-performance-lags-complete-guide/"><u>How To Fix Resident Evil Village PC Performance Lags - Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-the-division-pressure-and-smoother-gameplay-in-the-2024-update-tips-and-tricks/"><u>Improve The Division Pressure and Smoother Gameplay in the 2024 Update - Tips & Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-13t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi 13T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-game-lag-with-twin-drops-in-frames-per-second-fps/"><u>Overcoming PC Game Lag with Twin Drops in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/realigning-lens-distortion-essential-gopro-correction-guide-for-2024/"><u>Realigning Lens Distortion Essential GoPro Correction Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stardew-valley-not-opening-heres-how-to-correct-that-error-smoothly/"><u>Stardew Valley Not Opening? Here's How to Correct That Error Smoothly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-windows-11-audio-record-process/"><u>The Complete Windows 11 Audio Record Process</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-7-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 7 by restoring it to factory settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-guide-to-the-finest-5g-laptops-of-2024-ranking-and-reviews/"><u>ZDNet's Ultimate Guide to the Finest 5G Laptops of 2024: Ranking and Reviews</u></a></li>
 </ul></div>
 
