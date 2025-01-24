@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Restoring Functionality to Broken Logitech Control Panel on Windows"
-date: 2024-08-18T15:24:58.086Z
-updated: 2024-08-19T15:24:58.086Z
+date: 2025-01-20T16:00:10.738Z
+updated: 2025-01-24T16:37:37.865Z
 tags:
   - win11
   - win10
@@ -26,33 +26,30 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 3. [**Get the classic version of Skype**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1 – Reset Skype
 
  Resetting Skype to its default settings has solved the **Skype** **messages not sending** problem for a lot of users. So, we recommend it as the first option for you to try. Follow the steps below:
 
 1. **Right-click** the**Start** button and select**Apps and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9621d745191.jpg)
 2. Navigate to and select Skype, then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96227db84d5.jpg)
 3. Under Reset, click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622ba52457.jpg)
 4. Click**Reset** as confirmation.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622fcda08a.jpg)
 5. When the reset is finished, you’ll see a tick next to the Reset button. Then you can close the Settings window.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96237bdfba8.jpg)
 6. Log into Skype and test by sending a message to a contact.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96253de6794.jpg)
 
 ---
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
  If you’re using an older version of Skype on Windows 10, you can check for updates in the **[Microsoft Store](https://www.microsoft.com/en-us/p/skype/9wzdncrfj364?rtc=1&activetab=pivot%3aoverviewtab)**  to try fixing the**Skype messages not sending** problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96361562b3d.jpg)
 
  For**Windows 7 & 8** users, you can sign into Skype and select**Help** , then**Check for updates** .
@@ -71,18 +65,20 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 3 – **Get the classic version of Skype**
 
  If the above steps produce no results in your Microsoft Skype, then you may try installing the classic version of Skype for your Windows PC. Click this **[link](http://download.skype.com/msi/SkypeSetup%5F7.41.0.101.msi)**  to download the**classic Skype 7.41.0.101** for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b963727d1199.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4 – Reinstall Skype
 
@@ -90,29 +86,33 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
 1. Type**skype** in the Windows search box,**right-click** on Skype and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f2f2dddb.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 2. On your keyboard, press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  
  key and **R**  at the same time to open the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type**%appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f4e00b2c.png)
 4. Select the**Skype** folder and**delete** it to completely remove Skype from your computer.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964c3405240.jpg)
 5. Click **[this link](https://www.skype.com/en/get-skype/)**  to download Skype.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964d3604b91.jpg)
 6. When the download is completed, open the downloaded file and follow the onscreen instructions to reinstall Skype on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 Hopefully this fixes your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip
 
  As you may often video chat with your contacts on Skype, to ensure a smooth chat, you should keep your device drivers up to date.
@@ -135,8 +135,6 @@ Hopefully this fixes your problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +142,22 @@ Hopefully this fixes your problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-art-of-crafting-content-for-snapchat-professionals/"><u>[New] In 2024, The Art of Crafting Content for Snapchat Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/3-simple-methods-for-color-correction-in-photoshop/"><u>3 Simple Methods for Color Correction in PhotoShop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-lucidsound-ls30-mic-wont-function-properly/"><u>Effective Solutions for When Your LucidSound LS30 Mic Won't Function Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-cod-black-ops-cold-war-error-80070057-complete-troubleshooting-guide/"><u>Fixing Cod: Black Ops Cold War Error 80070057 – Complete Troubleshooting Guide</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-cookiebot-enhances-your-digital-marketing-efforts-through-smart-bidding-and-automation/"><u>How Cookiebot Enhances Your Digital Marketing Efforts Through Smart Bidding and Automation</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-frequent-steam-applications-from-crashing-simple-fixes/"><u>How to Stop Frequent Steam Applications From Crashing - Simple Fixes!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-14-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 14 Pro Max for Free</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-audio-in-your-fallout-adventure-steps-to-restore-sounds-in-pc-version/"><u>Reviving Audio in Your Fallout Adventure: Steps to Restore Sounds in PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/revolutionary-solutions-stop-paladins-from-crashing-top-strategies/"><u>Revolutionary Solutions: Stop Paladins From Crashing - Top Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-overcome-dota-2-endless-load-screen-problems/"><u>Solution: Overcome Dota 2 Endless Load Screen Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-frame-rate-issues-tips-and-tricks-for-a-smooth-gaming-experience/"><u>Solving CS2 Frame Rate Issues: Tips & Tricks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-for-downloading-premium-quality-videos-from-youtube-in-full-hd-4k8k-uhd-and-3d/"><u>Step by Step Guide for Downloading Premium Quality Videos From YouTube in Full HD, 4K/8K UHD & 3D</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-essential-ai-terminology-explained/"><u>The Ultimate List of Essential AI Terminology Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-errors-effective-solutions-to-fix-ds4-connection-failures-on-a-pc-with-windows-os/"><u>Winning Against Errors: Effective Solutions to Fix DS4 Connection Failures on a PC with Windows OS</u></a></li>
+</ul></div>
 

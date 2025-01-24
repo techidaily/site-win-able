@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Far Cry 6 Crashing on PC"
-date: 2024-08-18T15:24:10.115Z
-updated: 2024-08-19T15:24:10.115Z
+date: 2025-01-22T16:21:19.498Z
+updated: 2025-01-24T16:58:40.886Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 
 ## [Fixed] Assassin's Creed Odyssey Crashing on PC. Easily
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-69.png)
 
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
@@ -41,9 +37,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
@@ -67,10 +60,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
@@ -79,15 +68,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -98,10 +88,11 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  2) Click the**Display** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In**Window Mode** , click and change to another mode.
 
@@ -109,6 +100,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Turn off**VSync** .
 
@@ -124,14 +119,15 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -141,23 +137,22 @@ Open Assassin’s Creed Odyssey and see if it works.
 
  2) Click**Library** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
@@ -182,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +184,22 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-8-honest-video-promotion-services/"><u>[Updated] 2024 Approved Unveiling 8 Honest Video Promotion Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-amplify-your-brands-message-top-terminology-secrets/"><u>[Updated] Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-troubleshooting-guide-connecting-to-path-of-exile-servers-without-errors/"><u>2024 Troubleshooting Guide: Connecting to Path of Exile Servers Without Errors</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/buy-now-stellar-repair-for-photo/"><u>Buy Now - Stellar Repair for Photo</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-dell-inspiron-3671-computer-assessment-solid-performance-for-everyday-use/"><u>Comprehensive Dell Inspiron 3671 Computer Assessment: Solid Performance for Everyday Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-the-hold-up-a-closer-look-at-why-the-ascent-is-not-releasing-sooner/"><u>Deciphering The Hold-Up: A Closer Look at Why 'The Ascent' Is Not Releasing Sooner</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-the-notorious-apex-legends-error-23/"><u>Effective Solutions for Fixing the Notorious Apex Legends Error 23</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-a-smooth-fallout-3-experience-on-modern-windows-systems/"><u>Essential Tips for a Smooth Fallout 3 Experience on Modern Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fix-guide-addressing-skyline-cities-2-pc-glitches-efficiently/"><u>Expert Fix Guide: Addressing Skyline Cities 2 PC Glitches Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-itunes-how-to-correct-errors-found-in-audio-settings/"><u>Fixing iTunes: How to Correct Errors Found in Audio Settings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-the-art-of-soundtrack-posts-a-copyright-primer-for-insta/"><u>In 2024, Mastering the Art of Soundtrack Posts A Copyright Primer for Insta</u></a></li>
+<li><a href="https://extra-support.techidaily.com/luminance-hdr-analysis-worth-the-production-for-2024/"><u>Luminance HDR Analysis Worth the Production for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-unprecedented-leap-5-pivotal-factors-in-chatgpts-surge/"><u>The Unprecedented Leap: 5 Pivotal Factors in ChatGPT’s Surge</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-problems-resolved-heres-how-to-get-it-running-again/"><u>Ubisoft Connect Problems Resolved? Here's How to Get It Running Again !</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-isnt-my-computer-starting-up-exploring-motherboard-issues-with-yl-software/"><u>Why Isn't My Computer Starting Up? Exploring Motherboard Issues with YL Software</u></a></li>
+</ul></div>
 

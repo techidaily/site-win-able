@@ -1,7 +1,7 @@
 ---
 title: "'Black Ops Cold War': Crack the Mystery Behind ERROR_CODE 0xC0000005 and Play Smoothly"
-date: 2024-08-18T15:25:40.290Z
-updated: 2024-08-19T15:25:40.290Z
+date: 2025-01-19T16:34:04.423Z
+updated: 2025-01-24T16:20:03.254Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ## Black Ops Cold War Game Crash? Here's What To Do With Error Code 0XC00n0005
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/cold-war-0xc0000005-featured.jpg)
 
  COD: Black Ops Cold War has been out for a while now, and many gamers are still reporting a crashing issue along with the error code**0xc0000005** . But fret not if you’re stranded by this error. Here we’ll guide you through some fixes and help you get back to the field asap.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 4. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Change your RAM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Scan and repair system and game files
 
  According to some Microsoft experts, the 0xc0000005 error might be caused by**missing or corrupted system files** . So before you dive into anything more advanced, first**check the integrity of your game and system** . To do so, simply follow the steps below.
@@ -42,20 +40,19 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 #### Scan and repair Black Ops Cold War
 
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-d11-1.jpg)
 3. Next you need to check the integrity of your system files.
 
 #### Scan and repair your system
 
 1. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 2. In the command prompt, type or paste**sfc /scannow** (note the space between sfc and the slash) and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/cmd-sfc-scannow.jpg)
@@ -64,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
  If this method doesn’t work for you, simply take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The error could mean that you’re using an**outdated or faulty graphics driver** . Some gamers reported that the error seems to have disappeared after updating their graphics driver. So if you haven’t updated your GPU driver before playing Black Ops Cold War, definitely do it now as it could be a game changer.
@@ -102,9 +100,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If updating the graphics driver doesn’t give you luck, you can move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Microsoft constantly provides system updates for Windows 10, tackling security issues and optimizing overall performance. If you never bother to check for system updates, you should do it now.
@@ -112,12 +107,13 @@ To do so, first visit the website of your GPU manufacturer:
 It’s actually pretty easy to update:
 
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -125,9 +121,6 @@ It’s actually pretty easy to update:
 
 If the game crashes again, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Perform a clean boot
 
  A clean boot means starting up your PC with only the essential services and software. Since the error code indicates a compatibility issue, you can do a clean boot to see if there’re any offending programs.
@@ -137,20 +130,28 @@ To do so, follow the steps below:
 1. On your keyboard, press the **Win+R**  (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste **msconfig**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. Next you need to disable the unnecessary startup programs. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your computer and test the stability of Black Ops Cold War.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -174,8 +175,6 @@ RAM
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +182,23 @@ RAM
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial-for-2024/"><u>[New] 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-adding-depth-with-customized-facebook-slideshows-for-2024/"><u>[New] Adding Depth with Customized Facebook Slideshows for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos-for-2024/"><u>[Updated] First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-youtube-visibility-two-steps/"><u>[Updated] Master the Art of YouTube Visibility (Two Steps)</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-game-bar-controlling-windows-11-activity/"><u>Curtailing Game Bar: Controlling Windows 11 Activity</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-ultimate-guide-on-resolving-wwe-2k2e-pc-freezes/"><u>Effortless Solutions: Ultimate Guide on Resolving WWE 2K2e PC Freezes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-premium-streaming-content-with-10-great-alternatives-to-netflix/"><u>Enjoy Premium Streaming Content With 10 Great Alternatives to Netflix</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-eliminating-slow-response-times-in-frontiers-most-anticipated-cooperative-shooter-back-4-blood/"><u>Expert Advice on Eliminating Slow Response Times in Frontier's Most Anticipated Cooperative Shooter, Back 4 Blood</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-resolve-forza-horizon-4-crashes-on-windows/"><u>Fixing Issues: How to Resolve Forza Horizon 4 Crashes on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-kodi-cant-reach-the-library-a-guide-to-resolving-connection-errors/"><u>How to Fix Kodi 'Can't Reach the Library': A Guide to Resolving Connection Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-yuva-3-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Yuva 3 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-siftu-on-pc-overcoming-stuttering-enhancing-fps-drops-fixes/"><u>Mastering SIFTU on PC: Overcoming Stuttering, Enhancing FPS Drops Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-cloud-based-gaming-a-focus-on-xbox-game-pass-ultimate/"><u>Navigating the World of Cloud-Based Gaming: A Focus on Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://win-able.techidaily.com/taking-down-tarkov-obstacle-mastering-the-art-of-resolving-error-code-103003-on-your-device/"><u>Taking Down Tarkov Obstacle - Mastering the Art of Resolving Error Code 103003 on Your Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-resolve-warzone-20-not-starting-on-your-computer/"><u>Ultimate Fixes to Resolve Warzone 2.0 Not Starting on Your Computer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-sony-vegas-vs-adobe-premiere-which-one-is-better/"><u>Updated Sony Vegas VS Adobe Premiere, Which One Is Better?</u></a></li>
+</ul></div>
 

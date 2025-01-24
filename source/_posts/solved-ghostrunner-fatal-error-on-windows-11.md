@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Ghostrunner Fatal Error on Windows 11"
-date: 2024-08-18T15:27:56.433Z
-updated: 2024-08-19T15:27:56.433Z
+date: 2025-01-19T16:46:24.544Z
+updated: 2025-01-24T16:06:16.307Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/aaf0974e4ab83d3cc5b35041225761e54de0f8418
  Although the causes of this issue vary, here we’ve put together some fixes that proved working for many Windows Premiere Pro users. Whether Premiere Pro crashes on startup or crashes when it is rendering media, you can find a fix to try in this article.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
@@ -46,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/aaf0974e4ab83d3cc5b35041225761e54de0f8418
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -79,9 +77,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -102,11 +97,12 @@ There’re mainly two ways you can update your graphics drivers:
 It’s quite easy to reset your preferences. Here’s how:
 
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
@@ -115,21 +111,18 @@ It’s quite easy to reset your preferences. Here’s how:
  GPU acceleration is one of the common causes of Premiere Pro crashing. If you’ve turned on GPU acceleration, temporarily disable it to see if you can fix Premiere Pro crashing. Here is how to do it:
 
 1. Launch Premiere Pro and go to**File** \>**Project Settings** \>**General** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
@@ -140,28 +133,23 @@ If this fix doesn’t work, try the next fix, below.
  Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
 
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
 See if this fix stops the crashing. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Fix 5: Close CPU / memory hogging applications
 
  Premiere Pro is a resource intensive application. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and causes Premiere Pro to crash. If it’s the case, closing those CPU / memory hogging applications may get Premiere Pro work again, Here is how to do it:
 
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . You will be prompted for permission. Click**Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
 
@@ -178,11 +166,16 @@ To cool down your computer, you may need to
 * Use a**better cooling system** for your computer if yours is not powerful enough.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Update / reinstall Premier Pro
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -201,8 +194,6 @@ To cool down your computer, you may need to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +201,26 @@ To cool down your computer, you may need to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-inversion-workshop/"><u>[Updated] 2024 Approved Inversion Workshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cartooncast-comprehensive-24-guidebook/"><u>CartoonCast Comprehensive '24 Guidebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-correcting-the-ryzen-chipset-driver-installation-errors/"><u>Effective Solutions for Correcting the Ryzen Chipset Driver Installation Errors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-online-presence-obs-and-facebook-synergy-for-2024/"><u>Enhancing Online Presence OBS & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012503326-fixing-apex-legends-wont-load-issue-simple-solutions-inside/"><u>Fixing Apex Legends Won't Load Issue - Simple Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009983106-football-manager-2021-stuttering-and-hanging-discover-fixes-to-enhance-your-gaming-experience/"><u>Football Manager 2021 Stuttering & Hanging? Discover Fixes to Enhance Your Gaming Experience!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211455288-9798330398164-hackear-o-universo/"><u>Hackear o Universo | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashing-issues-in-assassins-creed-valhalla-on-your-computer/"><u>How to Fix Continuous Crashing Issues in Assassin's Creed: Valhalla on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-3-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 3 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-asus-rog-phone-7-ultimate-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Asus ROG Phone 7 Ultimate to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-problems-a-comprehensive-fix-for-high-latency-in-street-fighter-n-gameplay/"><u>Overcoming Connectivity Problems: A Comprehensive Fix for High Latency in Street Fighter N Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-say-goodbye-to-endless-crashes-master-these-fixes-for-ascent-game/"><u>PC Users, Say Goodbye to Endless Crashes - Master These Fixes for Ascent Game!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/personalize-your-site-effortlessly-with-advanced-cookiebot-features-for-seo-success/"><u>Personalize Your Site Effortlessly with Advanced Cookiebot Features for SEO Success</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/quick-and-quality-guide-to-duplicate-your-oldnew-dvds-within-5-mins/"><u>Quick & Quality Guide to Duplicate Your Old/New DVDs Within 5 Mins!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-dragons-dogma-2-pc-instability-issues-quick-troubleshooting-steps/"><u>Solving Dragon's Dogma 2 PC Instability Issues - Quick Troubleshooting Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-revolutionary-google-pixel-navigates-first-in-mobile-communications-with-unique-satellite-based-sos-capabilities-exclusive-insight/"><u>The Revolutionary Google Pixel Navigates First in Mobile Communications with Unique Satellite-Based SOS Capabilities Exclusive Insight</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-7-solutions-resolve-launch-issues-with-warzone-20-on-your-pc/"><u>Top 7 Solutions: Resolve Launch Issues with Warzone 2.0 on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-are-some-practices-that-reduce-dependence-on-synthetic-inputs-in-agroecology/"><u>What Are some Practices that Reduce Dependence on Synthetic Inputs in Agroecology?</u></a></li>
+</ul></div>
 

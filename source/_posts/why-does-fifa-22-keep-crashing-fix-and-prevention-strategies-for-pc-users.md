@@ -1,7 +1,7 @@
 ---
 title: Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users
-date: 2025-01-11T00:29:32.739Z
-updated: 2025-01-18T01:26:01.109Z
+date: 2025-01-18T16:18:13.545Z
+updated: 2025-01-24T17:08:50.165Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -77,6 +77,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
 ### Fix 2: Restart your computer
@@ -124,7 +128,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
@@ -136,6 +140,10 @@ OR
 **2)** Click **LIBRARY.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
@@ -149,10 +157,6 @@ OR
 
  If the crashing issue continues to occur, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Change the launch option
 
  Many players report that running the game with**\-dxlevel 85 -console -windowed -noborder** launch option fixed the crashing issue. Follow the instructions below to see how to do it:
@@ -163,6 +167,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
@@ -171,21 +179,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
@@ -202,7 +206,7 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
@@ -210,14 +214,10 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -227,6 +227,10 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
@@ -235,13 +239,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -260,10 +264,6 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -332,19 +332,18 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-seamless-closure-in-digital-landscapes/"><u>[New] 2024 Approved Seamless Closure in Digital Landscapes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-watch-unseen-selective-tools-for-insta-enthusiasts-for-2024/"><u>[Updated] Watch Unseen Selective Tools for Insta Enthusiasts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/"><u>Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-down-on-in-game-security-flaws-solutions-for-safer-play/"><u>Cracking Down on In-Game Security Flaws: Solutions for Safer Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-winword-application-errors-instantly-top-5-tips/"><u>Fix Your WINWORD Application Errors Instantly: Top 5 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-endless-load-resolve-anthems-perpetual-launch-screen-issue/"><u>Fixing the Endless Load: Resolve Anthem's Perpetual Launch Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-race-started-overcoming-forza-horizon-nh-endless-launch-screen-issues/"><u>Get Your Race Started: Overcoming Forza Horizon Nh Endless Launch Screen Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-fixing-inaccessible-click-areas-in-windows-11/"><u>Guide to Fixing Inaccessible Click Areas in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-red-magic-9-proplus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Red Magic 9 Pro+ Through Google Earth?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/qnap-naswindows-11/"><u>QNAP NASにWindows 11をバックアップする革新的な解決策のレビュー</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-programming-overcoming-deadlock-and-fixed-issues/"><u>Rust Programming: Overcoming Deadlock and Fixed Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-nioh-nendos-stability-issues-in-the-complete-edition/"><u>The Definitive Fix for Nioh Nendo's Stability Issues in the Complete Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-painting-with-light-the-art-of-selective-hue-enhancement/"><u>[New] In 2024, Painting with Light The Art of Selective Hue Enhancement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-altering-numbers-on-tiktok/"><u>[New] Step-by-Step Guide Altering Numbers on TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-legal-ways-to-boost-your-video-watch-count-responsibly-for-2024/"><u>[Updated] Legal Ways to Boost Your Video Watch Count Responsibly for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-proven-pc-strategies-elevating-video-quality-and-engagement-on-youtube/"><u>[Updated] Proven PC Strategies Elevating Video Quality and Engagement on YouTube</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-risoluzione-dei-problemi-con-lo-schermo-touch-delliphone-non-reattivo-dopo-laggiornamento-a-ios-15-e-ios-16/"><u>1. Risoluzione Dei Problemi Con Lo Schermo Touch Dell'iPhone Non Reattivo Dopo L'aggiornamento a iOS 15 E iOS 16</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-gameplay-ultimate-guide-to-decreasing-delay-and-enhancing-performance-tips-for-2-proven-methods-for-cutting-down-latency-while-gaming-insights/"><u>Boosting Gameplay: Ultimate Guide to Decreasing Delay and Enhancing Performance (Tips for 2# Proven Methods for Cutting Down Latency While Gaming - Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dive-into-the-next-level-with-rainbow-six-sieges-fresh-update-for-freezing-2024/"><u>Dive Into the Next Level with Rainbow Six Siege's Fresh Update for ˈFreezing 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-techniques-to-enhance-shaders-efficiency-star-wars-battlefront-ii/"><u>Effortless Techniques to Enhance Shaders Efficiency - Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-assassins-creed-valhalla-from-crashing-proven-solutions-for-a-smooth-gaming-experience-2er-2024/"><u>How to Stop Assassin's Creed Valhalla From Crashing: Proven Solutions for a Smooth Gaming Experience, 2Er 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starcraft-2-from-crashing-on-your-windows-computer/"><u>How to Stop StarCraft 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://article-files.techidaily.com/scrutinizing-vivid-visuals-enhanced-by-hd-and-luminance/"><u>Scrutinizing Vivid Visuals Enhanced by HD and Luminance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-dota-2-installation-loading-halted-or-game-wont-open/"><u>Troubleshoot Your Dota 2 Installation: Loading Halted or Game Won’t Open?</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-solutions-address-and-correct-connection-refused-by-live-config-servers-errors/"><u>Unlock Solutions: Address and Correct 'Connection Refused by Live Config Servers' Errors</u></a></li>
 </ul></div>
 

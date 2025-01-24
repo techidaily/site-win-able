@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2025-01-14T08:42:00.081Z
-updated: 2025-01-17T23:05:51.113Z
+date: 2025-01-21T16:30:33.406Z
+updated: 2025-01-24T16:38:07.394Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the solutions. Simply work down the list until you find the one that gives you luck.
@@ -45,23 +49,31 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, do a reboot and check if the stuttering issue persists.
 
 If this fix doesn’t help you, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change your power plan
 
@@ -75,11 +87,15 @@ If this fix doesn’t help you, take a look at the next one below.
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
@@ -124,27 +140,27 @@ To do so, first visit the website of your GPU manufacturer:
 
 If the latest driver doesn’t help you, check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Lower your mouse report rate
 
  According to some players on reddit, decreasing the mouse report rate, or polling rate, proves effective in alleviating the stuttering in Valorant. So if you’re using a gaming mouse that features a customizable polling rate, try tuning it down to 500 and see how things go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/valorant-report-rate.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this fix doesn’t give you luck, simply continue to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn on VSync
 
  Some gamers reported that they managed to solve the stuttering by turning Vertical Sync on, so it might be a potential fix you can try. Meanwhile, if VSync doesn’t improve your game, try lowering your in-game graphics and see what happens.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Empty Standby Memory
 
@@ -162,40 +178,20 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
 1. Right click**EmptySandbyList.exe** and select**Property** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-2.jpg)
 2. Navigate to the**Compatibility** tab, check the box next to**Run this program as an administrator** . Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
@@ -203,8 +199,16 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
@@ -214,10 +218,6 @@ This method may require a basic level of computer knowledge.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
@@ -247,20 +247,20 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-exploring-youtubes-financial-blueprint-for-short-form-video-success/"><u>[Updated] Exploring YouTube's Financial Blueprint for Short-Form Video Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-video-perfection-choosing-the-ultimate-5-enhancers/"><u>[Updated] Video Perfection Choosing the Ultimate 5 Enhancers</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-corsair-icue-software-malfunctions-for-windows-1011-users/"><u>Diagnosing and Repairing Corsair iCUE Software Malfunctions for Windows 10/11 Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy XCover 6 Pro Tactical Edition Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-graphics-and-performance-in-horizon-zero-dawn-with-these-simple-tweaks/"><u>Improve Graphics and Performance in Horizon Zero Dawn with These Simple Tweaks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-instagrams-video-capabilities-blueprint-for-powerful-marketing/"><u>In 2024, Unlock Instagram's Video Capabilities Blueprint for Powerful Marketing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-art-of-large-displays-why-the-samsung-galaxy-note-9-leads-the-pack/"><u>Mastering the Art of Large Displays - Why the Samsung Galaxy Note 9 Leads the Pack</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-dark-side-of-fallout-4-a-step-by-estep-fix-for-screen-problems/"><u>Mastering The Dark Side of Fallout 4: A Step-by-eStep Fix for Screen Problems</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-timelapse-in-after-effects-for-2024/"><u>New How To Make a Timelapse in After Effects for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/rapid-results-overcoming-shader-tweaking-challenges-in-star-wars-battlefront-ii/"><u>Rapid Results: Overcoming Shader Tweaking Challenges in Star Wars Battlefront II</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-m2-ssd-card-adapter-hat-review-budget-friendly-and-fast-performance/"><u>Raspberry Pi M.2 SSD Card Adapter HAT Review - Budget Friendly and Fast Performance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-m14-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy M14 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-iphone-sound-issues-why-your-device-isnt-ringing-and-how-to-restore-it/"><u>Solving iPhone Sound Issues: Why Your Device Isn't Ringing and How to Restore It</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-pro-techniques-to-resolve-low-fps-issues-in-escape-from-tarkov/"><u>Top 6 Pro-Techniques to Resolve Low FPS Issues in Escape From Tarkov</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-mastered-how-to-stop-xcom-2-from-crashing-on-your-pc/"><u>Troubleshooting Mastered: How to Stop XCOM 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-enhance-team-engagement-through-zoom-recording/"><u>[New] 2024 Approved How to Enhance Team Engagement Through Zoom Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-steams-switch-pro-controllers-for-2024/"><u>[New] Mastering Steam's Switch Pro Controllers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-art-of-gamers-screen-recording-on-win10-for-2024/"><u>[New] The Art of Gamers' Screen Recording on Win10 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-visual-victory-a-guide-to-speed-up-picture-perfection-in-windows/"><u>[Updated] 2024 Approved Visual Victory A Guide to Speed Up Picture Perfection in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simultaneous-capture-excellence-with-iphones-features/"><u>[Updated] Simultaneous Capture Excellence with iPhone's Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bigger-photos-uncompromised-clarity/"><u>2024 Approved Bigger Photos, Uncompromised Clarity</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-launch-errors-in-farming-simulator-22-and-how-to-correct-them/"><u>Common Launch Errors in Farming Simulator 22 and How to Correct Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-11-must-know-hues-for-professional-grading/"><u>In 2024, 11 Must-Know Hues for Professional Grading</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-webs-big-players-an-overview-of-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web's Big Players: An Overview of Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-instant-reload-resolving-apex-legends-issues/"><u>Quick Fixes for Instant Reload: Resolving Apex Legends Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-madden-nfl-21-game-crashes-on-windows-computers/"><u>Troubleshooting Guide: Resolving Continuous Madden NFL 21 Game Crashes on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-football-manager-202n1-pc-solutions-to-end-game-crashing-woes/"><u>Troubleshooting Your Football Manager 202N1 PC: Solutions to End Game Crashing Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden NFL 20 PC Game Crashing Issues - Solved!
-date: 2024-08-18T15:26:35.626Z
-updated: 2024-08-19T15:26:35.626Z
+date: 2025-01-18T16:09:01.299Z
+updated: 2025-01-24T16:50:41.079Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/f1a263c48a30403473697d2181558146e92bb208f
 In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-us?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=33956bcb55d4452d8c47e16b94e294bd)**  is able to provide players with a smooth gaming experience without much glitches. But when the new updates were rolled out several days ago, some players found it difficult to bypass the loading screen. To troubleshoot the issue, we’ve gathered some methods.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
 1. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
@@ -27,15 +28,16 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  When you have trouble launching your game properly, you need to check whether your game files are corrupted or missing. To do this, you can utilize the tool of verifying integrity of game files by following the steps below:
 
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties…** .  
   
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
 
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
@@ -63,8 +65,9 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -88,9 +91,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -103,21 +103,23 @@ Here’s how to update drivers with Driver Easy:
 
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
 
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable firewall and antivirus software
 
@@ -131,16 +133,14 @@ Here’s how to update drivers with Driver Easy:
 
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
@@ -159,8 +159,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +166,22 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-step-by-step-tutorial-to-monetize-product-videography/"><u>[New] In 2024, A Step-by-Step Tutorial to Monetize Product Videography</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-synchronizing-airwaves-for-audience-gain/"><u>[Updated] Synchronizing Airwaves for Audience Gain</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-solved-warno-pc-crashes-top-solutions-and-troubleshooting-steps/"><u>Fix [SOLVED] Warno PC Crashes: Top Solutions and Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gta-vs-online-functionality-a-step-by-step-guide-for-gamers/"><u>Fixing GTA V's Online Functionality: A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-hitman-3-running-smoothly-on-your-computer/"><u>How to Get Hitman 3 Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-issues-when-outlook-fails-to-start-correctly/"><u>How to Resolve Issues When Outlook Fails to Start Correctly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-14-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/al-mobile-photography-and-videography-on-ios-and-android/"><u>Optimal Mobile Photography and Videography on iOS & Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/preserve-instagram-pics-and-videos-for-long-term-storage-for-2024/"><u>Preserve Instagram Pics and Videos for Long-Term Storage for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/recorders-unite-compete/"><u>Recorders Unite, Compete</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-steam-is-unresponsive-issue-a-comprehensive-guide/"><u>Resolving the 'Steam Is Unresponsive' Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-youtube-sound-issues-overcoming-audio-rendering-glitches-in-windows-1nk/"><u>Resolving YouTube Sound Issues: Overcoming Audio Rendering Glitches in Windows 1Nk</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-troubleshooting-the-missing-sounds-of-lost-ark/"><u>Solved! Troubleshooting the Missing Sounds of Lost Ark</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-8-parameters-to-weigh-when-upgrading-your-cpu-cooler/"><u>The 8 Parameters to Weigh when Upgrading Your CPU Cooler</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-6-hidden-sources-for-custom-youtube-symbols-for-2024/"><u>Unlocking 6 Hidden Sources for Custom YouTube Symbols for 2024</u></a></li>
+</ul></div>
 

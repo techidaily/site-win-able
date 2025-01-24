@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Black Screen' Issue in Elden Ring at Launch
-date: 2024-08-18T15:25:07.191Z
-updated: 2024-08-19T15:25:07.191Z
+date: 2025-01-22T16:22:15.566Z
+updated: 2025-01-24T16:40:36.147Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ It is really upset when you want to play **Rocket League but it won’t launch**
 
  Well, there’s one thing you should do first is to make sure your Windows Operating system is up to date and meet the minimum requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Minimum System Requirement of** Rocket League
 
 | **Supported OS** | Windows 7 or newer         |
@@ -42,9 +39,6 @@ It is really upset when you want to play **Rocket League but it won’t launch**
 | **Video Card**   | NVIDIA GTX 660 or better, ATI 7950 or better |
 | **Hard Drive**   | 7 GB                                         |
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 6 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,9 +54,6 @@ It is really upset when you want to play **Rocket League but it won’t launch**
 6. **[Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Delete d3d9.dll file](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Rename your Rocket League folder
 
 According to users, this easy fix would help you solve the problem.
@@ -73,6 +64,10 @@ According to users, this easy fix would help you solve the problem.
 4. Launch Rocket League. It will create a new one and launch normally.
 
 **Note** : Make sure your documents folder isn’t on your OneDrive. If you’ve linked your Documents folder from the OneDrive account, you need to[unlink it](https://superuser.com/questions/1205668/how-to-unlink-my-documents-folder-from-my-onedrive-account#comment1756728%5F1205668) first. Otherwise, it would cause an issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -85,6 +80,10 @@ According to users, this easy fix would help you solve the problem.
 4. Click**Apply > OK** .
 5. Run the game and check whether the issue is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify game files**(Steam users only)**
 
  This fix will check game files and verify if they are right. What else, it will download and repair the required files. If the**Rocket League won’t launch** issue is caused by corrupted game files, this fix could help you fix it.
@@ -96,23 +95,26 @@ According to users, this easy fix would help you solve the problem.
 3. Launch Rocket League to check.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable Overlay feature**(Steam users only)**
 
  Sometimes the Steam Overlay feature can be the reason for troubles. So you can disable these option to see whether it helps or not.
 
 1. In the Steam client, click the**Steam** button in the topper left corner and click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/setting.jpg)
 2. Choose the**In-Game** tab, uncheck these boxes to disable the Overlay options. Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/settings.jpg)
 3. Run the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change compatibility mode
 
@@ -121,13 +123,14 @@ According to users, this easy fix would help you solve the problem.
 1. Navigate to the Rocket League saving folder.
 2. Right-click on Rocket League Launcher and click **Properties** .
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run Rocket League to check.
 
  If this fix doesn’t help, don’t worry, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Update your graphics card driver
 
@@ -155,15 +158,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether the problem is resolved or not.
 
@@ -191,8 +188,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +195,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-implementing-youtube-video-automatic-start-on-facebook/"><u>[New] 2024 Approved Implementing Youtube Video Automatic Start on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-stream-and-save-discover-the-top-5-recorders-of-live-conferences/"><u>[Updated] 2024 Approved Stream and Save - Discover The Top 5 Recorders of Live Conferences</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-key-to-infinite-entertainment-master-youtube-video-loops/"><u>[Updated] In 2024, The Key to Infinite Entertainment Master Youtube Video Loops</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/show/"><u>「ビデオ解像度調整テクニック集：パワフル編集のコツ見つけまSHOW!」</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-smooth-gaming-boosting-frames-per-second-fps-in-ring-of-elysium/"><u>Achieve Smooth Gaming - Boosting Frames Per Second (FPS) in Ring of Elysium</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-using-driver-easy-the-compact-edition/"><u>Comprehensive Tips for Using Driver Easy - The Compact Edition</u></a></li>
+<li><a href="https://win-help.techidaily.com/downloading-and-converting-boundhub-content-with-ease-mp4-mov-avi-support-included/"><u>Downloading and Converting BoundHub Content with Ease - MP4, MOV, AVI Support Included</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-hobby-with-the-syma-fpas-black-q2-an-insightful-and-affordable-rc-helicopter-analysis/"><u>Elevate Your Hobby with the Syma FPAS BLACK Q2 - An Insightful and Affordable RC Helicopter Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-notorious-code-12707-in-call-of-duty-modern-warfare-3/"><u>How to Overcome the Notorious Code 12707 in Call of Duty Modern Warfare 3?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-audio-in-your-minecraft-game-on-a-personal-computer/"><u>How to Restore Audio in Your Minecraft Game on a Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-quiet-twitch-streams-a-simple-fix-for-audio-problems-on-live-video/"><u>No More Quiet Twitch Streams: A Simple Fix for Audio Problems on Live Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993337940-step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating & Setting Up Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rt-of-attraction-top-20-fonts-for-impactful-youtube-thumbnails/"><u>The Art of Attraction Top 20 Fonts for Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-discords-audio-issues-during-screen-shares/"><u>Troubleshooting Guide: Fixing Discord's Audio Issues During Screen Shares</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-netgear-wireless-adapter-for-enhanced-performance/"><u>Update Netgear Wireless Adapter for Enhanced Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/upgraded-arsenal-discovering-the-improved-bullet-drop-mechanics-of-me-le/"><u>Upgraded Arsenal - Discovering the Improved Bullet Drop Mechanics of ME LE</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wacom-pen-issues-heres-your-guide-to-fix-it-in-windows-11-and-windows-10/"><u>Wacom Pen Issues? Here's Your Guide to Fix It in Windows 11 and Windows 10!</u></a></li>
+</ul></div>
 

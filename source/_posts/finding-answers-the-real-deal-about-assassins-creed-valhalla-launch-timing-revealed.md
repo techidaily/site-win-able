@@ -1,7 +1,7 @@
 ---
 title: "Finding Answers: The Real Deal About Assassin's Creed Valhalla Launch Timing Revealed"
-date: 2024-08-18T15:28:25.751Z
-updated: 2024-08-19T15:28:25.751Z
+date: 2025-01-21T16:45:34.165Z
+updated: 2025-01-24T16:47:14.940Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 [Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/assassins-creed-valhalla?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=400347196e674de89c23cc2a7f2121db) , another Ubisoft blockbuster in 2020, is finally here.
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -59,17 +63,15 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
 
 1. Open your UBISOFT CONNECT client.
 2. Navigate to **the Games tab** and move your mouse cursor to the game tile of**Assassin’s Creed Valhalla** . Then click **the downward triangle** on the lower-right corner of the game tile.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
@@ -77,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -87,9 +93,11 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -98,9 +106,6 @@ You can use these steps to check for Windows updates manually:
 
 If the crash happens again, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  In most cases, you’ll expect constant crashes with new titles when you’re using**a faulty or outdated graphics driver** . If you can’t remember the last time you updated your GPU driver, definitely do it now as it could be the fix that saves the day.
@@ -129,15 +134,16 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Lower in-game graphics settings
 
  Assassin’s Creed Valhalla offers in-depth customization options, meaning that you can tweak all kinds of settings to make the most of your game and hardware. But new games tend to be buggy. It’s very likely that some settings are still under development. Worst case scenario, they could be the culprit of your crashes.
@@ -146,30 +152,25 @@ If the crash happens again, you can take a look at the next fix.
 
 1. Open Assassin’s Creed Valhalla and go to**Option Menu** .
 2. Navigate to the**Graphics** tab. Turn off or set every options to**Low** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
 [According to some Vikings](https://discussions.ubisoft.com/topic/76984/can-t-get-past-the-ac-valhalla-start-before-the-game-launches/21?lang=en-US) , **doing a clean reinstallation of Assassin’s Creed Valhalla** could be a potential fix to the crash. So if you’ve tried all the fixes above and none works for you, you can try to perform a reinstallation of Assassin’s Creed Valhalla. It allows you to get the latest build of the game, which might include a new patch targeting the crashing issue.
@@ -184,8 +185,6 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +192,26 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-guesting-without-glitches-live-tiktok-conversations/"><u>[New] In 2024, Guesting Without Glitches Live TikTok Conversations</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-samsung-gear-360-virtual-reality-lens/"><u>In 2024, In-Depth Examination Samsung Gear 360 Virtual Reality Lens</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-14-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi 14 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-resource-compilation-for-media-imagery/"><u>In 2024, Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-boundaries-in-visual-storytelling-with-hdr-for-2024/"><u>Pushing Boundaries in Visual Storytelling with HDR for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-to-download-your-favorite-youtube-playlists-as-mp3-files/"><u>Simple Steps to Download Your Favorite YouTube Playlists as MP3 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-mxf-files-into-avi-format-made-effortless/"><u>Simple Steps: Converting MXF Files Into AVI Format Made Effortless</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-mastering-the-art-of-screen-recording-on-alienware/"><u>Simple Steps: Mastering the Art of Screen Recording on Alienware</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/soft-volume-tricks-lives-hidden-gems-for-2024/"><u>Soft Volume Tricks Live’s Hidden Gems for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-youtubes-persistent-buffering-issues-overcoming-the-0-99-hurdle-in-video-processing/"><u>Solve YouTube's Persistent Buffering Issues: Overcoming the 0-99% Hurdle in Video Processing</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-exporting-your-music-from-ableton-live-as-mp3s/"><u>Step-by-Step Guide: Exporting Your Music From Ableton Live as MP3s</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-streaming-and-saving-films-via-google-drive/"><u>Step-by-Step Guide: Streaming & Saving Films via Google Drive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-communications-5-premium-ai-tools-to-effortlessly-draft-professional-emails-with-chatgpt-assistance-and-summarize-messages/"><u>Streamline Your Communications: 5 Premium AI Tools to Effortlessly Draft Professional Emails with ChatGPT Assistance & Summarize Messages</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-tutorial-for-watching-rmvb-videos-on-the-blackberry-bold-9700-device/"><u>The Ultimate Tutorial for Watching RMVB Videos on the BlackBerry Bold 9700 Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-optimal-pubg-capture-software-seamless-gameplay-recordings-on-windows-11-without-latency/"><u>Top Optimal PUBG Capture Software: Seamless Gameplay Recordings on Windows 11 Without Latency</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-six-no-cost-video-converters-the-ultimate-list-for-pc-and-mac-users/"><u>Top Six No-Cost Video Converters: The Ultimate List for PC and MAC Users</u></a></li>
+</ul></div>
 

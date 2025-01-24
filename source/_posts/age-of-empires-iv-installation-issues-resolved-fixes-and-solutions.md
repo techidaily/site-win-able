@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2025-01-15T22:45:54.232Z
-updated: 2025-01-17T16:54:08.967Z
+date: 2025-01-22T16:51:35.776Z
+updated: 2025-01-24T16:12:35.262Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -124,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -137,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -148,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,21 +193,19 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channeling-musical-charm-crafting-custom-playlists-on-youtube/"><u>[New] 2024 Approved Channeling Musical Charm Crafting Custom Playlists on Youtube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-potential-mastering-facebooks-best-practices-for-video-advertising/"><u>[Updated] In 2024, Unlocking Potential Mastering Facebook's Best Practices for Video Advertising</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comparative-income-freelance-vs-full-time-podcaster/"><u>2024 Approved Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/dealing-with-sextortion-scams-from-your-email-expert-tips-on-what-to-do-next/"><u>Dealing with Sextortion Scams From Your Email: Expert Tips on What to Do Next</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/directx-3d-device-setup-issues-a-comprehensive-solution-overview/"><u>DirectX 3D Device Setup Issues - A Comprehensive Solution Overview</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-preventing-gas-station-simulator-from-frequently-crashing-on-windows/"><u>Effective Solutions for Preventing Gas Station Simulator From Frequently Crashing on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-your-games-frame-per-second-drops/"><u>Enhancing Rainbow Six Extraction Performance: Fixing Your Game's Frame Per Second Drops</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-avatars-latest-expansion-to-boot-on-your-system/"><u>Getting Avatar's Latest Expansion to Boot on Your System?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995040674-how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy Z Fold 5?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>In 2024, Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-meizu-21-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Meizu 21 Phone Now with These Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-after-effects-vs-adobe-premiere-9-differences-tell-you-which-one-is-better-in-2024/"><u>New After Effects VS Adobe Premiere, 9 Differences Tell You Which One Is Better, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-remedies-for-immediate-control-program-stabilization/"><u>Quick Remedies for Immediate Control Program Stabilization</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-why-cyberpunk-2077-ignores-gpus-on-windows-10-systems-fixed/"><u>Solution Guide: Why Cyberpunk 2077 Ignores GPUs on Windows 10 Systems - Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-overcoming-the-error-0xc19001e1-on-your-windows-11-device/"><u>Step-by-Step Solutions for Overcoming the 'Error 0xC19001E1' On Your Windows 11 Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-view-bots-how-to-increase-youtube-views-in-2024/"><u>[New] YouTube View Bots How to Increase YouTube Views, In 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-blueprinting-a-dynamic-tiktok-end-credits-rollout-for-2024/"><u>[Updated] Blueprinting a Dynamic TikTok End-Credits Rollout for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unravel-the-mysteries-of-youtube-metrics-for-growth/"><u>[Updated] In 2024, Unravel the Mysteries of YouTube Metrics for Growth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-ai-9-hx-370-inside-the-new-asus-zenbook-s16-gaming-and-productivity-performance-evaluated/"><u>AMD Ryzen AI 9 HX 370 Inside the New Asus Zenbook S16 - Gaming and Productivity Performance Evaluated</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722856512919-best-childrens-movie-selection-for-disneyplus-watch-party-july-2024-edition/"><u>Best Children's Movie Selection for Disney+ Watch Party - July 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/eversapce-2-troubleshooting-guide-resolving-pc-crash-issues-permanently/"><u>Eversapce 2 Troubleshooting Guide: Resolving PC Crash Issues Permanently</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-version-of-fixated-five-nights-at-freddys-resolved-security-glitch/"><u>PC Version of Fixated 'Five Nights at Freddy's - Resolved Security Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-getting-intel-driver-assistant-back-on-track-on-pc/"><u>Step-by-Step Guide: Getting Intel Driver Assistant Back on Track on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-the-troublesome-minecraft-crossbow-error-ultimate-fix-strategies-for-gamers/"><u>Tackling the Troublesome Minecraft Crossbow Error - Ultimate Fix Strategies for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-players-handbook-to-smooth-sailing-overcoming-ping-issues-in-chivalry-ii/"><u>The Player’s Handbook to Smooth Sailing: Overcoming Ping Issues in Chivalry II</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-pcs-vr-challenges-with-these-8-proven-techniques-to-prevent-vrchat-crashes/"><u>Troubleshoot Your PC's VR Challenges with These 8 Proven Techniques to Prevent VRChat Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-issues-in-ituness-audio-setup/"><u>Troubleshooting: Resolving Issues in iTunes's Audio Setup</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlock-the-power-of-podcasts-15-tips-for-multitasking-and-growth/"><u>Unlock the Power of Podcasts 15 Tips for Multitasking and Growth</u></a></li>
 </ul></div>
 

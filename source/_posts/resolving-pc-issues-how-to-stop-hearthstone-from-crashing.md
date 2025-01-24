@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Issues - How to Stop Hearthstone From Crashing
-date: 2025-01-16T01:51:07.339Z
-updated: 2025-01-18T04:30:51.740Z
+date: 2025-01-20T17:03:42.135Z
+updated: 2025-01-24T17:13:28.115Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,21 +52,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -75,6 +75,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
@@ -86,10 +90,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -99,6 +99,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
@@ -106,10 +110,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. Reboot the browser to check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -139,15 +147,11 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -161,10 +165,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,18 +194,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[New] 2024 Approved The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-boost-your-content-top-6-instagram-reel-apps/"><u>[New] Boost Your Content Top 6 Instagram Reel Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-leveraging-influencers-in-your-twitter-marketing-plan/"><u>[New] In 2024, Leveraging Influencers in Your Twitter Marketing Plan</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-spectrum-perfection-color-grading-basics/"><u>2024 Approved Spectrum Perfection Color Grading Basics</u></a></li>
-<li><a href="https://win-able.techidaily.com/cs-2-failure-to-launch-a-comprehensive-guide-to-resolve/"><u>CS 2 Failure to Launch? A Comprehensive Guide to Resolve</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/easy-tips-for-keeping-your-settings-intact-while-upgrading-kodi-to-the-latest-version-on-windows-pcs/"><u>Easy Tips for Keeping Your Settings Intact While Upgrading Kodi to the Latest Version on Windows PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-the-world-of-pc-components-by-toms-technology-hub/"><u>Expert Insights Into the World of PC Components by Tom's Technology Hub</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-book-trailers-a-curated-list-of-5/"><u>In 2024, Best Book Trailers A Curated List of 5</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-art-of-lowering-cpu-load-during-zoom-sessions/"><u>Mastering the Art of Lowering CPU Load During Zoom Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-game-security-breach-alert-issue/"><u>Resolved: How to Fix the 'Game Security Breach Alert' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-errors-for-fallout-3-gameplay-in-windows-11/"><u>Resolving Performance Errors for Fallout 3 Gameplay in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-sea-of-thieves-resolving-crashes-effectively/"><u>Troubleshooting Sea of Thieves: Resolving Crashes Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-failed-to-create-qsurfaceformat-opengl-context-error/"><u>Comprehensive Fixes for 'Failed to Create QSurfaceFormat OpenGL Context Error'</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/creative-expression-on-snapchat-discover-the-hottest-filters-and-lenses/"><u>Creative Expression on Snapchat Discover the Hottest Filters & Lenses</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-getting-your-origin-account-up-and-running-again/"><u>Expert Advice on Getting Your Origin Account Up & Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007539711-expert-tips-to-fix-cannot-connect-mishaps-in-your-favorite-game-lost-ark/"><u>Expert Tips to Fix 'Cannot Connect' Mishaps in Your Favorite Game, Lost Ark!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-troubleshooting-tips-getting-saints-row-up-and-running-again-on-windows/"><u>Expert Troubleshooting Tips: Getting Saints Row Up and Running Again on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-smart-7-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Smart 7 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/no-need-for-windows-subsystem/"><u>No Need for Windows Subsystem</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimizing-performance-for-laggy-systems-expert-advice-by-yl-software-professionals/"><u>Optimizing Performance for Laggy Systems: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-technical-hurdles-with-youtube-why-it-may-not-load/"><u>Overcoming Technical Hurdles with YouTube – Why It May Not Load</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-steps-for-converting-dvd-content-for-editing-in-imovie-on-mac-computers/"><u>Seamless Steps for Converting DVD Content for Editing in iMovie on Mac Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-sea-of-thieves-stability-problems-and-play-uninterrupted/"><u>Solve Sea of Thieves Stability Problems and Play Uninterrupted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-unbridled-future-of-gpt-without-limits/"><u>The Unbridled Future of GPT Without Limits?</u></a></li>
 </ul></div>
 

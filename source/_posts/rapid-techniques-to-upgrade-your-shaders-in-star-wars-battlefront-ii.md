@@ -1,7 +1,7 @@
 ---
 title: Rapid Techniques to Upgrade Your Shaders in Star Wars Battlefront II
-date: 2024-08-18T15:28:01.767Z
-updated: 2024-08-19T15:28:01.767Z
+date: 2025-01-19T16:04:08.231Z
+updated: 2025-01-24T16:51:28.726Z
 tags:
   - win11
   - win10
@@ -24,8 +24,9 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -34,24 +35,30 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Inside of it, open the folder**settings** .
 
  3) Now double-click**BootOptions** and select**Notepad** .  
   
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
 
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
@@ -59,15 +66,13 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
@@ -80,9 +85,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  5) Click**File > Save** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why disabling DirectX 12 works
 
  It’s possible that DirectX 12 could offer some enhancements for your machine, using DirectX 11 should allow the software to run much more reliably and stably. Basically, while the game is running in DirectX 12 mode, it’s able to pre-cache certain shaders so that you can get much better performance in-game. But chances are, the game might not be launching as expected.
@@ -95,8 +97,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +104,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>[New] 2024 Approved Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-essential-list-of-7-high-performance-mobile-video-streaming-tools-iphoneandroid-for-2024/"><u>[New] Discover Essential List of 7 High-Performance Mobile Video Streaming Tools (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/evolutionize-your-content-with-3-innovative-two-point-of-view-techniques-in-reactions/"><u>[New] Revolutionize Your Content with 3 Innovative Two-Point-of-View Techniques in Reactions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-is-money-speedy-guide-to-convert-srt-files-into-text/"><u>[Updated] Time Is Money Speedy Guide to Convert SRT Files Into Text</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027578294-3/"><u>【対談】最新版動画編集ツールで『無料』マーク除去方法3種類</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-premium-blu-ray-films-for-free-step-by-step-guide-to-high-definition-content/"><u>Download Premium Blu-Ray Films for Free - Step by Step Guide to High Definition Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-adding-the-latest-distrotv-extension-for-live-streaming-and-on-demand-content-in-kodi/"><u>Easy Steps: Adding the Latest DistroTV Extension for Live Streaming and On-Demand Content in Kodi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-poco-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Poco</u></a></li>
+<li><a href="https://win-able.techidaily.com/noise-problem-in-evil-genius-2-here-are-proven-audio-troubleshooting-tips/"><u>Noise Problem in 'Evil Genius 2'? Here Are Proven Audio Troubleshooting Tips!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-14-plus-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 14 Plus to PC or Mac | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-how-to-address-game-security-threat-uncovered/"><u>Solution Steps: How to Address 'Game Security Threat Uncovered'</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-overcoming-the-elder-scrolls-online-initial-loading-problems/"><u>Success! Overcoming The Elder Scrolls Online Initial Loading Problems</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-s18-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo S18 Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-battle-against-launch-errors-age-of-empires-ii-now-fully-functional-on-windows-10/"><u>Winning the Battle Against Launch Errors: Age of Empires II Now Fully Functional on Windows 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "On-the-Go Car Management: How to Utilize Driver Easy's Compact Toolkit"
-date: 2024-08-18T15:25:27.742Z
-updated: 2024-08-19T15:25:27.742Z
+date: 2025-01-23T16:21:32.976Z
+updated: 2025-01-24T16:25:03.532Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
  This error code 80070057 is not lethal and it can be solved easily. We’ve put together all the possible fixes that proved helpful to other gamers.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [1. Scan and repair](https://tools.techidaily.com/drivereasy/download/)
@@ -31,13 +32,14 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [5. Delete the Battle.net Cache folder](https://tools.techidaily.com/drivereasy/download/)
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
@@ -46,18 +48,16 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 1. Open the Battle.net app.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -65,14 +65,8 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 1. Open the Battle.net app.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
@@ -91,18 +85,17 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run your game in DX11
 
  If you still get this error in some specific spots, but all of your device drivers are up-to-date, the culprit might be DirectX 12\. There are some problems with advanced DX12 features such as ray tracing and variable rate shading. To enjoy a crash-free game, you can run your game in DX 11 instead. Here’s how:
@@ -112,8 +105,17 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Select**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
@@ -125,6 +127,11 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Press**Windows** Key+**R** to open the Run dialogue. Type**%ProgramData%** into the Run field and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/data.jpg)
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
@@ -133,17 +140,15 @@ The first thing, as it suggests, is to perform a scan and repair.
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
 
 1. In the Windows Search bar, start typing**language** and select**Language settings** from the results list.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
 
 Restart your computer and relaunch your game again to test the issue.
@@ -162,8 +167,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +174,23 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-accelerating-videos-an-easy-start-with-snapchat/"><u>[Updated] Accelerating Videos An Easy Start with Snapchat</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-aspect-ratios-unveiled-your-guide-to-stellar-yt-images-for-2024/"><u>[Updated] Aspect Ratios Unveiled Your Guide to Stellar YT Images for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-rediscovering-the-past-with-your-camera-roll-on-snapchat/"><u>2024 Approved Rediscovering the Past with Your Camera Roll on Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-repairing-the-nwstore-applications-executable-glitches/"><u>Comprehensive Tips for Repairing the NW_Store Application's Executable Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004704741-expert-tips-on-fixing-lost-ark-network-problems-no-more-disconnects/"><u>Expert Tips on Fixing 'Lost Ark' Network Problems – No More Disconnects!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/find-and-resurrect-deleted-documents-a-step-by-step-guide-for-windows-the-essential-tips-for-recovering-lost-files-in-windows-10/"><u>Find and Resurrect Deleted Documents: A Step-by-Step Guide for Windows The Essential Tips for Recovering Lost Files in Windows 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>In 2024, Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-visioncapture-prox-briefing/"><u>In 2024, VisionCapture ProX Briefing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-kodi-connection-problems-finding-your-media-content-easily/"><u>Overcoming Kodi Connection Problems - Finding Your Media Content Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/pacific-crash-update-fixed-in-call-of-duty-warzone/"><u>Pacific Crash Update Fixed in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/remedying-freezing-and-latency-problems-for-smoother-gameplay-in-pubg-on-pc/"><u>Remedying Freezing & Latency Problems for Smoother Gameplay in PUBG on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ring-of-elysium-gaming-optimization-step-by-step-guide-to-raise-your-fps/"><u>Ring of Elysium Gaming Optimization: Step-by-Step Guide to Raise Your FPS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/strategy-dominion-discovering-the-7-pinnacle-conflicts/"><u>Strategy Dominion Discovering the 7 Pinnacle Conflicts</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-persistent-zoom-crashes-on-windows-systems/"><u>Ultimate Fix for Persistent Zoom Crashes on Windows Systems</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/unraveling-the-historical-significance-of-chinas-cultural-movement/"><u>Unraveling the Historical Significance of China’s Cultural Movement</u></a></li>
+</ul></div>
 

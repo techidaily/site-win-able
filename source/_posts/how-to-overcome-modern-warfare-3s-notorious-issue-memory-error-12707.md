@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Modern Warfare 3'S Notorious Issue: Memory Error 12707"
-date: 2024-08-18T15:23:10.464Z
-updated: 2024-08-19T15:23:10.464Z
+date: 2025-01-21T16:37:25.557Z
+updated: 2025-01-24T16:24:14.022Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/b4bf5489aa58d7829034f75f3060e06c6a303902d
 
 ## Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-6068-featured.jpg)
 
  Many gamers are complaining about the constant crashes that shows a**Dev Error 6068** . If you happen to be one of them, don’t worry. Here are some working fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -46,9 +40,6 @@ Here’s how:
 2. From the left menu, select**Call of Duty: MW** . Click**Options** and select**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 3. From the left menu, select**Game Settings** . Check the box next to**Additional command line arguments** . In the input area, type**\-d3d11** (mind the dash). Then click**Done** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-d3d11-2.jpg)
 
 Now you can launch Warzone and test the stability.
@@ -56,8 +47,9 @@ Now you can launch Warzone and test the stability.
 If this fix doesn’t help, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The Dev Error 6068 message suggests a**DirectX** issue, which means it could be graphics-related. In other words, you might be using**a broken or outdated graphics driver** . So before trying anything more complicated, definitely check if you’re using the latest GPU driver.
@@ -66,11 +58,13 @@ If this fix doesn’t help, you can try the next one below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -87,18 +81,23 @@ If this fix doesn’t help, you can try the next one below.
 And here’s a quick guide:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . It will take some time for Windows to download and install available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To ensure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all system updates, restart your computer and test the gameplay in Warzone.
 
  If this method doesn’t give you luck, simply continue to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -112,16 +111,10 @@ MSI Afterburner
 
  If the error code reoccurs when you aren’t overclocking, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your RAM
 
  Some players reported that the error disappeared right after they replaced/upgraded their RAM. If this is a RAM issue, you need to**check if you’re using faulty or incompatible RAM** . The quickest way to find out is try RAM of another brand. When it comes to gaming, you can hardly go wrong with reputable brands.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gskill-1200x786.jpg)
 
  You should at least have 16GB for Warzone, but more is always better.
@@ -135,9 +128,6 @@ And here’re some solid brands we recommend:
 
  Or you can check out the fix below to use virtual memory as a temporary workaround.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Increase your virtual memory
 
  Virtual memory serves as additional RAM when your system is out of memory. This is often useful when you’re running a big and resource-hungry application.**Increasing your computer’s virtual memory** can at some point mitigate the crash.
@@ -145,19 +135,30 @@ And here’re some solid brands we recommend:
 Here’s how:
 
 1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to**Automatically manage paging file size for all drives** . Then select **Customize size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now launch Warzone and check if the problem persists.
 
@@ -171,8 +172,6 @@ Now launch Warzone and check if the problem persists.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +179,23 @@ Now launch Warzone and check if the problem persists.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-20-unrestricted-zero-cost-pubg-snapshits/"><u>[New] 2024 Approved Top 20 Unrestricted, Zero-Cost PUBG Snapshits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-fix-guide-getting-your-fb-story-on-air/"><u>[New] In 2024, The Ultimate Fix Guide Getting Your Fb Story On Air</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mobile-battlefronts-the-best-mobas-on-android/"><u>[New] Mobile Battlefronts The Best MOBAs on Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/imeo-vs-youtube-vs-dailymotion-which-platform-is-the-one/"><u>[New] Vimeo vs YouTube vs Dailymotion Which Platform Is the One?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cross-platform-accessibility-for-apple-icloud-photographs/"><u>Cross-Platform Accessibility for Apple iCloud Photographs</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-successfully-launched-without-crashing-troubleshooting-steps-for-gamers/"><u>Far Cry 5 Successfully Launched Without Crashing: Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-microsoft-edge-crashes-in-windows-10-solutions-and-tips/"><u>Fix Microsoft Edge Crashes in Windows 10 – Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-hurdle-resolving-fortnites-perpetual-load-screens/"><u>Getting Past the Hurdle - Resolving Fortnite's Perpetual Load Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-review-top-vehicle-monitoring-devices/"><u>In 2024, Comprehensive Review TOP Vehicle Monitoring Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-naraka-bladepoints-performance-a-step-by-nstep-solution-to-fix-stuttering-and-boost-fps/"><u>Master Naraka: Bladepoint's Performance: A Step-by-nStep Solution to Fix Stuttering and Boost FPS</u></a></li>
+<li><a href="https://win-news.techidaily.com/praktische-schritte-zur-wiederherstellung-geloschter-dateien-auf-deinem-computer-recuperameister/"><u>Praktische Schritte Zur Wiederherstellung Gelöschter Dateien Auf Deinem Computer - RecuperaMeister</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-dreaded-warzone-error-code-5573-on-pc-and-consoles-a-step-by-step-guide/"><u>Solving the Dreaded Warzone Error Code 5573 on PC and Consoles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-starfield-from-freezingcrashing-on-your-computer-solutions-inside/"><u>Stop Starfield From Freezing/Crashing On Your Computer [Solutions Inside]</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-rainbow-six-siege-overcoming-the-3-0x0001000b-glitch/"><u>Troubleshooting Tips for Rainbow Six Siege: Overcoming the 3-0X0001000B Glitch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-cant-i-subscribe-to-chatgpt-now-unveiling-the-closure-and-predicting-openings/"><u>Why Can't I Subscribe to ChatGPT Now? Unveiling the Closure and Predicting Openings</u></a></li>
+</ul></div>
 

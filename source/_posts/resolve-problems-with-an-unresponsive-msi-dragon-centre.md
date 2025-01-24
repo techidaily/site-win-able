@@ -1,7 +1,7 @@
 ---
 title: Resolve Problems with an Unresponsive MSI Dragon Centre
-date: 2024-08-18T15:27:58.486Z
-updated: 2024-08-19T15:27:58.486Z
+date: 2025-01-20T16:42:19.622Z
+updated: 2025-01-24T16:02:55.890Z
 tags:
   - win11
   - win10
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 
  But don’t worry. The following are some methods that have helped many players fix the won’t launch issue.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Check if you meet the minimum specifications
 
 ### **Minimum System Requirement of Dragon Age: Inquisition**
@@ -42,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 | **Video Card**   | NVIDIA GeForce 8800 GT or AMD Radeon HD 4870         |
 | **Hard Drive**   | 26 GB                                                |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Recommended**System Requirement of** **Dragon Age: Inquisition**
 
 | **Supported OS** | Windows 7 or 8.1, 64-bit                                      |
@@ -51,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 | **Video Card**   | NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 or R9 270        |
 | **Hard Drive**   | 26 GB                                                         |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these methods
 
  There’re**5** fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -77,22 +66,27 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.jpg)
 3. Click the**Services** tab and **check** the**Hide all Microsoft Services** box.
 4. Click**Disable All** to disable all the third-party services.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/service.jpg)
 5. Right-click on the**Task Bar** and click**Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/taskbar.jpg)
 6. In the **Startup** tab, select an application and click**Disable** . Make sure that all of the applications on the list are **disabled** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/task-1.jpg)
 7. Reboot your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Run the game and check the problem is solved or not.
 
 ### Method 3: Verifying game files
@@ -103,12 +97,18 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 2. Click**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/origin.jpg)
 3. Right-click on the game and click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait for it to verify the game files.
 5. Run the game and check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Dragon Age Inquisition won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
@@ -138,18 +138,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Set exception on your antivirus software
 
  Antivirus software aims to protect your computer safety, but they can block part of the game feature and cause problems. It is possible that the Dragon Age: Inquisition won’t launch issue is caused by your antivirus software. If some important features were blocked by your antivirus software, the game may not function properly and cause issue.  
@@ -167,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +168,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-top-30-acid-pro-replacements-explored-for-2024/"><u>[New] Top 30 ACID Pro Replacements Explored for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>2024 Approved A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-getting-acquainted-with-zoom-segregated-sessions/"><u>2024 Approved Getting Acquainted with Zoom Segregated Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-activision-blizzard-games-microsoft-should-revive/"><u>7 Activision Blizzard Games Microsoft Should Revive</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-the-blankness-practical-solutions-for-fixing-magic-the-gathering-arenas-persistent-black-screens/"><u>Banishing the Blankness: Practical Solutions for Fixing Magic: The Gathering Arena's Persistent Black Screens</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-techkey-bluetooth-driver-for-win10win7win8-compatible-drivers/"><u>Download TechKey Bluetooth Driver for Win10/Win7/Win8 - Compatible Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-the-woes-of-oxygens-crashing-problem-with-these-simple-solutions/"><u>End the Woes of Oxygen's Crashing Problem with These Simple Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/high-performance-7-cameras-for-cutting-edge-vlogging-tech/"><u>High-Performance 7 Cameras For Cutting-Edge Vlogging Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adaptive-speaking-methods-in-free-fire/"><u>In 2024, Adaptive Speaking Methods in Free Fire</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-playtime-registration-and-logout-tutorials/"><u>In 2024, Playtime Registration & Logout Tutorials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gaming-overcoming-cityskylines-crashes/"><u>Master the Art of Smooth Gaming: Overcoming CitySkylines' Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/midgard-chronicles-fixing-the-troublesome-tribe-conflicts-in-assassins-creed-valhalla/"><u>Midgard Chronicles: Fixing the Troublesome Tribe Conflicts in Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-installation-issues-of-minecraft-on-windows-11/"><u>Resolved: Overcome Installation Issues of Minecraft on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/roblox-volume-back-on-track-troubleshooting-no-sound-issues-on-windows-operating-systems/"><u>Roblox Volume Back On Track: Troubleshooting No Sound Issues on Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-strategies-for-overcoming-frame-drops-and-rendering-delays-in-action-packed-shooters/"><u>Solution Strategies for Overcoming Frame Drops & Rendering Delays in Action-Packed Shooters</u></a></li>
+<li><a href="https://win-able.techidaily.com/starcraft-2-continuous-play-made-possible-overcome-pc-freeze-and-crash-problems/"><u>Starcraft 2 Continuous Play Made Possible: Overcome PC Freeze & Crash Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-a-guide-to-resolving-armored-core-6-fires-of-rubicon-errors/"><u>Troubleshooting PC Issues: A Guide to Resolving Armored Core 6 - Fires of Rubicon Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-how-to-fix-computer-stuck-on-windows-10-login-screen/"><u>Troubleshooting Steps: How to Fix Computer Stuck on Windows 10 Login Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-detroit-engage-with-a-groundbreaking-narrative-game-on-your-desktop/"><u>Unraveling Detroit: Engage with a Groundbreaking Narrative Game on Your Desktop</u></a></li>
+</ul></div>
 

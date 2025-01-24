@@ -1,7 +1,7 @@
 ---
 title: Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer
-date: 2025-01-13T07:48:01.045Z
-updated: 2025-01-17T17:24:33.349Z
+date: 2025-01-21T16:19:09.438Z
+updated: 2025-01-24T17:12:34.255Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -34,10 +38,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -59,12 +59,16 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -77,7 +81,7 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
@@ -100,16 +104,12 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -155,18 +155,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-get-smart-with-your-youtube-thumbnails-using-a-mac/"><u>[New] Get Smart with Your YouTube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller/"><u>[Updated] Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-earnings-potential-essential-view-numbers/"><u>[Updated] In 2024, Unlocking Earnings Potential Essential View Numbers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-performance-problems-in-dying-light-how-to-solve-the-games-lags/"><u>Fixing Persistent Performance Problems in 'Dying Light': How to Solve the Game's Lags</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a1-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A1 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-poco-x6-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Poco X6 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-ryu-ga-gotoku-series-how-yakuza-like-a-dragon-performs-on-pc/"><u>Master the Ryu Ga Gotoku Series: How 'Yakuza: Like a Dragon' Performs on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-problems-when-starting-farmers-simulator-22-a-comprehvew-guide/"><u>Solving Problems When Starting Farmer's Simulator 22 – A Comprehvew Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/studio-softbox-review-for-novice-producers/"><u>Studio Softbox Review for Novice Producers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-getting-past-robloxs-stuck-loading-page/"><u>Troubleshooting Tips for Getting Past Roblox's Stuck Loading Page</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/verifying-hardware-compatibility-a-guide-for-your-windows-pc-tips-from-yl-computing/"><u>Verifying Hardware Compatibility: A Guide for Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-f1-2021-keeps-crashing-on-pc/"><u>[SOLVED] F1 2021 Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximize-engagement-discover-the-right-youtube-thumbnail-size/"><u>[Updated] 2024 Approved Maximize Engagement Discover the Right YouTube Thumbnail Size</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-20-greatest-sandbox-experiences-ever-made/"><u>2024 Approved 20 Greatest Sandbox Experiences Ever Made</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-encountered-mastering-the-solutions-for-incorrect-parameter-issues-in-loadlibrary/"><u>Error 87 Encountered? Mastering the Solutions for Incorrect Parameter Issues in LoadLibrary</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-hidden-message-shield-effectiveness/"><u>Facebook's Hidden Message Shield Effectiveness</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-minecraft-hiccups-and-enjoy-uninterrupted-gaming-expert-advice-for-your-pc/"><u>Fix Minecraft Hiccups & Enjoy Uninterrupted Gaming - Expert Advice for Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-solutions-optimize-your-gameplay-and-enjoy-seamless-performance/"><u>Forza Horizon #5 Lag Solutions - Optimize Your Gameplay and Enjoy Seamless Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-practices-for-youtube-to-mpeg-format-switching/"><u>In 2024, Best Practices for YouTube to MPEG Format Switching</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oneplus-11-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your OnePlus 11 5G Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journey-through-lut-based-color-enhancement-methods-for-2024/"><u>Journey Through LUT-Based Color Enhancement Methods for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-sync-problem-solved-master-guide-to-overcoming-cloud-library-glitches/"><u>Steam Sync Problem Solved? Master Guide to Overcoming Cloud Library Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-non-responsive-corsair-icue-interface/"><u>Troubleshooting Steps for a Non-Responsive Corsair iCUE Interface</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-smooth-gameplay-permanent-solution-for-tf2s-endless-crashes/"><u>Unlock Smooth Gameplay: Permanent Solution for TF2's Endless Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-you-need-to-know-about-the-latest-update-on-mafia-definitive-edition-launch/"><u>What You Need to Know About the Latest Update on Mafia: Definitive Edition Launch</u></a></li>
 </ul></div>
 

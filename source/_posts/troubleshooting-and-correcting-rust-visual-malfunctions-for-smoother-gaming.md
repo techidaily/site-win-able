@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2025-01-10T22:42:58.048Z
-updated: 2025-01-17T17:38:21.853Z
+date: 2025-01-17T16:43:55.600Z
+updated: 2025-01-24T16:48:21.986Z
 tags:
   - win11
   - win10
@@ -56,7 +56,7 @@ Here’s how to use Fortect to run a Windows repair:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -77,15 +77,11 @@ Here’s how to use Fortect to run a Windows repair:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -106,15 +102,11 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -138,8 +130,16 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
@@ -165,10 +165,6 @@ To check the specs of your PC:
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Close background apps
 
  Another fix you could try is to close unnecessary background apps. This is because third-party apps running in the background may compete for CPU, memory and potentially interfere with the performance of the Vanguard game, causing your game to crash.
@@ -180,11 +176,11 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
 
@@ -195,6 +191,10 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -222,24 +222,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-top-10-cameras-in-the-new-os/"><u>[New] Ultimate Guide Top 10 Cameras in the New OS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories-for-2024/"><u>[Updated] Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-from-beginner-to-expert-with-a-complete-fcp-guidebook/"><u>2024 Approved From Beginner to Expert with a Complete FCP Guidebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-visuals-in-motion-the-ultimate-fix-for-forza-horizon-s-updated-drivers/"><u>Enhanced Visuals in Motion: The Ultimate Fix for Forza Horizon ⁵'S Updated Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-get-your-sea-of-thieves-game-running-smoothly-again/"><u>Expert Advice: Get Your Sea of Thieves Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/hearthstone-pc-issues-resolved-overcoming-game-freezes-and-crashes/"><u>Hearthstone PC Issues Resolved: Overcoming Game Freezes & Crashes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-a78-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo A78 5G Phone Screen?</u></a></li>
-<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-update-how-to-stop-the-constant-crashes-on-various-platforms/"><u>Immortal’s Fenyx Rising Update – How to Stop the Constant Crashes on Various Platforms</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-s18-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo S18 without App | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/kid-safe-car-challenges-galore/"><u>Kid-Safe Car Challenges Galore</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/losung-fur-checkdisk-error-mit-grossbuchstabeltable-behandlt-vorgeheimt/"><u>LÖSUNG FÜR CHECKDISK ERROR MIT GROSSBUCHSTABELTABLE - BEHANDLT VORGEHEIMT</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-counter-strike-2-stuttering-and-freezing-with-these-key-fixes/"><u>Overcome Counter-Strike 2 Stuttering and Freezing with These Key Fixes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>Premier Selection Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-battlefield-5-not-starting-problem-in-minutes/"><u>Quick Solutions: Overcome 'Battlefield 5 Not Starting' Problem in Minutes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-getting-the-latest-epson-et-3760-printer-software-for-windows-computers/"><u>Step-by-Step Tutorial on Getting the Latest Epson ET-3760 Printer Software for Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-10-tips-to-eliminate-battlefield-5-stuttering-issues/"><u>Top 10 Tips to Eliminate Battlefield 5 Stuttering Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-tricks-to-boost-iphone-wi-fi-speed-and-stability/"><u>Top 8 Tricks to Boost iPhone Wi-Fi Speed & Stability</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-startup-blast-unraveling-an-atomic-heart-dilemma/"><u>Troubleshooting the 'Startup Blast': Unraveling an Atomic Heart Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-advanced-settings-installing-gpeditmsc-on-windows-home/"><u>Unlocking Advanced Settings: Installing GPEDIT.MSC on Windows Home</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-overcoming-crusader-kings-3-shutdowns-and-restarts-on-your-computer/"><u>[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-economical-desktop-encoders-under-100/"><u>[New] 2024 Approved Top Economical Desktop Encoders Under $100</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtuverse-video-vault/"><u>[New] 2024 Approved VirtuVerse Video Vault</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rand-your-channel-innovative-banner-templates-for-gamers-for-2024/"><u>[New] Brand Your Channel Innovative Banner Templates for Gamers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-10-key-tactics-to-amplify-your-youtube-presence-and-engagement/"><u>[Updated] 2024 Approved 10 Key Tactics to Amplify Your YouTube Presence and Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-finding-those-who-fled-my-insta-friends/"><u>[Updated] In 2024, Finding Those Who Fled My Insta Friends</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-latest-trend-get-8plus-free-tools-for-cutting-and-sharing-video-content/"><u>[Updated] Instagram's Latest Trend Get 8+ Free Tools for Cutting & Sharing Video Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-privacy-preservation-in-videos-techniques-to-hide-data/"><u>[Updated] Privacy Preservation in Videos Techniques to Hide Data</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-performance-issues-and-latency-drops-expected-for-players/"><u>COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-augmenter-efficacement-la-resolution-dimage-2024-meilleures-strategies-revelees/"><u>Comment Augmenter Efficacement La Résolution D'Image? 2024 Meilleures Stratégies Révélées!</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-the-error-6-challenge-tips-and-fixes-for-modern-warfare-and-warzone-players/"><u>Decode the Error 6 Challenge – Tips and Fixes for Modern Warfare & Warzone Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-solve-printer-scan-failures/"><u>Easy Steps to Solve Printer Scan Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722849082326-elevate-your-gaming-experience-how-to-hit-and-maintain-a-steady-120-fps-on-sonys-playstation-groove/"><u>Elevate Your Gaming Experience: How to Hit and Maintain a Steady 120 FPS on Sony's PlayStation Groove!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a38-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A38 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-correcting-read-errors-in-call-of-duty-warzone-versions-50-and-31/"><u>Step-by-Step Guide to Correcting Read Errors in Call of Duty: Warzone - Versions [5.0] and [3.1]</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-lag-problems-head-on-how-to-optimize-your-connection-and-improve-back-4-blood-performance/"><u>Tackling Lag Problems Head-On: How to Optimize Your Connection and Improve 'Back 4 Blood' Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
 </ul></div>
 

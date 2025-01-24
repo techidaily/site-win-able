@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2025-01-12T08:01:49.603Z
-updated: 2025-01-17T19:17:08.178Z
+date: 2025-01-17T17:06:55.535Z
+updated: 2025-01-24T16:47:49.343Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -51,6 +51,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  When you’re sure that your machine meets (or better,**way above** ) the minimum system requirements to run the games, but you’re still experiencing FPS dopping problems, please move on to the other fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
 
@@ -79,6 +83,10 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Modify your network settings
 
  There are some quick tweaks that you can do with your router to improve your network connectivity situation, and thus help to improve the FPS in games. Check the following to see if you’ve done them all:
@@ -95,6 +103,10 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -107,6 +119,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 ### 4.2 Switch to a public DNS server
@@ -117,23 +133,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -143,13 +151,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -158,7 +166,7 @@ To do so:
  There are mainly 2 ways you can update the drivers for your video card and network card: manually or automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics and network drivers manually
@@ -180,10 +188,6 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -194,10 +198,6 @@ and your network card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -225,7 +225,7 @@ To change the power mode:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
@@ -255,14 +255,20 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-filigree-alterations/"><u>[Updated] In 2024, Expert Filigree Alterations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-in-depth-analysis-of-vsdcs-features-and-its-best-software-rival/"><u>[Updated] In 2024, In-Depth Analysis of VSDC's Features and Its Best Software Rival</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-jokes-and-puns-iphone-edition/"><u>[Updated] Jokes and Puns IPhone Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-camera-balance-gimbals-for-drones-explained/"><u>[Updated] Mastering Camera Balance Gimbals for Drones Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-persistent-crashing-in-minecraft-dungeons-on-windows/"><u>Easy Fixes for Persistent Crashing in Minecraft Dungeons on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme Narzo N55 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-when-msi-afterburner-fails-to-detect-graphics-card-in-windows-11/"><u>Solution Steps for When MSI Afterburner Fails to Detect Graphics Card in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fix-addressing-black-desert-onlines-sudden-shutdowns/"><u>Step-By-Step Fix: Addressing Black Desert Online's Sudden Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/valorants-solution-overcoming-the-challenge-of-vanguard-starting-up/"><u>Valorant's Solution: Overcoming the Challenge of Vanguard Starting Up</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-converting-twitter-video-lyrics-to-custom-gif-animations/"><u>[New] 2024 Approved Converting Twitter Video Lyrics to Custom GIF Animations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-the-best-of-gopro-cameras/"><u>[New] Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-essentials-of-animated-visual-communication-for-2024/"><u>[New] Essentials of Animated Visual Communication for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-amplify-your-contents-reach-with-optimal-publishing-days/"><u>[Updated] 2024 Approved Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-affordable-methods-for-video-and-text-synergy/"><u>[Updated] Affordable Methods for Video and Text Synergy</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S17 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-grope-solutions-fixing-frame-rate-hiccups-for-smooth-gaming-experience/"><u>Fallout Grope Solutions: Fixing Frame Rate Hiccups for Smooth Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/half-life-alyx-on-pc-how-to-address-lag-frame-drops-and-stutter-for-a-smooth-gameplay-experience/"><u>Half-Life Alyx on PC: How to Address Lag, Frame Drops & Stutter for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-unlock-and-download-files-when-facing-steam-content-restrictions/"><u>How to Unlock and Download Files When Facing Steam Content Restrictions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/is-gpu-overclocking-a-secure-option-for-boosting-graphics-power-expert-advice-by-yl-software/"><u>Is GPU Overclocking a Secure Option for Boosting Graphics Power? Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-star-wars-jedi-fallen-order-errors-get-fixed/"><u>PC Gamers Rejoice as Star Wars Jedi: Fallen Order Errors Get Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-blossoms-high-latency-issues-a-guide-for-pc-gamers/"><u>Resolving Blossom's High Latency Issues: A Guide for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-scavengers-crash-issues-on-personal-computers/"><u>Resolving Scavengers Crash Issues on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-wont-start-here-are-the-fixes-you-need-to-know/"><u>Rocket League Won't Start? Here Are the Fixes You Need to Know</u></a></li>
 </ul></div>
 

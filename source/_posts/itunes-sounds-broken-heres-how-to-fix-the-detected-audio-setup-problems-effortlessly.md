@@ -1,7 +1,7 @@
 ---
 title: ITunes Sounds Broken? Here's How to Fix the Detected Audio Setup Problems Effortlessly
-date: 2024-08-18T15:24:50.655Z
-updated: 2024-08-19T15:24:50.655Z
+date: 2025-01-17T16:11:07.340Z
+updated: 2025-01-24T16:49:05.678Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
  Playing**FIFA 19** and got a**DirectX** error message all of a sudden? You’re not alone. But don’t worry – it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes For FIFA 19 DirectX Error
 
  Here are 3 fixes that have helped other users resolve the DirectX error on FIFA 19 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,18 +43,19 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -74,8 +76,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Check if your PC meets the system requirements for FIFA 19
 
  FIFA may also crash with a DirectX if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for FIFA 19.
@@ -106,16 +109,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -137,8 +138,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-clearer-facebook-audio-addressing-half-volume-problems/"><u>[New] 2024 Approved Clearer Facebook Audio Addressing Half-Volume Problems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[New] In 2024, Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-facebook-friendly-xbox-play-for-2024/"><u>[New] The Ultimate Guide to Facebook-Friendly Xbox Play for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-basics-of-youtube-compliance-guidelines/"><u>[Updated] The Basics of YouTube Compliance Guidelines</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-directx-errors-in-fifa-20-a-comprehensive-guide-to-uninterrupted-gaming-fun/"><u>Bypassing DirectX Errors in FIFA 20: A Comprehensive Guide to Uninterrupted Gaming Fun</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/erneuern-und-verbessern-von-bildern-auf-ultra-hd-4k8k10-qualitat-durch-den-einsatz-der-ki-fahigkeiten-von-winxvideo/"><u>Erneuern Und Verbessern Von Bildern Auf Ultra-HD (4K/8K/1^0) Qualität Durch Den Einsatz Der KI-Fähigkeiten Von WinxVideo</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-327-in-star-wars-battlefront-ii-no-more-detailed-correction-guide/"><u>Error Code 327 in Star Wars Battlefront II No More - Detailed Correction Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-simplicity-to-spectacle-the-rise-of-hdr-in-video-editing/"><u>From Simplicity to Spectacle The Rise of HDR in Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-stability-issues-top-strategies-for-a-smooth-gaming-experience/"><u>Garry's Mod Stability Issues? Top Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-configure-your-amd-ryzen-master-software/"><u>How to Successfully Reinstall and Configure Your AMD Ryzen Master Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/spark-ar-graphics-mastering-the-art-with-downloadable-color-lookups/"><u>Spark AR Graphics Mastering the Art with Downloadable Color Lookups</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-your-chrome-in-no-time-expert-tips-and-tricks/"><u>Speeding Up Your Chrome in No Time - Expert Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-phantom-v-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Phantom V Flip Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-launch-origin-comprehensive-solutions-for-windows-1011-playstation-gamers/"><u>Why Can't I Launch Origin? Comprehensive Solutions for Windows 10/11 PlayStation Gamers</u></a></li>
+</ul></div>
 

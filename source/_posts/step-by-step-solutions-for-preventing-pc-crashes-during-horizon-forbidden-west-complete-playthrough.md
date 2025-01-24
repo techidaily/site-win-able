@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Preventing PC Crashes During 'Horizon Forbidden West' Complete Playthrough
-date: 2024-08-18T15:23:51.549Z
-updated: 2024-08-19T15:23:51.549Z
+date: 2025-01-19T16:54:12.377Z
+updated: 2025-01-24T16:12:04.440Z
 tags:
   - win11
   - win10
@@ -38,11 +38,17 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Scavengers continues to crash, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -59,6 +65,10 @@ To check the specs of your PC:
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Device drivers are essential to the functioning of your computer system. If your Scavenger game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,6 +81,11 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -93,9 +108,6 @@ To check the specs of your PC:
 
  Has the Scavenger crashing issue been fixed? If yes, then great. If it’s no joy, please try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update Unreal Engine 4 (if you’re on Epic Games Launcher)
 
  If Scavengers crashes while you’re on Unreal Engine, it is possible that the current version of Unreal Engine on your launcher is faulty or corrupt, causing Scavenger to crash. In this case, you can check for a newer Unreal Engine, install it to see if it solves your woe.
@@ -103,17 +115,11 @@ To check the specs of your PC:
 Here is how to do it:
 
 1. Open**Epic Games** **Launcher** , click **Unreal Engine** \> **Library** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ue.png)
 2. From there, you will see your current version of Unreal Engine. Click the**down arrow** to see if you have the latest one installed.
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update DirectX
 
  Your game of Scavengers may crash if you don’t have the latest version of DirectX. So you should check on your PC whether you have the latest version; if you don’t, you should update it.
@@ -121,18 +127,16 @@ Here is how to do it:
  To check your DirectX version:
 
 1. On your keyboard, press **the Windows logo ke** y, then copy & paste **dxdiag** into the box and click **dxdiag** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
@@ -141,8 +145,9 @@ Here is how to do it:
 With the latest DirectX, check to see if Scavengers still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and network bandwidth and even induce instability issues.
@@ -153,16 +158,10 @@ Here’s how to close background apps:
 
 1. On your keyboard, press the **Windows logo** **key** , then press **Ctrl** , **Shift**  and **Esc**  keys at the same time to bring up Task Manager.
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  Many players have overlocked their CPU or GPU to squeeze extra performance out of the existing components. The downside is that, high clock speed may induce stability issues and even crashes to your system.
@@ -181,8 +180,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +187,21 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-your-video-watchlist-activate-av1-on-youtube-for-2024/"><u>[Updated] Elevate Your Video Watchlist - Activate AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/guaranteed-safety-for-your-inbox-mastering-gmail-backup-with-gmvault-and-setting-up-auto-backup-routines/"><u>Guaranteed Safety for Your Inbox: Mastering Gmail Backup with GMVault & Setting Up Auto-Backup Routines</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-saving-selected-cells-from-your-spreadsheet-as-a-pdf-file/"><u>Guide: Saving Selected Cells From Your Spreadsheet as a PDF File</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-streams-youtube-buffer-in-chromesafari/"><u>In 2024, Master Your Streams YouTube Buffer in Chrome/Safari</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-plan-to-grow-your-subscriber-base/"><u>In 2024, The Ultimate Plan to Grow Your Subscriber Base</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211455877-9782017289630-les-bienfaits-de-la-sonotherapie/"><u>Les bienfaits de la sonothérapie | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-microsoft-excels-scenario-manager-a-step-by-step-guide/"><u>Mastering Microsoft Excel's Scenario Manager: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-privacy-controls-how-to-secretly-manage-visibility-of-excel-worksheets/"><u>Mastering Privacy Controls: How to Secretly Manage Visibility of Excel Worksheets</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-the-price-points-a-detailed-review-of-the-agile-swagtron-swagboard-t1/"><u>Navigating Through the Price Points: A Detailed Review of the Agile Swagtron Swagboard T1</u></a></li>
+<li><a href="https://win-able.techidaily.com/quickly-enhance-productivity-using-excel-template-designs/"><u>Quickly Enhance Productivity Using Excel Template Designs</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-windows-11-parental-guidance-features/"><u>Setting Up Windows 11 Parental Guidance Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004022241-smooth-entry-into-fortnite-expert-tips-for-swift-login-solutions/"><u>Smooth Entry Into Fortnite: Expert Tips for Swift Login Solutions</u></a></li>
+</ul></div>
 

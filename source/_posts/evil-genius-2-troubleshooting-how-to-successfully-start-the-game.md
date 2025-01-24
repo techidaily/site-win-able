@@ -1,7 +1,7 @@
 ---
 title: "Evil Genius 2 Troubleshooting: How to Successfully Start the Game"
-date: 2025-01-10T22:58:34.524Z
-updated: 2025-01-18T09:45:28.219Z
+date: 2025-01-21T16:23:31.567Z
+updated: 2025-01-24T16:21:48.333Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -53,19 +45,23 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
  On your keyboard, press**the Windows logo key** and type**Epic Games Launcher** . In the list of search results, click**Epic Games Launcher** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
@@ -92,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
@@ -126,13 +118,17 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -149,6 +145,10 @@ _You can do it for free if you like, but it’s partly manual._
  Then click**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
 
@@ -177,7 +177,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
@@ -203,7 +203,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your computer.
@@ -234,18 +234,22 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-most-excellent-iphoneandroiddslr-gimbal-options/"><u>2024 Approved Most Excellent iPhone/Android/DSLR Gimbal Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-ls-0013-kickoff-hiccup-in-fortnite-everything-you-need-to-know/"><u>Beating the LS-0013 Kickoff Hiccup in Fortnite – Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/best-of-the-best-elite-recharging-solutions-for-your-batteries-2024-edition/"><u>Best of the Best: Elite Recharging Solutions for Your Batteries - 2024 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-knowledge-setting-windows-filter-keys/"><u>Essential Knowledge: Setting Windows Filter Keys</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolve-code-vein-game-crashes-effectively/"><u>Fixing the Issue: Resolve 'Code Vein' Game Crashes Effectively</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-your-pc-for-better-performance-in-phasmophobia/"><u>Optimizing Your PC for Better Performance in Phasmophobia</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-warzones-no-match-found-dilemma-a-guide-for-pc-gamers/"><u>Overcoming Warzone's 'No Match Found' Dilemma: A Guide for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-painless-way-to-uninstall-geforce-experience-from-windowsmacos/"><u>Quick and Painless Way to Uninstall GeForce Experience From Windows/MacOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-cod-battle-royales-warring-dev-error-6328-with-top-tips/"><u>Resolve Cod: Battle Royale's Warring Dev Error #6328 with Top Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/seamless-ppt-showcase-across-tablets-and-laptops-for-gmeet/"><u>Seamless PPT Showcase Across Tablets & Laptops for GMeet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-guide-resolving-showbox-app-malfunction-issues/"><u>Troubleshooting Guide: Resolving Showbox App Malfunction Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-full-ram-capacity-on-windows-systems/"><u>Unleashing Full RAM Capacity on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-n-103003-expert-strategies-to-resolve-issues-quickly-and-efficiently-in-tarkov/"><u>'Error Code N 103003': Expert Strategies to Resolve Issues Quickly and Efficiently in Tarkov</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-fundamentals-of-creating-alluring-podcast-descriptions-for-2024/"><u>[Updated] The Fundamentals of Creating Alluring Podcast Descriptions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/armored-core-6-on-pc-diagnosing-and-fixing-runtime-errors-to-secure-your-fight-in-the-fires-of-rubicon/"><u>Armored Core 6 on PC: Diagnosing and Fixing Runtime Errors to Secure Your Fight in the Fires of Rubicon</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-status-error-43-resolved/"><u>Device Status: Error 43 Resolved</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/efficiently-archive-your-content-vimeo-record-basics/"><u>Efficiently Archive Your Content Vimeo Record Basics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-rigorous-laptop-evaluation-techniques-insights-from-zdnets-review-process/"><u>Exploring Rigorous Laptop Evaluation Techniques: Insights From ZDNet's Review Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013874101-halo-infinite-data-center-connection-errors-heres-how-to-fix-them/"><u>Halo Infinite Data Center Connection Errors? Here's How to Fix Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/harmonizing-talents-for-triumph-the-crucial-pair-dictating-effective-market-introductions/"><u>Harmonizing Talents for Triumph: The Crucial Pair Dictating Effective Market Introductions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-the-reconnect-loop-issue-in-lol-2er-2024-was-successfully-addressed/"><u>How the Reconnect Loop Issue in LoL 2Er 2024 Was Successfully Addressed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-add-music-to-whatsapp-status/"><u>In 2024, Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-alert-ftddi-device-failure-linked-to-unmatched-drivers-compromising-memory-safety/"><u>Incompatibility Alert: FTDDI Device Failure Linked To Unmatched Drivers Compromising Memory Safety</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-13-5-ways-to-get-into-a-locked-apple-iphone-13-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 13? 5 Ways to get into a Locked Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-rogue-pc-errors-discover-the-latest-top-6-fixes-for-stray-crash-incidents/"><u>Say Goodbye to Rogue PC Errors: Discover the Latest Top 6 Fixes for 'Stray Crash' Incidents</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-to-resolve-javascript-issues-on-discord/"><u>Simple Steps to Resolve JavaScript Issues on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gaming-solutions-for-the-common-geforce-experience-error-message/"><u>Trouble-Free Gaming: Solutions for the Common GeForce Experience Error Message</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-iphone-unrecognized-by-itunes-on-pc-running-windows-prise-in-their-work-as-well-as-the-ethical-implications-of-these-decisions-within-486/"><u>Troubleshooting Guide: IPhone Unrecognized by iTunes on PC Running Windows Prise in Their Work, as Well as the Ethical Implications of These Decisions Within a Corporate Setting.</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-not-starting-discover-proven-strategies-to-get-the-game-running-smoothly/"><u>Warzone Not Starting? Discover Proven Strategies to Get the Game Running Smoothly!</u></a></li>
 </ul></div>
 

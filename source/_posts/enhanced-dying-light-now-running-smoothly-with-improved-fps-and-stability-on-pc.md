@@ -1,7 +1,7 @@
 ---
 title: Enhanced Dying Light Ⅱ - Now Running Smoothly with Improved FPS and Stability on PC
-date: 2024-08-18T15:24:49.604Z
-updated: 2024-08-19T15:24:49.604Z
+date: 2025-01-23T16:29:29.086Z
+updated: 2025-01-24T16:51:25.293Z
 tags:
   - win11
   - win10
@@ -78,12 +78,17 @@ To make your game permanently run with admin rights for all users:
 2. Click on the**Compatibility** tab, then click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Change-settings-for-all-users.jpg)
 3. Check the box next to**Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Run-this-program-as-an-administrator-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, launch the game. If your issue persists, don’t worry! Below are some other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable background applications
 
@@ -93,14 +98,8 @@ To make your game permanently run with admin rights for all users:
 
 1. On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box.
 2. Type **taskmgr**  and hit Ener to open the Task Manager.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Right-click the process that you don’t need to run while playing Avatar: Frontiers of Pandora and select **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
 
 If your game still crashes, proceed to the next fix.
@@ -112,20 +111,27 @@ If your game still crashes, proceed to the next fix.
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 1. On your keyboard, press the **Windows logo key** , then type **check for updates** . Open the settings **Check for updates**  from the list of results.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button **Download & install** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
 If your issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update your graphics card driver
 
  One of the most common culprits behind game crashes and instability is outdated or faulty graphics card drivers. Nvidia, AMD, and Intel regularly issue optimized driver updates for games to run best on their GPUs.
@@ -142,24 +148,19 @@ If your issue persists, try the next fix below.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Verify game files
 
  Sometimes crashes or conflicts stem from the game files themselves becoming corrupted or left partially downloaded. Most game platforms have built-in utilities to check and restore game file integrity.
@@ -187,38 +188,35 @@ If your issue persists, try the next fix below.
 1. Launch Steam.
 2. In the**LIBRARY** , right-click Avatar and select**Properties** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
 When the process is completed, launch your game and see how things go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable in-game overlay (Ubisoft Connect)
 
  The overlay feature often requires additional processing power and memory, and disabling it may reduce the overall burden on your system during gameplay.
 
 1. On Ubisoft Connect PC, open the side menu by selecting the**three-lined icon** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-three-lines.jpg)
 2. Select **Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**General** section,**uncheck** the box next to Enable in-game overlay for supported games.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-Ubisoft-Connect.jpg)
 
 Try to relaunch your game to see if it takes effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Try -dx11/-dx12 in launch arguments (Ubisoft Connect)
 
  Certain games may have compatibility issues or encounter errors related to specific DirectX versions. By forcing the game to use either DirectX 11 (“-dx11”) or DirectX 12 (“-dx12”) through launch arguments, you are providing a directive for the game to utilize a particular graphics API.
@@ -226,9 +224,6 @@ Try to relaunch your game to see if it takes effect.
 1. Open Ubisoft Connect PC.
 2. Go to the**Games** tab and choose your game.
 3. Select**Properties** in the menu. Under**Game launch arguments** , enter**\-dx12** or**\-dx11** into the box and click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-dx12.jpg)
 
 If this doesn’t work, proceed to the next fix.
@@ -243,18 +238,21 @@ If this doesn’t work, proceed to the next fix.
 2. Type**taskmgr** and hit Enter.  
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. In the**Processes** tab, right-click your game and select**Go to details** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Go-to-details.jpg)
 4. Now the executable will be highlighted, right-click it and select**Set priority > High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Set-priority-High-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, launch Avatar: Frontiers of Pandora. If your game still crashes frequently, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 10\. Check for corrupted system files
 
  Over time, critical Windows system files can become corrupted or damaged from normal PC use, software installations, updates, malware, bad shutdowns, and more. Corrupted files like DLLs, drivers, and registry keys can cause instability, crashes, and error messages.
@@ -263,14 +261,8 @@ If this doesn’t work, proceed to the next fix.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Launch Fortect and run a complete scan.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. You’ll get a scan summary listing all the issues it detects. Click **Start Repair** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
 Once done, reboot your device and try to launch the game.
@@ -285,8 +277,6 @@ Once done, reboot your device and try to launch the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +284,16 @@ Once done, reboot your device and try to launch the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-pick-ios-sound-artisans-guidebook/"><u>[Updated] Premium Pick IOS Sound Artisans Guidebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-10-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 10 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002877658-century-age-of-ashes-pc-version-troubleshooting-fix-constant-crash-issues/"><u>Century: Age of Ashes PC Version Troubleshooting – Fix Constant Crash Issues!</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-nier-abelian-storm-stutters-effective-solutions-unveiled/"><u>Deciphering NieR: Abelian Storm Stutters: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/leading-edge-in-game-capture-moving-past-fbx-methods/"><u>Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-nearby-landscapes-on-roblox-easily-for-2024/"><u>Navigate Nearby Landscapes on Roblox Easily for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-the-perpetual-launch-screen-in-madden-nfl-22/"><u>Resolved: Overcome the Perpetual Launch Screen in Madden NFL 22</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices-for-2024/"><u>Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-getting-your-origin-game-back-online/"><u>Solution Steps for Getting Your Origin Game Back Online</u></a></li>
+</ul></div>
 

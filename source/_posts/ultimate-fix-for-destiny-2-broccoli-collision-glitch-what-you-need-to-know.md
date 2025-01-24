@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Destiny 2 Broccoli Collision Glitch - What You Need to Know
-date: 2024-08-18T15:22:12.817Z
-updated: 2024-08-19T15:22:12.817Z
+date: 2025-01-23T16:22:42.979Z
+updated: 2025-01-24T17:01:07.772Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Over the past few years of**Destiny 2** ‘s release, we have been receiving on-
  If you encounter the very same error, you can navigate your way through the fixes below to find the one that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Fix 1: Check if your PC meets the minimum requirements for Destiny 2](https://tools.techidaily.com/drivereasy/download/)
@@ -34,6 +35,10 @@ Over the past few years of**Destiny 2** ‘s release, we have been receiving on-
   * [On Windows 10](https://tools.techidaily.com/drivereasy/download/)  
   * [On Windows 11](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check if your PC meets the minimum requirements for Destiny 2
 
@@ -54,13 +59,15 @@ Here’s how:
 To check the specs of your PC:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
@@ -76,9 +83,6 @@ To check the specs of your PC:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
@@ -91,8 +95,9 @@ To check the specs of your PC:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Enable Vsync option in Game Settings
 
  VSync is a graphics technology designated to reduce syncing issues by matching the graphics processor’s frame rate with the monitor’s refresh rate. According to some players, enabling VSync has helped them mitigate the broccoli error crash in Destiny 2 games. You can try it to see if it works in your case.
@@ -114,40 +119,38 @@ The steps are pretty easy:
 Here’s how to do it:
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press the**Windows logo** key and type**settings** , then click on**Settings** as it pops up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/settings.png)
 2. In the pop-up window, click the**Gamings** category.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming.png)
 3. In the left panel, click**Game Mode** , then switch the toggle for**Game Mode** to the opposite status.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/game-mode.png)
 4. Run Destiny 2 and see if the Broccoli crash error is solved. If it doesn’t happen anymore, then congrats! If it still persists. try**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, press the Windows key and the I key together to open Settings.
 2. Select Gaming, then Game Mode.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/game-mode-win-11-1.png)
 3. Toggle off the Game Mode option to see if Broccoli crashes still. If so, toggle it on and see how Broccoli works.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/game-mode-on-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Install all available Windows updates
 
@@ -156,16 +159,14 @@ Here’s how to do it:
 Here are the steps:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 4. Restart your computer.
@@ -174,9 +175,6 @@ Here are the steps:
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
@@ -205,8 +203,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +210,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-handheld-gyro-stabilization-upgrade/"><u>[Updated] 2024 Approved Handheld Gyro Stabilization Upgrade</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-horizon-zero-dawns-speed-a-guide-for-better-performance/"><u>Boosting Horizon Zero Dawn's Speed - A Guide for Better Performance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/deep-dive-android-edition-of-adobe-lightroom-review/"><u>Deep Dive Android Edition of Adobe Lightroom Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-eliminate-lag-while-playing-avatar-frontiers-of-pandora/"><u>Effective Solutions to Eliminate Lag While Playing Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-dying-lights-fps-lag-during-action-packed-shooter-sequences/"><u>Expert Tips to Resolve Dying Light's FPS Lag During Action-Packed Shooter Sequences</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-prevent-ready-or-not-from-crashing-pc-troubleshooting-guide/"><u>Fix & Prevent Ready Or Not From Crashing: PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-computer-overcoming-persistent-content-warning-errors-and-crashes/"><u>Fix Your Computer: Overcoming Persistent 'Content Warning' Errors and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-improve-your-ark-experience-on-pc-the-best-fps-optimization-techniques/"><u>How to Improve Your ARK Experience on PC: The Best FPS Optimization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-overcome-the-not-launching-hurdle-for-overwatch-2-a-guide/"><u>How To Successfully Overcome The 'Not Launching' Hurdle for Overwatch 2 - A Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-find-x6-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Find X6 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-xr-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone XR Safe and Legal</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f34-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F34 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>In 2024, The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975885102-lenovo-usb-drivers-not-working-heres-how-you-can-easily-repair-them/"><u>Lenovo USB Drivers Not Working? Here's How You Can Easily Repair Them</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-method-to-clear-email-clutter-avoid-rules-extra-accounts-with-one-trick-discover-how-on-zdnet/"><u>Simple Method to Clear Email Clutter: Avoid Rules, Extra Accounts with One Trick! – Discover How on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-cortana/"><u>Troubleshooting Guide: Fixes for Non-Responsive Cortana</u></a></li>
+</ul></div>
 

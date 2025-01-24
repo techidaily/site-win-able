@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2025-01-16T16:46:25.488Z
-updated: 2025-01-18T04:24:45.024Z
+date: 2025-01-22T17:12:40.250Z
+updated: 2025-01-24T16:44:10.097Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -49,16 +53,16 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
 
@@ -71,7 +75,7 @@ Restart your computer for the changes to take effect.
 4. Click**Display adapters** and right-click on your GPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
@@ -79,10 +83,6 @@ Restart your computer for the changes to take effect.
 6. Install the driver and reboot your PC.
 
 7. Check the issue is persist or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
 
@@ -92,11 +92,15 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
@@ -106,10 +110,6 @@ Restart your computer for the changes to take effect.
 5. Click **Apply** \> **OK** to save the changes.
 
 6. Restart your computer and check to see if the problem resolves.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -141,21 +141,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-capturing-top-notch-audio-without-microphone-dependency-for-2024/"><u>[New] Capturing Top-Notch Audio Without Microphone Dependency for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-iphone-video-mastery-from-fast-to-extremely-slow-motion-content-for-2024/"><u>[New] IPhone Video Mastery From Fast to Extremely Slow Motion Content for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-easy-win-for-pc-basic-clownfish-sound-change-guide/"><u>[Updated] In 2024, Easy-Win for PC Basic Clownfish Sound Change Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally-for-2024/"><u>A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-asus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Asus</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-corsairs-icue-software-malfunctions-on-recent-windows-versions/"><u>Easy Fixes for Corsair's iCUE Software Malfunctions on Recent Windows Versions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-your-tvs-frequent-malfunctions-a-step-by-step-guide/"><u>Easy Fixes for Your TV's Frequent Malfunctions – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-heart-of-iron-4-bugs-and-performance-issues-now-fixed/"><u>Expert Solutions for Heart of Iron 4 Bugs & Performance Issues - Now Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-ping-woes-and-smooth-gameplay-expert-advice-on-chivalry-2-optimization-tips-updated-for-2nnd-quarter-of-2024/"><u>Fixing Ping Woes and Smooth Gameplay: Expert Advice on Chivalry 2 Optimization [Tips Updated for 2Nnd Quarter of 2024]</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-gas-station-simulator-troubleshooting-pc-crashes/"><u>Fixing the Gas Station Simulator - Troubleshooting PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-slow-startup-problems-with-star-wars-battlefront-ii-for-pc-users/"><u>How to Fix Slow Startup Problems with Star Wars: Battlefront II for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-thx-spatial-audio-feature-on-your-windows-1110-device/"><u>How to Restore Thx Spatial Audio Feature on Your Windows 11/10 Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10plus-best-online-screen-recorders/"><u>In 2024, Top 10+ Best Online Screen Recorders</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-the-apple-vision-pro-exploring-costs-capabilities-and-more-through-firsthand-experience-a-complete-guide-by-zdnet/"><u>Inside the Apple Vision Pro: Exploring Costs, Capabilities & More Through Firsthand Experience - A Complete Guide by ZDNet</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/leverage-cookiebot-technology-for-improved-analytics-and-personalized-engagement-on-your-website/"><u>Leverage Cookiebot Technology for Improved Analytics and Personalized Engagement on Your Website</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-detected-game-protection-policy-violation-mistake-resolved/"><u>Troubleshooting the Detected Game Protection Policy Violation Mistake (Resolved)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears/"><u>[New] In 2024, Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-the-filmmakers-dilemma-in-filmora-for-2024/"><u>[New] Navigating the Filmmaker's Dilemma in Filmora for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-why-the-microsoft-sculpt-is-a-top-pick-for-an-ergonomic-keyboard-on-any-budget/"><u>Comprehensive Evaluation: Why the Microsoft Sculpt Is a Top Pick for an Ergonomic Keyboard on Any Budget</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/detailed-overview-of-windows-11-mobile-unveiling-the-specifications-launch-timeline-and-pricing-for-lumia-950-and-950-xl/"><u>Detailed Overview of Windows 11 Mobile: Unveiling the Specifications, Launch Timeline & Pricing for Lumia 950 and 950 XL</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-play-v-uninterrupted-overcoming-pc-game-crashes/"><u>How To Play V Uninterrupted: Overcoming PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-star-wars-battlefront-2s-persistent-black-screen-error-fixes-and-solutions/"><u>How to Resolve Star Wars Battlefront 2'S Persistent Black Screen Error - Fixes & Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-edits-from-image-to-engrossing-video-journey/"><u>In 2024, Leading Edits From Image to Engrossing Video Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-quick-repairs-stabilize-your-division-2-gaming-experience-effortlessly/"><u>Master Quick Repairs: Stabilize Your Division 2 Gaming Experience Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-black-ops-cold-war-graphics-glitches-successfully-resolving-compiling-shaders-error/"><u>Overcoming Black Ops Cold War Graphics Glitches – Successfully Resolving 'Compiling Shaders' Error</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-guide-restore-lost-data-from-sd-card-swiftly/"><u>Simple Guide: Restore Lost Data From SD Card Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-stop-paladins-crashing-issues-today-top-strategies-for-2nd4/"><u>Troubleshooting Made Easy: Stop Paladin's Crashing Issues Today, Top Strategies for 2nD4</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-comprehensive-guide-to-resolving-fifa-20-pc-game-crashes/"><u>Ultimate Fixes: Comprehensive Guide to Resolving FIFA 20 PC Game Crashes</u></a></li>
 </ul></div>
 

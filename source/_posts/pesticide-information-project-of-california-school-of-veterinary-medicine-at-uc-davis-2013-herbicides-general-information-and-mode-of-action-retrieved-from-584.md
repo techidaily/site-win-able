@@ -1,7 +1,7 @@
 ---
 title: "Pesticide Information Project of California, School of Veterinary Medicine at UC Davis (2013). Herbicides: General Information and Mode of Action. Retrieved From <http://ipm.ucanr.edu/PMG/PEER/html/herbi_glyphosate.html>"
-date: 2024-08-18T15:20:45.080Z
-updated: 2024-08-19T15:20:45.080Z
+date: 2025-01-18T16:16:04.574Z
+updated: 2025-01-24T16:00:45.644Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 You bought the Vive for fun but when you start SteamVR, you received the error message “Error 308”. It’s not a pleasant experience. Don’t worry, you’re not alone. This post will show you how to fix the error and bring you back to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +26,10 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 3. [Fix SteamVR installation path](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reinstall SteamVR](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Start Steam as administrator
 
@@ -48,8 +49,13 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 3. Restart Steam and SteamVR to check.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Fix SteamVR installation path
 
  When Steam was installed in a non-default folder and your SteamVR configuration path may be related to a non-existent path. This will cause you meet the SteamVR error 308\. You can fix it by correcting the installation path.
@@ -60,9 +66,6 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
  Navigate to “…Steam/steamapps/common/SteamVR/bin/win64” and run**vrpathtreg** to fix the path.
 3. Reboot Steam and SteamVR.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The missing or outdated device drivers in your computer can result in issues. To rule it out as the cause for your problem, you should verify that your drivers are up to date, and update those that aren’t.
@@ -83,16 +86,21 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall SteamVR
 
@@ -100,14 +108,8 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**appwiz.cpl** and press the Enter key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on**SteamVR** and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s3.jpg)
 4. Go to[Steam official website](https://store.steampowered.com/app/250820/SteamVR/) to download the latest version.
 5. Install and run the program to check.
@@ -121,8 +123,6 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,19 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-macs-best-in-show-top-10-screenshot-utilities-unveiled/"><u>[Updated] 2024 Approved Mac's Best in Show Top 10 Screenshot Utilities Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube/"><u>[Updated] In 2024, Unleashing Creativity Mastering the Art of 360-Degree Videography for YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/break-down-barriers-with-cost-free-vob-player/"><u>Break Down Barriers with Cost-Free VOB Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-eliminating-flicker-glitches-in-battle-royale-game/"><u>Effective Solutions for Eliminating Flicker Glitches in Battle Royale Game</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-130-music-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia 130 Music Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-rainbow-six-extraction-proven-solutions-to-combat-fps-drops/"><u>Maximizing Frame Rates in Rainbow Six Extraction: Proven Solutions to Combat FPS Drops</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-cost-face-generation-top-online-platforms/"><u>New In 2024, No-Cost Face Generation Top Online Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-between-corsair-icue-and-windows-operating-systems/"><u>Resolving Compatibility Problems Between Corsair iCUE and Windows Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-gmail-with-two-step-verification-a-comprehensive-tutorial/"><u>Securing Gmail with Two-Step Verification - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-crashing-problems-on-pc-updated-solutions-for-202/"><u>Solving CS2 Crashing Problems on PC: Updated Solutions for 202^</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-endless-loading-problem-for-a-seamless-among-us-experience/"><u>Solving the Endless Loading Problem for a Seamless Among Us Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-gta-vs-errgfxd3dinit-graphics-error/"><u>Troubleshooting and Fixing GTA V's ERR_GFX_D3D_INIT Graphics Error</u></a></li>
+</ul></div>
 

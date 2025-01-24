@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Age of Empires IV Download and Installation From the Microsoft Store, Now Functional"
-date: 2024-08-18T15:29:21.538Z
-updated: 2024-08-19T15:29:21.538Z
+date: 2025-01-22T16:10:28.665Z
+updated: 2025-01-24T17:09:10.544Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ Age of Empires IV is available on Microsoft Store and Steam. It’s a great mult
 If these simple solutions don’t help, move to the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -63,11 +64,11 @@ If these simple solutions don’t help, move to the fixes below.
 
  4) In the Settings, choose**Time and language** . Then check**Set time automatically** and check**Sync now** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1-1200x471.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Press the**Windows logo key + R** together. Type**wsreset** and press the Enter key.
 
@@ -98,11 +99,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,8 +115,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 If you can’t install the game, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable antivirus software
 
  Though the download appears to be complete, your antivirus or firewall program may block game files during the installation process for safety purposes. Disabling your antivirus program would address the issue.  
@@ -138,27 +141,16 @@ If you can’t install the game, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 
  2) Under Windows Update, click **Check for updates** . Then Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset or reinstall Windows
 
  If you’re still facing problems while downloading or installing, you can perform a Windows reset or maybe even reinstall it together. We all know reinstalling will delete all the data on your hard drive, you should back up all your important files before doing it.
@@ -180,8 +172,6 @@ If the problem remains, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +179,24 @@ If the problem remains, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-spectacular-camera-showcase-for-the-year-2024/"><u>[Updated] Spectacular Camera Showcase for the Year 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/4goproshooting/"><u>「4つの最適な方法でGoPro映像のファイルサイズを小さくしまSHOOTING」</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm6zw35pmc6zat5pig5yop44oh44o844k5yqg5bel44og44kv44ol44od44kv44cn/"><u>「長時間映像データ加工テクニック」</u></a></li>
+<li><a href="https://win-able.techidaily.com/5-effective-methods-for-shrinking-your-webm-files-free-online-tools/"><u>5 Effective Methods for Shrinking Your WebM Files - Free Online Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/6ieq5yuv6luk44ks5pon5l2c44gz44kl44gf44kb44gu44op44kk44k744oz44k56kab5lu277ya44od44oq44k344o86kej6kqs/"><u>自動車を操作するためのライセンス要件：ポリシー解説</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-buffering-and-frame-drops-in-obs-comprehensive-fix-guide-new-strategies/"><u>Beat Buffering and Frame Drops in OBS: Comprehensive Fix Guide - New Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/comparing-video-codecs-unpacking-mpeg-4-and-h264-distinctions/"><u>Comparing Video Codecs: Unpacking MPEG-4 and H.264 Distinctions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-converting-and-downloading-your-favorite-acast-podcasts-in-various-audio-formats/"><u>Comprehensive Guide: Converting and Downloading Your Favorite Acast Podcasts in Various Audio Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/computer-newbies-guide-top-five-important-sets-to-perform-with-your-latest-device/"><u>Computer Newbies Guide: Top Five Important Sets to Perform with Your Latest Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-for-free-with-these-simple-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format for Free with These Simple Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-your-portrait-videos-free-a-step-by-step-guide-to-landscape-transformation/"><u>Convert Your Portrait Videos Free: A Step-by-Step Guide to Landscape Transformation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pc-hdr-optimization-made-simple/"><u>PC HDR Optimization Made Simple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/recognizing-artificial-intelligence-illusions-identifying-ai-hallucinations/"><u>Recognizing Artificial Intelligence Illusions: Identifying AI Hallucinations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210180538-9781646543106-set-the-captives-free/"><u>Set The Captives Free | Free Book</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/srt-to-sub-shift-expert-strategies-and-actions-for-2024/"><u>SRT to SUB Shift Expert Strategies & Actions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-rtx-2070-super-gpu-drivers-free-download-for-windows-11-users/"><u>Update Your RTX 2070 Super GPU Drivers - Free Download for Windows 11 Users</u></a></li>
+</ul></div>
 

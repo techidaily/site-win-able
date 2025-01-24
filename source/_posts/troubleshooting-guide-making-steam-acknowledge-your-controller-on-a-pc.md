@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2025-01-11T01:10:37.340Z
-updated: 2025-01-17T16:56:00.359Z
+date: 2025-01-23T16:57:30.143Z
+updated: 2025-01-24T16:07:19.814Z
 tags:
   - win11
   - win10
@@ -45,13 +45,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
 
@@ -96,6 +96,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -108,10 +112,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -123,19 +123,23 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
@@ -143,10 +147,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -171,22 +171,18 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>[New] 2024 Approved A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-mirthful-user-sign-up-saga/"><u>[New] 2024 Approved Mirthful User Sign-Up Saga</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-parrot-prowess-in-bebop-an-in-depth-critique/"><u>[New] In 2024, Parrot Prowess in Bebop – An In-Depth Critique</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/amplifying-video-clarity-on-youtube-for-2024/"><u>Amplifying Video Clarity on YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-battle-rank-solutions-for-higher-fps-in-valorant/"><u>Boosting Your Battle Rank: Solutions for Higher FPS in Valorant</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-fixes-for-stuttering-issues-during-outriders-gameplay-on-pc/"><u>Definitive Fixes for Stuttering Issues During Outriders Gameplay on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solution-to-preventing-frontier-game-from-crashing-on-desktop/"><u>Effortless Solution to Preventing Frontier Game From Crashing on Desktop</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/elevar-la-capacidad-del-sistema-de-tu-xbox-one-s-instrucciones-para-cambiar-al-disco-duro-a-una-unidad-de-estado-solido-mayor-en-gramos/"><u>Elevar La Capacidad Del Sistema De Tu Xbox One S: Instrucciones Para Cambiar Al Disco Duro a Una Unidad De Estado Sólido Mayor en Gramos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enhance-its-understanding-from-conversing-with-people/"><u>How Does ChatGPT Enhance Its Understanding From Conversing With People?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-steam-corrupt-disk-error-easily/"><u>How to Fix Steam Corrupt Disk Error Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-dying-light-games-persistent-performance-lags/"><u>How to Fix the Dying Light Game's Persistent Performance Lags</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-fixing-dauntless-pc-bugs-and-enjoying-uninterrupted-gaming/"><u>No More Frustration: Fixing Dauntless PC Bugs and Enjoying Uninterrupted Gaming</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fps-boost-tips-for-ark-primeval-adventures-on-pc-a-comprehensive-walkthrough/"><u>Ultimate FPS Boost Tips for ARK: Primeval Adventures on PC – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services-for-2024/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-seamlessly-integrated-into-pc-gaming/"><u>Yakuza - Like a Dragon Seamlessly Integrated Into PC Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-streamers-dilemma-obs-or-twitch-studio/"><u>[New] The Ultimate Streamer's Dilemma OBS or Twitch Studio?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-audio-transformation-techniques-for-ps5ps4/"><u>[New] Unveiling Audio Transformation Techniques for PS5/PS4</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>[Updated] Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-googles-breakthrough-introduction-to-palm-2-model/"><u>Inside Google's Breakthrough: Introduction to PaLM 2 Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-roblox-error-277-on-windows-expert-tips-for-2n24/"><u>Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-confirm-your-game-data-for-smooth-playback/"><u>Overcoming Launch Problems: Confirm Your Game Data for Smooth Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-workflows-with-an-exclusive-run-command-feature-for-windows-11/"><u>Revolutionize Your Workflows with an Exclusive Run Command Feature for Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-fortnites-incessant-loading-screen-error-a-comprehensive-guide/"><u>Solving Fortnite's Incessant 'Loading Screen Error': A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-propsysdll-file-couldnt-be-located-issue/"><u>Solving the PropSys.dll File Couldn't Be Located Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-playing-rainbow-six-siege-gratis-edition-2024/"><u>Top Tips for Playing Rainbow Six Siege Gratis Edition - 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620261786-transform-iphone-snaps-into-funny-or-fancy-gifs-the-ultimate-technique/"><u>Transform iPhone Snaps Into Funny or Fancy GIFs – The Ultimate Technique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-playback-problems-on-youtube-with-windows-10/"><u>Troubleshooting Audio Playback Problems on YouTube with Windows 10</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-a1-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo A1 5G</u></a></li>
 </ul></div>
 

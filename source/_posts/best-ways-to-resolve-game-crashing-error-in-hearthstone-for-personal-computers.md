@@ -1,7 +1,7 @@
 ---
 title: Best Ways to Resolve Game-Crashing Error in Hearthstone for Personal Computers
-date: 2025-01-14T16:47:56.108Z
-updated: 2025-01-18T02:28:26.823Z
+date: 2025-01-23T16:20:12.709Z
+updated: 2025-01-24T16:29:17.666Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
   
 ![Days Gone disable overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay.jpg)
@@ -59,15 +55,15 @@ If this didn’t work, move on to the next fix.
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select**LOCAL FILES** . Then click**Verify integrity of game files…** . This will take several minutes to complete.  
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files.jpg)
 
 However, if this didn’t help, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Adjust in-game settings
 
@@ -92,10 +88,6 @@ However, if this didn’t help, proceed to the next fix.
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select the**GRAPHICS** tab. Then adjust the following settings:
 
 **CHROMATIC ABERRATION:** OFF  
@@ -111,7 +103,7 @@ However, if this didn’t help, proceed to the next fix.
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
@@ -122,6 +114,10 @@ However, if this didn’t help, proceed to the next fix.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -130,6 +126,10 @@ However, if this didn’t help, proceed to the next fix.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -149,7 +149,7 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -164,21 +164,17 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Compatibility** tab. Check the box**Disable fullscreen optimizations** . Then click**Change high DPI settings** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-fullscreen-optimization.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check the box**Override high DPI scaling behavior** . Then click**OK** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/override-DPI-scaling.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Apply > OK** .  
   
@@ -210,18 +206,18 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Select**High performance** and click**Save** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-save.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After saving the changes, launch Days Gone and check if it helped.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable background apps
@@ -240,6 +236,10 @@ After saving the changes, launch Days Gone and check if it helped.
 
 Now launch Days Gone and check it can help fix the low frame rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Disable Windows 10 Game Mode
 
  Game Mode is a feature introduced to Windows 10 to make gaming a much better experience. But many PC gamers have noticed that with Game Mode enabled, performance issues such as poorer frame rates, stutters and freezes would arise. To prevent these from happening, you can follow the steps below to turn off Game Mode:
@@ -251,7 +251,7 @@ Now launch Days Gone and check it can help fix the low frame rate.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
@@ -279,17 +279,18 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>[New] Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>[New] Expert Guide to Pixlr Edits Top 15 Tricks for Perfection</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009438432-beat-fifa-19-computer-glitches-once-and-for-all-solutions-inside/"><u>Beat FIFA 19 Computer Glitches Once and For All - Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-fixing-the-infamous-thaumaturge-game-crashes-on-personal-computers/"><u>Comprehensive Guide: Fixing the Infamous Thaumaturge Game Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/crash-no-more-optimizing-your-windows-experience-with-a-smooth-dauntless-adventure/"><u>Crash No More: Optimizing Your Windows Experience with a Smooth Dauntless Adventure</u></a></li>
-<li><a href="https://win-able.techidaily.com/crusader-kings-ii-boot-up-solution-a-user-guide/"><u>Crusader Kings II Boot-Up Solution: A User Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-correcting-and-preventing-audio-errors-in-halo-infinite/"><u>Expert Advice: Correcting and Preventing Audio Errors in Halo Infinite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-started-with-microsoft-copilot-on-macos-systems/"><u>Getting Started with Microsoft Copilot on macOS Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-lite-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Lite Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a05s-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A05s Phone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-potent-functionality-a-review-of-the-durable-samsung-gear-s3-frontier-timepiece/"><u>Unboxing the Potent Functionality: A Review of the Durable Samsung Gear S3 Frontier Timepiece</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/unusual-sounds-from-your-pc-discover-the-causes-with-yl-computing-and-solutions/"><u>Unusual Sounds From Your PC: Discover the Causes with YL Computing & Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-kingmaker-ajays-youtube-revenue-revolution-for-2024/"><u>[New] From Creator to Kingmaker Ajay’s YouTube Revenue Revolution for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-boot-speed-with-simple-steps-in-windows-11-setup/"><u>Boosting Boot Speed with Simple Steps in Windows 11 Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-fixes-overcoming-the-perpetual-loading-screen-issue/"><u>Far Cry 5 Fixes: Overcoming the Perpetual Loading Screen Issue</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-realme-gt-5-240w-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme GT 5 (240W) FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>In 2024, Cinematic Brilliance in Motion Kinemaster Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-and-secure-playthroughs-on-your-computer-with-the-patched-fnaf-security-update/"><u>Optimized & Secure Playthroughs on Your Computer with the Patched FNAF Security Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-a-guide-to-successfully-running-payday-2-on-pc/"><u>Overcoming Launch Errors: A Guide to Successfully Running Payday 2 on PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-strategies-for-inshot-edits-for-2024/"><u>Professional Strategies for Inshot Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-captivating-content-learn-with-our-youtube-shorts-guide-for-2024/"><u>Quick, Captivating Content? Learn with Our YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-fatal-error-pnp-detected-in-windows-10-devices/"><u>Resolved: Critical Fatal Error 'PNP Detected' In Windows 10 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-performance-restored-say-goodbye-to-freezing-glitches/"><u>Rocket League Performance Restored - Say Goodbye to Freezing Glitches!</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-java-installation-obstacles-on-windows-os/"><u>Unblocking Java Installation Obstacles on Windows OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-expert-approved-4k-video-editing-software-the-top-choices/"><u>Updated In 2024, Expert-Approved 4K Video Editing Software The Top Choices</u></a></li>
 </ul></div>
 

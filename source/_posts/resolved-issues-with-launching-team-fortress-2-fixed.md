@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Issues with Launching Team Fortress 2 - Fixed!"
-date: 2024-08-18T15:22:19.076Z
-updated: 2024-08-19T15:22:19.076Z
+date: 2025-01-17T16:05:45.598Z
+updated: 2025-01-24T16:27:39.020Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 When you double-click Discord but the program won’t open, it could be very frustrating. Don’t panic, this problem is easy to fix. Instead of using the Discord web version, you can read the below content to fix your Discord application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  In this guide, you’ll learn 3 easy methods to fix Discord won’t open issue. Work your way down the list until you find the one that works.
@@ -31,17 +35,15 @@ When you double-click Discord but the program won’t open, it could be very fru
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Kill Discord task
 
  You can probably fix this glitch by a simple restart. Kill the Discord task completely and relaunch it.
 
  1) Press**the Windows logo key + R** together and type**cmd** on your keyboard. Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
@@ -51,8 +53,9 @@ When you double-click Discord but the program won’t open, it could be very fru
 3) Launch Discord again. It should be open normally.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Set your date/time automatically
 
  It may sound weird to you but it does help many users fix the problem. If you’ve already set your time automatically, you can move to the next fix. Or you can follow the steps below.
@@ -76,23 +79,14 @@ If it doesn’t work, move to the next fix.
 
  1) Find and right-click on the Discord icon on your Windows Taskbar. Sometimes it’s hidden, just click the “**Show hidden icons** ”. Then click **Quit Discord** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 4: Use Task Manager
 
  Use Task Manager to close Discord tasks entirely and restart it could help you fix this problem.
@@ -101,16 +95,14 @@ If it doesn’t work, move to the next fix.
 
  2) In the Process tab, choose Discord application and click**End Task** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart Discord. It should open.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your proxies
 
  If you’re using proxies while running Discord and have this problem, you need to disable your proxies.  
@@ -122,9 +114,6 @@ If it doesn’t work, move to the next fix.
 
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
  3) Click**Internet Options** .
@@ -139,6 +128,10 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Relaunch the Discord and it should open.
 
 ### Fix 6: Flushing your DNS
@@ -150,9 +143,6 @@ If it doesn’t work, move to the next fix.
 2) Press the**Windows logo key + R** together to open the Run box.
 
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
@@ -160,6 +150,10 @@ If it doesn’t work, move to the next fix.
 **ipconfig /flushdns**
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Launch the Discord again. It should open.
 
@@ -171,9 +165,6 @@ If it doesn’t work, move to the next fix.
 
  2) Type **appwiz.cpl** , then press **Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
  3) Right-click Discord in the list and select **Uninstall** .
@@ -181,6 +172,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -210,13 +205,19 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -234,8 +235,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +242,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-headline-hypnotizer-simulator/"><u>[New] 2024 Approved Headline Hypnotizer Simulator</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-cod-black-ops-4-lag-spikes-and-fps-drops/"><u>[SOLVED] COD Black Ops 4 Lag Spikes and FPS Drops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-audio-alchemy-free-perfectly-crafted-dj-template-videos-for-2024/"><u>[Updated] Audio Alchemy Free, Perfectly Crafted DJ Template Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-5-youtube-promo-tactics-for-max-impact/"><u>2024 Approved Top 5 YouTube Promo Tactics for Max Impact</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-vr-headset-showdown-the-best-of-2023-for-pc/"><u>2024 Approved VR Headset Showdown The Best of 2023 for PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-practices-for-ensuring-your-email-is-recognized-as-safe-by-providers/"><u>Best Practices for Ensuring Your Email Is Recognized as Safe by Providers</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-overcome-freezing-issue-optimization-success/"><u>Cyberpunk 2077 Overcome Freezing Issue - Optimization Success!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-instructions-for-enabling-hyper-v-on-your-windows-11-pc/"><u>Expert Instructions for Enabling Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/"><u>Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-11-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 11 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-critical-steam-ui-dll-loading-issue-fix-and-prevention-tips/"><u>Resolved: Critical Steam UI DLL Loading Issue - Fix and Prevention Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-amd-195-installer-errors-in-windows-systems/"><u>Solving AMD 195 Installer Errors in Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-error-0xc19n1e1-in-windows-11-systems/"><u>Troubleshooting and Fixing Error 0Xc19n1e1 in Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-mysteries-of-shiny-pokemon-in-scarlet-and-violet-85/"><u>Unveiling Mysteries of Shiny Pokémon in Scarlet and Violet (85)</u></a></li>
+</ul></div>
 

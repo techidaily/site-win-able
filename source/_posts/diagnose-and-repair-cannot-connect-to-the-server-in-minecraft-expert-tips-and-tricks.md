@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair 'Cannot Connect to the Server' In Minecraft - Expert Tips & Tricks
-date: 2024-08-18T15:24:38.032Z
-updated: 2024-08-19T15:24:38.032Z
+date: 2025-01-18T16:41:44.292Z
+updated: 2025-01-24T16:45:16.050Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  If you keep running into Days Gone crashing on PC, you’re not alone. New games can usually see a variety of bugs and issues, but before the new patch is released or reinstalling the entire game, you could troubleshoot the issue with some simple methods.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 4 fixes that have helped other players with Days Gone crashing on PC. You may not try them all. Just work your way down the list until you find the one that solves the problem.
@@ -71,14 +68,13 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
  Test the game to see if the driver update does the trick. If not, there are two more fixes you can try.
@@ -90,35 +86,41 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 #### If you’re playing on Steam
 
 1. Launch Steam and navigate to the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Days Gone** from the list and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to complete and check if you can play the game as expected. If not, proceed to **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 #### If you’re playing on Epic Games Store
 
 1. Open the Epic Games Launcher and select the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-1.jpg)
 2. Click the**Days Gone tile** and click the**icons with three dots** next to it. Then, click **Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the repair finished, restart the game test the issue. If the crash reoccurs, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Turn off overlays
 
  The overlay can also be a possible cause of Days Gone crash. So if you’re using any apps such as[**Steam**](https://tools.techidaily.com/drivereasy/download/) or **[GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  with an in-game overlay feature, disable them all to see how the game works. Here are the steps:
@@ -126,14 +128,15 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 #### On Steam
 
 1. Start the Steam client and go to the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Days Gone** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. On the**General** tab, untick**Enable Steam overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 #### On GeForce Experience
@@ -142,9 +145,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 2. Click the **cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 3. Toggle off **In-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  Relaunch the game again and you should be able to enjoy it without interruptions now.
@@ -163,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +170,21 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-harmonizing-platforms-linking-insta-and-tiktok/"><u>[New] 2024 Approved Harmonizing Platforms Linking Insta & TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-facetime-on-android-easily/"><u>[New] How To Facetime on Android Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[Updated] In 2024, Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011205961-boost-your-survival-game-in-dayz-improve-item-drops-now/"><u>Boost Your Survival Game in DayZ - Improve Item Drops Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/create-your-personal-animated-charger-economical-3d-printer-designed-for-3d-printing-enthusiasts-with-bambu-labs-at-less-than-50/"><u>Create Your Personal Animated Charger: Economical 3D Printer Designed for 3D Printing Enthusiasts with Bambu Labs at Less than $50</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-solving-the-persistent-issue-of-minecraft-dungeons-frequent-pc-freezes/"><u>Diagnosing & Solving the Persistent Issue of Minecraft Dungeon's Frequent PC Freezes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968249552-elgato-hd60-connection-woes-fix-it-fast-with-these-tips/"><u>Elgato HD60 Connection Woes? Fix It Fast with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-the-chill-fix-freezing-problems-in-fallout-4-for-a-seamless-play-experience/"><u>Ending the Chill: Fix Freezing Problems in Fallout 4 for a Seamless Play Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quick-and-easy-way-to-record-iphone-screens/"><u>In 2024, Quick & Easy Way to Record iPhone Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-starting-issues-in-lost-ark-a-comprehensive-fixers-handbook-gaming-woes/"><u>Overcome Starting Issues in 'Lost Ark': A Comprehensive Fixer’s Handbook Gaming Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-battlefield-2042s-directx-compatibility-problems-quickly-and-easily/"><u>Resolving Battlefield 2042'S DirectX Compatibility Problems Quickly and Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-11x-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme 11X 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-information.techidaily.com/whats-missing-from-todays-virtual-reality-library-insight/"><u>What's Missing From Today's Virtual Reality Library? - Insight</u></a></li>
+</ul></div>
 

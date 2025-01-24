@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Stability Issues in Crackdown 3 on PC Platforms"
-date: 2024-08-18T15:27:47.496Z
-updated: 2024-08-19T15:27:47.496Z
+date: 2025-01-17T16:33:27.305Z
+updated: 2025-01-24T16:48:20.349Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
 Many Windows users have been reporting the OBS not recording screen issue lately. If you’re one of them, don’t worry. Although this problem can be caused by a variety of reasons, you can fix it in easy steps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 simple solutions for you to troubleshoot the OBS not recording screen issue. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -43,42 +40,32 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  If OBS doesn’t have proper administrator privileges, it will fail to record your screen as expected, but you could run it as an administrator to fix the issue.
 
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
 
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Change the graphics settings
 
  For users who are running OBS on a laptop or a multi-GPU system, using the wrong graphics card will trigger performance issues with the specific capture type. So OBS may not capture your screen. To fix this, you can select the dedicated graphics card manually via Windows settings.
@@ -86,21 +73,34 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Click the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
-3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
@@ -135,8 +135,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +142,21 @@ Many Windows users have been reporting the OBS not recording screen issue lately
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-inside-look-whatsapps-vocal-messaging-network/"><u>[New] Inside Look WhatsApp's Vocal Messaging Network</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-picking-excellent-video-capture-professionals/"><u>[New] Mastering the Art of Picking Excellent Video Capture Professionals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-see-your-alerts-on-the-iphone-here-are-7-remedies-to-restore-them/"><u>Can't See Your Alerts on the iPhone? Here Are 7 Remedies to Restore Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-troubleshooting-ultimate-guide-to-stop-game-crashes/"><u>Dota 2 Troubleshooting: Ultimate Guide to Stop Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gaming-experience-by-eliminating-bloodhunts-performance-hiccups-on-desktop-computers/"><u>Enhance Your Gaming Experience by Eliminating BloodHunt's Performance Hiccups on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-stutter-ultimate-tips-for-smooth-gameplay-in-call-of-duty-vanguard-without-costs/"><u>Fixing Stutter: Ultimate Tips for Smooth Gameplay in Call of Duty: Vanguard Without Costs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>In 2024, Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/keywords-that-catapult-hashtag-hacks-in-gameplay-videos-for-2024/"><u>Keywords that Catapult Hashtag Hacks in Gameplay Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/login-limbo-no-more-the-unavailable-online-login-glitch-corrected/"><u>Login Limbo No More: The 'Unavailable Online Login' Glitch Corrected</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-greens-with-tag-heuers-golf-edition-watch-the-ultimate-companion-for-every-golfer-tech-insights/"><u>Mastering the Greens with Tag Heuer's Golf Edition Watch - The Ultimate Companion for Every Golfer | Tech Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013523793-step-by-step-stabilize-your-dota-2-gaming-experience-by-stopping-crashes/"><u>Step-by-Step: Stabilize Your Dota 2 Gaming Experience by Stopping Crashes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-difference-is-in-the-details-final-cut-pro-vs-final-cut-express/"><u>The Difference Is in the Details Final Cut Pro Vs. Final Cut Express</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-15-low-cost-ssl-certificates-reviewed/"><u>Top 15 Low-Cost SSL Certificates Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-technical-problems-encountered-by-users-during-software-installation-processes-updates-or-feature-usage-using-your-expertise-in-navigating-thro621/"><u>Troubleshoot Technical Problems Encountered by Users During Software Installation Processes, Updates, or Feature Usage, Using Your Expertise in Navigating Through Complex Systems with Ease.</u></a></li>
+</ul></div>
 

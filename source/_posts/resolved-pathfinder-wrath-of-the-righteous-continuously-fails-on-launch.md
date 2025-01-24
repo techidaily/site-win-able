@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Pathfinder: Wrath of the Righteous Continuously Fails on Launch"
-date: 2025-01-11T21:22:45.066Z
-updated: 2025-01-18T09:12:01.795Z
+date: 2025-01-19T16:04:08.893Z
+updated: 2025-01-24T16:17:12.249Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  The game may not work as expected if some important game files are missing or corrupted, as the game file corruption usually lead to game crashes.
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Pathfinder: Wrath of the Righteous keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -96,15 +88,23 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -114,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays sometimes would interfere with the game and even block the game files. You can try disabling Steam Overlay for Pathfinder: Wrath of the Righteous and see if the game crashes again:
@@ -126,18 +122,18 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -149,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  Launch Pathfinder: Wrath of the Righteous and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -167,6 +159,10 @@ Here’s how to do it:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
@@ -175,6 +171,10 @@ Here’s how to do it:
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -214,24 +214,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-the-power-of-any-video-with-these-free-online-editors/"><u>[Updated] 2024 Approved Unlock the Power of Any Video With These Free Online Editors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-high-speed-visual-snapshot-and-voice-commentary-feature-for-2024/"><u>[Updated] High-Speed Visual Snapshot & Voice Commentary Feature for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-lose-yourself-to-laughter-best-10-jokes/"><u>[Updated] In 2024, Lose Yourself to Laughter Best 10 Jokes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimal-webcams-enhancing-audio-experience/"><u>2024 Approved Optimal Webcams Enhancing Audio Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-list-android-3d-viewing-tools-for-2024/"><u>A-List Android 3D Viewing Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/dauntless-crash-fix-proven-methods-to-ensure-smooth-gameplay-on-windows-pcs/"><u>Dauntless Crash Fix: Proven Methods to Ensure Smooth Gameplay on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/dragon-age-inquisition-unable-to-start-troubleshooting-tips-and-fixes/"><u>Dragon Age Inquisition Unable to Start: Troubleshooting Tips and Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-game-crashes-in-ghost-recon-breakpoint-find-out-how-to-fix-them-fast/"><u>End Game Crashes in Ghost Recon Breakpoint? Find Out How to Fix Them Fast!</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-of-woes-for-escape-from-tarkov-permanent-pc-game-stability-solutions-found/"><u>End of Woes for 'Escape From Tarkov': Permanent PC Game Stability Solutions Found!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-installation-issues-of-minecraft-on-the-latest-windows-operating-system/"><u>Fixes for Installation Issues of Minecraft on the Latest Windows Operating System</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-assassins-creed-iv-on-track-expert-advice-to-prevent-game-crashes-and-enjoy-uninterrupted-action/"><u>Get Your Assassin's Creed IV on Track: Expert Advice to Prevent Game Crashes and Enjoy Uninterrupted Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-diablo-ii-resurrected-freezing-and-crashing-errors/"><u>How to Prevent and Resolve Diablo II Resurrected Freezing & Crashing Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-fixing-paladins-crashes-proven-solutions-and-tips-to-enhance-your-gaming-experience/"><u>Master Fixing Paladins Crashes: Proven Solutions and Tips to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fixes-for-stuck-shaders-in-black-ops-cold-war-get-back-to-gaming/"><u>Mastering Fixes for Stuck Shaders in Black Ops Cold War - Get Back to Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-malfunctioning-clipboard-in-windows-11/"><u>Rectifying Malfunctioning Clipboard in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-plans-gone-astray-errors-in-windows-11-tips-and-tricks-to-get-back-on-track/"><u>Resolving 'Plans Gone Astray' Errors in Windows 11 - Tips and Tricks to Get Back on Track</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-makeup-craft-color-correction-essentials-for-2024/"><u>The YouTube Makeup Craft Color Correction Essentials for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-professional-results-with-these-key-pixlr-techniques/"><u>Unlock Professional Results with These Key Pixlr Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-narzo-n53-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme Narzo N53 Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fuse-sounds-with-slides-a-guide-to-mp3-integration/"><u>[New] Fuse Sounds with Slides A Guide to MP3 Integration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-budget-friendly-drone-picks-best-bargains-for-less-than-500-for-2024/"><u>[Updated] Budget-Friendly Drone Picks Best Bargains for Less than $500 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/799-google-pixel-9-our-top-pick-for-best-smartphone-tech-review-by-zdnet/"><u>$799 Google Pixel 9: Our Top Pick for Best Smartphone | Tech Review by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-with-these-pro-tips-and-keep-your-battlefield-experience-uninterrupted/"><u>Beat Dev Error 6068 with These Pro Tips and Keep Your Battlefield Experience Uninterrupted</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-endless-load-on-minecraft-solutions-and-guide/"><u>Bypassing the Endless Load on Minecraft: Solutions and Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-s18-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo S18 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-yt-music-into-video-editing-suites/"><u>In 2024, Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-video-capture-selecting-the-top-7-4k-camcorders/"><u>In 2024, Pinnacle Video Capture Selecting the Top 7 4K Camcorders</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-terraria-connectivity-six-essential-fixes-for-lost-connections/"><u>Master Terraria Connectivity: Six Essential Fixes for Lost Connections</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-assassins-creed-valhalla-start-up-issues/"><u>Quick Fixes: Resolving 'Assassin's Creed Valhalla' Start-Up Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-ring-of-elysium-crash-issues-a-comprehensive-guide/"><u>Resolving 'Ring of Elysium' Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-playtime-awaits-in-total-war-saga-troy-following-recent-pc-bug-resolution/"><u>Seamless Playtime Awaits in Total War Saga: Troy Following Recent PC Bug Resolution</u></a></li>
 </ul></div>
 

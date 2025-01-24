@@ -1,7 +1,7 @@
 ---
 title: Fix the Crashing Issue in Elite Dangerous on Your Computer Today
-date: 2024-08-18T15:25:28.799Z
-updated: 2024-08-19T15:25:28.799Z
+date: 2025-01-21T16:44:32.916Z
+updated: 2025-01-24T16:56:36.120Z
 tags:
   - win11
   - win10
@@ -32,22 +32,9 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
@@ -66,9 +53,6 @@ Key features:
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -81,9 +65,6 @@ This could take several minutes. Wait for the process to be complete.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -103,15 +84,20 @@ This could take several minutes. Wait for the process to be complete.
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 – Stop overclocking
 
@@ -127,19 +113,20 @@ This could take several minutes. Wait for the process to be complete.
 
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -158,17 +145,15 @@ If the crashing still happens, continue with the next solution below.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -188,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +180,24 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-maximizing-your-search-for-stellar-pexels-artwork/"><u>[New] 2024 Approved Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-ace-your-tiktok-videos-pick-the-right-editor-for-2024/"><u>[New] Ace Your TikTok Videos Pick the Right Editor for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>[Updated] Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-potential-of-audacitys-audio-features-for-2024/"><u>[Updated] Unlocking the Potential of Audacity's Audio Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-shadows-effective-solutions-to-tackle-star-wars-battlefront-2s-menacing-black-screens/"><u>Banishing Shadows: Effective Solutions to Tackle Star Wars Battlefront 2’S Menacing Black Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-cpu-hogger-dealing-with-msmpengexe-overload-in-your-windows-10-device-expert-tips-and-tricks/"><u>Beat the CPU Hogger: Dealing with MsMpEng.exe Overload in Your Windows 10 Device – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/detailed-guide-to-resolve-razer-synapse-not-opening-errors-quickly/"><u>Detailed Guide to Resolve Razer Synapse Not Opening Errors Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-windows-new-recall-feature-for-effortless-file-retrieval-with-cortana-compatibility-limited-to-specific-pcs/"><u>Explore Windows' New 'Recall' Feature for Effortless File Retrieval with Cortana - Compatibility Limited to Specific PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unwanted-black-visual-interruption-while-playing-persona-a-players-handbook/"><u>Fixing the Unwanted Black Visual Interruption While Playing Persona 지가스터즈 - A Player's Handbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-14-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 14 Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-past-the-dota-2-vac-error-comprehensive-solutions-troubleshooting/"><u>Navigate Past the Dota 2 VAC Error - Comprehensive Solutions Troubleshooting</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-last-epoch-update-issue-for-pc-users-solutions/"><u>Resolving the Last Epoch Update Issue for PC Users: Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-homes-atmospheric-insights-with-top-of-the-line-stations/"><u>Revolutionize Your Home's Atmospheric Insights with Top-of-the-Line Stations</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006133540-successful-rainbow-six-siege-launch-after-fix-implementation/"><u>Successful Rainbow Six Siege Launch After Fix Implementation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-enhancing-videos-with-online-filters-for-2024/"><u>The Ultimate Guide to Enhancing Videos with Online Filters for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/together-at-last-the-story-of-it-takes-twos-marked-launch-event/"><u>Together at Last: The Story of 'It Takes Two's' Marked Launch Event</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-pc-crashes-in-wwe-2k22-effective-troubleshooting-techniques-revealed/"><u>Winning Against PC Crashes in WWE 2K22: Effective Troubleshooting Techniques Revealed</u></a></li>
+</ul></div>
 

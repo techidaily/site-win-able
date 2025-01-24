@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2025-01-13T23:01:03.906Z
-updated: 2025-01-18T02:58:00.553Z
+date: 2025-01-20T16:21:25.256Z
+updated: 2025-01-24T16:17:47.556Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ NieR Replicant ver.1.22474487139… is finally online! But did you manage to pla
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your specs
 
 Make sure your PC meets the minimum requirement of NieR Replicant.
@@ -34,7 +38,7 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Storage   | 42 GB available space                        |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,10 +59,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -71,10 +71,14 @@ If this fix doesn’t work, move to the next fix.
 3. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -87,10 +91,6 @@ If this fix doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -109,6 +109,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -118,10 +122,6 @@ There are mainly two ways you can update the graphics driver:
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -134,7 +134,7 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
@@ -168,19 +168,21 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-flickvista-app-performance-index-for-2024/"><u>[New] FlickVista App Performance Index for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-2023-complete-guide-twitter-reaction-videos/"><u>[New] In 2024, 2023 Complete Guide | Twitter Reaction Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-three-methods-for-capturing-ps4-gaming-moments/"><u>[Updated] Three Methods for Capturing PS4 Gaming Moments</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/google-ar-stickers-unveiled-overview-and-options-for-2024/"><u>Google AR Stickers Unveiled Overview & Options for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-the-delay-is-over-adventure-awaits/"><u>Immortals Fenyx Rising - The Delay Is Over, Adventure Awaits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-podcast-descriptions-insights-with-examples/"><u>Mastering Podcast Descriptions Insights with Examples</u></a></li>
-<li><a href="https://win-able.techidaily.com/methods-to-resolve-scanner-malfunctions/"><u>Methods to Resolve Scanner Malfunctions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-zoom-crashes-on-windows-operating-systems/"><u>Troubleshooting Guide for Zoom Crashes on Windows Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-the-persistent-ubisoft-connect-problems-of-2024/"><u>Troubleshooting Steps for the Persistent Ubisoft Connect Problems of 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-v-rising-game-stutter-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve V-Rising Game Stutter Issues on Your Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-secrets-detecting-active-airtags-on-your-person-insights-by-zdnet/"><u>Uncover the Secrets: Detecting Active AirTags on Your Person - Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-bite-sized-video-knowledge-now-for-2024/"><u>[New] Bite-Sized Video Knowledge Now for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-skyrocketing-youtube-popularity-through-seo-know-how/"><u>[Updated] In 2024, Skyrocketing YouTube Popularity Through SEO Know-How</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reverberation-artisan-collection/"><u>[Updated] Reverberation Artisan Collection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sdr-to-super-hd-a-practical-guide-for-quality-improvement/"><u>[Updated] SDR to Super HD A Practical Guide for Quality Improvement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999057156-busting-the-double-frame-rate-drop-mystery-on-pc-expert-solutions-revealed/"><u>Busting The Double Frame Rate Drop Mystery on PC – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-wallpaper-engine-issues-in-windows-11-and-10/"><u>Fixes & Solutions: Resolving Wallpaper Engine Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-pacific-drive-error-a-comprehensive-guide/"><u>Fixing the Unresponsive Pacific Drive Error - A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>In 2024, Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011783033-overcome-game-freeze-glitches-in-code-vein-expert-guidance-for-smooth-play/"><u>Overcome Game Freeze Glitches in Code Vein: Expert Guidance for Smooth Play!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-problem-solved-unfreeze-your-fall-guys-experience-today/"><u>PC Gaming Problem Solved: Unfreeze Your Fall Guys Experience Today</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-itel-p40plus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Itel P40+ on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-nagging-not-launching-troubleshoot-and-fix-the-issue-today/"><u>Resident Evil Nagging Not Launching? Troubleshoot and Fix the Issue Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-with-bluestacks-five-trouble-free-solutions-for-system-stability/"><u>Smooth Sailing with BlueStacks: Five Trouble-Free Solutions for System Stability</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-evaluation-how-does-recmeister-stack-up-in-2024/"><u>The Ultimate Evaluation How Does Recmeister Stack Up, In 2024</u></a></li>
 </ul></div>
 

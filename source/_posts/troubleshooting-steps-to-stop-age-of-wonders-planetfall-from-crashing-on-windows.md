@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows"
-date: 2025-01-14T05:46:51.668Z
-updated: 2025-01-18T01:26:16.869Z
+date: 2025-01-18T17:12:59.783Z
+updated: 2025-01-24T16:59:10.182Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Common methods
@@ -43,6 +43,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -55,10 +59,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -75,6 +75,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
@@ -86,10 +90,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -98,10 +98,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
@@ -112,7 +108,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
@@ -122,10 +118,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -147,10 +139,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -165,10 +169,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -194,22 +194,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-vs-streamlabs-which-is-better/"><u>[Updated] OBS vs Streamlabs Which Is Better?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-scripting-engaging-youtube-videos-for-2024/"><u>[Updated] Step-by-Step Guide to Scripting Engaging YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>2024 Approved Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-game-glitches-eliminate-fifa-20-crashing-issues-on-pc-for-good/"><u>Conquer Game Glitches: Eliminate FIFA 20 Crashing Issues on PC for Good</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-stutter-in-borderlands-triumphant-a-comprehensive-fix-guide/"><u>Conquering Stutter in Borderlands Triumphant - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011430592-cyberpunk-n77s-solution-to-eliminate-black-screen-error-successfully/"><u>Cyberpunk N77's Solution to Eliminate Black Screen Error Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-wont-start-heres-how-to-get-past-the-launch-blockade-fixed/"><u>Football Manager 2022 Won't Start? Here’s How to Get Past the Launch Blockade - Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/identifying-and-solving-continuous-crashes-with-the-rust-language/"><u>Identifying and Solving Continuous Crashes with the Rust Language</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-reno-10-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Reno 10 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pathway-for-pixels-transferring-data-to-computers-for-2024/"><u>Pathway for Pixels Transferring Data to Computers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-halo-infinites-frame-rate-and-stuttering-problem-solved/"><u>Resolved: Halo Infinite's Frame Rate & Stuttering Problem Solved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-launch-issues-ensuring-accurate-game-data-for-smooth-playback/"><u>Resolving Launch Issues: Ensuring Accurate Game Data for Smooth Playback</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-starting-struggles-in-constructive-city-design-civilization-vi/"><u>Solutions for Starting Struggles in Constructive City Design - Civilization VI</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-guide-to-iphone-ringtone-alterations-for-2024/"><u>The Ultimate Guide to iPhone Ringtone Alterations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/twitch-streaming-issue-overcoming-mute-challenges-successfully/"><u>Twitch Streaming Issue - Overcoming Mute Challenges Successfully</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-lenovo-screens-software-with-these-easy-driver-installation-tips/"><u>Update Your Lenovo Screen's Software with These Easy Driver Installation Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levate-your-youtube-presence-the-art-of-seo-optimization-for-2024/"><u>[New] Elevate Your YouTube Presence The Art of SEO Optimization for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-name-magic-ideas-for-impactful-titles/"><u>[New] In 2024, Channel Name Magic Ideas for Impactful Titles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-soundseekers-avoiding-dacast-traps/"><u>[Updated] 2024 Approved SoundSeekers Avoiding DaCast Traps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-vimeo-vs-youtube-vs-dailymotion-which-platform-is-the-one/"><u>[Updated] 2024 Approved Vimeo vs YouTube vs Dailymotion Which Platform Is the One?</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1732514427504-ylyl/"><u>掌握创建原生应用的基础知识 - YL计算机与YL软件</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-performance-issues-solved-no-more-lag-or-stutter/"><u>Cyberpunk 2077 Performance Issues: Solved - No More Lag or Stutter</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/diving-deeper-into-webcam-possibilities-for-2024/"><u>Diving Deeper Into Webcam Possibilities for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-for-overcoming-steams-corrupted-disk-errors/"><u>Effortless Fixes for Overcoming Steam's Corrupted Disk Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-how-to-ensure-smooth-operation-in-fall-guys-on-pc-setups/"><u>Expert Advice: How to Ensure Smooth Operation in Fall Guys on PC Setups</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-overcoming-game-wont-open-by-confirming-file-integrity-and-data/"><u>Guide To Overcoming 'Game Won't Open' By Confirming File Integrity and Data</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-warframe-not-loading-issue-quickly-and-easily/"><u>How to Fix the 'Warframe Not Loading' Issue Quickly and Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-crafting-illusions-spatial-and-temporal-shifts/"><u>In 2024, Crafting Illusions Spatial and Temporal Shifts</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-rollers-champions-multiplayer-mode-on-pc-a-detailed-playbook/"><u>Mastering Rollers Champions Multiplayer Mode on PC : A Detailed Playbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-chrome-loading-errors-steps-to-successfully-access-all-websites/"><u>Overcoming Chrome Loading Errors: Steps to Successfully Access All Websites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/snapseed-simplified-the-photographers-first-toolkit/"><u>Snapseed Simplified The Photographer's First Toolkit</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-smoother-gaming-experience-on-naraka-platform/"><u>Step-by-Step Solutions for Smoother Gaming Experience on Naraka Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-science-of-video-sizing-by-imovie-for-2024/"><u>The Science of Video Sizing by iMovie for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/uncover-hidden-gpeditmsc-a-step-by-step-guide-to-enable-group-policy-on-windows-home/"><u>Uncover Hidden gpedit.msc: A Step-by-Step Guide to Enable Group Policy on Windows Home</u></a></li>
 </ul></div>
 

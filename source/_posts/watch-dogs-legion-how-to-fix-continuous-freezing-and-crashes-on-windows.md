@@ -1,7 +1,7 @@
 ---
 title: "Watch Dogs: Legion - How to Fix Continuous Freezing and Crashes on Windows"
-date: 2025-01-17T02:08:47.286Z
-updated: 2025-01-18T01:24:18.255Z
+date: 2025-01-17T16:44:57.389Z
+updated: 2025-01-24T16:24:32.436Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 
  If Watch Dogs: Legion crashes on your high-end gaming PC, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes may indicate an**integrity issue** with your game files. If that’s the case, you can expect**constant crashes at a specific scene or mode** .
@@ -68,15 +64,19 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-1.jpg)
 3. Select**Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch Watch Dogs: Legion and see if it crashes again.
 
  If Watch Dogs: Legion crashes after verifying your game files, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -91,7 +91,7 @@ Here’s a quick guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Usually you’ll need to check multiple times to install all the updates. So **repeat the above steps** until it prompts that your system is up to date after you clicked **Check for updates** .
@@ -127,19 +127,11 @@ Here’s a quick guide:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Watch Dogs: Legion crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Watch Dogs: Legion on DirectX 11
 
@@ -160,15 +152,15 @@ Now you can launch Watch Dogs: Legion and check if the crash stops.
 
  If this trick doesn’t help your case, simply**undo the changes** and continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Stop overclocking your hardware
 
  As we all know that**overclocking** is basically a zero-cost performance booster, be advised that it could also trigger**instability** of your game or system. So if you’re running overclocking software like**MSI Afterburner** and**Intel Extreme Tuning Utility (Intel XTU)** , or you’re overclocking using**BIOS settings** , try disabling them and check if Watch Dogs: Legion crashes again.
 
  If you’re not overclocking your hardware, simply check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable in-game V-Sync
 
@@ -180,8 +172,16 @@ To do so, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-01.jpg)
 2. Select**VIDEO** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-2.jpg)
 3. Set V-Sync to**Off** . Then on your keyboard, press the**space bar** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-3.jpg)
 
@@ -208,14 +208,19 @@ Now you can test your gameplay in Watch Dogs: Legion.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[Updated] 2024 Approved Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-essentials-unleashed-8-products-that-are-changing-the-business-landscape-for-2024/"><u>[Updated] Essentials Unleashed 8 Products That Are Changing the Business Landscape for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-oneplus-10-upcoming-details-estimated-costs-and-release-forecast/"><u>All You Need to Know About OnePlus 10: Upcoming Details, Estimated Costs and Release Forecast</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-the-gap-for-stuck-files-in-windows-11-ecosystems/"><u>Bridging the Gap for Stuck Files in Windows 11 Ecosystems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-incompatibility-issues-in-rainbow-six-extraction-top-strategies-to-get-you-playing-again/"><u>Fixing Incompatibility Issues in Rainbow Six Extraction – Top Strategies to Get You Playing Again</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-gopro-video-editing-a-beginners-guide/"><u>New Effortless GoPro Video Editing A Beginners Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-tips-to-reduce-cpu-demand-in-cyberpunk-2077/"><u>Optimizing Performance: Tips to Reduce CPU Demand in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-launch-error-with-black-flag-game-solutions-and-preventative-measures/"><u>Persistent Launch Error with Black Flag Game: Solutions & Preventative Measures</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-gpu-not-found-errors-in-msi-afterburner-software-on-windows-11-computers/"><u>Resolving 'GPU Not Found' Errors in MSI Afterburner Software on Windows 11 Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-playlist-transfer-migrating-from-spotify-to-youtube-music-service/"><u>[New] In 2024, Seamless Playlist Transfer Migrating From Spotify to YouTube Music Service</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed/"><u>[Updated] 2024 Approved Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-schedule-meetings-on-zoom/"><u>2024 Approved How to Schedule Meetings on Zoom?</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-call-of-duty-modern-warfare-3-performance-lags-an-in-depth-analysis-for-players-202/"><u>Dealing with Call of Duty: Modern Warfare 3 Performance Lags - An In-Depth Analysis for Players (202^)</u></a></li>
+<li><a href="https://win-able.techidaily.com/eternal-reiteration-unveiled-strategies-for-enduring-in-a-cycle-of-constant-resurgence/"><u>Eternal Reiteration Unveiled: Strategies for Enduring in a Cycle of Constant Resurgence</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-elevate-fps-performance-with-these-6-tricks-for-escape-from-tarkov/"><u>Expert Guide: Elevate FPS Performance with These 6 Tricks for Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-silent-trouble-resolving-lack-of-audio-in-roblox-games-on-windows-11-and-10/"><u>Fixing the Silent Trouble: Resolving Lack of Audio in Roblox Games on Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-video-graphics-driver-updates-download-now/"><u>Get the Latest Video Graphics Driver Updates - Download Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55t-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P55T Phone with Broken Screen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-successfully-starting-division-2/"><u>Top Strategies for Successfully Starting Division 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-disconnects-in-fallout-76-for-windows-users-get-back-online/"><u>Troubleshooting Disconnects in Fallout 76 for Windows Users – Get Back Online!</u></a></li>
 </ul></div>
 

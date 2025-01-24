@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Ultimate Fix for Your Computer's FIFA 19 Sudden Shutdowns and Errors"
-date: 2024-08-18T15:21:06.595Z
-updated: 2024-08-19T15:21:06.595Z
+date: 2025-01-23T16:03:22.367Z
+updated: 2025-01-24T16:26:03.444Z
 tags:
   - win11
   - win10
@@ -38,14 +38,19 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Storage   | 32 GB available space                           |
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
 2. [Manage Virtual Memory](https://tools.techidaily.com/drivereasy/download/)
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
 
@@ -57,24 +62,24 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
 1. Press the**Windows logo key + Pause** to open System.
 2. Click**Advanced system settings.**  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -84,16 +89,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 1. Run Steam.
 2. In the LIBRARY, right-click on the game and click**Properties** .
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
@@ -136,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-video-editing-inshots-place/"><u>[Updated] The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blunder-effective-strategies-to-repair-your-steam-connection-errors-today/"><u>Beat the Blunder: Effective Strategies to Repair Your Steam Connection Errors Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725288399715-digiarty-winxdvd-faq/"><u>Digiarty WinXDVDソフトウェアの使用方法と一般的なトラブルシューティング - FAQ</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-role-of-telecommunications-providers-in-your-smartphone-experience/"><u>Exploring the Role of Telecommunications Providers in Your Smartphone Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-a-complete-guide/"><u>Fixing Resident Evil Village Performance Problems on PC: A Complete Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-battle-features-and-differences-between-google-nest-audio-and-nest-mini/"><u>Head-to-Head Battle: Features and Differences Between Google Nest Audio and Nest Mini</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992888057-how-do-you-upgrade-old-minecraft-video-card-drivers-heres-the-solution/"><u>How Do You Upgrade Old Minecraft Video Card Drivers? Here's the Solution!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-a-complete-look-at-color-correction-for-gopro-videos/"><u>In 2024, A Complete Look at Color Correction for GoPro Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-to-fix-high-cpu-usage-during-a-phasmophobia-session/"><u>Optimizing Your PC to Fix High CPU Usage During a Phasmophobia Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-issues-with-star-wars-squadrons-crashing-problems-a-detailed-fix-list/"><u>Overcome Issues with Star Wars: Squadrons Crashing Problems – A Detailed Fix List</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-motorola-edge-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Edge 40? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/skyrim-stuck-on-loading-forever-heres-how-you-can-break-free/"><u>Skyrim Stuck on Loading Forever? Here’s How You Can Break Free!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-here-exploring-the-impact-of-edge-computing-and-5g-on-modern-medicine-forbes-technology-council/"><u>The Future Is Here: Exploring the Impact of Edge Computing and 5G on Modern Medicine | Forbes Technology Council</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-for-a-smooth-hogwarts-legacy-experience-preventing-initial-crashes/"><u>Top Techniques for a Smooth Hogwarts Legacy Experience: Preventing Initial Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-overcoming-apex-legends-engine-problems-easily/"><u>Top Tips for Overcoming Apex Legends Engine Problems Easily</u></a></li>
+</ul></div>
 

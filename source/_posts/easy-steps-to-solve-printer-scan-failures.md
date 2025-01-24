@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Solve Printer Scan Failures
-date: 2025-01-10T20:36:03.828Z
-updated: 2025-01-17T16:52:26.693Z
+date: 2025-01-18T16:03:28.653Z
+updated: 2025-01-24T16:01:13.647Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -50,12 +50,12 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -84,7 +84,7 @@ There are mainly two ways you can update the driver:
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
@@ -99,7 +99,7 @@ There are mainly two ways you can update the driver:
 5. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Reboot your Oculus headset and plug it back to the PC.
@@ -115,7 +115,15 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
@@ -132,11 +140,11 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -146,18 +154,10 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
@@ -185,20 +185,20 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-blueprint-for-viral-video-mastery/"><u>[New] 2024 Approved The Blueprint for Viral Video Mastery</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-techniques-for-perfect-green-screen-cinematography/"><u>[Updated] 2024 Approved Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-is-screening-youtube-footage-illegal/"><u>[Updated] 2024 Approved Is Screening YouTube Footage Illegal?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-capturing-chronos-mastering-phantoms-time-extension-feature/"><u>[Updated] Capturing Chronos Mastering Phantom's Time Extension Feature</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-videographys-bright-side-5-must-have-apps/"><u>[Updated] In 2024, Videography's Bright Side 5 Must-Have Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-origin-downloads-proven-methods-to-enhance-internet-speed-for-optimal-performance/"><u>Boosting Origin Downloads: Proven Methods to Enhance Internet Speed for Optimal Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/breaking-new-ground-on-civ-6-a-landmark-ruling-over-an-unprecedented-access-violation-incident-of-2024/"><u>Breaking New Ground on CIV 6 - A Landmark Ruling Over an Unprecedented Access Violation Incident of 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-yuva-3-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Yuva 3 Pro Device SIM</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-endless-loads-a-guide-to-resolve-freezing-at-startup-in-far-cry-5/"><u>Fixing Endless Loads: A Guide to Resolve Freezing at Startup in Far Cry 5</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209548353-9781785357817-living-on-the-inner-edge/"><u>Living on the Inner Edge | Free Book</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/shining-up-photos-on-instagram-three-effective-ways-for-2024/"><u>Shining Up Photos on Instagram Three Effective Ways for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-crash-problems-in-madden-nfl-20-a-comprehensive-guide/"><u>Solving PC Crash Problems in Madden NFL 20: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-directx-glitches-in-call-of-duty-modern-warfare-2/"><u>Step-by-Step Guide: Resolving DirectX Glitches in Call of Duty: Modern Warfare 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-resolving-fifa-20-pc-freezing-issues-detailed-tutorial/"><u>Ultimate Fix: Resolving FIFA 20 PC Freezing Issues - Detailed Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-transforming-live-photos-into-time-lapse-videos/"><u>[New] Transforming Live Photos Into Time-Lapse Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/astro-a40-headset-mic-problems-effective-fixes-that-worked-for-me/"><u>Astro A40 Headset Mic Problems: Effective Fixes That Worked for Me</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999974111-cod-modern-warfare-stability-improvements-no-more-game-crashes/"><u>Cod: Modern Warfare Stability Improvements - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/death-stranding-pc-crashes-solved-fix-your-game-now/"><u>Death Stranding PC Crashes - Solved: Fix Your Game Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-pubg-pc-game-bugs-tips-to-counteract-freezing-and-non-responsive-issues/"><u>Defeating PUBG PC Game Bugs: Tips to Counteract Freezing and Non-Responsive Issues</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-audio-extractor-from-soundcloud-quick-and-simple-music-downloads/"><u>Easy Audio Extractor From SoundCloud – Quick and Simple Music Downloads.</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-windows-security-features-a-guide-to-control-panel-settings-by-yl-computing/"><u>Exploring Windows Security Features: A Guide to Control Panel Settings by YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crusader-kings-solved-ck3-sudden-closures-on-windows-os-expert-tips-and-solutions/"><u>Fixing Crusader Kings ([SOLVED] CK3) Sudden Closures on Windows OS - Expert Tips and Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-a79-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo A79 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mophies-latest-charge-case-for-iphone-13-reviewed-is-the-additional-battery-worth-the-trade-offs/"><u>Mophie's Latest Charge Case for iPhone 13 Reviewed: Is the Additional Battery Worth the Trade-Offs?</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-resolve-apex-legends-wont-load-step-by-step-guide/"><u>Quick Fixes to Resolve 'Apex Legends Won't Load': Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-preventing-overwatch-terrific-crashes-while-playing-on-your-computer/"><u>Solutions for Preventing Overwatch Terrific Crashes While Playing on Your Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-tech-best-drone-gimbals-reviewed-for-2024/"><u>Top Tech Best Drone Gimbals Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-connections-fixing-your-disconnect-from-the-blizzard-game-servers/"><u>Troubleshooting Lost Connections: Fixing Your Disconnect From the Blizzard Game Servers</u></a></li>
 </ul></div>
 

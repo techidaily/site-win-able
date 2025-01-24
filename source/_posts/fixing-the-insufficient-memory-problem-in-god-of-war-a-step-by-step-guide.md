@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Insufficient Memory' Problem in God of War: A Step-by-Step Guide"
-date: 2025-01-11T19:15:02.708Z
-updated: 2025-01-17T16:28:41.651Z
+date: 2025-01-17T16:14:46.822Z
+updated: 2025-01-24T17:04:22.523Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  If you’ve 100% sure you have enough memory, start with[fix 2](https://tools.techidaily.com/drivereasy/download/) . Work your way down the list until you find the one that works for you.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 4. [Update God of War](https://tools.techidaily.com/drivereasy/download/)
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check the system requirements
 
@@ -61,14 +61,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 3. The**Installed RAM** shows how much RAM do you have.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your driver
 
@@ -88,6 +84,10 @@ There are mainly two ways you can update the driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -101,12 +101,12 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Disable integrated graphics through Device Manager** :
 
@@ -120,7 +120,7 @@ There are mainly two ways you can update the driver:
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
@@ -135,6 +135,10 @@ There are mainly two ways you can update the driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War memory leak or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -147,15 +151,11 @@ There are mainly two ways you can update the driver:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -187,24 +187,22 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-wizardry-flipping-your-video-narrative/"><u>[Updated] 2024 Approved Snapchat Wizardry Flipping Your Video Narrative</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-spearheading-social-media-select-the-best-video-editors-for-ig/"><u>[Updated] 2024 Approved Spearheading Social Media Select the Best Video Editors for IG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-clear-capture-top-microphones-for-cams/"><u>2024 Approved Clear Capture Top Microphones for Cams</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-bugs-improve-your-cyberpunk-2077-experience-without-lag-or-stutter-issues/"><u>Beat the Bugs: Improve Your Cyberpunk 2077 Experience Without Lag or Stutter Issues</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/easily-resolve-bluestacks-app-crashes-with-these-5-simple-fixes/"><u>Easily Resolve BlueStacks App Crashes with These 5 Simple Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-resolve-the-frequent-breakdown-of-thunder-tier-one-on-pc-systems/"><u>Effective Ways to Resolve the Frequent Breakdown of Thunder Tier One on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/gear-up-for-smooth-gameplay-bungie-tackles-and-fixes-destiny-2s-broccoli-issue/"><u>Gear Up for Smooth Gameplay - Bungie Tackles and Fixes Destiny 2'S Broccoli Issue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-logitech-brio-camera-on-windows-1187-download-required-drivers-now/"><u>Install Your Logitech BRIO Camera on Windows 11/8/7 - Download Required Drivers Now</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/inverted-illusions-the-art-of-rotating-visuals-for-social-media-success/"><u>Inverted Illusions The Art of Rotating Visuals for Social Media Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-optimization-overcoming-lag-issues-successfully/"><u>League of Legends Optimization - Overcoming Lag Issues Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/managing-notification-preferences-avoiding-amber-warnings-on-android/"><u>Managing Notification Preferences: Avoiding Amber Warnings on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-approach-to-advanced-arithmetic/"><u>OpenAI's Approach to Advanced Arithmetic</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-performance-optimization-conquering-in-game-stutters-and-delays/"><u>Outriders Performance Optimization: Conquering In-Game Stutters and Delays</u></a></li>
-<li><a href="https://win-able.techidaily.com/samurai-warriors-5-pc-stability-solved-tips-for-uninterrupted-gaming-experience/"><u>Samurai Warriors 5 PC Stability Solved: Tips for Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-the-infamous-pacific-drive-crash-bug-on-desktop-systems/"><u>Step-by-Step Guide to Fixing the Infamous Pacific Drive Crash Bug on Desktop Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1124143-9781934708217-the-egypt-code/"><u>The Egypt Code | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-forza-horizon-5-from-crashing-on-your-computer/"><u>Troubleshooting Tips: Preventing Forza Horizon 5 From Crashing on Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-limits-why-chatgpt-struggles-with-self-detection-of-text-generation/"><u>Unveiling the Limits: Why ChatGPT Struggles with Self-Detection of Text Generation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-learning-curve-to-funimate-excellence/"><u>[New] 2024 Approved Learning Curve to Funimate Excellence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ut-down-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile/"><u>[New] Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[Updated] 2024 Approved Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-download-youtube-playlists-with-ease-our-instructions-for-2024/"><u>[Updated] Download YouTube Playlists with Ease - Our Instructions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/android-settings-turning-off-unwanted-amber-notifications/"><u>Android Settings: Turning Off Unwanted AMBER Notifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997092103-boosting-your-cyberpunk-2077-playthrough-overcome-past-fps-challenges-easily-now/"><u>Boosting Your Cyberpunk 2077 Playthrough: Overcome Past FPS Challenges Easily Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/brightness-control-malfunction-in-windows-11-solutions-at-hand/"><u>Brightness Control Malfunction in Windows 11 - Solutions at Hand</u></a></li>
+<li><a href="https://facebook.techidaily.com/bringing-back-the-trump-era-on-meta/"><u>Bringing Back the Trump Era on Meta</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-top-streamers-apple-tv-4k-versus-roku-ultra/"><u>Comparing Top Streamers: Apple TV 4K Versus Roku Ultra</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-now-playing-robocop-reborn-on-desktop-common-glitches-and-solutions/"><u>Fix It Now: Playing 'Robocop Reborn' On Desktop - Common Glitches and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-overwatch-crashes-with-updated-graphics-drivers-resolved/"><u>Fix Your Overwatch Crashes with Updated Graphics Drivers - Resolved!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6 to PC | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-playback-fixing-the-slowdown-in-your-spotify-web-player-for-faster-streams/"><u>Optimizing Playback: Fixing the Slowdown in Your Spotify Web Player for Faster Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-login-issues-on-steam/"><u>Resolved: Overcoming Login Issues on Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-gta-5-stuttering-issues-optimized-performance-fixes/"><u>Say Goodbye to GTA 5 Stuttering Issues - Optimized Performance Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-pc-issues-with-payday-2-startup/"><u>Troubleshooting Guide: Fixing PC Issues with Payday 2 Startup</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-fixing-and-preventing-gtfo-app-crashes/"><u>Ultimate Guide: Fixing and Preventing GTFO App Crashes</u></a></li>
 </ul></div>
 

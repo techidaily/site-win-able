@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the New World Connection Issue"
-date: 2024-08-18T15:21:29.144Z
-updated: 2024-08-19T15:21:29.144Z
+date: 2025-01-19T16:22:22.771Z
+updated: 2025-01-24T16:50:00.136Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 ## Beat the Game-Breaking Bugs in 'True Colors' - Your Ultimate Solution Inside
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/life-is-strange-true-colors.jpg)
 
  Life is Strange True Colors is out. However, as many new release games, it’s not immune from bugs or issues. Many players complained Life is Strange True Colors crashes randomly and a specific low level fatal line 3946 error occurs. If you encounter the same issue, don’t worry. We’ve got a full list of working fixes for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before getting started
 
  Before you move on to the more advanced steps, please take a look at the system requirements of Life is Strange True Colors, and make sure your computer is powerful enough to run the title.
@@ -39,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
  If your hardware is not the problem, read on to rule out other possible causes.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes for Life is Strange True Colors crash. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -51,14 +46,15 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 4. **[Switch to DirectX 11](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Install the latest patch
 
  The game developer will keep releasing new patches to fix known bugs after the game is launched. According to[the official](https://steamcommunity.com/app/936790/discussions/1/3040481812840137942/) , the new patched DLC of Life is Strange is live now, and it should resolve the DX12+RTC outfit pack crash. This patch won’t be automatically downloaded, so if you see an update is available, install it right away to see whether that helps with your problem.
 
 1. Launch Steam and select the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
@@ -73,14 +69,19 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The Life is Strange True Colors crashes can be caused by a driver issue. If you’re using a faulty or outdated graphics driver, you may run into graphics glitches or performance problems in games like crashing, black screen or more. To get rid of choppy gameplay, you should keep your graphics driver updated.
@@ -91,18 +92,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or simply click**Update** to do it for free, but you need to download them one at a time and install the driver manually.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Switch to DirectX 11
 
  Players are able to launch Life is Strange True Colors in either DirectX11 or 12\. While playing with DX12 allows you to enjoy the ray-tracing feature, DirectX 11 could be a more stable version and is less likely to cause game crashes. To opt into DX11, take these steps:
@@ -111,14 +111,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
@@ -135,6 +129,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. You could just set each option to**Low** or**Medium** and click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the game to test if the new settings have a significant impact on the game performance.
 
 ---
@@ -149,8 +147,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +154,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-the-definitive-list-of-economical-teleconference-platforms-for-2024/"><u>[New] The Definitive List of Economical Teleconference Platforms for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-custom-thumbnail-for-twitter-videos/"><u>[Updated] 2024 Approved Custom Thumbnail for Twitter Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cut-your-videos-for-free-with-web-based-video-trimmer-applications/"><u>Cut Your Videos for Free with Web-Based Video Trimmer Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-asus-pcb-driver-software-on-your-windows-machine/"><u>Easy Installation of ASUS PCB Driver Software on Your Windows Machine</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-and-hassle-free-way-to-obtain-windows-compatible-drivers-for-the-geforce-gtx-780-gpu/"><u>Fast and Hassle-Free Way to Obtain Windows-Compatible Drivers for the GeForce GTX 780 GPU</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-build-a-custom-chatgpt-with-your-own-data/"><u>How to Build a Custom ChatGPT With Your Own Data</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-p55t-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel P55T FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011131323-how-to-get-rainbow-six-siege-running-smoothly-after-fixing-launch-issues/"><u>How to Get Rainbow Six Siege Running Smoothly After Fixing Launch Issues.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-experience-proven-techniques-for-enhancing-war-thunders-fps/"><u>Maximize Your Gaming Experience: Proven Techniques for Enhancing War Thunder's FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-diablo-ii-resurrected-expert-tips-and-tricks/"><u>Overcoming Launch Errors in Diablo II: Resurrected - Expert Tips and Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-mastery-manycam-unleashed-virtual-camcorder-and-more/"><u>Real-Time Streaming Mastery: ManyCam Unleashed – Virtual Camcorder and More</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-crashes-in-snowrunner-game-on-windows-computers/"><u>Resolving Frequent Crashes in SnowRunner Game on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-scavengers-game-issues-on-pc-for-smooth-playability/"><u>Resolving Scavengers Game Issues on PC for Smooth Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-unstable-dota-2-gameplay-and-preventing-crashes/"><u>Ultimate Fixes for Unstable Dota 2 Gameplay and Preventing Crashes</u></a></li>
+</ul></div>
 

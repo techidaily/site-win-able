@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2019 Continuous Play Guide: Preventing Unexpected Game Closures"
-date: 2024-08-18T15:21:55.501Z
-updated: 2024-08-19T15:21:55.501Z
+date: 2025-01-21T16:25:00.107Z
+updated: 2025-01-24T16:57:46.314Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -38,19 +39,22 @@ Take Avast as an example:
 
 1. Open your Avast.
 2. Click**Menu** on the top right of the window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
@@ -80,26 +84,22 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
 
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -107,15 +107,16 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 
 If this fix bring no luck, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
 
 1. Launch the Steam client.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
@@ -133,8 +134,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,26 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-capturing-radiance-advanced-techniques-in-ps-hdr-for-2024/"><u>[New] Capturing Radiance Advanced Techniques in PS HDR for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unique-channels-generating-top-notch-video-naming/"><u>[New] Unique Channels Generating Top-Notch Video Naming</u></a></li>
+<li><a href="https://win-able.techidaily.com/10/"><u>10?</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-pacific-drive-malfunctions-a-user-friendly-guide-to-resolving-pc-software-crashes/"><u>Diagnosing Pacific Drive Malfunctions: A User-Friendly Guide to Resolving PC Software Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-online-transformation-from-mp4-to-wmv-format-complimentary-service/"><u>Effortless Online Transformation From MP4 to WMV Format - Complimentary Service</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-effortless-methods-to-overcome-bluestacks-crashes-effectively/"><u>Five Effortless Methods to Overcome Bluestacks Crashes Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-nier-automata-replica-startup-issues/"><u>Fixes and Solutions for NieR: Automata Replica Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-overcome-the-ue4-madness-error-in-outriders/"><u>How to Correctly Address and Overcome the 'UE4 Madness' Error in Outriders</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>In 2024, Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-solution-of-kernel32dll-glitches-on-windows-computers/"><u>Mastering the Solution of Kernel32.dll Glitches on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteeous-crash-troubleshooting-guide/"><u>Pathfinder: Wrath of the Righteeous Crash Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-launch-issues-with-red-dead-redemption-2-on-pcconsole/"><u>Resolving Launch Issues with Red Dead Redemption 2 on PC/Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-silence-effective-ways-to-revive-a-dead-samsung-soundbar/"><u>Solving the Silence: Effective Ways to Revive a Dead Samsung Soundbar</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-comprehensive-fixers-guide-for-stabilizing-fifa-20-on-personal-computers/"><u>The Comprehensive Fixer's Guide for Stabilizing FIFA 20 on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-deathloop-gameplay-crashes-on-pc-and-playstation-5/"><u>Troubleshooting Tips: Solving Deathloop Gameplay Crashes on PC and PlayStation 5</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-gameplay-display-in-depth-analysis-of-the-philips-240hz-qd-oled-evonia-49m2c8900/"><u>Ultimate Gameplay Display: In-Depth Analysis of the Philips 240Hz QD-OLED Evonia 49M2C8900</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mp4-to-mp3-conversion-made-easy-top-apps-for-mobile/"><u>Updated MP4 to MP3 Conversion Made Easy Top Apps for Mobile</u></a></li>
+</ul></div>
 

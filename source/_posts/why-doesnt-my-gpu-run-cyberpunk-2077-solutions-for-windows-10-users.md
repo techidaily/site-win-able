@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2025-01-13T04:34:24.260Z
-updated: 2025-01-17T21:16:07.545Z
+date: 2025-01-20T17:05:12.663Z
+updated: 2025-01-24T16:17:19.469Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -75,15 +75,15 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -98,23 +98,27 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -127,10 +131,6 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -155,18 +155,22 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-revisit-memories-easy-old-stories-on-fb/"><u>[New] Revisit Memories Easy Old Stories on FB</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-science-of-choosing-music-for-movie-previews-for-2024/"><u>[Updated] The Science of Choosing Music for Movie Previews for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-problem-effective-solutions-and-tips-to-resolve-it/"><u>Alan Wake 2 Launch Problem: Effective Solutions and Tips to Resolve It</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-mirage-not-running-discover-top-fixes-and-tricks-for-a-smooth-start/"><u>Assassin's Creed Mirage Not Running? Discover Top Fixes and Tricks for a Smooth Start</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/beyond-the-basics-advanced-insights-into-snapchat-filters/"><u>Beyond the Basics Advanced Insights Into Snapchat Filters</u></a></li>
-<li><a href="https://games-able.techidaily.com/collaborative-construction-in-mc-5-group-gaming-approaches/"><u>Collaborative Construction in MC: 5 Group Gaming Approaches</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-smooth-playback-in-recent-game-releases-with-advanced-fixes/"><u>Enhancing Smooth Playback in Recent Game Releases with Advanced Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-tw-th-crash-problem-solutions-proven-effective/"><u>Fixing the TW: TH Crash Problem - Solutions Proven Effective</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-and-avoid-game-crashes-for-a-smooth-run-of-battlefront-ii-on-pc/"><u>How to Fix and Avoid Game Crashes for a Smooth Run of Battlefront II on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-title-and-description-tweaks-for-maximum-engagement-on-igtv/"><u>In 2024, Title and Description Tweaks for Maximum Engagement on IGTV</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-a-non-functional-windows-11-taskbar/"><u>Resolving a Non-Functional Windows 11 Taskbar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-stop-persistent-android-apps-from-draining-your-power/"><u>The Ultimate Trick to Stop Persistent Android Apps From Draining Your Power</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-converting-gifs-to-emoticon-stickers-on-telegram-and-friends-servers/"><u>[Updated] Converting GIFs to Emoticon Stickers on Telegram & Friends Servers</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-pc-stability-issues-resolved-no-more-game-crashes/"><u>Battlefield 5 PC Stability Issues Resolved - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005532935-comprehensive-guide-to-fixing-microsoft-edge-crashes-on-windows-10/"><u>Comprehensive Guide to Fixing Microsoft Edge Crashes on Windows 10</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/convert-dts-tracks-to-flac-for-free-with-movavis-web-based-audio-tool/"><u>Convert DTS Tracks to FLAC for Free with Movavi's Web-Based Audio Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/distinguishing-between-server-downtime-and-user-connectivity-issues-on-blizzard-battlenet/"><u>Distinguishing Between Server Downtime and User Connectivity Issues on Blizzard Battle.net</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-overcoming-amazon-prime-video-functionality-glitches/"><u>Expert Tips for Overcoming Amazon Prime Video Functionality Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2023-starts-up-flawlessly-what-worked/"><u>Football Manager 2023 Starts Up Flawlessly – What Worked?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-silence-to-sounds-windows-10-recorder-use/"><u>From Silence to Sounds Windows 10 Recorder Use</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-c33-2023-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme C33 2023 Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earning-mastery-in-streams-a-comprehensive-review/"><u>In 2024, Earning Mastery in Streams A Comprehensive Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-starting-troubles-with-call-of-duty-modern-warfare-tips-for-a-smooth-launch/"><u>Overcoming Starting Troubles with Call of Duty: Modern Warfare - Tips for a Smooth Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/praey-for-the-overlords-pc-stability-issues-resolving-frequent-game-crashes/"><u>Praey for the Overlords PC Stability Issues - Resolving Frequent Game Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-realtek-universal-drivers-made-easy/"><u>Troubleshooting and Fixing Realtek Universal Drivers Made Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-gamers-rejoice-days-gone-debuted-with-patched-performance-and-stability/"><u>Windows Gamers Rejoice: 'Days Gone' Debuted with Patched Performance and Stability</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1726030078329-wmv/"><u>WMVファイルからオーディオコンテンツの抜き出し手順三つ</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-pc-crash-fixes-a-step-by-step-guide-for-smooth-gaming/"><u>WWE 2K20 PC Crash Fixes - A Step-by-Step Guide for Smooth Gaming</u></a></li>
 </ul></div>
 

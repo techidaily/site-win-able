@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Glitches - Tips for a Smoother Gameplay in Genshin Impact
-date: 2025-01-11T03:22:46.605Z
-updated: 2025-01-17T19:32:34.334Z
+date: 2025-01-17T16:31:44.924Z
+updated: 2025-01-24T17:11:46.822Z
 tags:
   - win11
   - win10
@@ -62,10 +62,6 @@ Here are the requirements for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Start House Flipper 2 with a command
 
  If your House Flipper 2 keeps crashing even from the very beginning, you can try the following command to see if it helps:
@@ -74,10 +70,6 @@ Here are the requirements for your reference:
 2. Copy and paste this command and hit Enter:` **steam://rungameid/613100// -force-feature-level-10-0** `  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-82.png)
 3. When asked if you want to run House Flipper 2, click OK to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This command is to force House Flipper 2 to run on Direct 10, which is lower than Direct 11 it requires. It should work on older computers or older graphics cards. But if your House Flipper 2 still crashes or doesn’t open in this way, please move on.
 
@@ -102,7 +94,7 @@ Here are the requirements for your reference:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable OneDrive, DropBox, or antivirus program(s)
@@ -130,6 +122,10 @@ Here are the requirements for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-13.png)
 2. Select**Manage 3D settings** on the left menu, and select**Program Settings** on the right panel. Then click the**Add** button.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Navigate to the folder where you install House Flipper 2\. (It’ll most likely be C:\\Program Files (x86)\\Steam\\steamapps\\common\\House Flipper 2). Then select the executable file for House Flipper 2.
 
 4. Select**High-performance NVIDIA processor** for the_Select the preferred graphics processor for this program_ option.  
@@ -137,7 +133,7 @@ Here are the requirements for your reference:
 5. In the_Specify the settings for this program:_ section, scroll down to find the**Power management** mode, then select**Prefer maximum performance** .![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Apply** to save the changes.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-18.png)
@@ -151,7 +147,7 @@ Here are the requirements for your reference:
 2. Select **System.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-21.png)
@@ -161,6 +157,10 @@ Here are the requirements for your reference:
 4. Click**Installed Profile Applications** if House Flipper 2 is not shown in Running Applications. Click the .exe for House Flipper 2 and select**High Performance** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
 
@@ -179,12 +179,16 @@ Here are the requirements for your reference:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch your House Flipper 2 again to see if it still crashes. If the problem remains, please move on.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update display card driver
@@ -194,7 +198,7 @@ Here are the requirements for your reference:
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -220,6 +224,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -237,6 +245,10 @@ To do so, first visit the website of your GPU manufacturer:
 * **[If you have an Nvidia display card](https://tools.techidaily.com/drivereasy/download/)**
 * **[If you have an AMD display card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **To enable VSync in NVIDIA Control Panel:**
 
 1. On your desktop, right-click in an empty space and select **NVIDIA Control Panel** .  
@@ -244,10 +256,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
@@ -259,10 +267,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
@@ -281,10 +285,6 @@ To tell which drive you have, please view the Task Manager in this way:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-11.png)
 2. Click the second icon (**Performance** ), then check the **Type** field.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with House Flipper 2 and are free from the pain of constant crashes, it’s highly recommended that you install the game on your SSD.
@@ -329,20 +329,20 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-ingenious-name-makers-elevate-your-channels/"><u>[New] 2024 Approved Ingenious Name Makers Elevate Your Channels</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[Updated] 2024 Approved Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-streamline-your-media-with-top-8-convertors-1-8-for-2024/"><u>[Updated] Streamline Your Media with Top 8 Convertors #1-8 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-audiopiece-recorder-guide-installation-and-test/"><u>2024 Approved AudioPiece Recorder Guide Installation & Test</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-stops-working-fixing-game-crashes-and-unexpected-closures-quickly/"><u>COD Modern Warfare 3 Stops Working: Fixing Game Crashes and Unexpected Closures Quickly</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-exposure-mastering-the-art-of-appropriate-tags/"><u>Elevate Video Exposure Mastering the Art of Appropriate Tags</u></a></li>
-<li><a href="https://win-able.techidaily.com/freeze-thaw-cycles/"><u>Freeze-Thaw Cycles:</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-overcome-directx-errors-in-call-of-duty-modern-warfare-2/"><u>Mastering the Fixes to Overcome DirectX Errors in Call of Duty: Modern Warfare ^[2]</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-network-delays-and-connectivity-errors-in-new-world-effective-solutions/"><u>Overcoming Network Delays and Connectivity Errors in 'New World': Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-performance-hacks-overcoming-sons-of-the-forest-game-freezes-and-crashes/"><u>PC Performance Hacks: Overcoming Sons of the Forest Game Freezes & Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-pc-issues-how-to-stop-enshrouded-games-from-freezing/"><u>Resolving PC Issues: How to Stop Enshrouded Games From Freezing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-persistent-windows-7-lag-tips-for-eliminating-unplanned-hangs-and-lockups/"><u>Resolving Persistent Windows 7 Lag: Tips for Eliminating Unplanned Hangs and Lockups</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-reactivating-spatial-audio-in-your-windows-10-or-11-system/"><u>Troubleshooting Guide: Reactivating Spatial Audio in Your Windows 10 or 11 System</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-cant-i-play-diablo-immortal-on-my-computer-insights-and-expectations/"><u>Why Can't I Play Diablo Immortal on My Computer? Insights & Expectations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>[New] In 2024, Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-behind-the-scenes-to-the-best-free-meme-designs/"><u>[Updated] 2024 Approved Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-transforming-mac-screenshot-file-extensions/"><u>[Updated] 2024 Approved Transforming Mac Screenshot File Extensions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-syncing-soundscapes-with-visuals-in-film-teasers/"><u>[Updated] In 2024, Syncing Soundscapes with Visuals in Film Teasers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-camsphere-exploration-what-else-can-we-see/"><u>2024 Approved CamSphere Exploration What Else Can We See?</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-society-through-social-medias-top-7-impacts/"><u>Boosting Society Through Social Media's Top 7 Impacts</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/efficient-methods-to-set-up-auto-backup-on-your-pc-using-windows-7/"><u>Efficient Methods to Set Up Auto-Backup on Your PC Using Windows 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-to-prevent-gta-v-from-crashing-during-playtime/"><u>Expert Tips and Fixes to Prevent GTA V From Crashing During Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-eliminating-your-nvidia-geforce-error-code-0x0003-woes-once-and-for-all/"><u>Expert Tips for Eliminating Your Nvidia Geforce Error Code 0X0003 Woes Once and For All</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-streamline-audio-from-apple-homepod-to-your-flat-screen-tv/"><u>How to Streamline Audio From Apple HomePod to Your Flat Screen TV</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-sighted-the-foremost-cameras-excellence/"><u>In 2024, Future Sighted The Foremost Cameras Excellence</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-fixes-for-avatar-gameplay-overcoming-lag-challenges-in-the-world-of-pandora/"><u>Masterful Fixes for Avatar Gameplay – Overcoming Lag Challenges in the World of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-voice-chat-malfunction-on-content-warnings/"><u>Solving the Problem: Voice Chat Malfunction on Content Warnings</u></a></li>
+<li><a href="https://win-able.techidaily.com/surviving-against-all-odds-understanding-resilience-in-african-american-history/"><u>Surviving Against All Odds: Understanding Resilience in African-American History</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997689592-troubleshooting-failed-monster-hunter-rise-launches-effective-fixes-revealed/"><u>Troubleshooting Failed Monster Hunter Rise Launches – Effective Fixes Revealed!</u></a></li>
 </ul></div>
 

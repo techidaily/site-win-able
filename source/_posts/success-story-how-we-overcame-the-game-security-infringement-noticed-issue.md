@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue"
-date: 2025-01-14T09:10:22.537Z
-updated: 2025-01-17T22:27:55.098Z
+date: 2025-01-19T16:56:46.734Z
+updated: 2025-01-24T16:15:13.968Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [Fix 1: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -72,10 +76,6 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to the next fix.
 
 ### Fix 3: Reinstall shaders & clear cache
@@ -87,6 +87,10 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
@@ -96,20 +100,20 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
@@ -125,7 +129,7 @@ No luck with this fix? Try the next one.
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Install the old driver
@@ -136,10 +140,6 @@ No luck with this fix? Try the next one.
 2. Type **devmgmt.msc** and press **Enter** to open the Device Manager window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
@@ -171,21 +171,18 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-video-sharing-showdown-deciding-between-vimeo-youtube-and-dailymotion/"><u>[New] 2024 Approved Video Sharing Showdown Deciding Between Vimeo, YouTube & DailyMotion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-a-decade-of-digital-disguise-expert-tips-on-snapchat-filters-for-2024/"><u>[New] A Decade of Digital Disguise Expert Tips on Snapchat Filters for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[Updated] 2024 Approved From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-5-displays-for-immersive-ps5-gaming/"><u>[Updated] In 2024, Optimal 5 Displays for Immersive PS5 Gaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-fundamentals-of-gif-design-and-creation/"><u>[Updated] The Fundamentals of GIF Design and Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/anthems-stuck-on-launch-solving-the-games-unending-boot-sequence-woes/"><u>Anthem's Stuck on Launch? Solving the Game’s Unending Boot Sequence Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-horror-game-immersion-fixing-lag-issues-in-resident-evil-village-on-pc/"><u>Enhance Your Horror Game Immersion - Fixing Lag Issues in Resident Evil Village on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-the-excitement-with-cod-modern-warfares-newest-fps-release/"><u>Experience the Excitement with Cod: Modern Warfare's Newest FPS Release!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-prevent-adobe-premiere-pro-crashing-incidents-on-windows-1110-platforms/"><u>Expert Solutions to Prevent Adobe Premiere Pro Crashing Incidents on Windows 11/10 Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211132886-9780834845473-finding-radical-wholeness/"><u>Finding Radical Wholeness | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-to-play-solutions-for-launch-failures-of-steam-titles-on-windows-10/"><u>Get to Play: Solutions for Launch Failures of Steam Titles on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-delete-visual-fluff-from-win-search-ui/"><u>How to Delete Visual Fluff From Win Search UI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y17s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y17s Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-magic-6-lite-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor Magic 6 Lite</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-end-of-nightmares-fixing-and-preventing-black-screens-in-cyberpunk-2077/"><u>The End of Nightmares: Fixing and Preventing Black Screens in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-for-optimizing-sims-4-speed-and-stability-on-windows-computers/"><u>Top Strategies for Optimizing Sims 4 Speed and Stability on Windows Computers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-earn-big-on-youtube-strategies-for-successful-creators/"><u>[New] In 2024, Earn Big on YouTube Strategies for Successful Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>[Updated] Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-searching-comments-on-youtube/"><u>[Updated] In 2024, Searching Comments on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-roblox-launch-issues-expert-advice-and-fixes-for-gamers/"><u>Fixing Roblox Launch Issues: Expert Advice and Fixes for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/green-wheels-or-hidden-costs-uncovering-the-truth-about-electric-cars/"><u>Green Wheels or Hidden Costs? Uncovering the Truth About Electric Cars</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-f15-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy F15 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-symphonic-syncopation-perfecting-audio-transitions/"><u>In 2024, Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connection-obstacles-a-step-by-nstep-guide-to-reconnect-with-your-minecraft-world/"><u>Overcoming Connection Obstacles: A Step-by-nStep Guide to Reconnect with Your Minecraft World</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-display-issues-fixing-hdcp-unsupported-devices/"><u>Overcoming Display Issues: Fixing HDCP Unsupported Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-a-comprehensive-guide-on-fixing-recurring-usb-recognition-issues/"><u>Say Goodbye: A Comprehensive Guide on Fixing Recurring USB Recognition Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-nagging-problems-heres-how-to-fix-the-game-from-not-loading/"><u>Team Fortress Nagging Problems? Here's How to Fix the Game From Not Loading</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frame-rate-dips-and-stutters-in-sifu-for-windows-pc-users/"><u>Troubleshooting Frame Rate Dips and Stutters in Sifu for Windows PC Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-selection-durable-phone-cases-for-the-new-pixel-press-6-pro/"><u>Ultimate Selection: Durable Phone Cases for the New Pixel Press 6 Pro</u></a></li>
 </ul></div>
 

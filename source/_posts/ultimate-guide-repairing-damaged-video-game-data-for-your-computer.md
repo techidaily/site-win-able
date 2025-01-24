@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Repairing Damaged Video Game Data for Your Computer"
-date: 2024-08-18T15:28:40.903Z
-updated: 2024-08-19T15:28:40.903Z
+date: 2025-01-21T16:00:04.546Z
+updated: 2025-01-24T16:53:42.243Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 
 Delays and lags in-game are no doubt ruining the fun of the game. If that’s a problem for you when you’re playing Dota 2 and you want to fix Dota 2 lag during gameplay, you’re in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 2 types of lag relevant to gaming – one is FPS lag, the other is network lag. If you’re experience the FPS lag, usually you can adjust your graphics settings to fix it. If you’re experiencing network lag instead – your network connection has slowed down, you can check for bandwidth-hungry apps and your network settings.
@@ -44,23 +41,29 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you close unwanted programs, restart your game to test your problem. If your problem still exists, try[**fix 2**](https://tools.techidaily.com/drivereasy/download/) , below.
 
@@ -70,39 +73,28 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch Dota 2 to see if this has resolved your problem.
 
 If not, don’t worry. There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 2: Rule out driver issues
 
  One of the most common causes of lags during gameplay is the faulty or incompatible graphics driver. If Dota 2 starts lagging after you updated the graphics driver, you’ll need to **[roll back the driver to the previous version](https://tools.techidaily.com/drivereasy/download/)**  ; if you haven’t made any changes to the driver, then **[try updating it to the latest version](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -143,27 +135,18 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Configure in-game video settings
 
  Improper video setting can also cause Dota 2 to lag. If that’s the problem for you, you’ll need to optimize the video settings in Steam. Here is how to do it:
@@ -172,14 +155,15 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **2)**  Click the **Settings** **button** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-327.png)
 
 **3)**  Click the **VIDEO**  tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-328.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Modify the video settings following the screenshot below.
 
@@ -187,16 +171,14 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **5)**  Click **APPLY** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-330.png)
 
  Relaunch your game to test your problem. If your issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Change your PC’s power plan
 
  Your computer may slow down to save energy if it’s set to Power Saver Mode. If that’s the case for you, try changing your power plan to High Performance. Here is how:
@@ -204,6 +186,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -215,9 +201,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **4)** Select **High Performance** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 **5)** Restart your computer, and then relaunch Dota 2 to test your problem.
@@ -238,21 +221,23 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Connections tab** , and then click **LAN settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-775.png)
 
 **4)** Uncheck **Automatically detect settings** and click **OK** .
 
  If you lose your network connections after click OK, return to the LAN Settings window to re-enable the automatic detection setting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-776.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch your game to see if this fixed your problem. If Dota 2 still lags while you’re gaming, check the fix below.
 
@@ -266,16 +251,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **2)**  Click **Steam** , and then select **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
 
 **4)** Click **OK** .
@@ -288,9 +267,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 **6)** Click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
 
 **7)**  Click**Downloads** , and then click **CLEAR DOWNLOAD CACHE** .
@@ -318,8 +294,6 @@ If not, don’t worry. There are still 5 more fixes to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -327,4 +301,22 @@ If not, don’t worry. There are still 5 more fixes to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-steady-hand-techniques-for-videographers/"><u>[New] 2024 Approved Steady-Hand Techniques for Videographers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-steps-for-successful-extraction-of-fb-content/"><u>[New] In 2024, Steps for Successful Extraction of FB Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights-for-2024/"><u>[Updated] Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-latest-launch-preview-dates-revealed-speculation-confirmed-and-what-to-expect-next/"><u>Apple's Latest Launch Preview: Dates Revealed, Speculation Confirmed, and What to Expect Next</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/critical-insights-godfalls-inability-to-captivate-players-as-ps5s-exclusive-game/"><u>Critical Insights: Godfall's Inability to Captivate Players as PS5's Exclusive Game</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/precision-in-photograph-preservation-phone-to-snapchat-guide/"><u>Precision in Photograph Preservation Phone to Snapchat Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enhance-usb-capacity-on-desktops/"><u>Steps to Enhance USB Capacity on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-audio-files-quick-and-simple-steps-for-switching-from-flac-to-ogg/"><u>Transforming Audio Files: Quick and Simple Steps for Switching From FLAC to Ogg</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-switching-out-your-windows-nbackup-drive-a-detailed-walkthrough/"><u>Ultimate Guide to Switching Out Your Windows Nbackup Drive: A Detailed Walkthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-av1-video-playback-with-vlc-expert-tips-and-tricks/"><u>Ultimate Guide: Mastering AV1 Video Playback with VLC - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-video-downloads-from-videa-with-ease/"><u>Ultimate Guide: Mastering Video Downloads From Videa with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrpc/"><u>VRムービーの見た目いかんでもPCでスムーズ再生するプレイヤー選び方</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-is-the-ideal-batch-size-for-concurrent-video-conversion-without-lagging-issues/"><u>What Is the Ideal Batch Size for Concurrent Video Conversion Without Lagging Issues?</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-to-watch-after-kissanimes-shutdown-top-notch-free-anime-websites-as-replacements-or-mirrors/"><u>What to Watch After KissAnime's Shutdown? Top-Notch Free Anime Websites as Replacements or Mirrors</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10mov/"><u>Windows 10上でMOV形式の動画ファイルを組み立てる詳しいガイド</u></a></li>
+</ul></div>
 

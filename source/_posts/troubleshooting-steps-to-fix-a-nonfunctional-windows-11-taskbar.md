@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Fix a Nonfunctional Windows 11 Taskbar
-date: 2024-08-18T15:21:10.673Z
-updated: 2024-08-19T15:21:10.673Z
+date: 2025-01-18T16:37:01.460Z
+updated: 2025-01-24T16:20:21.781Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 STAR WARS The Old Republic (SWTOR) window does not show after you press Play? You’re not alone! Many players have reported this issue. But no worries. Here are 5 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -26,6 +30,10 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Delete the Bitraider folder](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Rule out software conflicts
 
@@ -37,9 +45,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
  Then, repeat this step and kill all the**BitRaider-related processes,** such as**BitRaider Distribution Web Client** and**BitRaider Support Service Core** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
@@ -62,10 +67,6 @@ If SWTOR still won’t start, read on and try the next fix below.
 
 **3)** Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12-1.jpg)
 
 **4)** Relaunch your game to see if this helped.
@@ -88,13 +89,14 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -106,6 +108,10 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 If your game still won’t launch, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of game files
 
  Corrupted and damaged game files can cause a wide variety of errors. If you’re gaming on Steam, use the repair tool to fix it.
@@ -114,24 +120,19 @@ If your game still won’t launch, then go ahead with the fix below.
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch the game to test your issue.
 
@@ -149,9 +150,6 @@ If SWTOR is still unplayable, move on to the next fix.
 
 **3)** Delete the**Bitraider folder** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-38-29.jpg)
 
 **4)** Relaunch the game and wait for the repair to be complete.
@@ -164,14 +162,19 @@ If SWTOR is still unplayable, move on to the next fix.
 
 **4)** Right-click**Launcher.settings** , then select**Open with** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -180,9 +183,6 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “log\_levels”: “INFO,SSNFO,ERROR”**
  **, “bitraider\_disable”: “true”**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
@@ -213,8 +213,6 @@ If SWTOR is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +220,17 @@ If SWTOR is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-asian-themed-mini-mansions-for-creative-builders/"><u>[New] Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transform-your-online-reputation-and-increase-your-social-media-following/"><u>[New] In 2024, Transform Your Online Reputation and Increase Your Social Media Following</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-list-free-online-video-conferencing-software/"><u>[Updated] In 2024, The Ultimate List Free Online Video Conferencing Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quickscreen-recorder-plus-guided-soundtrack-companion-for-2024/"><u>[Updated] QuickScreen Recorder + Guided Soundtrack Companion for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-the-path-for-fortnite-success-solving-you-lack-permissions-issues/"><u>Clearing the Path for Fortnite Success: Solving ‘You Lack Permissions’ Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-expert-advice-on-solving-pc-instability-for-guardians-of-the-galaxy-fans/"><u>Enhancing Performance: Expert Advice on Solving PC Instability for Guardians of the Galaxy Fans</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-keyboard-commands-to-sharpen-your-3d-skills/"><u>Essential Keyboard Commands to Sharpen Your 3D Skills</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-freezing-issues-in-thunder-tier-one-pc-version/"><u>How to Fix Persistent Freezing Issues in Thunder Tier One PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-patch-successfully-addresses-cod-warzone-pacific-map-bug/"><u>Latest Patch Successfully Addresses COD: Warzone Pacific Map Bug</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-your-audio-cues-with-ease-windows-and-os-x-guide-to-srt/"><u>Unlock Your Audio Cues with Ease Windows & OS X Guide to SRT</u></a></li>
+</ul></div>
 

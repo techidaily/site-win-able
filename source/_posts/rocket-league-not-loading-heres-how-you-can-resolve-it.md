@@ -1,7 +1,7 @@
 ---
 title: Rocket League Not Loading? Here's How You Can Resolve It!
-date: 2024-08-18T15:24:54.366Z
-updated: 2024-08-19T15:24:54.366Z
+date: 2025-01-19T16:02:41.494Z
+updated: 2025-01-24T16:17:31.476Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 ## OBS Not Capturing Video? Here's How You Can Resolve That Now
 
 Many Windows users have been reporting the OBS not recording screen issue lately. If you’re one of them, don’t worry. Although this problem can be caused by a variety of reasons, you can fix it in easy steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,29 +44,26 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  If OBS doesn’t have proper administrator privileges, it will fail to record your screen as expected, but you could run it as an administrator to fix the issue.
 
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
 
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
@@ -70,9 +71,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 4 – Change the graphics settings
 
  For users who are running OBS on a laptop or a multi-GPU system, using the wrong graphics card will trigger performance issues with the specific capture type. So OBS may not capture your screen. To fix this, you can select the dedicated graphics card manually via Windows settings.
@@ -81,27 +79,26 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 6. Click**OBS Studio** and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Update your device drivers
 
  If none of the methods above resolves your problem, the cause can be driver-related. If your device drivers are missing, faulty or outdated, you may run into the OBS black screen issue and it won’t be able to record the screen properly. To update your device drivers, here are two ways for you:
@@ -114,10 +111,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -136,8 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +141,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-amplify-your-business-through-effective-use-of-top-15-fb-analyzers-for-2024/"><u>[New] Amplify Your Business Through Effective Use of Top 15 FB Analyzers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ositive-interaction-not-pressure-a-subscription-success-story/"><u>[New] Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pixelated-palace-beginner-friendly-home-design-guide/"><u>[Updated] Pixelated Palace Beginner-Friendly Home Design Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-device-editors-for-app-development/"><u>[Updated] Prime Device Editors for App Development</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-snapseed-advanced-usage-insights/"><u>[Updated] Snapseed Advanced Usage Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-crystal-clear-visuals-on-the-hisense-50h8f-4k-hdr-smart-television/"><u>Budget-Friendly, Crystal Clear Visuals on the Hisense 50H8F 4K HDR Smart Television</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-5573-cracked-in-depth-guide-to-resolve-it-in-call-of-duty-vanguard/"><u>Error Code 5573 Cracked: In-Depth Guide to Resolve It in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-nightmares-enabling-avatar-frontiers-of-pandora-launch/"><u>Fix Your Game Nightmares: Enabling Avatar – Frontiers of Pandora Launch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-poco-c51-frp-by-drfone-android/"><u>Full Guide to Bypass Poco C51 FRP</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-dead-by-daylight-error-code-8014-issue-for-a-smooth-gameplay-experience/"><u>How to Overcome the Dead by Daylight Error Code 8014 Issue for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-panoramic-videos-on-iphone-perfect-for-facebook-for-2024/"><u>Mastering Panoramic Videos on iPhone, Perfect for Facebook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-compatible-fixes-for-enshrouded-no-more-crashes/"><u>PC Compatible Fixes for 'Enshrouded' - No More Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-new-world-crash-dilemma-on-windows-computers-is-finally-solved-heres-what-changed/"><u>The 'New World' Crash Dilemma on Windows Computers Is Finally Solved - Here's What Changed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-leveraging-google-gemini-effectively/"><u>The Ultimate Tutorial on Leveraging Google Gemini Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solutions-for-dragon-quest-xi-crashes-a-complete-guide/"><u>Troubleshooting and Solutions for Dragon Quest XI Crashes: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-stop-left-amo-2-from-frequent-crashes-and-enjoy-uninterrupted-gaming/"><u>Troubleshooting Tips: Stop Left Amo 2 From Frequent Crashes & Enjoy Uninterrupted Gaming!</u></a></li>
+</ul></div>
 

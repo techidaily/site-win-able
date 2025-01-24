@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Correcting Common JavaScript Issues in Discord"
-date: 2024-08-18T15:22:17.017Z
-updated: 2024-08-19T15:22:17.017Z
+date: 2025-01-19T16:24:43.086Z
+updated: 2025-01-24T16:58:49.664Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b595b9543db0254b21054bd69b8ec2973757e8ec7
 After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title in 2020: Immortals Fenyx Rising. Though the engaging myths and puzzles make the game too fun to put down, many gamers have reported**game crashing issues** that stop them from exploring the open-world.
 
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,8 +59,9 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -67,7 +72,16 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -94,15 +108,14 @@ If this method doesn’t help, you can take a look at the next one.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,9 +124,6 @@ If this method doesn’t help, you can take a look at the next one.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -121,14 +131,8 @@ If this method doesn’t help, you can take a look at the next one.
 And here’s how you can make sure your system is the latest:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -145,8 +149,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +156,20 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-top-10-free-youtube-channels-for-exceptional-art-creation/"><u>[New] 2024 Approved Top 10 FREE YouTube Channels for Exceptional Art Creation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ipad-timelapse-a-beginners-handbook-to-filming/"><u>[New] In 2024, IPad Timelapse A Beginner's Handbook to Filming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pinnacle-of-plotting-the-worlds-best-8-schools-for-writers/"><u>[New] Pinnacle of Plotting The World's Best 8 Schools for Writers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-dreamlight-valley-stability-issues-top-6-troubleshooting-steps/"><u>Fix Dreamlight Valley Stability Issues: Top 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-a-step-by-step-guide-to-solve-star-wars-squadrons-crashes/"><u>Fixed! A Step-by-Step Guide to Solve STAR WARS Squadrons Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-10-v-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 10 V PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-audio-in-lost-ark-diagnosing-and-repairing-the-issue/"><u>Lost Audio in Lost Ark - Diagnosing and Repairing the Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/sea-of-thieves-trouble-heres-how-you-can-fix-the-unlaunchable-game/"><u>Sea of Thieves Trouble? Here's How You Can Fix the Unlaunchable Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/shader-troubles-speed-through-your-star-wars-bfii-optimization-issues/"><u>Shader Troubles? Speed Through Your Star Wars BFII Optimization Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-guide-to-improve-lag-issues-and-increase-fps-on-watch-dogs-legion/"><u>Step-by-Step Troubleshooting Guide to Improve Lag Issues & Increase FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-color-grading-tutorial-final-cut-pro-edition/"><u>Updated In 2024, The Ultimate Color Grading Tutorial Final Cut Pro Edition</u></a></li>
+</ul></div>
 

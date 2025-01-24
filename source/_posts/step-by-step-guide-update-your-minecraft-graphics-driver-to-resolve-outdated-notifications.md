@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2025-01-12T08:12:46.185Z
-updated: 2025-01-18T01:40:24.713Z
+date: 2025-01-20T16:20:47.017Z
+updated: 2025-01-24T16:44:28.714Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 2. [**Check the versions of Minecraft and your system**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using the latest drivers
 
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 
 If the update message pops up again, check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the versions of Minecraft and your system
 
  Though the message tells you to update your graphics driver, it’s also a priority for you to **make sure both your Minecraft client and system are up to date** . Some players suggest that the message could also be telling you that you’re on an outdated client or system.
@@ -79,15 +75,15 @@ You can use the following steps to check for Minecraft updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Java edition
 
 1. Open or restart your Minecraft launcher.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
 
@@ -95,11 +91,11 @@ You can use the following steps to check for Minecraft updates.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -118,15 +114,19 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
- Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-Once done, restart Windows and try again in Minecraft.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+Once done, restart Windows and try again in Minecraft.
 
 ### Fix 4: Check your default GPU
 
@@ -141,7 +141,7 @@ Here’s how you can check the preferred GPU of Minecraft:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -150,12 +150,12 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
@@ -182,20 +182,22 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/robocop-resurgence-release-issues-how-to-overcome-pc-starting-problems/"><u>'RoboCop Resurgence' Release Issues: How to Overcome PC Starting Problems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-create-unique-audio-trailers-at-zero-expense/"><u>[New] 2024 Approved Create Unique Audio Trailers at Zero Expense</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-free-windows-screen-capture-top-5-applications-reviewed/"><u>[New] Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-supercharge-your-social-media-scrapping-the-best-5-chrome-plugins/"><u>[New] In 2024, Supercharge Your Social Media Scrapping The Best 5 Chrome Plugins</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>[Updated] In 2024, Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fast-and-easy-methods-for-transferring-images-from-your-mac-to-an-ipad/"><u>Fast and Easy Methods for Transferring Images From Your Mac to an iPad</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-basics-to-brilliance-fullscreen-proficiency-in-premiere-for-2024/"><u>From Basics to Brilliance Fullscreen Proficiency in Premiere for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-t2-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo T2 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-pc-issues-in-marvels-guardians-of-the-galaxy-a-guide-to-8-effective-fixes/"><u>Overcome PC Issues in 'Marvel’s Guardians of the Galaxy': A Guide to 8 Effective Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-borderlands-3-stuttering-issues-a-step-by-step-guide/"><u>Resolving Borderlands 3 Stuttering Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-halo-infinite-game-crashes-on-your-computer-top-7-quick-solutions/"><u>Resolving Halo Infinite Game Crashes on Your Computer: Top 7 Quick Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-star-citizens-windows-malfunction-say-goodbye-to-disruptions/"><u>Solving Star Citizen's Windows Malfunction – Say Goodbye to Disruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fix-crashes-in-ring-of-elysium/"><u>Step-by-Step Guide to Fix Crashes in Ring of Elysium</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-fixing-wrc-10-installation-errors-fifas-latest-update-made-easy-for-pc-gamers/"><u>The Ultimate Guide to Fixing WRC 10 Installation Errors: FIFA's Latest Update Made Easy for PC Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-capturing-scrollable-content-with-screen-shots-on-mac-16-techniques-explained-by-movavi/"><u>The Ultimate Guide: Capturing Scrollable Content with Screen Shots on Mac - 16 Techniques Explained by Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-in-depth-world-of-magix-video-pro-x/"><u>[New] Exploring the In-Depth World of Magix Video Pro X</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-collection-of-favorite-ig-after-effects-plugins/"><u>[Updated] 2024 Approved The Ultimate Collection of Favorite IG After Effects Plugins</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-adding-eye-catching-text-to-vids-without-costs/"><u>2024 Approved Adding Eye-Catching Text to Vids Without Costs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-vs-vimeo-exploring-user-experience-variance/"><u>2024 Approved YouTube vs Vimeo Exploring User Experience Variance</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvdmp4-xmedia-recode/"><u>DVDビデオからMP4への変換: XMedia Recode使い方ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-instructions-for-capturing-audio-from-your-join-with-me-webinar/"><u>Easy Instructions for Capturing Audio From Your 'Join With Me' Webinar</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-converting-your-ppt-presentation-into-an-engaging-animated-gif/"><u>Easy Steps: Converting Your PPT Presentation Into an Engaging Animated GIF</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-guide-to-converting-adts-audiotracks-to-high-quality-mp3s/"><u>Effortless Guide to Converting ADTS Audiotracks to High-Quality MP3s</u></a></li>
+<li><a href="https://win-able.techidaily.com/enable-seamless-multitasking-with-youtube-pip-comprehensive-instructions-for-chrome-and-firefox-users/"><u>Enable Seamless Multitasking with YouTube PiP: Comprehensive Instructions for Chrome and Firefox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-fixes-for-sony-vegas-mp4-troubles-overcoming-challenges-with-no-sound-no-picture-and-more/"><u>Essential Fixes for Sony Vegas MP4 Troubles: Overcoming Challenges with No Sound, No Picture, and More</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-choosing-and-utilizing-leading-dvd-encryption-crackers-effectively/"><u>Expert Guide: Choosing and Utilizing Leading DVD Encryption Crackers Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-and-easy-guide-to-changing-your-videos-audio-format/"><u>Fast and Easy Guide to Changing Your Video's Audio Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/favorite-frameworks-top-instagram-filters-for-2024/"><u>Favorite Frameworks Top Instagram Filters for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-device-is-unreachable-error-0x80070141-on-windows/"><u>How to Fix the “Device Is Unreachable” Error 0X80070141 on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-the-best-video-footage-with-gopro/"><u>In 2024, Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gptzero-strategies-to-detect-machine-generated-text-effortlessly/"><u>Leveraging GPTZero: Strategies to Detect Machine-Generated Text Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-macos-faqand/"><u>WinX DVD Ripper macOS版 - FAQ&普及情報</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Dragon's Dogma 2 Performance: Solutions for Reducing Frame Rate Lag"
-date: 2024-08-18T15:20:55.574Z
-updated: 2024-08-19T15:20:55.574Z
+date: 2025-01-22T16:35:17.710Z
+updated: 2025-01-24T16:34:24.343Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 The PC port of**Marvel’s Avengers** is finally here, but many gamers start complaining about the crashing issue, which shatters their super hero dreams. So if you happen to be one of them, don’t worry. Here’re some useful tips that could help you fix the crash quickly & easily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -39,18 +35,16 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 1. Go to your**Steam Library** . Right-click**Marvel’s Avengers** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-1.jpg)
 2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** , then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve completed this process, launch Marvel’s Avengers and check if the crash reappears.
 
  If this method doesn’t solve your crashing issue, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Install all the Windows updates
 
  Windows 10 includes 2 types of updates, one is**quality updates** , which provides security and reliability fixes, another one is**feature updates** , which add new functionalities twice per year. If you can’t remember the last time you installed any updates, definitely do it now as it could be a potential fix to your problem.
@@ -58,9 +52,6 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 You can install system updates with just a few clicks:
 
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box. Type or paste **control /name Microsoft.WindowsUpdate** and hit **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . This might take a while for Windows to search and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -73,8 +64,9 @@ You can install system updates with just a few clicks:
  If this fix doesn’t work for your case, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  In most cases, crashing issues tend to be driver-related, which means you’re probably using a**faulty** or**outdated graphics driver** . So updating your driver could very well tackle your problem right away.
@@ -102,11 +94,19 @@ You can install system updates with just a few clicks:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with_full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated the graphics driver and restarted your computer, open Marvel’s Avengers and see if the crash persists.
 
  If this method doesn’t give you any luck, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable all the overlays
 
@@ -122,16 +122,14 @@ You can install system updates with just a few clicks:
 
  If this fix doesn’t do the trick for you, please continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Close all the background programs
 
  Some AAA titles require all the resources of your rig, and sometimes they crash because you have other programs eating up your RAM or CPU resources. So check if you’re running large programs such as**Chrome** ,**Discord** or**Skype** . If you do, close them before launching Marvel’s Avengers.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Turn off VSync
 
  VSync is “**Vertical Sync** ” for short. It’s a feature that locks your FPS at a certain range, which is believed to be a solution to screen tearing. But VSync has downsides too. It might cause system instability and crash your game. Usually GPU manufacturers will release driver updates targeting this issue, but before that update comes out, you can try to fix the crash by simply disabling VSync.
@@ -139,12 +137,13 @@ You can install system updates with just a few clicks:
  You can turn off VSync in your**graphics control panel** . For example, if you’re using a NVIDIA graphics card:
 
 1. Right-click a blank area on desktop, then select NVIDIA Control Panel.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. Of the menu on the left, select**Manage 3D settings** . Make sure you’re at the**Global Settings** tab, then click the text to the right of**Vertical sync** and select**off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Launch Marvel’s Avengers and test your gameplay.
 
@@ -158,8 +157,6 @@ You can install system updates with just a few clicks:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,20 @@ You can install system updates with just a few clicks:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhancing-your-social-media-footprint-upload-success-tips-for-stories/"><u>[New] In 2024, Enhancing Your Social Media Footprint Upload Success Tips for Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-in-class-writing-workshop/"><u>[Updated] Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-excellence-the-best-camera-lenses-for-2024/"><u>Capturing Excellence The Best Camera Lenses for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-issues-troubleshooting-a-non-responsive-vrchat-experience/"><u>Fixing Persistent Issues: Troubleshooting a Non-Responsive VRChat Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-mini-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-note-30-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Note 30 5G</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>In 2024, How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-g42-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia G42 5G has been deleted.</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/resolu-strategies-pour-surmonter-la-panne-du-processus-principal-sous-windows-11-7-methodes-plus-astuce-rapide/"><u>Résolu : Stratégies Pour Surmonter La Panne Du Processus Principal Sous Windows 11 [7 Méthodes + Astuce Rapide]</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-issues-with-nba-2k21-on-windows-pc/"><u>Resolved: Fixing Issues with NBA 2K21 on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/rev-up-your-forza-horizon-5-experience-with-these-7-power-up-tricks-for-loading-screen-woes/"><u>Rev Up Your Forza Horizon 5 Experience with These 7 Power-Up Tricks for Loading Screen Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-get-past-madden-22s-loading-screen-glitch/"><u>The Ultimate Guide to Get Past Madden 22’S Loading Screen Glitch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+</ul></div>
 

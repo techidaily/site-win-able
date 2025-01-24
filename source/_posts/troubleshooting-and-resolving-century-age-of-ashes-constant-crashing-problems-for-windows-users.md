@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving 'Century: Age of Ashes' Constant Crashing Problems for Windows Users"
-date: 2025-01-12T17:52:22.452Z
-updated: 2025-01-18T05:34:04.279Z
+date: 2025-01-20T17:04:15.541Z
+updated: 2025-01-24T16:19:57.078Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 5. [Reinstall codecs and plugins](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall / update After Effects](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Temporarily disable hardware acceleration
 
  GPU acceleration is one of the common causes of After Effects crashing. If you’re running into After Effects crashing on your Windows computer, just temporarily disable GPU acceleration to see if you can fix this issue. Here is how to do it:
@@ -45,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -85,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -100,6 +108,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -121,10 +133,6 @@ There’re mainly two ways you can update your graphics drivers:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -132,10 +140,6 @@ There’re mainly two ways you can update your graphics drivers:
  Launch After Effects to see if it would crash or not. Normally, after you updated the graphics driver, the crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Purge memory & disk cache
 
@@ -170,16 +174,12 @@ If After Effects still crashes, try the next fix, below.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -210,15 +210,21 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/a-guide-to-writing-successful-vlogging-scripts/"><u>A Guide to Writing Successful Vlogging Scripts</u></a></li>
-<li><a href="https://win-able.techidaily.com/cant-use-your-utorrent-try-out-these-7-successful-remedies/"><u>Can't Use Your Utorrent? Try Out These 7 Successful Remedies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nokia-xr21-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nokia XR21 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-reducing-stutters-ultimate-guide-for-call-of-duty-warzone/"><u>Improving Frame Rate & Reducing Stutters: Ultimate Guide for Call of Duty: Warzone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y56-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y56 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-12-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi 12 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-efficiency-how-to-lower-cyberpunk-2077s-heavy-load-on-your-processor/"><u>Maximize Efficiency: How to Lower Cyberpunk 2077'S Heavy Load on Your Processor</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996380803-pc-gamers-destiny-2-fixed-and-fully-operational-now/"><u>PC Gamers: Destiny 2 Fixed and Fully Operational Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-outlook-cannot-reach-microsoft-exchange-server-errors/"><u>Troubleshooting Steps for 'Outlook Cannot Reach Microsoft Exchange Server' Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-false-projections-in-artificial-intelligence-outputs/"><u>Unmasking False Projections in Artificial Intelligence Outputs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-horizon-zero-dawn-boost-fps-and-increase-performance/"><u>[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cross-platform-connections-effortless-insta-facebook-linkup-for-2024/"><u>[New] Cross-Platform Connections Effortless Insta-Facebook Linkup for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-professional-video-edits-simplified-by-youtube-studio-editor/"><u>[New] In 2024, Professional Video Edits Simplified by YouTube Studio Editor</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-strategies-for-success-on-ginger-island/"><u>[Updated] 2024 Approved Expert Strategies for Success on Ginger Island</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ancestral-aesthetics-art-without-restrictive-rights/"><u>[Updated] Ancestral Aesthetics Art Without Restrictive Rights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-comprehensive-examination-assessing-gecatas-game-logger/"><u>[Updated] In 2024, Comprehensive Examination Assessing Gecata's Game Logger</u></a></li>
+<li><a href="https://win-able.techidaily.com/corrective-steps-to-restore-your-clownfish-vocal-processors-functionality/"><u>Corrective Steps to Restore Your Clownfish Vocal Processor's Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success/"><u>FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-orbi-tri-band-wi-fi-6-mesh-network-for-ultimate-home-coverage/"><u>In Depth Look at the Orbi Tri-Band Wi-Fi 6 Mesh Network for Ultimate Home Coverage</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-troubleshooting-for-tales-of-arise-on-unreal-engine-4/"><u>Navigating Troubleshooting for Tales of Arise on Unreal Engine 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k24-how-to-fix-error-code-727e66ac-2024-tips/"><u>NBA 2K24: How to Fix Error Code 727E66ac -2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-gaming-interruptions-effortlessly-resolve-titanfall-2-continuous-crashing/"><u>No More Gaming Interruptions: Effortlessly Resolve Titanfall 2 Continuous Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stuttering-issues-in-fallout-76-a-comprehensive-guide/"><u>Resolving Stuttering Issues in Fallout 76 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-overcoming-content-warning-and-voice-chat-not-working-problems-seamlessly/"><u>The Ultimate Fix: Overcoming 'Content Warning' And 'Voice Chat Not Working' Problems Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-to-get-the-hit-ps4-game-days-gone-running-on-your-computer/"><u>Ultimate Fixes to Get the Hit PS4 Game, Days Gone Running on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-shellgpt-for-efficient-chatgpt-experiences/"><u>Utilizing ShellGPT for Efficient ChatGPT Experiences</u></a></li>
 </ul></div>
 

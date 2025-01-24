@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting Outriders' Connectivity Delays for Smoother Gameplay
-date: 2024-08-18T15:25:14.570Z
-updated: 2024-08-19T15:25:14.570Z
+date: 2025-01-23T16:47:59.583Z
+updated: 2025-01-24T16:21:09.363Z
 tags:
   - win11
   - win10
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
  If you’re experiencing lags when streaming, culprits often boil down to**network latency** . But if it keeps lagging even if you’re recording, or exporting your videos, it’s mainly caused by your**graphics card** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OBS lags when streaming
 
  When you’re streaming with OBS, network latency is no stranger to live streamers. In order to deliver a smoother watching experience, it’s quite necessary to reduce lag spikes while streaming.
@@ -37,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Stop other bandwidth-intensive activities
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues. Make sure you shut down all the other resource-hungry programs before streaming with OBS; if it’s your family members or friends who are doing bandwidth-intensive activities, just pick another time to stream or ask them politely to give way to you.
@@ -45,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **resmon** and hit **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
@@ -57,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) When Windows asks you to confirm, click **End process** .
 
@@ -106,16 +108,21 @@ ipconfig /flushdns
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Restart modem & router
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
 
 1) Unplug both your router and modem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 modem
 
@@ -135,9 +142,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### 4\. Update network adapter drivers
 
  Your network latency is sometimes caused by an outdated or corrupt driver. If you’re not sure whether your network card driver is up-to-date, you should check.
@@ -154,17 +158,15 @@ wireless router
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -203,19 +205,12 @@ wireless router
 * Switch**Recording Quality** to**Indistinguishable Quality** ;
 * Change**Recording Format** to**flv** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
 
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Update graphics card drivers
 
  Updating drivers is the solution to various issues, including graphics lag. You can update your GPU driver from either Windows Device Manager or the manufacturer’s website. But if you don’t have the time, skills, and patience to do that, simply use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  – a reliable and powerful driver updater tool – to help you manage all the driver updates.
@@ -224,26 +219,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Shut down unnecessary programs
 
  If you have too many GPU-intensive programs running in the background, that will definitely slow down the processing speed of your computer and lead to graphics lag. It’s not hard to shut down unnecessary programs, but have you noticed a Windows 10 feature called “Game Bar” that may render poor performance in OBS? If you haven’t, it’s about time you turned it off.
 
  1) On your keyboard, press the **Windows logo key** and then type **game mode** in the search box on your taskbar. In the results pane, click **Game Mode settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the pop-up window, toggle off **Game Mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -254,8 +248,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Lower in-game graphics settings
 
  To free up some resources on your GPU, you should turn down the graphics settings of any games running in the meantime. (Surely there’s no need to do that if you’re not streaming a game.) Then, wait to see if you’re still experiencing lag issues with OBS.
@@ -274,8 +269,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +276,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-share-videos-directly-on-twitter-via-mobile-devices-only/"><u>[New] 2024 Approved Share Videos Directly on Twitter via Mobile Devices Only</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] In 2024, The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-10-pc-cameras-and-recording-software-on-win-10-for-2024/"><u>[Updated] The Best 10 PC Cameras & Recording Software on Win 10 for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/bidens-digital-offensive-fb-tweet-snap-campaign-against-covid/"><u>Biden's Digital Offensive: Fb, Tweet, Snap Campaign Against COVID</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-stop-vray-software-from-unexpectedly-shutting-down-your-pc/"><u>Comprehensive Solutions: Stop Vray Software From Unexpectedly Shutting Down Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gpu-non-engagement-problems-with-call-of-duty-warzone-on-new-windows-11-devices/"><u>Fixing GPU Non-Engagement Problems with Call of Duty: Warzone on New Windows 11 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-a-malfunctioning-content-warning-feature-in-your-voice-chat/"><u>How to Repair a Malfunctioning Content Warning Feature in Your Voice Chat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-for-dev-error-code-6164-disrupting-your-shooter-gameplay-experience/"><u>Ultimate Fix Guide for Dev Error Code 6164 Disrupting Your Shooter Gameplay Experience</u></a></li>
+</ul></div>
 

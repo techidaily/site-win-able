@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Disruptions: Eliminating Stutters and Freezes During Fortnite Sessions on PC"
-date: 2025-01-13T03:38:38.217Z
-updated: 2025-01-17T23:13:48.006Z
+date: 2025-01-17T17:07:37.070Z
+updated: 2025-01-24T16:19:40.893Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -39,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -58,10 +50,6 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
@@ -70,10 +58,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
@@ -81,7 +65,7 @@ Check your region and language settings on your computer:
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -92,9 +76,17 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -128,6 +120,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -143,6 +139,10 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -164,18 +164,21 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-jumpstarting-creativity-turning-graphics-into-emoji-stickers-with-ease/"><u>[Updated] In 2024, Jumpstarting Creativity Turning Graphics Into Emoji Stickers with Ease</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-simplifying-gif-design-for-beginners/"><u>[Updated] In 2024, Simplifying GIF Design for Beginners</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-ip-in-instagram-rhythms/"><u>[Updated] Understanding IP in Instagram Rhythms</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-a-malfunctioning-msi-dragon-centre/"><u>Easy Fixes for a Malfunctioning MSI Dragon Centre</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-seamless-viewing-7-crucial-tweaks-for-a-flawless-twitch-experience/"><u>Ensure Seamless Viewing: 7 Crucial Tweaks for a Flawless Twitch Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-the-toshiba-55lf711u2-a-great-deal-for-amazon-prime-users/"><u>Expert Analysis on the Toshiba 55LF711U2: A Great Deal for Amazon Prime Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-frontier-cycle-problems-on-your-computer-expert-advice/"><u>Fixing Frontier Cycle Problems on Your Computer – Expert Advice</u></a></li>
-<li><a href="https://win-studio.techidaily.com/lengel-elizabeth-2006-unlikely-heroes-the-women-who-changed-world-war-ii-public-affairs/"><u>Lengel, Elizabeth (2006). Unlikely Heroes: The Women Who Changed World War II. Public Affairs.</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008734801-netflix-access-restored-for-xbox-one-users-bid-goodbye-to-buffering-and-start-watching/"><u>Netflix Access Restored for Xbox One Users – Bid Goodbye to Buffering and Start Watching!</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-black-ops-cold-war-error-0xc00e-effective-strategies-unveiled/"><u>Overcoming the Black Ops Cold War Error 0xC00e – Effective Strategies Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-cyberpunk-2077-performance-issues-no-more-lag-or-stutters/"><u>Resolved: Cyberpunk 2077 Performance Issues - No More Lag or Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-stuttering-in-mass-effect-legendary-edition/"><u>Resolved: Troubleshooting Stuttering in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-25-capture-apps-for-your-windows-10-device/"><u>[New] 2024 Approved Top 25 Capture Apps for Your Windows 10 Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creating-memorable-beginnings-imovie-tips-for-youtube-videos-for-2024/"><u>[New] Creating Memorable Beginnings IMovie Tips for YouTube Videos for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-your-full-potential-changing-status-in-discord/"><u>[Updated] 2024 Approved Unlocking Your Full Potential Changing Status in Discord</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-technology-tips-from-toms-hardware-guides/"><u>Discover Cutting-Edge Technology Tips From Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-players-experiencing-entry-point-not-found-glitch-on-fortnite/"><u>Easy Solutions for Players Experiencing 'Entry Point Not Found' Glitch on Fortnite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/funimate-playbook-strategies-for-success/"><u>Funimate Playbook Strategies for Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-the-recurring-crashes-of-ascent-in-pc-version-solved/"><u>Guide to Fixing the Recurring Crashes of Ascent in PC Version - Solved</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy A54 5G?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>In 2024, The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pause-in-apple-watch-series-9-and-ultra-series-2-online-purchases-impact-on-previous-generation-servicing/"><u>Pause in Apple Watch Series 9 & Ultra Series 2 Online Purchases: Impact on Previous Generation Servicing</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-woes-top-9-solutions-to-fix-ark-survival-evolved-constant-crashes/"><u>PC Woes? Top 9 Solutions To Fix ARK: Survival Evolved Constant Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987560496-r-type-final-2-pc-version-stability-issues-resolved-no-more-sudden-game-crashes/"><u>R-Type Final 2 PC Version Stability Issues Resolved: No More Sudden Game Crashes</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-vivo-s18e-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo S18e Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issue-why-cant-i-reach-my-steam-community/"><u>Solved Issue: Why Can't I Reach My Steam Community?</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-restoring-stability-in-tribes-of-midgard-after-a-sudden-breakdown/"><u>Step-by-Step Solution: Restoring Stability in 'Tribes of Midgard' After a Sudden Breakdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-the-blue-screen-of-death-in-helldivers-2/"><u>Troubleshooting Tips for Fixing The Blue Screen of Death in Helldivers 2</u></a></li>
 </ul></div>
 

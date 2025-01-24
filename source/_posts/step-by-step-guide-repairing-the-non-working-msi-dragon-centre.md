@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2025-01-12T03:38:44.767Z
-updated: 2025-01-17T18:24:41.051Z
+date: 2025-01-18T16:18:27.166Z
+updated: 2025-01-24T17:04:33.577Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,7 +35,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Use wire headsets
@@ -43,6 +43,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -57,18 +61,14 @@ Hope it works for you, if not, try updating your audio driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -79,7 +79,7 @@ Hope it works for you, if not, try updating your audio driver.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -106,24 +106,20 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-directing-dialogues-art-of-screenwriting/"><u>[New] 2024 Approved Directing Dialogues Art of Screenwriting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-blur-it-out-free-iphones-tips-for-crisp-image-edits/"><u>[New] Blur It Out Free iPhones Tips for Crisp Image Edits</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-boost-your-like-ratio-tips-for-squaring-up-videos/"><u>[Updated] 2024 Approved Boost Your Like Ratio Tips for Squaring Up Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebooks-recent-views-uncovered-for-you/"><u>[Updated] In 2024, Facebook’s Recent Views Uncovered for You</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/edit-like-a-pro-with-top-android-apps/"><u>Edit Like a Pro with Top Android Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fix-for-continuous-control-errors-and-crashing-problems/"><u>Effortless Fix for Continuous Control Errors & Crashing Problems.</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-wow-bug-comprehensive-guide-to-resolving-error-code-132-crash/"><u>Fixing WoW Bug: Comprehensive Guide to Resolving Error Code 132 Crash</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-metro-exodus-enhanced-pc-from-frequent-crashes/"><u>How to Prevent Metro Exodus Enhanced PC From Frequent Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/improved-gameplay-cyberpunk-2nk77-overcomes-previous-fps-lag-problems/"><u>Improved Gameplay: Cyberpunk 2Nk77 Overcomes Previous FPS Lag Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-note-30-vip-racing-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Note 30 VIP Racing Edition without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-master-the-art-of-livestream-recession-with-these-24-dynamic-tips/"><u>In 2024, Master the Art of Livestream Recession with These 24 Dynamic Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-startup-hurdles-for-mass-effect-legendary-edition-gamers/"><u>Resolving Startup Hurdles for Mass Effect Legendary Edition Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-helldivers-2s-blue-screen-mystery-a-step-by-step-repair-guide/"><u>Solve Helldivers 2'S Blue Screen Mystery - A Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-bypass-rainbow-six-sieges-error-code-3-0001000b/"><u>Step-by-Step Fixes to Bypass Rainbow Six Siege's Error Code 3-^0001000B</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-battlefield-2042-directx-error-solutions/"><u>Step-by-Step Troubleshooting: Battlefield 2042 DirectX Error Solutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mlining-youtube-sharing-with-google-account-accessibility-for-2024/"><u>Streamlining YouTube Sharing with Google Account Accessibility for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-solutions-to-overcome-low-fps-challenges-in-escape-from-tarkov/"><u>Top 6 Solutions to Overcome Low-FPS Challenges in Escape From Tarkov</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-the-full-potential-with-advanced-gopro-studio-edits/"><u>Unlock the Full Potential with Advanced GoPro Studio Edits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/vllo-for-mac-download-and-discover-similar-options-for-2024/"><u>VLLO for Mac Download and Discover Similar Options for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-maximize-your-screen-recording-experience-with-w8-tools/"><u>2024 Approved Maximize Your Screen Recording Experience with W8 Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4mp3-t17260306948572/"><u>一気に変換！複数MP4ファイルをMP3形式にする専門的なガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-using-manycams-advanced-features-for-virtual-camcorders-and-online-presence/"><u>Enhance Your Broadcasts Using ManyCam's Advanced Features for Virtual Camcorders and Online Presence</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gaming-experience-with-these-fixes-for-gta5s-freezing-problems/"><u>Enhance Your Gaming Experience with These Fixes for GTA5's Freezing Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-ultimate-list-of-leading-asus-routers-dominating-2024-market/"><u>Expert Picks: Ultimate List of Leading Asus Routers Dominating 2024 Market</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-professional-photography-hacks-top-cinematic-tips/"><u>In 2024, Professional Photography Hacks Top Cinematic Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leading-video-counts-the-popular-ones-for-2024/"><u>Leading Video Counts The Popular Ones for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-steam-troubleshooting-and-repairing-damaged-game-disks-with-ease/"><u>Mastering Steam: Troubleshooting and Repairing Damaged Game Disks with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-game-crashing-issues-solved/"><u>Mount & Blade II: Bannerlord Game Crashing Issues Solved</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-create-captions-in-final-cut-pro-x-a-comprehensive-guide/"><u>New 2024 Approved How to Create Captions in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-tips-to-eliminate-fortnite-lag-and-gameplay-interruptions/"><u>Quick Tips to Eliminate Fortnite Lag and Gameplay Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-unable-to-connect-issues-in-kodi-a-comprehensive-guide/"><u>Resolving 'Unable to Connect' Issues in Kodi – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003742979-resolving-the-endless-cycle-stop-fuser-from-hitting-pc-blackouts-now/"><u>Resolving the Endless Cycle: Stop Fuser From Hitting PC Blackouts Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-lag-in-pubg-now-step-by-step-guide-for-seamless-gaming-experience/"><u>Stop Lag in PUBG Now! Step-by-Step Guide for Seamless Gaming Experience</u></a></li>
 </ul></div>
 

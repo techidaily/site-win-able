@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2025-01-10T19:15:51.385Z
-updated: 2025-01-18T02:15:14.579Z
+date: 2025-01-17T16:22:03.111Z
+updated: 2025-01-24T16:24:28.565Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that works for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 3. [**Run the game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Repair the game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
 
@@ -52,6 +52,10 @@ Here are the minimum requirements for Madden NFL 22:
 | **Storage**   | 50GB                                     |
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
 
@@ -75,10 +79,6 @@ There are mainly two ways to update your drivers:
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Run the game as an administrator
 
  Madden 22 may fail to work with no administrator rights given. A simple trick is to run the game as an administrator. Here are the steps:
@@ -86,6 +86,10 @@ There are mainly two ways to update your drivers:
 1. Go to the Madden 22 installation folder. Then click the executable file and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
@@ -102,21 +106,13 @@ See if the issue persists. If yes, continue to the next solution.
 2. Right-click Madden 22 from the list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -125,6 +121,10 @@ See if the issue persists. If yes, continue to the next solution.
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
@@ -168,24 +168,24 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-content-composer-arena/"><u>[New] 2024 Approved Content Composer Arena</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-clearing-up-tips-for-preventing-gopro-haze/"><u>[Updated] Clearing Up Tips for Preventing GoPro Haze</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-efficient-thumbnail-generation-with-your-phone-for-video-content-for-2024/"><u>[Updated] Efficient Thumbnail Generation with Your Phone for Video Content for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-peeling-away-at-sharex-comparative-views-and-substitutes-for-2024/"><u>[Updated] Peeling Away at ShareX Comparative Views & Substitutes for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-common-problems-of-mir4-crashes-in-personal-computers/"><u>Bypassing the Common Problems of MIR4 Crashes in Personal Computers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/downloading-twitters-animated-content-simplified-for-2024/"><u>Downloading Twitter's Animated Content Simplified for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-fixes-getting-tekken-amoored-pc-version-up-and-running-again/"><u>Essential Fixes: Getting Tekken Amoored PC Version Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-launch-error-problems-in-video-games-a-comprehensive-guide/"><u>How to Fix 'Launch Error' Problems in Video Games - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-common-glitches-with-your-realtek-hd-graphic-cards-driver-software/"><u>How to Fix Common Glitches with Your Realtek HD Graphic Card's Driver Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-5-lite-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 5 Lite</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286548394-mts/"><u>MTS形式に優れた変換ソフトで順位上位を目指せ!無料アプリランキング</u></a></li>
-<li><a href="https://win-able.techidaily.com/rising-as-a-wealthy-dragon-looter-the-ultimate-pc-gaming-guide/"><u>Rising as a Wealthy Dragon Looter: The Ultimate PC Gaming Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-warzone-cant-locate-matches-a-comprehensive-guide-for-pc-players/"><u>Solving 'Warzone Can't Locate Matches': A Comprehensive Guide for PC Players</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-process-installing-fresh-drivers-for-your-xp-pen-graphics-device/"><u>Step-by-Step Process: Installing Fresh Drivers for Your XP-Pen Graphics Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-launch-modern-warfare-successfully-on-pc-a-guide/"><u>Steps to Launch Modern Warfare Successfully on PC - A Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/terraria-troubles-2024-crash-solutions-that-actually-work/"><u>Terraria Troubles? 2024 Crash Solutions That Actually Work!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-solving-street-fighter-6-connectivity-issues-latency-ping-tuning-for-pc/"><u>Troubleshoot & Improve: Solving Street Fighter 6 Connectivity Issues - Latency, Ping Tuning for PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-magic-6-lite-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor Magic 6 Lite IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-six-winning-strategies-to-recording-and-saving-mov-on-windows-11/"><u>[New] 2024 Approved Six Winning Strategies to Recording and Saving .mov on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001620657-solved-discord-overlay-not-working-quickly-and-easily/"><u>[Solved] | Discord Overlay Not Working | Quickly & Easily!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-lens-lockdown-top-rated-phone-friendly-tripods/"><u>[Updated] 2024 Approved Lens Lockdown Top-Rated Phone-Friendly Tripods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevating-storytelling-voiceovers-as-a-central-element-for-2024/"><u>[Updated] Elevating Storytelling Voiceovers as a Central Element for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-4-overcoming-frustrating-computer-restarts-during-play/"><u>Age of Empires 4: Overcoming Frustrating Computer Restarts During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-steps-to-overcome-amazon-prime-video-functionality-glitches/"><u>Effective Steps to Overcome Amazon Prime Video Functionality Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-stop-the-crash-in-tribes-of-midgard-heres-how/"><u>Enhancing Performance: Stop the Crash in Tribes of Midgard, Here's How</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-improper-installation-of-ryzen-master-drivers/"><u>Fixing the Issue: Improper Installation of Ryzen Master Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-overcoming-common-battlenet-launcher-errors-in-windows-1011/"><u>Guide: Overcoming Common Battlenet Launcher Errors in Windows 10/11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/high-resolution-woman-wallpaper-hd-backgrounds-and-images-premium-collection-by-yl-computing/"><u>High-Resolution Woman Wallpaper HD Backgrounds & Images: Premium Collection by YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-solo-stardom-in-the-podcast-universe/"><u>In 2024, Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-trilogy-troubleshooting-techniques-to-fix-mass-effects-gameplay-hiccups/"><u>Mastering the Trilogy: Troubleshooting Techniques to Fix Mass Effect's Gameplay Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-slowdowns-solving-the-lag-issues-of-resident-evil-village-for-a-smooth-pc-gaming-experience/"><u>No More Slowdowns! Solving the Lag Issues of Resident Evil Village for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-conversation-flow-in-chatgpt-the-role-of-folders-for-enhanced-management/"><u>Optimizing Conversation Flow in ChatGPT: The Role of Folders for Enhanced Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-rusts-screen-artifact-dilemma-a-comprehensive-guide/"><u>Overcoming Rust's Screen Artifact Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-windows-asteryoggles-troubleshoot-non-launching-steam-titles-on-pcs/"><u>Resolving Windows Asteryoggles: Troubleshoot Non-Launching Steam Titles on PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-selecting-superior-sound-card-hardware-for-computers/"><u>The Ultimate Guide to Selecting Superior Sound Card Hardware for Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-ultimate-guide-prevent-escape-from-tarkov-game-crashes-on-desktop/"><u>Troubleshooting Ultimate Guide: Prevent Escape From Tarkov Game Crashes on Desktop</u></a></li>
 </ul></div>
 

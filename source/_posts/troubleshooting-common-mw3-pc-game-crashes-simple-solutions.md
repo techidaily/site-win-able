@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Common MW3 PC Game Crashes: Simple Solutions"
-date: 2025-01-13T23:24:53.277Z
-updated: 2025-01-18T08:07:19.750Z
+date: 2025-01-17T17:02:01.595Z
+updated: 2025-01-24T16:54:57.033Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -40,7 +36,7 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -78,10 +74,14 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -92,10 +92,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -103,6 +99,10 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
@@ -122,7 +122,7 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -155,19 +155,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-premium-audio-devices-for-online-recording-reviewed-2023/"><u>[New] Premium Audio Devices for Online Recording Reviewed 2023</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-comedic-choreography-producing-funny-mock-films/"><u>[Updated] 2024 Approved Comedic Choreography Producing Funny Mock Films</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>[Updated] Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-brighten-your-video-with-android-tricks-for-2024/"><u>[Updated] Brighten Your Video with Android Tricks for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>[Updated] In 2024, Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-igtv-potential-strategies-for-successful-content/"><u>[Updated] Unlocking IGTV Potential Strategies for Successful Content</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-missed-opportunities-top-9-outlook-enhancements-in-windows/"><u>Avoid Missed Opportunities: Top 9 Outlook Enhancements in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-f23-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on F23 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/launch-setback-solved-enjoy-death-stranding-without-delays-or-glitches/"><u>Launch Setback Solved - Enjoy Death Stranding Without Delays or Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/logitech-c920-camera-malfunction-heres-how-you-can-resolve-it/"><u>Logitech C920 Camera Malfunction? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-connection-error-fixed-update-now/"><u>MLB The Show 21 Connection Error Fixed - Update Now!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-separating-audios-into-individual-tracks-from-a-single-source/"><u>Step-by-Step Guide: Separating Audios Into Individual Tracks From a Single Source</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-freezes-and-crashes-in-resident-evil-4-remastered/"><u>Troubleshooting Tips: Resolving Freezes and Crashes in Resident Evil 4 Remastered</u></a></li>
-<li><a href="https://win-able.techidaily.com/wolcens-latest-status-unveiling-the-challenges-preventing-its-release/"><u>Wolcen's Latest Status: Unveiling the Challenges Preventing Its Release</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-making-magic-tiktok-dancing-masterclass-for-mac-users/"><u>[New] In 2024, Making Magic TikTok Dancing Masterclass for Mac Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-time-savers-screen-recording-on-instagrams-story-for-2024/"><u>[Updated] Time Savers Screen Recording on Instagram's Story for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>2024 Approved Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-to-hp-officejet-pro-8610-drivers-compatible-with-multiple-windows-versions/"><u>Download and Update Guide to HP Officejet Pro #8610 Drivers Compatible with Multiple Windows Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-issues-on-your-windows-computer/"><u>How to Fix World of Warcraft Not Starting Issues on Your Windows Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/illuminate-your-gameplay-how-to-fix-fortnites-ominous-black-screen-on-pc/"><u>Illuminate Your Gameplay: How to Fix Fortnite's Ominous Black Screen on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-gt-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme GT 5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-go-viral-with-your-ps4-gaming-moments-online-sharing-secrets-revealed/"><u>New Go Viral with Your PS4 Gaming Moments Online Sharing Secrets Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-camera-unavailable-obstacle-on-snapchat-a-step-by-step-guide/"><u>Overcoming 'Camera Unavailable' Obstacle on Snapchat – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-gaming-finals-helpful-hints-and-tips/"><u>Overcoming Launch Errors Gaming Finals: Helpful Hints and Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-defy-2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Defy 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-framerate-drop-and-lag-problems-in-battlefield-2042-pc-version/"><u>Resolved: Fixes for Framerate Drop & Lag Problems in Battlefield 2042 PC Version</u></a></li>
 </ul></div>
 

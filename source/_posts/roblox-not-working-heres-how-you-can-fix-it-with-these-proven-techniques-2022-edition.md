@@ -1,7 +1,7 @@
 ---
 title: Roblox Not Working? Here's How You Can Fix It with These Proven Techniques - 2022 Edition
-date: 2024-08-18T15:24:29.463Z
-updated: 2024-08-19T15:24:29.463Z
+date: 2025-01-18T16:39:42.772Z
+updated: 2025-01-24T16:46:08.457Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
  But don’t worry. There are some general crash troubleshooting solutions you can try when_DOOM Eternal_ crashing issues occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix DOOM crashing issue?
 
  You may not have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,6 +30,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 5. **[Increase virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -77,18 +78,16 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-358.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -101,8 +100,9 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 If your problem persists, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of your game files
 
  If a required file of your game installation gets corrupt, or it’s deleted as a false positive by your antivirus, your game may end up crashing. To see if that the problem for you, follow the instructions below:
@@ -115,9 +115,6 @@ If your problem persists, then go ahead with the next fix below.
 
 **3)**  Right-click **DOOM** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -129,8 +126,9 @@ If your problem persists, then go ahead with the next fix below.
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Lower your in-game settings
 
  Improper game settings can also cause the game to fail. If the game isn’t running smoothly, try lowing the graphics settings. Here is how:
@@ -141,14 +139,6 @@ If this didn’t work, try the fix, below.
 
 **3)** Find the**Virtual Texture Pool Size** , and turn it to**Low** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_17-36-42.jpg)
 
 **4)** Relaunch the game to see if this worked.
@@ -156,8 +146,9 @@ If this didn’t work, try the fix, below.
 If not, move on and try the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -166,25 +157,14 @@ If not, move on and try the next solution below.
 
 **1)** On your keyboard, press the **Windows logo** key and type **advanced system settings.**
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click **View advanced system settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
 **3)** Click **Settings** .
@@ -193,9 +173,6 @@ If not, move on and try the next solution below.
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
@@ -219,18 +196,12 @@ If not, move on and try the next solution below.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for Windows updates
 
  If you have not already done so, you will want to make sure you have the latest updates for Windows. Here is how to do it:
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -240,6 +211,10 @@ If not, move on and try the next solution below.
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall DOOM Eternal
 
@@ -253,6 +228,10 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
@@ -260,6 +239,10 @@ If not, move on and try the next solution below.
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -277,8 +260,6 @@ If not, move on and try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +267,22 @@ If not, move on and try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-androids-gratis-screen-capture-utility/"><u>[New] Android's Gratis Screen Capture Utility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-exclusive-access-to-premium-playlists-on-mobile-devices/"><u>[Updated] 2024 Approved Exclusive Access to Premium Playlists on Mobile Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gaming-masterpiece-samsungs-ue590-in-depth-review/"><u>[Updated] Gaming Masterpiece - Samsung's UE590 In-Depth Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-optimizing-playback-speed-a-guide-for-spotify-users/"><u>[Updated] In 2024, Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pioneering-the-way-with-innovative-approaches-to-youtube-banners-for-2024/"><u>[Updated] Pioneering the Way with Innovative Approaches to YouTube Banners for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypass-typical-slip-ups-in-your-chatgpt-prompts-learn-what-to-avoid/"><u>Bypass Typical Slip-Ups in Your ChatGPT Prompts – Learn What to Avoid</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-free-malware-protection-discover-how-malwarefox-keeps-your-android-device-safe/"><u>Download Free Malware Protection: Discover How MalwareFox Keeps Your Android Device Safe</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-speed-up-slow-startup-times-in-star-wars-battlefront-ii-on-windows-machine/"><u>How To Speed Up Slow Startup Times In Star Wars Battlefront II On Windows Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-mystic-light-malfunction-on-pc-heres-how-to-restore-its-performance-under-windows/"><u>MSI Mystic Light Malfunction on PC? Here's How to Restore Its Performance Under Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-vanguard-with-easy-fix-tips/"><u>Overcoming Freezing Glitches in Call of Duty: Vanguard with Easy Fix Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pictorial-pioneers-charting-new-imagery-territories-with-ai/"><u>Pictorial Pioneers: Charting New Imagery Territories with AI</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issue-overcoming-failed-to-connect-warning-in-steam-client/"><u>Resolved Issue: Overcoming 'Failed to Connect' Warning in Steam Client</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996460176-smooth-gaming-on-your-pc-with-these-fixes-for-wrc-10-the-official-fia-world-rally-championship/"><u>Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship</u></a></li>
+<li><a href="https://win-special.techidaily.com/strategies-efficaces-de-sauvegarde-recurrente-pour-les-entreprises/"><u>Stratégies Efficaces De Sauvegarde Récurrente Pour Les Entreprises</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-smooth-street-fighter-6-gameplay-with-low-latency-and-ping-issues/"><u>Ultimate Troubleshooting for Smooth Street Fighter 6 Gameplay with Low Latency & Ping Issues</u></a></li>
+</ul></div>
 

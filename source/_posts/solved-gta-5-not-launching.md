@@ -1,7 +1,7 @@
 ---
 title: "[Solved] GTA 5 Not Launching"
-date: 2024-08-18T15:25:12.363Z
-updated: 2024-08-19T15:25:12.363Z
+date: 2025-01-19T16:41:29.355Z
+updated: 2025-01-24T16:30:17.653Z
 tags:
   - win11
   - win10
@@ -21,15 +21,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  Check your system specifications first. If you’re sure about it, **jump to the[fixes](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### **Minimum system requirement**
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)                         |
@@ -39,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 | **Video Card**   | NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM) |
 | **Hard Drive**   | 30 GB                                                                                |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Recommended**system requirement**
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)                                                |
@@ -52,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 | **Hard Drive**   | 47 GB                                                                                                           |
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -64,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 4. **[Verify game cache](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Microsoft Visual C++ Redistributable Package](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Uplay](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable your Antivirus software
 
@@ -86,12 +79,18 @@ If the game is still crashing, try the next fix.
 1. Navigate to the game installation folder. (If you can’t find it, you can go to Steam, right-click on the game > Properties > Local Files > Browse local files.)
 2. Right-click on**Rainbowsix.exe** and click**Properties** .
 3. Click the**Compatibility** tab and check**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the game and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -119,15 +118,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
 
@@ -158,11 +151,18 @@ OR
 2. Set**View in Large icons** and click**Program and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Find the newest Microsoft Visual C++ Redistributable. Right-click on it and click**Change** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/change.jpg)
 4. Click Repair. Then follow the on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You probably have several of them installed so try and do that Repair for all of them if needed and reboot your computer when asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/repair.jpg)
 5. Launch Rainbow Six Siege to check.
@@ -170,21 +170,16 @@ OR
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Uplay
 
  If your game launches for a few seconds but nothing happened, reinstalling Uplay may be the fix for you. When the Uplay app was outdated or not function correctly, the game may not launch properly. So a clean uninstalling then installing Uplay may help.
 
 1. Type “control panel” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Right-click on**Uplay** and click**Uninstall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
@@ -204,8 +199,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +206,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-crafting-wealth-with-facebook-video-ads-a-comprehensive-guide/"><u>[New] In 2024, Crafting Wealth with Facebook Video Ads A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-visionary-composer-dual-elements-conjoined/"><u>[Updated] 2024 Approved Visionary Composer Dual Elements Conjoined</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-introductory-editors-for-mobile-apps/"><u>[Updated] Superior Introductory Editors for Mobile Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-top-6-optimizations-to-reduce-excessive-cpu-drain/"><u>Baldur's Gate 3: Top 6 Optimizations to Reduce Excessive CPU Drain</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-the-quest-for-passive-income-the-legitimacy-of-8-side-job-opportunities/"><u>ChatGPT and the Quest for Passive Income: The Legitimacy of 8 Side Job Opportunities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-influence-of-artificial-intelligence-on-game-development/"><u>Exploring the Potential Influence of Artificial Intelligence on Game Development</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-launch-glitch-in-helldivers-2-eliminating-the-initial-black-display-hurdle/"><u>How to Solve Launch Glitch in Helldivers 2 - Eliminating the Initial Black Display Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-wild-with-these-fixes-solving-monster-hunter-rise-launch-glitches/"><u>Master the Wild with These Fixes - Solving Monster Hunter Rise Launch Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-common-zoom-black-screen-problems-on-your-windows-computer/"><u>Resolved: Overcome Common Zoom Black Screen Problems on Your Windows Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stutter-and-crashes-in-no-rest-for-the-wicked-a-comprehensive-troubleshooting-guide/"><u>Resolving Stutter & Crashes in 'No Rest for the Wicked': A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/solution-steps-for-fixing-non-functional-airpods-mic-in-windows-11-os/"><u>Solution Steps for Fixing Non-Functional AirPods Mic in Windows 11 OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-problems-with-the-battlenet-launcher-for-windows-users/"><u>Solving Common Problems with the Battle.net Launcher for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fix-failed-to-connect-with-local-steam-client-process-error/"><u>Troubleshooting Guide: Fix 'Failed to Connect with Local Steam Client Process' Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-fits-in-the-criteria-for-facebook-neighborhood-group-membership/"><u>Who Fits In? - The Criteria for Facebook Neighborhood Group Membership</u></a></li>
+</ul></div>
 

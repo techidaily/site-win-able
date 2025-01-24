@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Card Bottlenecks: A Fix for Lags in Resident Evil Village on Desktop Systems"
-date: 2024-08-18T15:22:46.845Z
-updated: 2024-08-19T15:22:46.845Z
+date: 2025-01-18T16:43:01.647Z
+updated: 2025-01-24T16:27:12.876Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ## How to Overcome Graphics Lag and Stutter in Call of Duty: Black Ops Cold War - Top Tricks Revealed
 
 It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on your PC. While it’s sometimes hard to identify the exact cause, there are simple tricks you can try to fix this issue. Check them out now!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -35,9 +39,6 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics card driver
 
  If you’re using a faulty graphics driver or it’s out-of-date, you may encounter various issues when playing Black Ops Cold War such as freezing, crashing or low FPS. GPU manufacturers have released new drivers optimized for this game, so you can update the graphics card driver to see if that fixes your issue.
@@ -52,18 +53,8 @@ There are two ways for you to do this:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -80,28 +71,30 @@ Here are the steps:
 1. Right-click the**CoD Black Ops Cold War icon** on your desktop and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Scan and repair corrupted game files
 
  Corrupted and missing game file is also a known culprit for PC games malfunctioning. Fortunately, it takes only a few steps to validate the game files automatically.
@@ -115,8 +108,9 @@ Here are the steps:
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Lower the in-game graphics settings
 
  Many players report Call of Duty Cold War can hardly run smoothly on the high or ultra graphics settings. So if you’ve attempted all the fixes above with no success, you may need to sacrifice the visuals and opt for the lower settings.
@@ -125,6 +119,11 @@ Here are the steps:
 2. Select the**Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-8.jpg)
 3. Lower the parameters under each section according to your needs.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
 
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
@@ -142,8 +141,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +148,18 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-background-replacement-on-instagrams-platform-for-2024/"><u>[New] Mastering Background Replacement on Instagram's Platform for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-capture-youtubes-subtitles-on-no-cost-platforms/"><u>[Updated] In 2024, Capture YouTube's Subtitles on No-Cost Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-your-raccoon-woes-in-resident-evil-village-expert-tips-to-correct-mouse-issues/"><u>Banish Your Raccoon Woes in Resident Evil Village – Expert Tips to Correct Mouse Issues</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y36i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-prevent-days-gone-from-crashing-on-latest-systems-in-202n/"><u>Comprehensive Solutions to Prevent Days Gone From Crashing on Latest Systems in 202N</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-installing-amd-radeon-rx-590-drivers-on-windows/"><u>Easy Guide to Downloading and Installing AMD Radeon RX 590 Drivers on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-when-path-of-exile-wont-respond/"><u>Effective Fixes for When Path of Exile Won't Respond</u></a></li>
+<li><a href="https://win-able.techidaily.com/future-proof-gaming-anticipated-changes-to-rainbow-six-siege/"><u>Future-Proof Gaming: Anticipated Changes to Rainbow Six Siege</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-screen-casting-a-comprehensive-walkthrough-for-lg-users/"><u>Mastering Screen Casting: A Comprehensive Walkthrough for LG Users</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/problembehandlung-m2-speicherplatte-nicht-sichtbar-in-bios-einstellungen-und-windows-speichermanager/"><u>Problembehandlung: M2 Speicherplatte Nicht Sichtbar in BIOS-Einstellungen Und Windows-Speichermanager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smartphone-showcase-the-very-best-for-artistic-endeavors/"><u>Smartphone Showcase The Very Best for Artistic Endeavors</u></a></li>
+</ul></div>
 

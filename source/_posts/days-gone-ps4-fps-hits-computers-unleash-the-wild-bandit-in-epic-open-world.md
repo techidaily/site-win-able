@@ -1,7 +1,7 @@
 ---
 title: "'Days Gone': PS4 FPS Hits Computers, Unleash the Wild Bandit in Epic Open World"
-date: 2025-01-12T07:44:24.134Z
-updated: 2025-01-18T07:19:40.586Z
+date: 2025-01-19T16:35:02.767Z
+updated: 2025-01-24T17:06:57.086Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -82,6 +78,10 @@ Below are the system requirements for Titanfall 2:
 
  If your PC fails to meet Titanfall 2 minimum system requirements, you may not be able to run the game properly on your PC. In such a case, you need to **upgrade your hardware first** . If you don’t know how to check the DirectX version on your PC, you can refer to the first step in the post: [ Download DirectX 12 for Windows 10 \[SOLVED\]](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  Corrupted or outdated drivers usually lead to the Titanfall 2 crashing issue. To resolve this issue, you just need to update the drivers on your PC to the latest version.
@@ -110,12 +110,16 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Titanfall 2 patch
@@ -144,14 +148,10 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/repair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -162,21 +162,17 @@ Below are the system requirements for Titanfall 2:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -190,6 +186,10 @@ Below are the system requirements for Titanfall 2:
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Titanfall 2
 
@@ -226,19 +226,18 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rofessional-content-creation-tools-review-studio-vs-beta/"><u>[New] Professional Content Creation Tools Review Studio Vs. Beta</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlit-splendor-hues-and-highlights-technique/"><u>[New] Streamlit Splendor Hues and Highlights Technique</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-social-media-savvy-ig-filter-hits/"><u>[Updated] 2024 Approved Social Media Savvy IG Filter Hits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[Updated] Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-cost-free-text-animation-techniques/"><u>2024 Approved Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-tips-for-preventing-and-repairing-phoenix-point-game-crashes/"><u>Definitive Tips for Preventing & Repairing Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-for-discord-wont-open-a-comprehensive-guide/"><u>Effective Fixes for 'Discord Won't Open' - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/final-fixes-tackling-cod-mws-multiplayer-bugs/"><u>Final Fixes: Tackling Cod: MW's Multiplayer Bugs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-bodycam-brands-dominating-the-market-your-must-see-selection/"><u>Leading Bodycam Brands Dominating the Market - Your Must-See Selection</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-error-0xc0000022-fixes-for-troubleshooting-adobe-app-launch-failures/"><u>Resolving Error 0xC0000022: Fixes for Troubleshooting Adobe App Launch Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-a-guide-to-smoother-play-in-total-war-saga-troy-edition/"><u>Resolving Performance Hiccups - A Guide to Smoother Play in Total War: Saga, Troy Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-up-to-ultra-fast-gaming-the-new-asus-rog-strix-xg27wcs-monitor-delivers-crisp-visuals-on-its-27-va-screen-running-at-180-hz/"><u>Step Up to Ultra-Fast Gaming - The New Asus Rog Strix XG27WCS Monitor Delivers Crisp Visuals on Its 27 VA Screen Running at 180 Hz</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-in-your-system-delete-or-preserve/"><u>The Role of msdia80.dll in Your System - Delete or Preserve?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-idea-infringement-instant-video-ban/"><u>[New] In 2024, Idea Infringement Instant Video Ban</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>[New] The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-n-a-seamless-gameplay-experience-with-fixes-to-previous-crashing-problems/"><u>BioShock N: A Seamless Gameplay Experience with Fixes to Previous Crashing Problems</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comprehensive-tutorial-effortlessly-eliminate-pc-app-store-malware/"><u>Comprehensive Tutorial: Effortlessly Eliminate PC App Store Malware</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fixes-for-erratic-screen-behavior-correcting-chromes-flicker-on-your-windows-machine-guide/"><u>Definitive Fixes for Erratic Screen Behavior: Correcting Chrome's Flicker on Your Windows Machine (Guide)</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-escape-from-tarkov-crashes-on-personal-computers/"><u>Effective Solutions to Prevent Escape From Tarkov Crashes on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-gaming-application-from-crashing-in-windows-11-and-10/"><u>How to Stop Your Gaming Application From Crashing in Windows 11 and 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-10-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 10 4G</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>In 2024, Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-6s-plus-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 6s Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-solutions-for-dealing-with-unavailable-pc-support-on-rockstar-games/"><u>Tips and Solutions for Dealing with Unavailable PC Support on Rockstar Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/two-crash-problem-on-desktop-systems-successfully-fixed/"><u>Two-Crash Problem on Desktop Systems Successfully Fixed</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/yl-softwares-essential-tips-for-setting-and-managing-your-online-passwords-safely/"><u>YL Software's Essential Tips for Setting and Managing Your Online Passwords Safely</u></a></li>
 </ul></div>
 

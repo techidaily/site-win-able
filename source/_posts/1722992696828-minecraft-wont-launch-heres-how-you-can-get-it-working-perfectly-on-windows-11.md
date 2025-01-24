@@ -1,7 +1,7 @@
 ---
 title: Minecraft Won't Launch? Here's How You Can Get It Working Perfectly on Windows 11!
-date: 2025-01-17T06:30:24.558Z
-updated: 2025-01-17T20:39:38.797Z
+date: 2025-01-18T17:13:48.797Z
+updated: 2025-01-24T16:16:56.573Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before getting started…
 
  Before tweaking the settings below, we suggest you**restart your computer** . Rebooting is a troubleshooting step and quick fix to many issues by wiping away the current state of the software, flushing RAM and clearing up temporary files and processes.
@@ -36,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-library-1200x834.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If that doesn’t work for you, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -65,10 +61,6 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
@@ -85,23 +77,23 @@ If that doesn’t work for you, try the fixes below.
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
- Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
 ## 3\. Update your device drivers
 
@@ -115,13 +107,13 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -144,6 +136,10 @@ If that doesn’t work for you, try the fixes below.
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run a full scan of your PC
 
  If all else fails, it’s time you check whether you have missing or corrupted system files, which will negatively affect your system’s performance and even trigger some errors. In this situation, you can use the System File Checker (SFC) tool to run the command sfc /scannow. But most of the time it only scans major files and may miss minor issues.
@@ -155,6 +151,10 @@ If that doesn’t work for you, try the fixes below.
 3. If it detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -179,21 +179,20 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-evolution-continues-iphone-xs-photographic-advancements/"><u>[New] 2024 Approved The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ransforming-raw-audio-into-high-quality-youtube-videos-for-2024/"><u>[New] Transforming Raw Audio Into High-Quality YouTube Videos for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-surgical-switch-mastering-the-process-of-changing-your-tiktok-username/"><u>[Updated] In 2024, Surgical Switch Mastering the Process of Changing Your TikTok Username</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/5yaz55yf/"><u>写真</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-bugs-comprehensive-guide-to-overcoming-the-sims-4s-video-card-mistake/"><u>Banish the Bugs: Comprehensive Guide to Overcoming The Sims 4'S Video Card Mistake</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-your-youtube-empire-kit-overview-for-2024/"><u>Building Your YouTube Empire Kit Overview for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-valorant-experience-by-resolving-fps-drops-updated-techniques-gamers/"><u>Elevate Your Valorant Experience by Resolving FPS Drops: Updated Techniques Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-4-wont-start-master-the-techniques-to-kickstart-your-game/"><u>Forza Horizon 4 Won't Start? Master the Techniques to Kickstart Your Game</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-smart-8-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Smart 8 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994248698-master-the-art-of-troubleshooting-fixing-your-witcher-n-3-pc-gaming-woes-today/"><u>Master the Art of Troubleshooting: Fixing Your Witcher N 3 PC Gaming Woes Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-pc-performance-to-prevent-a-total-war-saga-troy-from-crashing-during-battle-scenes/"><u>Optimizing PC Performance to Prevent A Total War Saga: Troy From Crashing During Battle Scenes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/rapid-startup-solutions-for-enhanced-windows-11-performance/"><u>Rapid Startup Solutions for Enhanced Windows 11 Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-admin-control-in-windows-os-security/"><u>Redefining Admin Control in Windows OS Security</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-overcome-the-persistent-loading-issue-in-fortnite-gameplay/"><u>Resolved! How to Overcome the Persistent Loading Issue in Fortnite Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-cure-pc-specific-bugs-in-the-spellbreak-game/"><u>Ultimate Fixes to Cure PC-Specific Bugs in the Spellbreak Game</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-is-your-apple-watch-not-working-without-wifi-find-out-and-fix-it-now/"><u>Why Is Your Apple Watch Not Working Without WiFi? Find Out & Fix It Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-event-ensemble-curating-best-dj-templates/"><u>[New] In 2024, Event Ensemble Curating Best DJ Templates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-tailoring-recording-techniques-in-audacity-for-professionals/"><u>[New] In 2024, Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-punpixel-patterner/"><u>[New] PunPixel Patterner</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-free-online-tools-for-precise-srt-translation-for-2024/"><u>[Updated] Best FREE Online Tools for Precise SRT Translation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-7-mac-focused-vids/"><u>[Updated] Ultimate List 7 Mac-Focused Vids</u></a></li>
+<li><a href="https://win-able.techidaily.com/arcadegeddon-troubleshooting-steps-to-fix-continuous-pc-crashes/"><u>Arcadegeddon: Troubleshooting Steps to Fix Continuous PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-gods-eliminating-crash-problems-for-god-of-war-on-personal-computers/"><u>Conquer the Gods: Eliminating Crash Problems for God of War on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-competition-finale-challenges-fixing-error-tfla0002-step-by-step/"><u>Conquering Competition Finale Challenges: Fixing Error TFLA0002 Step-by-Step</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-microsoft-flight-simulator-2020-updates-pending-error/"><u>Fix Your Microsoft Flight Simulator 2020 'Updates Pending' Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-black-ops-cold-war-episode-8-8-7-a0005-bug-resolution/"><u>Fixing Black Ops: Cold War Episode 8-8-7 A0005 Bug Resolution</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-6-ios-apps-turn-youtube-videos-into-mp3-files/"><u>In 2024, Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-investing-in-a-blu-ray-player-worth-it-today/"><u>Is Investing in a Blu-Ray Player Worth It Today?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-when-your-pc-gets-stuck-during-windows-update-at-0/"><u>Simple Fixes for When Your PC Gets Stuck During Windows Update at 0%</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-keyboard-malfunctions-in-pathfinders-wrath-of-the-righteous-a-step-by-step-tutorial/"><u>Solving Keyboard Malfunctions in Pathfinder's Wrath of the Righteous - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-cyberpunk-2077s-latency-and-performance-hiccups/"><u>Ultimate Fixes for Cyberpunk 2077'S Latency and Performance Hiccups</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your PC Experience with Fixed F1 2E2021's Frame Rate Drop - Say Goodbye to Lag
-date: 2024-08-18T15:20:50.298Z
-updated: 2024-08-19T15:20:50.298Z
+date: 2025-01-21T16:36:59.736Z
+updated: 2025-01-24T16:52:12.279Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  F1 2021 is finally here. However, just like any other game released recently, the game still has some performance issues. Recently, we’ve seen many players complaining that F1 2021 FPS drops on their PC, which makes it almost unplayable. If**F1 2021**   **FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix it on your own easily after reading this article!
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,11 +31,6 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developers of F1 2021 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -48,8 +40,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Launch F1 2021 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because outdated or faulty graphics drivers may be causing the F1 2021 FPS dropping issue.
@@ -68,14 +61,13 @@ There are mainly two methods for you to update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -91,11 +83,13 @@ There are mainly two methods for you to update the graphics driver:
  If you’re experiencing performance issues like FPS dropping, try modifying the Power Plan of your PC for the Best Performance. Here is how to do it:
 
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch F1 2021 and check if you get a better PFS. If this issue persists, try the next fix, below.
@@ -136,6 +130,10 @@ There are mainly two methods for you to update the graphics driver:
 
 If the FPS in F1 2021 still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  Some players fix this issue after modifying their graphics card settings. If you haven’t tried this fix, just tweak your graphics card settings in Nvidia or AMD control panel to see if the in-game FPS boosts.
@@ -158,12 +156,13 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 
 1. Open **AMD Radeon Settings** .
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
  Run F1 2021 to check if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -176,15 +175,17 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on F1 2021 game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch F1 2021 again after you disabled all the in-game overlays. See if F1 2021 fps drops. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 are convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -194,9 +195,6 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -216,8 +214,6 @@ Run F1 2021 to see if you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +221,24 @@ Run F1 2021 to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-strategic-monetization-for-game-streams/"><u>[New] In 2024, Strategic Monetization for Game Streams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-tips-for-successful-youtube-broadcasts/"><u>[Updated] In 2024, Essential Tips for Successful YouTube Broadcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-segmentviewer-study-notes/"><u>2024 Approved SegmentViewer Study Notes</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-to-re-establish-fallout-astoff-from-pcs-online-gameplay/"><u>DIY Techniques to Re-Establish Fallout Astoff From PC's Online Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-when-your-chrome-browser-wont-display-pages-correctly/"><u>Easy Fixes for When Your Chrome Browser Won't Display Pages Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-repairing-common-issues-in-phasmophobia-for-oculus-quest/"><u>Expert Advice on Repairing Common Issues in Phasmophobia for Oculus Quest</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-hfw-pc-game-crashes-a-comprehensive-guide/"><u>Fixing HFW PC Game Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-your-origin-app-to-work-again-on-win10-and-win11-systems/"><u>Getting Your Origin App to Work Again on Win10 and Win11 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-f14-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy F14 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-pro-cameras-who-wins-gopro-and-garmin-virb-comparison/"><u>In 2024, Pro Cameras, Who Wins? GoPro & Garmin VIRB Comparison</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-macos-with-craft-the-ultimate-guide-to-using-this-remarkable-document-editor-zdnet/"><u>Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor - ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-1011-photography-troubles-with-ease/"><u>Navigate Windows 10/11 Photography Troubles with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-controller-malfunctions-in-minutes-with-our-step-by-step-troubleshooting/"><u>Resolve Controller Malfunctions in Minutes with Our Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-missing-recordings-with-shadowplay-on-your-pc/"><u>Resolving the Issue of Missing Recordings with Shadowplay on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-a-revolutionary-3d-printing-tech-creates-beautiful-wooden-instruments-and-fixtures-zdnet/"><u>Transforming Sawdust Into Art: A Revolutionary 3D Printing Tech Creates Beautiful Wooden Instruments & Fixtures - ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-endless-hunger-problems-resulting-in-pc-malfunctions/"><u>Troubleshooting Endless Hunger Problems Resulting in PC Malfunctions</u></a></li>
+</ul></div>
 

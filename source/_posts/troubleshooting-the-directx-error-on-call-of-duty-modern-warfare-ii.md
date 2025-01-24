@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the DirectX Error on Call of Duty: Modern Warfare II"
-date: 2024-08-18T15:26:47.254Z
-updated: 2024-08-19T15:26:47.254Z
+date: 2025-01-19T16:12:39.139Z
+updated: 2025-01-24T17:05:58.661Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -53,14 +50,8 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -70,8 +61,9 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -87,11 +79,12 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -99,16 +92,27 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Warzone
 
  If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
@@ -125,8 +129,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +136,22 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-webcam-and-screen-simultaneously/"><u>[Updated] How to Record Webcam and Screen Simultaneously</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/14-chatgpt-and-summarize-inbox-ai-driven-email-assistance/"><u>14 ChatGPT & Summarize Inbox: AI-Driven Email Assistance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-your-path-upgrading-outdated-windows-driver-tech/"><u>Clear Your Path: Upgrading Outdated Windows Driver Tech</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-google-pixel-8-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Google Pixel 8 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-century-age-of-ashes-from-continuously-crashing-on-your-pc-solutions-and-fixes/"><u>How to Stop 'Century: Age of Ashes' From Continuously Crashing on Your PC - Solutions and Fixes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-games-like-a-pro-app-rundown/"><u>In 2024, Capturing Games Like a Pro – App Rundown</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/local-backup-mastery-unveiling-the-charm-and-reliability-of-in-house-data-replicas/"><u>Local Backup Mastery: Unveiling the Charm and Reliability of In-House Data Replicas</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-latest-boost-win11-with-rtx210-driver-release/"><u>NVIDIA's Latest: Boost Win11 with RTX210 Driver Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-pitfalls-in-internet-explorer-for-seamless-website-loading/"><u>Overcoming Common Pitfalls in Internet Explorer for Seamless Website Loading</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008401007-quick-fixes-for-when-qbittorrent-isnt-working-get-back-on-track-now/"><u>Quick Fixes for When qBittorrent Isn't Working – Get Back on Track Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-unable-to-sync-with-steam-cloud-issue/"><u>Resolved: Fixing the 'Unable to Sync with Steam Cloud' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-issues-with-halo-infinite-sound/"><u>Troubleshooting Common Issues with Halo Infinite Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-to-eliminate-stuttering-glitches-in-ac-valhalla-on-personal-computers/"><u>Troubleshooting Techniques to Eliminate Stuttering Glitches in AC Valhalla on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-the-echoes-of-tamriel-fix-your-skyrim-sound-glitch-today/"><u>Unlocking the Echoes of Tamriel: Fix Your Skyrim Sound Glitch Today</u></a></li>
+</ul></div>
 

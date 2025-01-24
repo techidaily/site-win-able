@@ -1,7 +1,7 @@
 ---
 title: Elden Ring Black Display During Boot-Up? Here's How to Resolve It
-date: 2024-08-18T15:23:48.836Z
-updated: 2024-08-19T15:23:48.836Z
+date: 2025-01-18T16:48:00.645Z
+updated: 2025-01-24T16:41:20.376Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/d9a0fed70b3544c875727acbd189babb9991061b2
 
 ## Elden Ring Black Display During Boot-Up? Here's How to Resolve It
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-4-1200x702.png)
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -36,25 +34,27 @@ thumbnail: https://thmb.techidaily.com/d9a0fed70b3544c875727acbd189babb9991061b2
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Launch the game in windowed mode
 
  Some players found that starting the game in windowed mode may fix the black screen issue in Elden Ring. When your game is running, you can press**Alt+Enter** at the same time to switch between the windowed mode and full-screen mode. If this doesn’t work, you can try setting launch options in Steam. Here’s how:
 
 1. Open your Steam Library.
 2. Right-click**Elden Ring** and select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 **\-windowed**  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
@@ -82,6 +82,10 @@ There are mainly two ways to update your graphics driver:
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows updates
 
  Some new games may not work properly on an out-of-date operating system. To make sure there are no compatibility issues, you should keep your operating system up-to-date. To do so:
@@ -91,13 +95,6 @@ There are mainly two ways to update your graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
@@ -108,14 +105,13 @@ If the issue persists, move on to the next fix.
 #### on Windows 11
 
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
@@ -128,19 +124,17 @@ If the issue persists, move on to the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable Steam overlay
 
  Some overlay programs may cause your game to crash or black screen. Therefore, to ensure your game runs without issues, you may need to disable this feature in overlay software. Below are the steps you can follow to disable Steam overlay.
@@ -149,9 +143,11 @@ If the issue remains, take a look at the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
 
@@ -171,8 +167,6 @@ Now check if the black screen issue has gone away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +174,26 @@ Now check if the black screen issue has gone away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-transition-from-youtube-to-instagram-reels/"><u>[New] 2024 Approved Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-premier-5-minute-longshot-recorder/"><u>[New] In 2024, Premier 5-Minute Longshot Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-class-on-managing-desktopmobile-screens-in-meet/"><u>[Updated] 2024 Approved Master Class on Managing Desktop/Mobile Screens in Meet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-facebook-livestreams-four-easy-steps/"><u>[Updated] 2024 Approved Mastering Facebook Livestreams Four Easy Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028997805-2024youtube/"><u>「2024」に注目！YouTube動画を巧みにトリミングするコツとテクニック</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-view-count-best-yt-thumbnail-sizes/"><u>2024 Approved Maximize View Count Best YT Thumbnail Sizes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-getting-your-logitech-g-hub-running-again-on-windows/"><u>Expert Solutions: Getting Your Logitech G Hub Running Again on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-cyberpunk-2077-ignores-graphics-card-in-windows-11/"><u>Fix: Cyberpunk 2077 Ignores Graphics Card in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-in-minecraft-and-get-back-to-gaming/"><u>How to Overcome the Endless Loading Screen in Minecraft & Get Back to Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-voice-communication-in-among-us-when-facing-pc-hurdles/"><u>How to Restore Voice Communication in Among Us When Facing PC Hurdles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-trailblazers-of-the-cinematic-visual-and-auditory-fusion/"><u>In 2024, Trailblazers of the Cinematic, Visual & Auditory Fusion</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-directdraw-fixes-a-step-by-nstep-approach-to-eliminating-common-mishaps/"><u>Mastering DirectDraw Fixes – A Step-by-nStep Approach to Eliminating Common Mishaps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-youtube-monetization-minimum-required-views-to-profit-for-2024/"><u>Mastering YouTube Monetization Minimum Required Views to Profit for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993786292-navigating-through-microsoft-flight-simulator-2020s-update-problem-solutions-inside/"><u>Navigating Through Microsoft Flight Simulator 2020'S Update Problem – Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-game-crashing-mastering-samurai-warriors-npc-stability/"><u>No More Game Crashing: Mastering Samurai Warriors N_PC Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-hurdle-of-launch-failures-in-games-through-proper-file-validation/"><u>Overcoming the Hurdle of Launch Failures in Games Through Proper File Validation</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-granblue-fantasy-issues-with-unlaunched-relinks/"><u>Troubleshooting Tips: Resolving Granblue Fantasy Issues with Unlaunched Relinks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C210 | Dr.fone</u></a></li>
+</ul></div>
 

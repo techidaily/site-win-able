@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Chrome Hiccups: Swift Troubleshooting for Windows nX Users"
-date: 2024-08-18T15:21:41.617Z
-updated: 2024-08-19T15:21:41.617Z
+date: 2025-01-17T16:25:56.930Z
+updated: 2025-01-24T16:37:45.840Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 
 ## Ultimate Troubleshooting Steps for the 2022 Leaf Error in Apex Legends
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
@@ -35,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -55,32 +56,22 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
 
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -90,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -103,18 +98,16 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 ## Fix 5: Switch to another server
@@ -128,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -143,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +147,24 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-blur-the-video-background-in-a-microsoft-teams-meeting-in-2024/"><u>[New] How to Blur the Video Background in a Microsoft Teams Meeting, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-explore-8-best-strategies-for-increasing-youtube-traffic/"><u>[Updated] 2024 Approved Explore 8 Best Strategies for Increasing Youtube Traffic</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-non-indexable-world-of-youtube-a-compreayer-guide-to-unlisted-videos/"><u>[Updated] The Non-Indexable World of YouTube A Compreayer Guide to ‘Unlisted’ Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-8-sites-to-get-free-green-screen-backgrounds-and-footage-for-2024/"><u>[Updated] Top 8 Sites to Get Free Green Screen Backgrounds and Footage for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blackout-expert-strategies-to-fix-lol-black-screen-glitches-as-of-2024/"><u>Beat the Blackout: Expert Strategies to Fix LoL Black Screen Glitches as of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013544823-end-wows-annoying-visual-stutter-for-good-heres-your-guide/"><u>End Wow's Annoying Visual Stutter for Good - Here's Your Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c300-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C300 Quickly | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-narzo-60-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme Narzo 60 Pro 5G Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-persistent-starvation-glitches-from-crashing-pc-systems/"><u>How to Prevent Persistent Starvation Glitches From Crashing PC Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154469-9781577319467-human-design/"><u>Human Design | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/mass-effect-legendary-collection-addressing-game-performance-hiccups/"><u>Mass Effect Legendary Collection: Addressing Game Performance Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-ubisoft-connect-tips-and-tricks-to-overcome-setbacks/"><u>Mastering Ubisoft Connect: Tips and Tricks to Overcome Setbacks !</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-graphics-hurdle-a-users-guide-for-correcting-errors-in-the-sims-4/"><u>Overcoming the Graphics Hurdle: A User's Guide for Correcting Errors in The Sims 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-runtime-errors-in-stardew-valley-on-personal-computers-tips-and-tricks/"><u>Resolving Runtime Errors in Stardew Valley on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/safeguarding-your-snaps-secure-backup-from-phone-to-snapchat-for-2024/"><u>Safeguarding Your Snaps Secure Backup From Phone to Snapchat for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 5 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-ie-wont-open-get-your-browser-running-again/"><u>Troubleshooting Tips for When IE Won’t Open: Get Your Browser Running Again!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 3 (MW3) Stability Issues? Here's How to Keep It Running Smoothly on PC
-date: 2024-08-18T15:23:42.871Z
-updated: 2024-08-19T15:23:42.871Z
+date: 2025-01-21T16:42:00.191Z
+updated: 2025-01-24T16:12:23.481Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix**Madden 20** crashing
 
  Here are 5 fixes that have helped other users resolve the**Madden 20** **crashing** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +30,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -42,18 +47,16 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 4) Restart your computer for the changes to take effect.
@@ -90,9 +93,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -129,9 +129,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -139,6 +136,10 @@ Here is how to do it:
  If there is no patches available, or the patch fails to address the problem, then please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
 
@@ -150,11 +151,12 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
  4) Locate **Madden 20** and uninstall it too.
@@ -179,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +188,20 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media/"><u>[New] 2024 Approved Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>[New] In 2024, Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-legal-fb-audio-hoarder-lfah/"><u>[Updated] 2024 Approved Legal FB Audio Hoarder (LFAH)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-hasten-through-tiktok-content-efficiently-for-2024/"><u>[Updated] Hasten Through TikTok Content Efficiently for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-maximizing-ipad-audio-record-best-tips-in-2024/"><u>[Updated] Maximizing iPad Audio Record Best Tips, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-self-filmed-brilliance-secrets-for-youtube-success/"><u>[Updated] Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-app-crashes-how-to-fix-and-prevent-unplanned-closures/"><u>COD Modern Warfare 3 App Crashes: How To Fix & Prevent Unplanned Closures</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-steps-to-a-perfectly-installed-discord-no-failure-in-sight/"><u>Effortless Steps to a Perfectly Installed Discord - No Failure in Sight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-techniques-the-lightweight-approach-to-pubg-vocal-changes/"><u>Essential Techniques The Lightweight Approach to PUBG Vocal Changes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-unstable-performance-ensuring-a-smooth-genshin-impact-experience-on-desktop-computers/"><u>Expert Fixes for Unstable Performance - Ensuring a Smooth Genshin Impact Experience on Desktop Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-lack-of-audio-drivers-on-windows-11-a-comprehhavisive-approach/"><u>Fix the Lack of Audio Drivers on Windows 11: A Comprehhavisive Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-modern-warfare-2-performance-issues-eliminating-frames-per-second-dips-and-freezes-on-pc/"><u>Resolved: Modern Warfare 2 Performance Issues – Eliminating Frames Per Second Dips & Freezes on PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210367970-9781633412477-the-alchemists-handbook/"><u>The Alchemist's Handbook | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Banish Game Disruptions: Resolving Persistent Crashing Problems in Psychonauts 2 on Windows/MacOS"
-date: 2024-08-18T15:22:44.772Z
-updated: 2024-08-19T15:22:44.772Z
+date: 2025-01-20T16:42:02.405Z
+updated: 2025-01-24T16:08:14.491Z
 tags:
   - win11
   - win10
@@ -43,17 +43,21 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-40-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-40-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -71,16 +75,10 @@ If your issue persists, move on to the next fix, below.
 
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
 
 **3)**  Click **Apply** , then **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-23.jpg)
 
 **4)** Restart your game to see if this worked.
@@ -97,13 +95,14 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-02-46-1024x251.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the programs you want to close and select End Task.
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-04-08.jpg)
 
 **3)** Relaunch your game to see if this fixed your issue.
@@ -111,13 +110,9 @@ If your issue persists, move on to the next fix, below.
 If it didn’t, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Verify your game files
 
  This issue might happen when one or more Phoenix Point files are corrupt or missing. If you’re playing the game on Epic Games Launcher, you should verify your game files. Here is how to do it:
@@ -132,13 +127,14 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-00-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart your game.
 
  If your game still won’t work properly, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game
 
  This problem might occur when the game is not properly installed on your PC. If that’s the core issue, reinstalling the game should fix it. Follow the instructions below:
@@ -152,14 +148,19 @@ If it didn’t, read on and try the fix below.
 
 **2)**  Click **Library** and then click the **Settings**  button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-22-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch the **Epic Games Launcher**  to download and install _Phoenix Point_ .
 
@@ -169,16 +170,14 @@ If it didn’t, read on and try the fix below.
 
 **1)** On your keyboard, press the **Windows logo key** and find**phoenix point** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-01-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Right-click **Phoenix Point**  and click **More > App settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-56-02-1.jpg)
 
 **3)** Click **Reset** .
@@ -187,18 +186,12 @@ If it didn’t, read on and try the fix below.
 
 **4)** Click **Reset** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
 
 **5)** Relaunch _Phoenix Point_ after the process is complete.
 
 If your problem continues to occur, then move on and try the next fix.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall your game launcher
 
  If you’re playing on Epic Games and none of the fixes above worked for you, try reinstalling your game launcher. Here is how to do it:
@@ -207,10 +200,11 @@ If your problem continues to occur, then move on and try the next fix.
 
 **1)** On your keyboard, press the **Windows logo key**  and type **control** . Then select **Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by** , select **Category** .
 
@@ -218,23 +212,21 @@ If your problem continues to occur, then move on and try the next fix.
 
 **3)** Click **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
  If you’re prompted for permission, select **Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-38.jpg)
 
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall _Phoenix Point_ .
 
  If this fix didn’t help, don’t fret! There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check for Windows updates
 
@@ -265,8 +257,6 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +264,21 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-seamlessly-convert-and-download-pinterest-videos-as-mp3/"><u>[New] How to Seamlessly Convert and Download Pinterest Videos as MP3</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-methods-for-mac-screenshot-format-change-for-2024/"><u>[New] Innovative Methods for Mac Screenshot Format Change for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/7-crucial-factors-to-weigh-when-selecting-a-new-motherboard/"><u>7 Crucial Factors to Weigh When Selecting a New Motherboard</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-resolution-guide-for-smooth-gaming-experience/"><u>Apex Legends Error Resolution Guide for Smooth Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-itel-s23-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Itel S23</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-windows-11-taskbar-glitches-and-getting-it-back-to-normal/"><u>Expert Advice on Fixing Windows 11 Taskbar Glitches and Getting It Back to Normal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>In 2024, Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>In 2024, The Voice of Action Crafting Moving Screenplay Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insta-prowess-guide-the-9-secrets-behind-top-posters-success/"><u>Insta Prowess Guide The 9 Secrets Behind Top Posters' Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-playback-problems-for-smooth-gaming-in-deathloop-on-pc-setups/"><u>Solving Playback Problems for Smooth Gaming in Deathloop on PC Setups</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-apex-legends-comprehensive-solutions-to-tackle-the-leaf-error-code/"><u>Ultimate Fix for Apex Legends : Comprehensive Solutions to Tackle the 'Leaf' Error Code</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-up-your-download-speeds-on-origin-in-the-year-2024/"><u>Ultimate Fixes to Up Your Download Speeds on Origin in the Year 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-play-addressing-initial-launch-issues-with-diablo-ii-resurrected/"><u>Why Can't I Play? Addressing Initial Launch Issues with Diablo II: Resurrected</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windowsgifand/"><u>Windows向けGIF生成ツールの強力レコメンド&使い方ガイド</u></a></li>
+</ul></div>
 

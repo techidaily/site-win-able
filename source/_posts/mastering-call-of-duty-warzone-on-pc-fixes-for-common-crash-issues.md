@@ -1,7 +1,7 @@
 ---
 title: Mastering Call of Duty Warzone on PC - Fixes for Common Crash Issues
-date: 2024-08-18T15:27:40.836Z
-updated: 2024-08-19T15:27:40.836Z
+date: 2025-01-22T16:35:07.935Z
+updated: 2025-01-24T16:52:23.644Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -47,6 +48,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -57,8 +62,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,8 +92,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -96,9 +103,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -111,23 +115,14 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
 
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -137,6 +132,10 @@ Here is how to verify the integrity of Dauntless:
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
@@ -158,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,21 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-educational-evolution-via-virtual-reality/"><u>[New] Educational Evolution via Virtual Reality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-of-the-best-a-ranked-list-of-top-10-video-call-apps/"><u>[Updated] 2024 Approved Best of the Best A Ranked List of Top 10 Video Call Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-s17t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo S17t System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-iphone-efficiency-unveiling-the-impact-of-integrating-google-gemini-into-ios-insights-from-zdnet/"><u>Boosting iPhone Efficiency: Unveiling the Impact of Integrating Google Gemini Into iOS - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-smart-8-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Smart 8 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/following-fades-track-losses-on-insta/"><u>Following Fades Track Losses on Insta</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinites-solved-monochrome-visual-glitches-explained/"><u>Halo Infinite's Solved Monochrome Visual Glitches Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011532802-phoenix-point-crash-no-more-easy-fix-solutions-revealed/"><u>Phoenix Point Crash No More - Easy Fix Solutions Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-frame-rate-problems-in-v-for-pc-players-expert-advice/"><u>Resolve Frame Rate Problems in 'V' For PC Players – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-nba-2k23-pc-problems-effortlessly-learn-about-the-7-best-solutions-available-now/"><u>Resolve Your NBA 2K23 PC Problems Effortlessly: Learn About the 7 Best Solutions Available Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-fixing-lag-and-connection-errors-in-naraka-bladesword/"><u>Step-by-Step Solutions: Fixing Lag and Connection Errors in Naraka Bladesword</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-ios-auditory-pleasures/"><u>The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000434705-the-ultimate-guide-eliminate-warzone-directx-errors-in-just-four-steps/"><u>The Ultimate Guide: Eliminate Warzone DirectX Errors in Just Four Steps!</u></a></li>
+</ul></div>
 

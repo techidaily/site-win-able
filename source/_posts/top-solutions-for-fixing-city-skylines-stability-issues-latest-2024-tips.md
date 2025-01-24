@@ -1,7 +1,7 @@
 ---
 title: Top Solutions for Fixing City Skylines' Stability Issues [Latest 2024 Tips]
-date: 2024-08-18T15:24:33.706Z
-updated: 2024-08-19T15:24:33.706Z
+date: 2025-01-23T16:12:33.500Z
+updated: 2025-01-24T16:25:54.956Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 
  This is extremely frustrating, and you’re certainly not alone. Many players are reporting it, but the good news is that you can fix it. Here are 8 fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,6 +31,10 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 6. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change your PC’s Power Settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:**Meet the minimum system requirements**
 
@@ -63,25 +64,20 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: **Restart your computer**
 
  Some programs running on your PC may conflict with **_War Thunder_** , causing it to crash constantly. To see if that’s the problem for you, try restarting your computer to end unwanted programs completely, then relaunch your game to test your issue.
 
  If**_War Thunder_** still crashes your computer, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: **Run your game as an Administrator**
 
 _**War Thunder**_ or Steam sometimes can’t access certain game files on your computer under normal user mode, which could result in the crashing issue. To see if that’s the problem for you, try running Steam as an administrator, then launch your game from Steam. Follow the instructions below:
@@ -90,25 +86,16 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
 **4)**  Relaunch Steam and**War Thunder** to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: **Install the latest game patch**
 
  The developers of **_War Thunder_** release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running correctly, and that a new patch is required to fix it.
@@ -123,9 +110,6 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 **3)**  Right-click **War Thunder** and select **Properties.**
@@ -134,10 +118,11 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch your game to see if your problem has been resolved. If not, try the next fix.
 
@@ -171,10 +156,11 @@ OR
 
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -197,26 +183,31 @@ If your issue persists, then try the next fix below.
 
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -228,10 +219,11 @@ If your issue persists, then try the next fix below.
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **War Thunder**  and select **Uninstall.**
 
@@ -245,16 +237,21 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** On your keyboard, press the **Windows logo**  key and **E**  at the same time to open File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-3.jpg)
 
 **7)** Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Highlight the **War Thunder folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -276,8 +273,6 @@ If your issue persists, then try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +280,24 @@ If your issue persists, then try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-easy-to-use-zoom-camera-for-instant-sharing/"><u>[New] 2024 Approved Easy-to-Use Zoom Camera for Instant Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-streamlined-subscription-links-for-video-channels-for-2024/"><u>[Updated] Guide to Streamlined Subscription Links for Video Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-timing-and-regularity-key-factors-influencing-youtube-traffic/"><u>[Updated] Timing and Regularity Key Factors Influencing YouTube Traffic</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-4-stability-guide-top-7-troubleshooting-tips-for-pc-ps5-and-xbox-users/"><u>Diablo 4 Stability Guide: Top 7 Troubleshooting Tips for PC, PS5, and Xbox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-to-stabilize-and-optimize-thaumaturge-performance-on-personal-computers/"><u>DIY Techniques to Stabilize and Optimize Thaumaturge Performance on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-this-flawless-updated-copy-of-football-manager-2020-say-goodbye-to-glitches/"><u>Download This Flawless, Updated Copy of Football Manager 2020 – Say Goodbye to Glitches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-audio-integration-in-canva-videos/"><u>In 2024, Mastering Audio Integration in Canva Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pioneering-visual-stories-with-windows-10-photos-and-story-remix/"><u>In 2024, Pioneering Visual Stories with Window's 10 Photos & Story Remix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-older-systems-healthy-with-win10-improvements/"><u>Keep Older Systems Healthy with Win10 Improvements</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-valorant-playtime-strategies-to-combat-latency-and-optimize-fps-performance/"><u>Maximizing Valorant Playtime: Strategies to Combat Latency and Optimize FPS Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-cannot-start-problem-in-resident-evil-village-game/"><u>Overcome Your 'Cannot Start' Problem in Resident Evil Village Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/rockstars-launcher-woes-expert-advice-to-get-your-game-started/"><u>Rockstar's Launcher Woes: Expert Advice to Get Your Game Started</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/starting-a-vlog-the-must-have-equipmentsoftware-for-2024/"><u>Starting a Vlog The Must-Have Equipment/Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-correcting-final-examination-issue-tfla00ab345689/"><u>Step-by-Step Solutions for Correcting Final Examination Issue - TFLA00ab345689</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-free-ai-art-creation-tools/"><u>Top 5 Free AI Art Creation Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-addressing-and-repairing-msvcr1errors-on-your-pc/"><u>Troubleshooting Tips: Addressing and Repairing MSVCR1#ERRORS on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010670037-wrc-10-overcome-the-crash-issue-and-enjoy-the-fia-world-rally-championship-gaming-experience/"><u>WRC 10 - Overcome the Crash Issue & Enjoy the FIA World Rally Championship Gaming Experience</u></a></li>
+</ul></div>
 

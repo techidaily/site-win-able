@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Play: A Complete Roller Champions How-To for PC Users"
-date: 2025-01-13T06:21:15.686Z
-updated: 2025-01-17T16:42:57.657Z
+date: 2025-01-20T16:05:50.758Z
+updated: 2025-01-24T16:12:47.057Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Close unnecessary background programs
 
  Applications running in the background could interfere with Lost Ark and cause the crashing issue. Or, these programs may take up the resources that are required for the game and thus throttle the game performance. You can kill the processes via the Task Manager and see if it helps. Here’s how:
@@ -83,16 +87,8 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
  Reboot your PC and launch Lost Ark to see if you still get random crashes.
 
 If this doesn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Make sure your system is up-to-date
 
@@ -109,6 +109,10 @@ If this doesn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  It’s important that Lost Ark is not running while Windows is installing the updates in the background. When Windows is writing data into the drive, it could interfere with the gameplay.  
@@ -116,10 +120,6 @@ If this doesn’t help, move on to the next fix.
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check that the Windows Update client is not running while you’re playing Lost Ark.
 
  If this doesn’t help or your system is already up-to-date, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Check your antivirus software
 
@@ -135,16 +135,16 @@ If the crashing issue persists, try the next fix.
 
  Some players found that overlays have caused Lost Ark to crash randomly, and the issue didn’t return when they turned off the overlays. You can give it a try as well to see if it helps with your crashing issue. Here’s how:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steam
 
 1. Launch Steam, and navigate to **Settings >> In-game** .
 2. **Toggle off Enable the Steam Overlay while in-game** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/Steam-Settings-Disable-in-game-overlay.jpg)
 3. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re not experiencing random crashes for other Steam games, you can try to disable the Steam overlay only for Lost Ark.
 
@@ -161,14 +161,14 @@ If the crashing issue persists, try the next fix.
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
@@ -187,22 +187,18 @@ If the crashing issue persists, try the next fix.
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Go to the**Startup** tab, click**Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now launch Lost Ark to test if you still get errors and crashes. If the issue persists, jump to the[last fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -219,7 +215,7 @@ If the crashing issue persists, try the next fix.
 3. Reboot your computer and launch Lost Ark. If the game once again crashes, then you know that one of the services you ticked above is conflicting with it. If Lost Ark runs just fine, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Lost Ark.  
@@ -232,17 +228,21 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with Lost Ark.
 5. Disable the problem program and reboot your PC.
 
  If doing a clean boot doesn’t solve your problem, you can safely assume that the Windows services and startup items aren’t responsible for the crashing issue. You can go back to your normal startup. Also, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Try on a different server
 
@@ -288,20 +288,20 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-synthetic-ps3-games-for-pc-gamers/"><u>[New] In 2024, Leading Synthetic PS3 Games for PC Gamers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-maximizing-your-broadcast-obs-on-android-devices/"><u>[Updated] 2024 Approved Maximizing Your Broadcast OBS on Android Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtube-mastery-comprehensive-editing-for-lifelong-learners/"><u>[Updated] 2024 Approved YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-against-glitches-overcoming-pc-crash-issues-in-final-fantasy-xiv-online-adventures/"><u>Battle Against Glitches: Overcoming PC Crash Issues in Final Fantasy XIV Online Adventures</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-zooms-blackout-issue-a-step-by-step-solution-guide-for-windows-desktop/"><u>Beat Zoom's Blackout Issue: A Step-by-Step Solution Guide for Windows Desktop</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-xs-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone XS Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elite-monitors-elevate-photo-editing-find-the-best-for-2024/"><u>Elite Monitors Elevate Photo Editing - Find the Best for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/improved-gaming-experience-in-the-elder-scrolls-online-fixing-the-notorious-blackwood-lag/"><u>Improved Gaming Experience in The Elder Scrolls Online: Fixing the Notorious Blackwood Lag</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-issues-with-dota-2-freezing-at-start-up/"><u>Resolved: Overcoming Issues with Dota 2 Freezing at Start-Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-roller-champions-cross-platform-gaming-on-your-computer-updated/"><u>The Definitive Guide to Roller Champions Cross-Platform Gaming on Your Computer (Updated )</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-for-non-responsive-ubisoft-connect/"><u>The Ultimate Fixes for Non-Responsive Ubisoft Connect</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-solving-2022-leaf-error-in-apex-legends-fix-guide/"><u>Troubleshooting Tips for Solving 2022 'Leaf' Error in Apex Legends - Fix Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-free-32-bit-windows-video-editing-tools/"><u>Updated In 2024, Unleash Your Creativity Free 32-Bit Windows Video Editing Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[New] 2024 Approved Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-swift-solutions-for-the-windows-10-photos-app-stability-woes/"><u>[New] In 2024, Swift Solutions for the Window's 10 Photos App Stability Woes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-sideways-instagram-videos-an-enigma-or-bug-in-2024/"><u>[New] Sideways Instagram Videos An Enigma or Bug, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlock-smooth-communication-best-10-secured-fee-free-apps-for-ios-and-android-users-for-2024/"><u>[New] Unlock Smooth Communication Best 10 Secured, Fee-Free Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-to-restore-sound-in-evil-genius-2/"><u>Cracking the Code to Restore Sound in 'Evil Genius 2'</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-outpost-war-of-the-champions-crashing-problems-in-windows-10-and-11/"><u>Fix Outpost: War of the Champions Crashing Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-zte-axon-40-lite-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from ZTE Axon 40 Lite to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-in-hyper-scape-solutions-for-pc-crash-prevention-and-recovery/"><u>Mastering Stability in Hyper Scape: Solutions for PC Crash Prevention and Recovery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-youtubes-subtitle-system-download-with-ease-using-3-methods-for-2024/"><u>Navigating YouTube's Subtitle System Download with Ease Using 3 Methods for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-effective-ways-to-prevent-ring-of-elysium-game-crashes/"><u>Overcoming the Challenge: Effective Ways to Prevent Ring of Elysium Game Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-tweaking-desktop-icons-separation-in-winxiplus10/"><u>Title: Tweaking Desktop Icons' Separation in WinXI+10</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-fifa-21-wont-boot-and-solutions/"><u>Troubleshooting Guide: Why FIFA 21 Won't Boot and Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-steps-eliminating-security-qanda-for-windows-11-admin/"><u>Unseen Steps: Eliminating Security Q&A for Windows 11 Admin</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-lag-in-fortnite-expert-tips-for-optimal-performance/"><u>Winning the Battle Against Lag in Fortnite: Expert Tips for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-pre-purchase-checklist-important-qanda-for-potential-electric-vehicle-buyers/"><u>Your Pre-Purchase Checklist: Important Q&A for Potential Electric Vehicle Buyers</u></a></li>
 </ul></div>
 

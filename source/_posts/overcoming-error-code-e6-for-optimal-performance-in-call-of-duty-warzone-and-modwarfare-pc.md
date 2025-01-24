@@ -1,7 +1,7 @@
 ---
 title: Overcoming Error Code E6 for Optimal Performance in Call of Duty Warzone and ModWarfare (PC)
-date: 2024-08-18T15:26:10.466Z
-updated: 2024-08-19T15:26:10.466Z
+date: 2025-01-17T16:03:31.522Z
+updated: 2025-01-24T17:04:58.009Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e02c41a99d42d63b7e95bafe0fe0df1b7497d09e9
 
 ## Optimizing for Victory: Overcoming Common Performance Drops and Stuttering in GTFO Games
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![GTFO FPS drops on PC](https://images.drivereasy.com/wp-content/uploads/2021/12/GTFO-FPS-drops-on-PC.jpg "GTFO")
 
 GTFO
@@ -44,8 +41,9 @@ GTFO
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -66,9 +64,11 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -77,10 +77,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Set the power plan of your PC for high performance
 
  Windows power plans are designed to manage how your computer consumes and conserves power. You may encouter FPS drops when your computer is using the balanced or power saver plan.
@@ -92,16 +88,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel would also boost the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -125,16 +119,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. Open **AMD Radeon Settings** .
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
@@ -144,6 +136,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -157,11 +154,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you’ve enabled background recording and Xbox Game Bar, and you’re suffering from in-game FPS drops, try disabling them:
 
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -182,8 +181,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +188,26 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-no-pen-or-touch-input-is-available-for-this-display/"><u>[Fixed] No Pen or Touch Input Is Available for This Display</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-seamlessly-upload-youtube-videos-to-facebook-feed-for-2024/"><u>[New] How to Seamlessly Upload YouTube Videos to Facebook Feed for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-assessing-screen-recorder-excellence-in-action/"><u>[New] In 2024, Assessing Screen Recorder Excellence in Action</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-tv-screen-scenes-with-ease-your-ultimate-guide/"><u>[Updated] Capturing TV Screen Scenes with Ease - Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transforming-your-story-game-with-animation-techniques-for-text-for-2024/"><u>[Updated] Transforming Your Story Game with Animation Techniques for Text for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>2024 Approved Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-savings-exclusive-july-2024-deals-on-laptops-featured/"><u>Discover the Ultimate Savings: Exclusive July 2024 Deals on Laptops Featured</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-prevent-assassins-creed-unity-glitches-and-crashes-recent-insights/"><u>Effective Methods to Prevent Assassin's Creed Unity Glitches & Crashes – Recent Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-red-dead-redemption-2-up-and-running-a-comprehensive-guide/"><u>Getting Red Dead Redemption 2 Up and Running: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/hot-beats-exploring-viral-tiktok-rap-hits-today-for-2024/"><u>Hot Beats Exploring Viral TikTok Rap Hits Today for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-install-and-troubleshoot-the-amd-ryzen-master-driver-issues/"><u>How to Correctly Install and Troubleshoot the AMD Ryzen Master Driver Issues</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/is-accessible-design-guaranteed-will-my-brands-emblem-appear-in-your-digital-flipbook-after-licensing/"><u>Is Accessible Design Guaranteed: Will My Brand's Emblem Appear in Your Digital FlipBook After Licensing?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ey-journaling-paving-your-way-in-the-world-of-travel-vlogging-for-2024/"><u>Journey Journaling Paving Your Way in the World of Travel Vlogging for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/origin-account-login-error-corrected-secure-access-to-your-profile-restored/"><u>Origin Account Login Error Corrected – Secure Access to Your Profile Restored</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-wins-against-cs2-latency-how-to-achieve-low-ping-and-improve-pc-performance/"><u>Quick Wins Against CS2 Latency: How to Achieve Low Ping and Improve PC Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-hitman-e3-link-up-problems-in-minutes/"><u>Resolve Your Hitman E3 Link-Up Problems in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-game-interruptions-a-guide-to-fixing-the-crashes-in-psychonauts-2-for-pc-gamers/"><u>Resolving Game Interruptions: A Guide to Fixing the Crashes in 'Psychonauts 2' For PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-crashes-in-madden-20-on-your-computer-with-ease/"><u>Troubleshoot and Fix Crashes in Madden 20 on Your Computer With Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/unresolved-issues-with-doom-eternal-release-discover-a-quick-solution/"><u>Unresolved Issues with DOOM Eternal Release? Discover a Quick Solution</u></a></li>
+</ul></div>
 

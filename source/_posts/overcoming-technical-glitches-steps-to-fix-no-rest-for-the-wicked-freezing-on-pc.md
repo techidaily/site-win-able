@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Technical Glitches: Steps to Fix 'No Rest for the Wicked' Freezing on PC"
-date: 2024-08-18T15:26:14.798Z
-updated: 2024-08-19T15:26:14.798Z
+date: 2025-01-22T16:34:32.236Z
+updated: 2025-01-24T17:06:48.505Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
  But don’t worry. There are some general crash troubleshooting solutions you can try when_DOOM Eternal_ crashing issues occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix DOOM crashing issue?
 
  You may not have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,9 +31,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Meet the minimum system requirements
 
  The minimum system specifications to play_DOOM_ need to be met to run the game. Here are the system requirements to play_DOOM_ :
@@ -56,8 +50,9 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, chances are that an outdated or corrupted graphics driver is causing the crashing issue for you. Try updating your graphics driver to see if it resolves your issue. There are two ways you can do this:
@@ -108,20 +103,22 @@ If your problem persists, then go ahead with the next fix below.
 
 **2)** Click **LIBRARY.**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **DOOM** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46-1.jpg)
 
 **5)** Wait for this process to be complete, and then relaunch DOOM.
@@ -129,8 +126,9 @@ If your problem persists, then go ahead with the next fix below.
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Lower your in-game settings
 
  Improper game settings can also cause the game to fail. If the game isn’t running smoothly, try lowing the graphics settings. Here is how:
@@ -148,17 +146,9 @@ If this didn’t work, try the fix, below.
 If not, move on and try the next solution below.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -171,40 +161,31 @@ If not, move on and try the next solution below.
 
 **2)** Click **View advanced system settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
 **6)** Click your **C drive** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -219,9 +200,6 @@ If not, move on and try the next solution below.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for Windows updates
 
  If you have not already done so, you will want to make sure you have the latest updates for Windows. Here is how to do it:
@@ -230,9 +208,17 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
@@ -252,9 +238,6 @@ If not, move on and try the next solution below.
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
@@ -277,8 +260,6 @@ If not, move on and try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +267,26 @@ If not, move on and try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/reaking-through-youtubes-walls-using-advanced-creator-studio-skills/"><u>[New] Breaking Through YouTube's Walls Using Advanced Creator Studio Skills</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[New] Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-15-secrets-to-building-quality-free-ad-videos-for-youtube/"><u>[New] Top 15 Secrets to Building Quality Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-scribblers-ios-and-androids-leading-image-editors/"><u>[Updated] Best Scribblers IOS & Android's Leading Image Editors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-business-on-instagram-a-step-by-step-guide/"><u>[Updated] Mastering Business on Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-enhancing-corporate-success-through-customer-satisfaction-strategies/"><u>1. Enhancing Corporate Success Through Customer Satisfaction Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-navigating-without-watching-edgenuity-content/"><u>2024 Approved Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-steps-installing-snapchat-on-macos/"><u>2024 Approved Quick Steps Installing Snapchat on macOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-visual-glitches-a-comprehensive-guide-to-fixing-directdraw-failures/"><u>Clearing Up Visual Glitches: A Comprehensive Guide to Fixing DirectDraw Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-the-shadows-defeating-black-screen-troubles-in-magic-the-gathering-online-platform/"><u>Conquering the Shadows: Defeating Black Screen Troubles in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/crisis-also-changes-in-the-plural-it-becomes-crises/"><u>Crisis Also Changes in the Plural: It Becomes Crises</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-restoring-lost-connection-between-your-pc-and-lost-ark-servers/"><u>Essential Tips for Restoring Lost Connection Between Your PC and Lost Ark Servers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-display-malfunctioned-solve-your-windows-black-screen-challenge-now/"><u>Fortnite Display Malfunctioned? Solve Your Window's Black Screen Challenge Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-path-of-exile-from-freezing-a-step-by-step-guide/"><u>How To Stop Your Path Of Exile From Freezing - A Step-By-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-tecno-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Tecno Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-prospective-leaders-in-titling-the-top-5-online-masters-revealed/"><u>In 2024, Prospective Leaders in Titling The Top 5 Online Masters Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-league-of-legends-online-communication-glitches-successfully/"><u>Tackling League of Legends' Online Communication Glitches Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworld-overcoming-eos-login-issues-with-6-effective-solutions/"><u>Troubleshooting Palworld: Overcoming EOS Login Issues with 6 Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steam-cloud-errors-effective-strategies-for-seamless-syncing/"><u>Troubleshooting Steam Cloud Errors: Effective Strategies for Seamless Syncing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Counter-Strike 2 From Crashing: Ultimate Guide (Updated 2Vew)"
-date: 2025-01-16T21:10:49.328Z
-updated: 2025-01-17T23:07:48.501Z
+date: 2025-01-17T17:03:45.780Z
+updated: 2025-01-24T16:30:08.758Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 6. **[Launch Arma 3 with the malloc=system command](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the BattlEye service](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -84,10 +88,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and_Arma 3_ to test your issue.
 
  You can hopefully play_Arma 3_ without crashing now. If the problem still exists, then go ahead with the fix below.
@@ -111,10 +111,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -134,10 +130,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -181,18 +173,26 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Change your PC power plan
@@ -205,17 +205,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -224,6 +228,10 @@ OR
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Launch Arma 3 with the malloc=system** command
 
@@ -239,6 +247,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-45.png)
@@ -247,9 +259,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-374.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-malloc=system** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Restart_Arma 3_ to see this helped.
 
@@ -288,33 +308,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)**  Right-click **Arma 3**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-36.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-37.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the scans to be complete, then relaunch_Arma 3_ to reinstall BattlEye. If the game still crashes, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Arma 3 and/or Steam
 
@@ -352,10 +356,6 @@ OR
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -404,18 +404,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-down-the-fastest-green-screen-methods-for-2024/"><u>[New] Breaking Down the Fastest Green Screen Methods for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-iphones-multi-tasked-capture-feature/"><u>[New] Master iPhone's Multi-Tasked Capture Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-scripting-solutions-in-ae/"><u>[Updated] Pro-Level Scripting Solutions in AE</u></a></li>
-<li><a href="https://win-able.techidaily.com/can-you-amplify-a-laptops-intellect-cpu/"><u>Can You Amplify a Laptop's Intellect (CPU)?</u></a></li>
-<li><a href="https://win-able.techidaily.com/directx-issues-addressed-now-play-fifa-20-smoothly/"><u>DirectX Issues Addressed - Now Play FIFA 20 Smoothly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-free-gaming-with-steam-a-complete-breakdown-of-correcting-error-code-n130/"><u>Error-Free Gaming with Steam: A Complete Breakdown of Correcting Error Code N130</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-bugs-in-immortals-of-skylands-fenyx-rising-continuous-crashing-woes/"><u>Fixing the Bugs in Immortals of Skylands - Fenyx Rising Continuous Crashing Woes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-reno-11-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Reno 11 Pro 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/simple-methods-to-locate-and-remove-outdated-data-in-windows-11/"><u>Simple Methods to Locate & Remove Outdated Data in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-how-to-stop-sword-and-fairy-series-latest-installation-from-freezing-your-pc/"><u>Solution Found! How to Stop Sword & Fairy Series' Latest Installation From Freezing Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-lost-ark-connection-issues-a-complete-guide/"><u>Solving 'Lost Ark Connection Issues: A Complete Guide'</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-into-success-mastering-tagging-for-engaging-content-for-2024/"><u>Step Into Success Mastering Tagging for Engaging Content for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lenovo-thinkphone-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lenovo ThinkPhone Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/eradiquer-avec-efficacite-les-messages-redondants-les-4-moyens-meilleurs-pour-outlook-20192020/"><u>Éradiquer Avec Efficacité Les Messages Redondants: Les 4 Moyens Meilleurs Pour Outlook 2019/2020</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-overcoming-opening-problems-with-davinci-resolve-on-pc-running-windows/"><u>Expert Tips: Overcoming Opening Problems with DaVinci Resolve on PC Running Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-fluid-playthrough-addressing-stutter-in-ac-valhalla-for-pc-users/"><u>How to Ensure Fluid Playthrough: Addressing Stutter in AC Valhalla for PC Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-high-fidelity-performance-desktops/"><u>In 2024, High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-solution-microsoft-flight-simulator-2020-update-stuck-no-more/"><u>Latest Solution! Microsoft Flight Simulator 2020 Update Stuck No More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-sbc-platforms-for-diy-enthusiasts-discover-the-premier-picks-of-2024/"><u>Leading SBC Platforms for DIY Enthusiasts: Discover the Premier Picks of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-outage-is-the-service-disrupted-or-are-you-facing-technical-glitches/"><u>Netflix Outage: Is the Service Disrupted, or Are You Facing Technical Glitches?</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-overcome-nvidia-geforce-experience-error-0x0003/"><u>Step-by-Step Solution to Overcome Nvidia GeForce Experience Error 0X0003</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-free-window-11-theme-packs-upgrade-your-desktop/"><u>Top 15 Free Window 11 Theme Packs: Upgrade Your Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-apple-watch-x-unveiled-pricing-insights-and-speculations-on-tech-specs/"><u>Upcoming Apple Watch X Unveiled: Pricing Insights & Speculations on Tech Specs</u></a></li>
 </ul></div>
 

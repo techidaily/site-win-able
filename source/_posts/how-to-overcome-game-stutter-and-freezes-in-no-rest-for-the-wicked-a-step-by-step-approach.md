@@ -1,7 +1,7 @@
 ---
 title: "How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach"
-date: 2025-01-12T04:54:51.301Z
-updated: 2025-01-18T07:45:36.055Z
+date: 2025-01-20T16:22:40.016Z
+updated: 2025-01-24T16:00:38.982Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Game freezing is the most frustrating part of PC gaming. You may run into issues
 6. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your computer specs
 
@@ -83,13 +87,25 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the name of your graphics card and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**Driver** tab, then click**Roll Back Driver** .
 
@@ -97,13 +113,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-29-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
@@ -122,6 +138,10 @@ Follow the instructions below to view your computer hardware information:
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -169,10 +189,6 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
 If your issue persists, check the fix below.
@@ -189,6 +205,10 @@ If your issue persists, check the fix below.
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
@@ -220,10 +240,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
 ### Fix 6: Check for Windows updates
@@ -239,10 +255,6 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
 
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Adjust your virtual memory
 
@@ -261,16 +273,12 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -286,10 +294,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-43.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
@@ -299,7 +303,7 @@ If your issue persists, check the fix below.
  You should be able to run the game without freezing now. If the issue continues to occur, don’t fret. There is still 1 more fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the Epic Games Launcher
@@ -312,21 +316,17 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -361,15 +361,21 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-best-8-online-photo-montage-maker/"><u>[Updated] Best 8 Online Photo Montage Maker</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-influential-edge-mastering-sponsorship-and-promotion-on-social-media/"><u>[Updated] In 2024, The Influential Edge Mastering Sponsorship and Promotion on Social Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/directors-toolkit-win8/"><u>Director's Toolkit Win8</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-infinix-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Infinix</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005125805-introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium</u></a></li>
-<li><a href="https://win-able.techidaily.com/outlook-connection-errors-ultimate-fixes-and-tips-for-a-smooth-email-experience/"><u>Outlook Connection Errors - Ultimate Fixes and Tips for a Smooth Email Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/team-fortress-2-no-longer-experiencing-frequent-crashes-issue-resolved/"><u>Team Fortress 2 No Longer Experiencing Frequent Crashes - Issue Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-engine-issues-with-the-steelseries-gg-controller-in-windows/"><u>Troubleshooting: Fixing Engine Issues with the SteelSeries GG Controller in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-controller-recognition-in-steam-on-windows/"><u>Unlock Controller Recognition in Steam on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-investment-introspection-the-podcasts-financial-frontier/"><u>[New] In-Depth Investment Introspection The Podcast's Financial Frontier</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-add-text-to-youtube-video-for-2024/"><u>[Updated] How to Add Text to YouTube Video for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-student-focused-historical-yt-series/"><u>2024 Approved Best Student-Focused Historical YT Series</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 4G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repair-tips-for-when-your-dvdbdcd-drive-wont-eject-or-open-properly/"><u>DIY Repair Tips for When Your DVD/BD/CD Drive Won't Eject or Open Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-for-simple-recording-of-teamviewer-sessions-in-windows-1011/"><u>Step-by-Step Tutorial for Simple Recording of TeamViewer Sessions in Windows 10/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y28-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y28 5G Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-journey-to-exceptional-educational-content-creating-impactful-vids-on-youtube-for-2024/"><u>The Journey to Exceptional Educational Content Creating Impactful Vids on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/three-no-cost-techniques-for-transforming-cd-music-into-wav-format/"><u>Three No-Cost Techniques for Transforming CD Music Into WAV Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-premium-no-cost-movie-editing-tools-compatible-with-windows-and-macos-updated-guide/"><u>Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide )</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-online-tools-for-effortless-conversion-of-aac-audio-to-mp3-playback/"><u>Top Online Tools for Effortless Conversion of AAC Audio to MP3 Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-platforms-for-high-resolution-audio-downloads/"><u>Top Platforms for High-Resolution Audio Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-windows-media-player-cant-play-flac-files-discover-two-easy-fixes/"><u>Troubleshooting Windows Media Player: Can't Play FLAC Files? Discover Two Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-converting-your-dvd-collection-into-high-definition/"><u>Ultimate Guide: Converting Your DVD Collection Into High Definition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/verandern-sie-die-regionseinstellung-einer-dvd-auf-einem-apple-macbookimac-schritt-fur-schritt-anleitung/"><u>Verändern Sie Die Regionseinstellung Einer DVD Auf Einem Apple MacBook/iMac: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 5G on Windows?</u></a></li>
 </ul></div>
 

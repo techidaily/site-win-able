@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2025-01-11T16:24:37.967Z
-updated: 2025-01-18T04:03:28.581Z
+date: 2025-01-18T17:08:22.356Z
+updated: 2025-01-24T16:03:06.188Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix DOOM crashing issue?
 
@@ -100,10 +96,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 If your problem persists, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify the integrity of your game files
 
  If a required file of your game installation gets corrupt, or it’s deleted as a false positive by your antivirus, your game may end up crashing. To see if that the problem for you, follow the instructions below:
@@ -113,6 +105,10 @@ If your problem persists, then go ahead with the next fix below.
 **2)** Click **LIBRARY.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **DOOM** and select **Properties** .
 
@@ -127,7 +123,7 @@ If your problem persists, then go ahead with the next fix below.
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Lower your in-game settings
@@ -141,6 +137,10 @@ If this didn’t work, try the fix, below.
 **3)** Find the**Virtual Texture Pool Size** , and turn it to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_17-36-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch the game to see if this worked.
 
@@ -164,13 +164,13 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -181,7 +181,7 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
@@ -192,7 +192,7 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
@@ -200,6 +200,10 @@ If not, move on and try the next solution below.
 **9)**  Restart your computer and your game.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -210,16 +214,12 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
@@ -237,6 +237,10 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
@@ -244,10 +248,6 @@ If not, move on and try the next solution below.
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -274,20 +274,18 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-instructors-roadmap-to-youtube-success-10-crucial-steps/"><u>[New] 2024 Approved The Instructor's Roadmap to YouTube Success – 10 Crucial Steps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nveiling-your-individual-playlist-paradise-on-youtube-for-2024/"><u>[New] Unveiling Your Individual Playlist Paradise on YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-exploring-the-best-converters-for-tiktok-graphics/"><u>2024 Approved Exploring the Best Converters for TikTok Graphics</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-5-crashes-try-these-proven-methods-to-keep-your-game-running-smoothly/"><u>Battlefield 5 Crashes? Try These Proven Methods to Keep Your Game Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/current-status-of-xbox-live-is-the-service-operational-right-now/"><u>Current Status of Xbox Live: Is the Service Operational Right Now?</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-methods-to-enhance-frame-rates-and-reduce-lag-during-gaming-sessions-on-windows-machines/"><u>Effective Methods to Enhance Frame Rates and Reduce Lag During Gaming Sessions on Windows Machines</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/gratis-mejoras-de-calidad-en-videos-los-mejores-compresores-sin-patrocinadores/"><u>Gratis Mejoras De Calidad en Videos: Los Mejores Compresores Sin Patrocinadores</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-unstick-your-frozen-outlook-program-for-easy-use-again/"><u>Guide: Unstick Your Frozen Outlook Program for Easy Use Again</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-crossfade-audio-with-audacity/"><u>How to Crossfade Audio with Audacity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-10-youtube-video-ideas-for-sharing-your-personal-story/"><u>In 2024, 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-daydream-to-reality-a-short-vr-history/"><u>In 2024, From Daydream to Reality A Short VR History</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-magic5-ultimate-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor Magic5 Ultimate to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-black-screen-of-death-when-starting-overwatch-a-step-by-step-guide/"><u>Resolving the 'Black Screen of Death' When Starting Overwatch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-device-drivers-update-a-guide-to-using-driver-easys-mobile-version/"><u>Seamless Device Drivers Update: A Guide to Using Driver Easy's Mobile Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-vr-undetected-here-are-six-remedies/"><u>Steam VR Undetected? Here Are Six Remedies!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[New] In 2024, Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[Updated] 2024 Approved Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>[Updated] How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch-for-2024/"><u>[Updated] Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-iii-performance-fixed-say-goodbye-to-unexpected-shutdowns/"><u>Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-remedies-for-persistent-outriders-game-crashes/"><u>Effortless Remedies for Persistent Outriders Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancements-and-fixes-to-address-god-of-wars-available-memory-glitch/"><u>Enhancements and Fixes to Address God of War's Available Memory Glitch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-reviews-top-5-masterful-motion-capture-devices-for-2024/"><u>Expert Reviews Top 5 Masterful Motion Capture Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722980884059-how-to-fix-fps-dropslow-fps-in-valorant-2024-tips/"><u>How to Fix FPS Drops/Low FPS in Valorant – 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-alan-wake-2-freezing-issues-expert-advice-for-gamers-in-202-groovy-titles-to-fix-your-game-crashes/"><u>Solving the Alan Wake 2 Freezing Issues: Expert Advice for Gamers in 202 Groovy Titles to Fix Your Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-fifa-22-from-crashing-on-your-computer-effective-troubleshooting-steps/"><u>Stop FIFA 22 From Crashing on Your Computer - Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-tutorial-switching-your-primary-pdf-reader-in-windows-11/"><u>Ultimate Tutorial: Switching Your Primary PDF Reader in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unleashing-the-full-power-of-siri-top-secret-voice-shortcuts-on-your-iphone-revealed-a-comprehensive-guide/"><u>Unleashing the Full Power of Siri: Top Secret Voice Shortcuts on Your iPhone Revealed - A Comprehensive Guide</u></a></li>
 </ul></div>
 

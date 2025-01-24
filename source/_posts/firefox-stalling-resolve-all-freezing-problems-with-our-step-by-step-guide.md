@@ -1,7 +1,7 @@
 ---
 title: Firefox Stalling? Resolve All Freezing Problems with Our Step-by-Step Guide
-date: 2025-01-15T23:47:26.517Z
-updated: 2025-01-18T06:55:18.078Z
+date: 2025-01-17T16:21:09.901Z
+updated: 2025-01-24T16:57:22.077Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 6. [**Initialize the PS4 to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Call the support from Sony to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the PS4 freezing and why is the PS4 frozen?
 
  The PS4 freezing or the PS4 lagging is**one of the common issues** that many electronic devices may run into. It generally behaves as your controller or your gamepad gets**stuck or lagged** when you are playing games.
@@ -45,13 +49,13 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 * **Faulty hard drive**
 * **Poor Internet connection**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Update the application to fix the PS4 freezing**
 
  If the PS4 freezing occurs to one game or application, it’s very likely because the game/application crashed in your PS4\. You can try to**restart the PS4 and then the game** to have a try, or you can try to**update the game software to the latest version** , which can help fix the bugs and install the patches for your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Restart the PS4 and the application
 
@@ -81,10 +85,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
  4) Restart your PS4 and try to play the game to see if it works now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Free up more space for your system
 
  You can first check the system storage in your PS4\. If there is little space, you will need to free up more space for it. The fluent operating on your PS4 requires enough storage in the system.
@@ -93,16 +93,12 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b2f68f21e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) You’ll see the data stored in your system, you can select the type of data you want to delete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b31cd1077.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Press the**Options** **button** on your controller and select**Delete** .
@@ -118,10 +114,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
  The PS4 freezing issue can possibly because of an**overheating problem** . If the PS4 doesn’t have enough space for the air to cool download the fan, it may be overheated and stuck in.
 
  If that’s the case, you can try to**put your PS4 in an open space** to have more gas around it, so your PS4 is allowed to have**better air circulation** . Additionally, you may need to regularly**clean the dust** on your PS4 to have it under maintenance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Check all the cables and ports to be plugged correctly
 
@@ -159,6 +151,10 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 5) Try to use your PS4 again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 4: Check the Internet connection to fix the PS4 freezing**
 
  As we know, the slow Internet connection can largely lead to the lags in your PS4\. Whenever you play PS4 games, you may want to have a good Internet connection to ensure the best gaming experience. So you may check your Internet to see if it can be a problem.
@@ -185,9 +181,17 @@ a. Connect your PS4 with the LAN cable.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  e. Select **Do Not Use**  as for **Proxy Server.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  f. Wait for it to update. When you see **Internet settings updated** , try to play the PS4 games to see if it works now.
 
@@ -200,7 +204,7 @@ a. Connect your PS4 with the LAN cable.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  b. Open your browser on PC or mobile phone, then type the**IP address in your browser,** and press**Enter** .
@@ -208,10 +212,6 @@ a. Connect your PS4 with the LAN cable.
  c. Type your**Username** and**Password** , then**log in** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  d. Go to the**forward ports section** (or ports forwarding, Virtual Server, Applications according to different routers).
 
@@ -237,6 +237,10 @@ g. Try to use your PS4 to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571a6b18875.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select **Update** if there are available updates. (You won’t see this message if your PS4 system is the latest version, so you can skip this method.)
 
  4) Wait for the update to download. After downloading, you’ll see the pop-up notification to remind you.
@@ -248,7 +252,7 @@ g. Try to use your PS4 to see if it works now.
 6) Try to open the game and see if it works now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 6: Initialize the PS4 to fix the PS4 freezing**
@@ -263,16 +267,12 @@ g. Try to use your PS4 to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select **Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the instructions to complete.
@@ -307,19 +307,18 @@ g. Try to use your PS4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-maximize-audience-impact-peak-viewing-hours/"><u>[New] 2024 Approved Maximize Audience Impact - Peak Viewing Hours</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-making-bank-with-youtube-an-analysis-of-pewdiepies-earnings/"><u>[New] In 2024, Making Bank with YouTube An Analysis of PewDiePie’s Earnings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mastering-income-via-youtube-channel/"><u>[Updated] 2024 Approved Mastering Income via YouTube Channel</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-paint-picture-humor-for-2024/"><u>[Updated] Paint Picture Humor for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/desktopmobile-techniques-for-sound-rate-manipulation-in-youtube-for-2024/"><u>Desktop/Mobile Techniques for Sound Rate Manipulation in YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/enjoy-a-smooth-playthrough-of-far-cry-6-for-pc-users/"><u>Enjoy a Smooth Playthrough of Far Cry 6 for PC Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-your-free-up-to-date-dell-drivers-for-windows-11-here/"><u>Get Your Free Up-to-Date Dell Drivers for Windows 11 Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-pc-from-crashing-during-wolcen-lords-of-mayhem/"><u>How to Stop Your PC From Crashing During Wolcen: Lords of Mayhem</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-3d-videos-like-a-pro-top-free-and-paid-resources/"><u>Make 3D Videos Like a Pro Top Free and Paid Resources</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-ie-page-rendering-issues-solutions-inside/"><u>Overcoming IE Page Rendering Issues: Solutions Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-anticipated-arrival-of-the-latest-airpods-what-we-know-so-far-and-securing-your-spot-on-waitlists/"><u>The Anticipated Arrival of the Latest AirPods: What We Know So Far and Securing Your Spot on Waitlists</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007352669-tower-of-fantasy-crashes-on-windows-discover-effective-fixes-here/"><u>Tower of Fantasy Crashes on Windows? Discover Effective Fixes Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-half-life-alyx-overcoming-stutter-and-lag-in-pc-versions/"><u>Troubleshooting Half-Life: Alyx: Overcoming Stutter and Lag in PC Versions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-heartcrashes-in-hearthstone-on-your-windows-pc/"><u>Troubleshooting: How to Fix Heartcrashes in Hearthstone on Your Windows PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-apps-to-speed-audio-speed-on-mobile/"><u>[New] 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2023-updates-the-next-generation-of-samsung-k850u/"><u>[Updated] 2023 Updates - The Next Generation of Samsung K850U</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007484818-farming-simulator-22-troubleshooting-overcome-and-optimize-your-pcs-frame-rate/"><u>Farming Simulator 22 Troubleshooting – Overcome and Optimize Your PC's Frame Rate</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-blaze-2-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Blaze 2 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instant-guide-obtaining-safe-free-vlc-media-player-on-a-mac-for-2024/"><u>Instant Guide Obtaining Safe, Free VLC Media Player on a Mac for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-star-wars-battlefront-ii-fixes-for-persistent-error-code-327/"><u>Mastering Star Wars Battlefront II - Fixes for Persistent Error Code 327</u></a></li>
+<li><a href="https://driver-install.techidaily.com/next-gen-amd-hd-audio-system/"><u>Next-Gen AMD HD Audio System</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-launch-hurdle-getting-destiny-2-up-and-running-on-pc/"><u>Overcome the Launch Hurdle: Getting Destiny 2 Up and Running on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-escape-from-tarkov-anticheat-errors/"><u>Step-by-Step Guide to Resolve Escape From Tarkov Anticheat Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminating-latency-issues-and-reducing-high-ping-in-bless-unleashed-on-pc/"><u>Ultimate Guide: Eliminating Latency Issues & Reducing High Ping in Bless Unleashed on PC</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-itel-s23plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Itel S23+.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2025-01-12T08:30:23.832Z
-updated: 2025-01-17T23:51:07.768Z
+date: 2025-01-22T16:28:14.090Z
+updated: 2025-01-24T16:06:11.756Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Warframe Freezing
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your home network
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
@@ -120,13 +120,13 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
@@ -171,18 +171,17 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-essential-framework-for-targeted-ad-messaging-on-fb/"><u>[New] 2024 Approved Essential Framework for Targeted Ad Messaging on FB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-smartphones-and-tablets-leading-gb-gameplayers/"><u>[New] Smartphones & Tablets Leading GB Gameplayers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-cost-assessment-for-producing-track-driven-videos/"><u>[Updated] 2024 Approved Cost Assessment for Producing Track-Driven Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/explore-the-best-of-both-worlds-with-these-5-cams-for-2024/"><u>Explore the Best of Both Worlds with These 5 Cams for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-achieves-zero-blank-page-mishaps/"><u>HP Printer Achieves Zero Blank Page Mishaps</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009883907-immortals-of-fenyx-rising-game-stability-issues-resolved/"><u>Immortals of Fenyx Rising Game Stability Issues - Resolved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009609888-optimizing-your-pc-experience-with-fixed-f1-2e2021s-frame-rate-drop-say-goodbye-to-lag/"><u>Optimizing Your PC Experience with Fixed F1 2E2021's Frame Rate Drop - Say Goodbye to Lag</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-werfaultexe-applications-mishaps-with-these-proven-fixes/"><u>Overcome Windows werFault.exe Applications Mishaps with These Proven Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rated-ssd-options-for-macbook-pro-boost-your-performance-with-zero-lag-storage/"><u>Top Rated SSD Options for MacBook Pro: Boost Your Performance with Zero-Lag Storage</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-the-error-code-0xc19001e1-on-windows-11/"><u>Troubleshooting and Fixing the 'Error Code 0xC19001E1' On Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-when-humans-encounter-pre-launch-glitches/"><u>Troubleshooting Guide: When Humans Encounter Pre-Launch Glitches</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-10-games-comparable-to-grand-theft-auto-v-for-2024/"><u>[Updated] Essential 10 Games Comparable to Grand Theft Auto V for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-through-essential-zoom-recording-equipment-for-2024/"><u>[Updated] Navigating Through Essential Zoom Recording Equipment for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-your-origins-ultimate-guide-to-increasing-download-speeds/"><u>Boosting Your Origins: Ultimate Guide to Increasing Download Speeds</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fix-resolve-assassins-creed-odyssey-pc-game-crashes/"><u>Effortless Fix: Resolve Assassin's Creed Odyssey PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/elder-scrolls-online-update-successfully-addresses-blackwood-regions-lag-problems/"><u>Elder Scrolls Online Update Successfully Addresses Blackwood Region's Lag Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fixing-warped-youtube-videos-step-by-step-for-2024/"><u>Fixing Warped YouTube Videos Step-by-Step for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-13t-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 13T Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-v30t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme V30T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-rainbow-six-extraction-stability-improvements-confirmed/"><u>PC Gamers Rejoice as Rainbow Six Extraction Stability Improvements Confirmed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-evolution-of-auto-hdr-and-its-role-in-todays-photography-for-2024/"><u>The Evolution of Auto HDR and Its Role in Today's Photography for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-fixing-document-scanner-errors/"><u>Troubleshooting Techniques for Fixing Document Scanner Errors</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
 </ul></div>
 

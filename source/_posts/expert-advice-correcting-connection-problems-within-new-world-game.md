@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Correcting Connection Problems Within 'New World Game'"
-date: 2024-08-18T15:26:53.012Z
-updated: 2024-08-19T15:26:53.012Z
+date: 2025-01-21T16:54:54.739Z
+updated: 2025-01-24T16:45:30.179Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
  The most possible causes of ‘ **_Connection to the Battle.net game server has been lost_**  ‘ are as follows:
@@ -34,8 +38,9 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * etc.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -76,17 +81,14 @@ If your game isn’t on the list, follow these steps:
 4. Restart your Battle.net and play the game again the test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
 
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
@@ -97,45 +99,32 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 **`ipconfig /renew`**  
 **`ipconfig /flushdns`**  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -143,9 +132,6 @@ Key features:
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Update your device drivers
 
  It’s also recommended by[Activision](https://eu.battle.net/support/en/article/31024) that you should update your device drivers (including your Network adapter driver) to check if the **‘_Connection to the Battle.net game server has been lost_**  ‘ problem is caused by corrupted/outdated drivers.
@@ -168,8 +154,9 @@ Key features:
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Use a VPN
 
  It has now been confirmed that some ISPs are having trouble routing to Blizzard and Battle.net servers. It’s very unlikely that you will switch to a different ISP, but there’s still a way to change the routing – using a VPN.
@@ -199,8 +186,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +193,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/2023-tips-how-to-fix-maplestory-crashing-on-windows-11/"><u>[2023 Tips] How to Fix MapleStory Crashing on Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-decoding-the-latest-shifts-in-facebook-landscape-for-2024/"><u>[New] Decoding the Latest Shifts in Facebook Landscape for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-iosandroid-leading-photo-writing-app-list-for-2024/"><u>[Updated] IOS/Android Leading Photo-Writing App List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-year-in-review-top-5-camera-tips-filmmakers-for-2024/"><u>[Updated] Year in Review Top 5 Camera Tips Filmmakers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitches-expert-guide-to-troubleshooting-biomutant-on-your-computer-2024-edition/"><u>Beat the Glitches: Expert Guide to Troubleshooting Biomutant on Your Computer - 2024 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/contemplating-the-impact-of-ditching-your-networked-life/"><u>Contemplating the Impact of Ditching Your Networked Life</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-your-minecraft-game-running-smoothly-again-on-desktop-a-comprehensive-guide/"><u>Getting Your Minecraft Game Running Smoothly Again on Desktop: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-premium-8k-vision-selecting-the-superior-cameras/"><u>In 2024, Premium 8K Vision Selecting the Superior Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-rainbow-six-sieges-server-linkage-hurdles/"><u>Mastering the Fix for Rainbow Six Siege's Server Linkage Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-dying-light-latency-effective-fixes-to-restore-optimal-gameplay/"><u>Overcome Dying Light Latency: Effective Fixes to Restore Optimal Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011814536-overwatch-stuttering-heres-the-fix/"><u>Overwatch Stuttering? Here's the Fix!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-and-simple-adding-youtube-songs-to-imovie-edit/"><u>Quick and Simple Adding Youtube Songs to iMovie Edit</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96489561-9781578594030-real-nightmares-book-2/"><u>Real Nightmares (Book 2) | Free Book</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/reinstalacion-y-recuperacion-de-la-imagen-de-windows-11-en-un-nuevo-disco-duro-con-facilidad-tres-metodos-sencillos/"><u>Reinstalación Y Recuperación De La Imagen De Windows 11 en Un Nuevo Disco Duro Con Facilidad (Tres Métodos Sencillos)</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-playthrough-of-half-life-alyx-solutions-to-eliminate-pc-stuttering-and-lags/"><u>Smooth Playthrough of Half-Life: Alyx - Solutions to Eliminate PC Stuttering & Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-no-match-found-issue-in-warzone-on-your-pc/"><u>Solving the 'No Match Found' Issue in Warzone on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004869417-unlock-dayz-drop-secrets-score-more-weapons-quickly/"><u>Unlock DayZ Drop Secrets: Score More Weapons Quickly!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>Updated 2024 Approved Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Preventing Final Fantasy XIV From Crashing on Desktop Systems
-date: 2024-08-18T15:26:25.094Z
-updated: 2024-08-19T15:26:25.094Z
+date: 2025-01-21T16:47:00.648Z
+updated: 2025-01-24T16:44:03.249Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,17 +37,15 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **1)** Open the Steam client. Then, navigate to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
 **2)** Right-click**World of Warships** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
@@ -68,10 +63,11 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **3)** Click**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
@@ -103,11 +99,12 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -125,16 +122,15 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -148,30 +144,28 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
 
 **1)** Type**control** in the search bar and click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
@@ -195,8 +189,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +196,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-obs-mic-not-working-6-best-solutions-2024/"><u>[FIXED] OBS Mic Not Working | 6 Best Solutions 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>[New] 2024 Approved Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-leading-collage-tools-the-ultimate-list/"><u>[Updated] Android's Leading Collage Tools The Ultimate List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-instantly-recover-lost-reddit-posts/"><u>[Updated] How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-problems-heres-how-to-resolve-them/"><u>Alan Wake 2 Launch Problems? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999278352-battlefront-ii-not-starting-solve-the-crash-issues-on-your-pc/"><u>Battlefront II Not Starting? Solve the Crash Issues on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-on-the-ultimate-tablet-steal-of-the-season-black-friday-to-cyber-monday-save/"><u>Don't Miss Out on the Ultimate Tablet Steal of the Season: Black Friday to Cyber Monday, Save</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-fall-guys-play-on-desktop-troubleshooting-freezing-problems/"><u>Enhance Your 'Fall Guys' Play on Desktop - Troubleshooting Freezing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-installation-problems-a-step-by-step-guide-to-running-tiny-tinas-strikers-of-fate-on-pc-effortlessly/"><u>Fixing Installation Problems: A Step-by-Step Guide to Running Tiny Tina's Strikers of Fate on PC Effortlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2016-file-by-stellar-guide/"><u>Get Rid of corrupt Excel 2016 File</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-personalized-marketing-via-cookiebot-solutions/"><u>Harness the Power of Personalized Marketing via Cookiebot Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-battlefield-2042-from-crashing-on-your-computer-a-guide/"><u>How to Stop Battlefield 2042 From Crashing on Your Computer: A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-team-fortress-2-from-constantly-crashing-troubleshooting-guide/"><u>How to Stop Team Fortress 2 From Constantly Crashing - Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unresolved-problem-viewing-videos-on-sony-a6400/"><u>In 2024, Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-left-4-dead-2-sudden-game-crashes/"><u>Resolved: Fixing Left 4 Dead 2 Sudden Game Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/saving-the-day-with-win1011s-recycle-bin-corruption-fixed/"><u>Saving the Day with Win10/11's Recycle Bin Corruption Fixed!</u></a></li>
+</ul></div>
 

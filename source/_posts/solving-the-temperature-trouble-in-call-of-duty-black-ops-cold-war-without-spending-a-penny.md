@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2025-01-17T05:18:35.641Z
-updated: 2025-01-18T06:06:57.826Z
+date: 2025-01-23T16:14:25.094Z
+updated: 2025-01-24T17:09:38.856Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -74,10 +70,6 @@ You can do it with only 2 steps:
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  When you’re experiencing FPS drops during gameplay, nine times out of ten you’re using a**faulty or outdated graphics driver** . That’s also why we recommend gamers to always keep their graphics driver up to date. Driver updates come with not only bug fixes but improvements of compatibility with new titles.
@@ -89,11 +81,15 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -101,10 +97,6 @@ You can do it with only 2 steps:
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -119,6 +111,10 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
  After updating your system, launch Modern Warfare and check if your FPS has been improved.
@@ -132,7 +128,7 @@ And it’s quite easy to update too:
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
@@ -148,11 +144,15 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -180,22 +180,18 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-complete-guide-to-registering-with-youtube/"><u>[New] 2024 Approved A Complete Guide to Registering with YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-high-end-sound-pumping-tools-pcs-and-smartphones/"><u>[New] 2024 Approved High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-minecraft-recording-on-mac-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Minecraft Recording on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-methods-to-archive-slideshows-for-2024/"><u>[New] Effortless Methods to Archive Slideshows for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-cut-down-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile/"><u>[New] In 2024, Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-mastering-full-screen-in-ppro/"><u>[Updated] Expert Advice for Mastering Full Screen in PPro</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-darkness-correcting-helldivers-2s-black-outage-on-start-up/"><u>Banish the Darkness: Correcting Helldivers 2'S Black Outage on Start Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-fallout-76-performance-top-techniques-to-eliminate-lag/"><u>Boost Your Fallout 76 Performance: Top Techniques to Eliminate Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypass-the-bug-solving-apex-legends-loading-issues-fast/"><u>Bypass the Bug: Solving Apex Legends Loading Issues Fast</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-recurring-shutdowns-in-your-moonlight-user-interface/"><u>How To Stop Recurring Shutdowns in Your Moonlight User Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-fix-for-windows-11-supported/"><u>Nvidia Fix for Windows 11 Supported</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012802785-overcome-your-phasmophobia-game-glitch-fix-the-endless-load-screen-of-90/"><u>Overcome Your Phasmophobia Game Glitch - Fix the Endless Load Screen of 90%</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-re5-startup-difficulties-effective-fixes-for-personal-computers/"><u>Overcoming RE5 Startup Difficulties: Effective Fixes for Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-game-crashes-for-sword-and-fairy-vii-a-comprehensive-guide/"><u>Solved! Overcoming PC Game Crashes for Sword and Fairy VII – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-freezing-issue-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>Solving the 'Freezing' Issue in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-selecting-an-alternative-browser-on-samsung-smart-tv/"><u>Step-by-Step Tutorial: Selecting an Alternative Browser on Samsung Smart TV</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-description-engineer/"><u>Video Description Engineer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-funimate-pro-apk-review-and-how-to-guide/"><u>[New] 2024 Approved Funimate Pro APK Review and How-To Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-essential-guide-for-live-facebook-streams-pcmaclaptop/"><u>[Updated] In 2024, The Essential Guide for Live Facebook Streams (PC/Mac/Laptop)</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-restoring-functionality-to-logitech-configurations-on-windows/"><u>Comprehensive Guide: Restoring Functionality to Logitech Configurations on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-msi-backlight-not-functioning-correctly-in-windows-solutions-and-tips/"><u>Fixing MSI Backlight Not Functioning Correctly in Windows - Solutions and Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-kernelbasedll-fault-a-fast-and-straightforward-guide/"><u>Fixing the KernelBase.dll Fault: A Fast and Straightforward Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-latest-canon-mf4e-series-drivers/"><u>How to Install the Latest Canon MF4e Series Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-mix-melodies-and-text-powerpoints-unleashed-for-2024/"><u>How to Mix Melodies & Text PowerPoints Unleashed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-rectify-outlook-not-connected-problems/"><u>How to Successfully Rectify 'Outlook Not Connected' Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-solutions-for-seamless-start-up-of-the-elder-scrolls-online/"><u>Mastering the Solutions for Seamless Start-Up of The Elder Scrolls Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-when-your-pc-experiences-pacific-drive-crashing/"><u>Step-by-Step Fixes for When Your PC Experiences Pacific Drive Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-helldivers-2-bsod-issue-a-comprehensive-guide/"><u>Troubleshooting the HellDivers 2 BSOD Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-at-freefire-top-strategies-and-hashtags-shared-for-2024/"><u>Winning at FreeFire Top Strategies and Hashtags Shared for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Freeze No More: Essential Tips to Keep Your Game Running Smoothly in 2Einite - PC Fixes of 2024"
-date: 2024-08-18T15:21:20.241Z
-updated: 2024-08-19T15:21:20.241Z
+date: 2025-01-20T16:58:14.337Z
+updated: 2025-01-24T16:46:35.948Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ## Master Five Essential Fixes to Stop World of Warships From Freezing in Windows
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,9 +41,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **1)** Open the Steam client. Then, navigate to the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
 **2)** Right-click**World of Warships** and click**Properties** .
@@ -58,10 +59,11 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -69,9 +71,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics card driver
 
  Graphics card is important in determining the video game performance. If your GPU driver is wrong or outdated, you might get a lot of crashes when playing World of Warships. To solve this, you need to get the right and latest graphics driver safely. Here’re two options for you: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,10 +97,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -123,10 +118,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
@@ -134,8 +125,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 See if the crashing issue goes away. If not, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -146,6 +138,10 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Do the crashes disappear now? If not, continue to the next fix.
 
 ### Fix 5 – Reinstall the game
@@ -154,24 +150,23 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 **1)** Type**control** in the search bar and click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
@@ -194,8 +189,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +196,20 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-mystery-unexpectedly-non-appearing-videos-on-fb/"><u>[Updated] 2024 Approved The Mystery Unexpectedly Non-Appearing Videos on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-color-connoisseur-in-digital-photography/"><u>2024 Approved Become a Color Connoisseur in Digital Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-essential-tips-and-templates-for-impactful-ig-footage/"><u>2024 Approved Essential Tips & Templates for Impactful IG Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-boot-bug-fix-hogwarts-legacy-from-crashing-on-pc-using-our-top-nights-fixes/"><u>Beat the Boot Bug: Fix Hogwarts Legacy From Crashing on PC Using Our Top Nights Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989705790-conquer-lag-troubles-in-fallout-4-with-these-proven-fix-methods/"><u>Conquer Lag Troubles in Fallout 4 with These Proven Fix Methods!</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-frame-rate-reductions-insights-into-fortnites-season-8-performance-tweaks/"><u>Decoding Frame Rate Reductions - Insights Into Fortnite's Season #8 Performance Tweaks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expertly-selected-webcams-and-recording-software-in-win-10/"><u>Expertly Selected Webcams & Recording Software in Win 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-premium-free-online-tools-for-professional-video-tweaks-for-2024/"><u>Explore Premium Free Online Tools for Professional Video Tweaks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-msi-afterburner-not-acknowledging-gpu-in-windows-11-environments/"><u>Fixing the Issue of MSI Afterburner Not Acknowledging GPU in Windows 11 Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-causes-of-phasmophobia-breaks-a-comprehensive-guide/"><u>Overcoming Common Causes of Phasmophobia Breaks: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-black-display-problems/"><u>Troubleshooting and Fixing Black Display Problems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-add-a-sense-of-urgency-3-quick-steps-to-create-a-countdown-in-fcpx-for-2024/"><u>Updated Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warframe-wont-start-troubleshooting-steps-for-successful-launch/"><u>Warframe Won't Start? Troubleshooting Steps for Successful Launch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gunfights: Achieving Higher Frame Rates in COD: Modern Warfare"
-date: 2024-08-18T15:24:42.162Z
-updated: 2024-08-19T15:24:42.162Z
+date: 2025-01-20T16:52:50.172Z
+updated: 2025-01-24T16:24:23.850Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 
 ## Optimizing for Victory: Overcoming Common Performance Drops and Stuttering in GTFO Games
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![GTFO FPS drops on PC](https://images.drivereasy.com/wp-content/uploads/2021/12/GTFO-FPS-drops-on-PC.jpg "GTFO")
 
 GTFO
@@ -44,6 +40,10 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -62,13 +62,14 @@ There are mainly two methods for you to update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -76,8 +77,9 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Set the power plan of your PC for high performance
 
  Windows power plans are designed to manage how your computer consumes and conserves power. You may encouter FPS drops when your computer is using the balanced or power saver plan.
@@ -87,14 +89,8 @@ There are mainly two methods for you to update the graphics driver:
  If you’re experiencing peformance issues like FPS dropping, try modifying the power plan on your PC for Best Performance. Here is how to do it:
 
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
@@ -124,6 +120,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -135,10 +135,11 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -151,29 +152,15 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled background recording and Xbox Game Bar, and you’re suffering from in-game FPS drops, try disabling them:
 
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch GTFO to see you can play it smoothly.
 
@@ -191,8 +178,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +185,26 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-making-impeccable-square-videos-in-imovie-for-instagram/"><u>[New] In 2024, Making Impeccable Square Videos in iMovie for Instagram</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-snappy-satire-iphone-memes/"><u>[New] In 2024, Snappy Satire IPhone Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-editors-secret-smooth-transitions-in-premiere-pro/"><u>[New] The Editor's Secret Smooth Transitions in Premiere Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bridging-mac-and-monetization-imovie-editing-to-youtube-success/"><u>[Updated] 2024 Approved Bridging Mac & Monetization IMovie Editing to YouTube Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-which-apple-m1-machine-suits-your-lifestyle-more/"><u>[Updated] 2024 Approved Which Apple M1 Machine Suits Your Lifestyle More?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-10-android-mobas-essential-players-list/"><u>[Updated] In 2024, Top 10 Android MOBAs Essential Players' List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-optimal-performance-with-these-key-tricks-for-2024/"><u>[Updated] Unlock Optimal Performance with These Key Tricks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-technical-glitches-in-fifa-22-expert-solutions-to-avoid-pc-game-failures/"><u>Banish Technical Glitches in FIFA 22: Expert Solutions to Avoid PC Game Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-ready-pc-for-world-of-warships-five-simple-fixes-to-stop-crashing-scenarios/"><u>Battle-Ready PC for World of Warships: Five Simple Fixes to Stop Crashing Scenarios</u></a></li>
+<li><a href="https://win-able.techidaily.com/behind-the-delays-unveiling-the-truth-about-guilty-gear-strives-release-status/"><u>Behind the Delays: Unveiling the Truth About Guilty Gear Strive's Release Status</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-fortnite-log-in-errors-with-these-swift-steps-now-playing/"><u>Bypass Fortnite Log-In Errors with These Swift Steps - Now Playing!</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-your-complete-solution-to-eliminate-apexs-error-23-issue/"><u>Cracking the Code: Your Complete Solution to Eliminate Apex's Error 23 Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-atomic-heart-issues-during-system-initialization/"><u>How to Overcome 'Atomic Heart' Issues During System Initialization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersion-in-hue-and-light-dreamcolors-z32-x-explored/"><u>Immersion in Hue and Light DreamColor's Z32 X Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-carryminatis-channel-economics-ajey/"><u>In 2024, Unveiling CarryMinati's Channel Economics (Ajey)</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-mapleworld-advanced-techniques-to-fix-game-crashes-in-windows-11-insights/"><u>Mastering MapleWorld: Advanced Techniques to Fix Game Crashes in Windows 11 - Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974180859-sandisk-ssd-owners-rejoice-how-to-securely-download-the-right-drivers-now/"><u>SanDisk SSD Owners Rejoice! How To Securely Download The Right Drivers Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-failures-in-world-of-tanks-blitz-gameplay/"><u>Troubleshooting Steps for Persistent Failures in World of Tanks Blitz Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-v-rising-crashes-effective-fixes-for-a-smooth-gaming-experience/"><u>Troubleshooting V Rising Crashes: Effective Fixes for a Smooth Gaming Experience</u></a></li>
+</ul></div>
 

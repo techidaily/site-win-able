@@ -1,7 +1,7 @@
 ---
 title: Enable and Master Hyper-V on Windows 11 – An In-Depth Guide
-date: 2025-01-15T17:29:10.581Z
-updated: 2025-01-17T23:43:55.615Z
+date: 2025-01-23T17:02:04.624Z
+updated: 2025-01-24T16:21:40.402Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
  Before you try out the following solutions, make sure you’ve tried to restart your PC and Roblox to see if your problem is just a one-time random error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Turn up the volume for Roblox
 
  Sometimes your PC is unmuted but the volume of a certain app is turned down. You can check the audio for Roblox to see if it’s enabled and adjust the volume:
@@ -56,9 +52,17 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_16-20-43.jpg)
 2. Scroll to find Roblox. Make sure**the audio is unmuted** and you can**bring up the volume** to 100 by default.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-volume-mixer.png)
 
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Check Roblox settings
 
@@ -69,13 +73,17 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-34-14.jpg)
 3. Switch to the**Settings** tab. Make sure your audio is not muted and the**Volume** is not too low.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-35-15.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-35-15.jpg)
+
  If you have turned up the in-game volume but still hear no sound, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your output device
 
@@ -84,6 +92,10 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 1. Right-click the**little speaker icon** on the far right side of your taskbar, then click**Open Sound Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-settings.png)
 2. Under**Output** , make sure you choose your speaker or the device you wish to use. You can double-check by clicking**App volume and device preferences** and setting the output device and volume for Roblox.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
@@ -105,16 +117,16 @@ If the problem persists, move on to the next solution.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-24-02.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-23-23.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Run Roblox to see if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Configure the audio channel of your speaker
 
@@ -125,12 +137,12 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
@@ -138,7 +150,7 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If configuring the audio channel on your PC doesn’t bring the sound back in Roblox, try the next fix.
@@ -152,19 +164,11 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Troubleshooting** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-26-18.jpg)
 4. Click**Troubleshoot audio playback** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
 6. Wait for it to detect problems. This usually takes only a few seconds.  
@@ -172,12 +176,12 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
 9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
@@ -186,10 +190,6 @@ If the problem persists, move on to the next solution.
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem persists, try the last fix.
 
@@ -213,7 +213,7 @@ If the problem persists, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-33-24.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can log on to your account and play a game to see if the sound is back.
@@ -241,15 +241,14 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eamless-video-capture-and-save-with-top-apps-list-for-2024/"><u>[New] Seamless Video Capture & Save with Top Apps List for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-achieving-asmr-bliss-selecting-the-right-mic-for-2024/"><u>[Updated] Achieving ASMR Bliss Selecting the Right Mic for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-magic-in-microphones-iphoneipad-tactics-for-superior-recordings/"><u>[Updated] Capturing Magic in Microphones IPhone/iPad Tactics for Superior Recordings</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-cameo-review-for-2024/"><u>[Updated] Vimeo Cameo Review for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-assessment-unveiling-the-strengths-and-weaknesses-of-pioneer-bdr-xd05b-blu-ray-burner-design/"><u>Critical Assessment: Unveiling the Strengths & Weaknesses of Pioneer BDR-XD05B Blu-Ray Burner Design</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-prevent-and-repair-pc-crashes-while-playing-minecraft-dungeons/"><u>Easy Steps to Prevent and Repair PC Crashes While Playing Minecraft Dungeons</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011121972-quick-tricks-to-prevent-and-repair-league-of-legends-crashes-easily/"><u>Quick Tricks to Prevent and Repair League of Legends Crashes Easily!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-intel-pc-drivers-and-assistance-tools-that-wont-start-up-correctly/"><u>Troubleshooting Intel PC Drivers and Assistance Tools That Won’t Start Up Correctly</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-lost-arks-frame-rate-issues-a-comprehensive-guide/"><u>Troubleshooting Lost Ark's Frame Rate Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/urgent-microsoft-faces-major-challenges-with-windows-10-just-one-year-away-from-deadline-exclusive-insight/"><u>Urgent: Microsoft Faces Major Challenges with Windows 10 Just One Year Away From Deadline [Exclusive Insight]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-creating-compelling-content-with-personalized-video-setups/"><u>[Updated] In 2024, Creating Compelling Content with Personalized Video Setups</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u-for-2024/"><u>[Updated] SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-latency-effective-fixes-for-a-smoother-dota-2-experience/"><u>Beat the Latency: Effective Fixes for a Smoother Dota 2 Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-portrait-retouching-conceal-dont-deceive/"><u>In 2024, Perfect Portrait Retouching Conceal, Don't Deceive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/newest-fixes-for-the-latest-phasmophobia-issues-release/"><u>Newest Fixes for the Latest Phasmophobia Issues Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-issues-resolved-fixes-for-pc-players/"><u>Rainbow Six Extraction Issues Resolved: Fixes for PC Players</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sculpted-sound-diminishment-for-impact-for-2024/"><u>Sculpted Sound Diminishment for Impact for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-cycle-of-existence-the-black-continuums-resilience/"><u>Unraveling the Cycle of Existence: The Black Continuum's Resilience</u></a></li>
 </ul></div>
 

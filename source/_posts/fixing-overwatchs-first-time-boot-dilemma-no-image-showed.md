@@ -1,7 +1,7 @@
 ---
 title: Fixing Overwatch's First-Time Boot Dilemma – No Image Showed
-date: 2025-01-13T16:58:44.507Z
-updated: 2025-01-17T19:44:10.411Z
+date: 2025-01-17T16:51:33.393Z
+updated: 2025-01-24T16:28:35.885Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,16 +50,24 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and test the gameplay in Warzone.
 
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -78,12 +82,12 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -101,12 +105,12 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
@@ -120,10 +124,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
@@ -139,10 +139,14 @@ Once done, restart your PC and see if Warzone is using your GPU.
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -152,10 +156,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,17 +176,24 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-pcmobile-mkv-viewer/"><u>[Updated] 2024 Approved Ultimate PC/Mobile MKV Viewer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[Updated] In 2024, Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-remobell-security-system-ultra-value-doorbell-review/"><u>Affordable RemoBell Security System: Ultra-Value Doorbell Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-launch-errors-for-hitman-3-game-on-desktop-systems/"><u>Beating Launch Errors for Hitman 3 Game on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-strategies-to-resolve-lost-arks-network-access-problem/"><u>Comprehensive Strategies to Resolve Lost Ark’s Network Access Problem</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-10-most-watched-music-videos-on-fb/"><u>In 2024, Top 10 Most Watched Music Videos on FB</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/integrating-ai-in-video-production-game-streaming-edition/"><u>Integrating AI in Video Production Game Streaming Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-high-quality-android-screen-recording-solutions/"><u>Top 5 High-Quality Android Screen Recording Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-for-unfreezing-your-computer-during-fortnite-play-latest-tips/"><u>Top Strategies for Unfreezing Your Computer During Fortnite Play (Latest Tips)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-call-of-duty-modern-warfare-2-a-comprehensive-walkthrough/"><u>Troubleshooting DirectX Problems in Call of Duty: Modern Warfare 2 – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-star-wars-jedi-fallen-order-issues-with-game-starting-up/"><u>Troubleshooting Tips: Star Wars Jedi: Fallen Order - Issues with Game Starting Up</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-12-free-animation-apps-for-windows-and-mac/"><u>Updated In 2024, Unleash Your Creativity 12 Free Animation Apps for Windows and Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-ventures-newcomers-to-the-panzoid-world/"><u>[New] Vanguard Ventures Newcomers to the Panzoid World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>2024 Approved Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-directdraw-errors-heres-how-you-can-successfully-fix-them/"><u>Dealing with DirectDraw Errors? Here's How You Can Successfully Fix Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-sound-performance-for-a-better-gaming-experience-in-halo-infinite/"><u>Enhancing Sound Performance for a Better Gaming Experience in Halo Infinite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hideous-heroes-black-vs-gleaming-guardians-silver-for-2024/"><u>Hideous Heroes (Black) VS Gleaming Guardians (Silver) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013132497-how-to-fix-unresponsive-utorrent-in-just-7-simple-steps-pro-tips-inside/"><u>How to Fix Unresponsive uTorrent in Just 7 Simple Steps - Pro Tips Inside!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exploring-the-gopro-hero5-sessions/"><u>In 2024, Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-windows-drawing-powerhouses-exploring-free-and-fees/"><u>In 2024, Windows Drawing Powerhouses Exploring FREE & Fees</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-solving-darkest-dungeon-2-pc-game-crashes/"><u>Overcoming Stability Issues: Solving Darkest Dungeon 2 PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-disruptions-fix-your-age-of-empires-4-pc-crashes-now/"><u>Say Goodbye to Game Disruptions – Fix Your Age of Empires 4 PC Crashes Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-for-persistent-crashes-in-call-of-duty-modern-warfare-3-mw3-on-pc/"><u>Simple Solutions for Persistent Crashes in Call of Duty: Modern Warfare 3 (MW3) on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-sons-of-the-forest-pc-game-crash-issues-step-by-step-solutions/"><u>Solving 'Sons of the Forest' PC Game Crash Issues - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008406611-unlocking-new-adventures-celebrate-the-arrival-of-it-takes-two-on-screen/"><u>Unlocking New Adventures: Celebrate the Arrival of 'It Takes Two' On Screen!</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-yakuza-like-a-dragon-a-comprehensive-guide-for-new-and-seasoned-players-on-pc/"><u>Unveiling 'Yakuza: Like a Dragon' – A Comprehensive Guide for New and Seasoned Players on PC</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-11-best-free-audio-editors-for-windows-and-mac-totally-free-for-2024/"><u>Updated 11 Best Free Audio Editors for Windows and Mac (Totally Free) for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-wax-free-video-editor-in/"><u>Updated 2024 Approved From Novice to Pro Mastering Wax Free Video Editor In</u></a></li>
+<li><a href="https://techtrends.techidaily.com/version-52-of-mozilla-thunderbird-released-explore-the-enhanced-email-client-today/"><u>Version 52 of Mozilla Thunderbird Released: Explore the Enhanced Email Client Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-performance-tuned-bid-farewell-to-frustrating-game-freezes/"><u>Warframe Performance Tuned - Bid Farewell to Frustrating Game Freezes</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728509053855-windows-11/"><u>Windows 11資料夾在線/不在線切換技巧 - 如何有效利用</u></a></li>
 </ul></div>
 

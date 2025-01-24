@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Call of Duty: Black Ops 4 - Fixes for Laggy Gameplay & Lowered Frames per Second"
-date: 2024-08-18T15:26:20.174Z
-updated: 2024-08-19T15:26:20.174Z
+date: 2025-01-19T16:33:36.504Z
+updated: 2025-01-24T16:19:58.180Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/ae200a2185b5d6e93408c97ace7b66b8254fa8676
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +32,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -41,8 +46,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -53,8 +59,9 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -85,26 +92,21 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
 4. Download the game from where you purchased it.
@@ -121,8 +123,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-headsets-ultimate-vr-gear-guide/"><u>[New] Beyond Headsets Ultimate VR Gear Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-illustrate-instantly-image-to-illustration-on-any-device/"><u>[New] Illustrate Instantly Image to Illustration on Any Device</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[Updated] From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-game-capture-made-easy-with-5-methods-on-windows-11/"><u>[Updated] Game Capture Made Easy with 5 Methods on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-choice-the-premier-portable-dvd-picks-for-2024/"><u>[Updated] Superior Choice The Premier Portable DVD Picks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-premiere-practices-implementing-inout-effects/"><u>2024 Approved Professional Premiere Practices Implementing In/Out Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006420059-age-of-empires-4-startup-troubles-heres-how-you-can-resolve-them/"><u>Age of Empires 4 Startup Troubles? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990797887-epic-games-launcher-wont-load-swift-and-simple-repair-methods/"><u>Epic Games Launcher Won't Load? Swift & Simple Repair Methods!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-load-screen-in-fortnite-a-comprehensive-guide/"><u>Fixing the Unresponsive Load Screen in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/granblue-fantasy-launch-problems-how-to-fix-the-relink-feature-that-wont-start/"><u>Granblue Fantasy Launch Problems: How to Fix the 'Relink' Feature That Won’t Start?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-z270-gaming-pro-carbon-access-high-end-motherboard-and-professional-graphic-drivers-now/"><u>Intel Z270 Gaming Pro Carbon: Access High-End Motherboard and Professional Graphic Drivers Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-repair-techniques-for-a-smoothly-running-ps4-the-complete-tutorial/"><u>No More Interruptions: Repair Techniques for a Smoothly Running PS4 – The Complete Tutorial</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oculus-quest-embraces-worldwide-linguistics-via-mondly/"><u>Oculus Quest Embraces Worldwide Linguistics via 'Mondly'</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-loading-screen-issues-in-call-of-duty-cold-war-solutions-for-playstation-and-xbox-owners/"><u>Overcoming Loading Screen Issues in Call of Duty: Cold War - Solutions for PlayStation & Xbox Owners</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-minecraft-crash-with-exit-code-0-comprehensive-troubleshooting-guide/"><u>Resolve Minecraft Crash with Exit Code 0: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revealing-the-12-paths-fixing-non-appearing-fb-video-posts-now/"><u>Revealing The 12 Paths Fixing Non-Appearing FB Video Posts, Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-out-your-fortnite-gameplay-tips-for-eliminating-pc-stutters-and-lags/"><u>Smooth Out Your Fortnite Gameplay: Tips for Eliminating PC Stutters and Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-resolving-the-dark-hole-in-call-of-duty-warzone-expert-advice-for-2er4-players/"><u>Step-by-Step Solutions: Resolving the Dark Hole in Call of Duty Warzone – Expert Advice for 2Er4 Players</u></a></li>
+</ul></div>
 

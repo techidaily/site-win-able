@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Minecraft Performance Issues on Your PC"
-date: 2025-01-11T00:18:58.390Z
-updated: 2025-01-17T23:12:56.017Z
+date: 2025-01-19T16:15:10.448Z
+updated: 2025-01-24T17:02:27.837Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -69,11 +65,11 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -107,10 +103,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
@@ -135,11 +127,11 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -155,8 +147,16 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
@@ -176,7 +176,7 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
@@ -193,12 +193,12 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
@@ -206,7 +206,7 @@ If your game still crashes, try the next fix.
 If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
@@ -221,10 +221,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
@@ -232,8 +228,16 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -242,6 +246,10 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -260,16 +268,8 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Known issues on Sonic studio virtual mixer driver
 
@@ -299,22 +299,21 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-free-design-resources-in-after-effects-land/"><u>[New] Best Free Design Resources in After Effects Land</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-innovating-your-teaching-with-interactive-screencasts/"><u>[New] In 2024, Innovating Your Teaching with Interactive Screencasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultrawide-vs-uhd-4k-monitors-the-experts-advice-for-2024/"><u>[New] UltraWide VS UHD 4K Monitors The Expert's Advice for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-picture-perfect-on-the-move-quick-color-correction/"><u>2024 Approved Picture Perfect on the Move Quick Color Correction</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>2024 Approved Revenue Breakdown A Deep Dive Into Podcast Finances</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-bugs-a-guide-to-smooth-sounds-in-starfield-gaming/"><u>Defeating the Bugs: A Guide to Smooth Sounds in Starfield Gaming</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-long-does-a-20mb-video-last-in-2024/"><u>How Long Does a 20MB Video Last, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-streaming-speeds-on-steam-with-these-simple-solutions/"><u>Improve Streaming Speeds on Steam with These Simple Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/inside-look-the-reason-behind-elden-rings-missing-launch-date/"><u>Inside Look: The Reason Behind Elden Ring's Missing Launch Date</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-tips-preventing-and-repairing-warzone-20s-steady-stream-of-pc-breakdowns/"><u>Master Tips: Preventing and Repairing Warzone 2.0'S Steady Stream of PC Breakdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-multi-personal-adventures-in-elden-ring-overcoming-connection-problems/"><u>Mastering Multi-Personal Adventures in Elden Ring: Overcoming Connection Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-xbox-one-screen-captures-in-minutes/"><u>Mastering the Art of Xbox One Screen Captures in Minutes</u></a></li>
-<li><a href="https://win-able.techidaily.com/oxygen-not-included-stability-improvements-addressing-the-crash-problems/"><u>Oxygen Not Included Stability Improvements: Addressing the Crash Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-blue-screen-of-death-in-helldivers-2-easy-steps-for-gamers/"><u>Solving the Blue Screen of Death in HellDivers 2 - Easy Steps for Gamers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework-for-2024/"><u>Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-dev-error-6034-on-pc-and-xbox-modern-warfare-troubleshooting/"><u>Ultimate Guide: Resolving Dev Error 6034 on PC & Xbox - Modern Warfare Troubleshooting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-perfecting-npc-details-with-zoom-in-on-roblox-for-2024/"><u>[New] Perfecting NPC Details with Zoom In on Roblox for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-method-to-alter-iphone-resolution/"><u>[New] Streamlined Method to Alter iPhone Resolution</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/atch-without-limits-15plus-free-apps-to-save-your-favorite-content-for-2024/"><u>[New] Watch Without Limits 15+ Free Apps to Save Your Favorite Content for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-invisible-interviewers-guide-stealthy-ios-and-android-tools/"><u>[Updated] In 2024, Invisible Interviewer's Guide Stealthy iOS & Android Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>[Updated] Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-play-your-srt-files-easily-winmac-tips/"><u>[Updated] Play Your SRT Files Easily Win/Mac Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-players-how-to-fix-robocop-legacy-overcoming-pc-performance-glitches-in-rogue-city/"><u>Expert Advice for Players: How to Fix Robocop: Legacy - Overcoming PC Performance Glitches in Rogue City</u></a></li>
+<li><a href="https://win-able.techidaily.com/goodbye-flashes-solve-the-persistent-screen-shimmering-dilemma-today/"><u>Goodbye Flashes! Solve the Persistent Screen Shimmering Dilemma Today!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-process-to-set-trending-tiktok-beats-as-your-cellphone-alarm/"><u>In 2024, Step-by-Step Process to Set Trending TikTok Beats as Your Cellphone Alarm</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008091429-ls-0013-launch-bug-in-fortnite-solved/"><u>LS-0013 Launch Bug in Fortnite: Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-cannot-reach-live-configuration-servers-expert-tips-and-strategies/"><u>Overcoming 'Cannot Reach Live Configuration Servers': Expert Tips and Strategies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-guide-halting-repeated-print-job-errors-windows/"><u>Quick Guide: Halting Repeated Print Job Errors (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-graphics-glitch-fixes-for-errgfxstate-issue/"><u>Red Dead Redemption 2 Graphics Glitch - Fixes for ERR_GFX_STATE Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990711114-twitch-no-audio-problem-heres-the-ultimate-fix-that-works/"><u>Twitch No Audio Problem? Here's the Ultimate Fix That Works</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fixes-how-to-play-the-fifa-2018-world-rally-game-without-issues-on-your-computer/"><u>WRC 10 Fixes: How to Play the FIFA 2018 World Rally Game Without Issues on Your Computer</u></a></li>
 </ul></div>
 

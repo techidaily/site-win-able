@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2025-01-11T20:04:12.675Z
-updated: 2025-01-18T06:46:05.837Z
+date: 2025-01-20T17:08:32.894Z
+updated: 2025-01-24T16:18:44.931Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -90,6 +86,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
@@ -103,10 +103,6 @@ Now launch Metro Exodus and see if the crashing issue has been resolved.
 If your problem still persists, don’t worry. There is another try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Switch to DX11 in your game settings
 
@@ -136,24 +132,28 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
@@ -193,24 +193,24 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamlining-minecraft-by-boosting-ram-capacity/"><u>[Updated] 2024 Approved Streamlining Minecraft by Boosting RAM Capacity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-great-income-clash-dailymovement-vs-youtube-economic-strategies/"><u>[Updated] 2024 Approved The Great Income Clash DailyMovement Vs YouTube Economic Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-achieve-stunning-visual-impact-top-color-grading-tutorials/"><u>[Updated] Achieve Stunning Visual Impact - Top Color Grading Tutorials</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-converting-graphics-to-iconic-messages-a-complete-tutorial-for-chat-apps/"><u>[Updated] Converting Graphics to Iconic Messages A Complete Tutorial for Chat Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-conquer-massive-content-views-on-youtube-efficiently/"><u>[Updated] In 2024, Conquer Massive Content Views on YouTube Efficiently</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-viewer-numbers-with-the-top-12-effective-tactics/"><u>[Updated] Skyrocket Viewer Numbers with the Top 12 Effective Tactics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>2024 Approved Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024s-best-camera-reviews-your-go-to-list/"><u>2024'S Best Camera Reviews Your Go-To List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-elite-authentication-keys-comprehensive-expert-analysis-and-rankings-securetech-digest/"><u>2024'S Elite Authentication Keys: Comprehensive Expert Analysis and Rankings | SecureTech Digest</u></a></li>
-<li><a href="https://win-able.techidaily.com/baldurs-gate-troubles-no-more-discover-6-fixes-for-smooth-gameplay/"><u>Baldur's Gate Troubles No More! Discover 6 Fixes for Smooth Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999539113-bluestacks-stability-boosted-in-just-5-quick-and-easy-steps/"><u>BlueStacks Stability Boosted in Just 5 Quick and Easy Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/experiencing-cyberpunk-2077-lag-heres-how-to-defrost-and-enjoy-smoothly/"><u>Experiencing Cyberpunk 2077 Lag? Here's How to Defrost and Enjoy Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-starcraft-ii-from-crashing-on-your-computer/"><u>Fixes & Solutions: How to Stop Starcraft II From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-madden-nfl-20-for-pc-stability-problems-solutions-inside/"><u>How to Resolve Madden NFL 20 for PC Stability Problems - Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-ping-optimization-effective-strategies-for-minimizing-bless-unleashed-lags-on-your-computer/"><u>Mastering Ping Optimization: Effective Strategies for Minimizing Bless Unleashed Lags on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-game-lag-how-to-prevent-ready-or-not-from-crashing-on-different-operating-systems/"><u>Overcoming Game Lag: How to Prevent 'Ready Or Not' From Crashing on Different Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-to-eliminate-cs-go-latency-problems/"><u>Simple Steps to Eliminate CS: GO Latency Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-13c-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi 13C 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-dev-error-6634-in-cod-warzone-a-comprehensive-2022-guide/"><u>Troubleshooting Tips: Fixing Dev Error 6634 in COD Warzone - A Comprehensive 2022 Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-is-asmr-good-for-you-learn-the-benefits-here/"><u>[New] 2024 Approved Is ASMR Good for You? Learn the Benefits Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-marketing-with-top-rated-video-tags-generators/"><u>[New] In 2024, Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-viewing-vr-films-and-games-on-ios/"><u>[New] Step-by-Step Guide to Viewing VR Films & Games on IOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>[New] Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994326110-battlefront-ii-freezes-on-pc-heres-what-you-need-to-know/"><u>Battlefront II Freezes on PC? Here's What You Need to Know</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/"><u>Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-no-sweat-tricks-for-seamless-gameplay-on-genshin-impact/"><u>Five No-Sweat Tricks for Seamless Gameplay on Genshin Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-black-screen-issues-in-hitman-3-comprehensive-pc-troubleshooting-guide/"><u>Fixing 'Black Screen' Issues in Hitman 3: Comprehensive PC Troubleshooting Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-discerning-true-value-from-recordcasts-promises/"><u>In 2024, Discerning True Value From RecordCast’s Promises</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v27-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V27 Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-path-of-exile-strategies-and-solutions-for-connection-errors/"><u>Mastering Path of Exile : Strategies and Solutions for Connection Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-downtime-effective-fixes-for-stability-issues-in-diablo-iv-pc-ps5-and-xbox/"><u>No More Downtime: Effective Fixes for Stability Issues in Diablo IV (PC, PS5, & Xbox)</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-hurdle-unraveling-the-mystery-behind-robocop-rogue-city-startup-issues/"><u>PC Gaming Hurdle: Unraveling the Mystery Behind RoboCop: Rogue City Startup Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-in-online-income-the-revelation-of-500plus-subscribers-power-for-2024/"><u>Surge in Online Income The Revelation of 500+ Subscribers' Power for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-stop-back-4-blood-from-freezing-and-crashing-on-windows/"><u>Troubleshooting Steps - Stop 'Back 4 Blood' From Freezing and Crashing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-why-is-my-thaumaturge-app-not-starting-on-windows/"><u>Troubleshooting Steps: Why Is My Thaumaturge App Not Starting on Windows?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unseen-video-on-sony-a6400-whats-going-wrong-for-2024/"><u>Unseen Video on Sony A6400 What's Going Wrong for 2024</u></a></li>
 </ul></div>
 

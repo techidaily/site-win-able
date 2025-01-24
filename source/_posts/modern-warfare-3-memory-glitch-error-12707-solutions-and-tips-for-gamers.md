@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 3 Memory Glitch (Error 12707) – Solutions & Tips for Gamers
-date: 2024-08-18T15:26:30.333Z
-updated: 2024-08-19T15:26:30.333Z
+date: 2025-01-23T16:52:13.163Z
+updated: 2025-01-24T16:32:06.595Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes to try
 
  You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
@@ -53,14 +54,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -68,6 +68,10 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -81,17 +85,15 @@ To do so, first visit the website of your GPU manufacturer:
    * **Launcher.exe (Modern Warfare)**
 2. Launch your**Battle.net** client.
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -107,8 +109,9 @@ To do so, first visit the website of your GPU manufacturer:
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Warzone
 
  If none of the fixes above can solve your issue, you still have a nuclear solution to**reinstall your game** . According to some gamers, it appears to be a potential fix for the Dev Error 6034 issue.
@@ -125,8 +128,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +135,19 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-ranked-desktop-pcs-for-gamers/"><u>[Updated] 2024 Approved Top-Ranked Desktop PCs for Gamers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-stability-top-photo-tripods-for-iphones-and-androids/"><u>[Updated] In 2024, Ultimate Stability Top Photo Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a14-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-your-game-space-a-fix-for-when-fortnite-runs-out-of-video-memory/"><u>Clearing Up Your Game Space – A Fix for When Fortnite Runs Out of Video Memory</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-moonlight-software-crashes-on-your-computer-system/"><u>Effective Solutions to Prevent Moonlight Software Crashes on Your Computer System</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-roblox-overcome-the-endless-loading-loop/"><u>Fixing Roblox: Overcome the Endless Loading Loop</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022s-launch-issues-a-comprehensive-fix-guide/"><u>Football Manager 2022'S Launch Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-harnessing-the-potential-of-quantum-hdr-imaging/"><u>In 2024, Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-visionary-views-top-tweets-bypassing-the-screen/"><u>In 2024, Visionary Views Top Tweets Bypassing the Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-v27-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V27 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Hot 40i | Dr.fone</u></a></li>
+</ul></div>
 

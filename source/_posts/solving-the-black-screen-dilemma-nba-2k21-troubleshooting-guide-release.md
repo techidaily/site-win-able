@@ -1,7 +1,7 @@
 ---
 title: "Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release"
-date: 2025-01-11T17:28:42.525Z
-updated: 2025-01-17T17:19:44.946Z
+date: 2025-01-22T16:21:43.783Z
+updated: 2025-01-24T17:02:46.719Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before you start
@@ -50,10 +50,6 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -77,9 +73,17 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
 If the issue remains, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -112,6 +116,10 @@ If the issue persists, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
  If your system is up to date and you still get a black screen, move on to the next fix.
@@ -124,25 +132,25 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**OK** .
 
  If you’re also running any third-party antivirus program, you should temporarily disable it before launching the game.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -155,32 +163,28 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
 
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
 
@@ -190,10 +194,6 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
 
@@ -221,24 +221,14 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-agriculture-adventures-the-ultimate-farmers-game-guide/"><u>[New] In 2024, Agriculture Adventures The Ultimate Farmer's Game Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-designing-logos-that-stand-out-for-podcast-marketing/"><u>[New] In 2024, Designing Logos That Stand Out for Podcast Marketing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-screen-archive-aggregators-for-2024/"><u>[New] Live Screen Archive Aggregators for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphones-ultimate-podcast-downloading-manual/"><u>[Updated] IPhone's Ultimate Podcast Downloading Manual</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-startup-problems-in-hogwarts-legacy-8-effective-fixes-to-try-now/"><u>Beat Startup Problems in Hogwarts Legacy - 8 Effective Fixes to Try Now!</u></a></li>
-<li><a href="https://solve-help.techidaily.com/come-aggiungere-i-sottotitoli-ai-video-in-formato-mp4/"><u>Come Aggiungere I Sottotitoli Ai Video in Formato MP4</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-mozillas-freezing-problems-your-go-to-fixes-for-a-seamless-experience/"><u>Eliminate Mozilla's Freezing Problems: Your Go-To Fixes for a Seamless Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999153632-enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-sea-of-thieves-initialization-hitches/"><u>Expert Tips on Resolving Sea of Thieves Initialization Hitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-unfixable-overcoming-baldurs-gate-3-launch-problems/"><u>Fixing the Unfixable? Overcoming Baldur's Gate 3 Launch Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-unveiling-the-first-person-shooter-experience-for-pc-gamers/"><u>God of War: Unveiling the First-Person Shooter Experience for PC Gamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-proven-techniques-to-convert-and-download-pinterest-video-audio/"><u>In 2024, Proven Techniques to Convert and Download Pinterest Video Audio</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007371581-league-of-legends-fps-drop-mystery-explained-find-out-how-often-youll-get-your-item/"><u>League of Legends FPS Drop Mystery Explained - Find Out How Often You'll Get Your Item</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-on-charge-hold-alerts-on-your-iphone-discover-8-effective-fixes/"><u>Overcoming 'On Charge Hold Alerts' On Your iPhone - Discover 8 Effective Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-persistent-game-crashes-in-the-witcher-3-on-pc/"><u>Resolved: How to Fix Persistent Game Crashes in The Witcher 3 on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-steps-setting-up-your-wireless-printer-without-hassle/"><u>Simple Steps: Setting Up Your Wireless Printer Without Hassle</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-r-type-final-grogsyndicationerror)r-type-final-2-from-crashing-on-your-computer/"><u>Troubleshooting Steps to Prevent R-Type Final Grog/Syndication_error>R-Type Final 2 From Crashing on Your Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unifying-visual-experience-in-iphone-recording/"><u>Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals-for-2024/"><u>[New] The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-optimizing-your-youtube-video-preservation/"><u>[Updated] In 2024, Optimizing Your YouTube Video Preservation</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-beyond-light-now-running-smoothly-on-your-pc-say-goodbye-to-troublesome-crashes/"><u>Destiny 2 Beyond Light Now Running Smoothly on Your PC - Say Goodbye to Troublesome Crashes</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/die-grunde-fur-die-fehlgeschlagene-installation-von-aktualisierungen-bei-einem-ausgeschalteten-pc/"><u>Die Gründe Für Die Fehlgeschlagene Installation Von Aktualisierungen Bei Einem Ausgeschalteten PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-errors-restore-functionality-of-logitech-g-hub-on-windows-computers/"><u>Overcoming Connectivity Errors: Restore Functionality of Logitech G Hub on Windows Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-lava-blaze-2-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Lava Blaze 2 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-team-fortress-2-keeps-crashing/"><u>Solved: Team Fortress 2 Keeps Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002039781-tackling-call-of-duty-vanguards-dev-error-5573-a-step-by-step-guide-to-success/"><u>Tackling Call of Duty Vanguard's Dev Error 5573 - A Step by Step Guide to Success</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Lava Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

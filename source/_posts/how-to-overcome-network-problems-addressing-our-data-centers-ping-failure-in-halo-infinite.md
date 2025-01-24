@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Network Problems - Addressing Our Data Centers Ping Failure in Halo Infinite
-date: 2024-08-18T15:26:15.840Z
-updated: 2024-08-19T15:26:15.840Z
+date: 2025-01-18T16:45:59.838Z
+updated: 2025-01-24T16:49:24.812Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -27,6 +24,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -56,15 +57,16 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,9 +81,6 @@ There are mainly two ways you can update the graphics driver:
 
 2) Click**SETTINGS** .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
@@ -90,12 +89,17 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -105,9 +109,6 @@ There are mainly two ways you can update the graphics driver:
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -116,12 +117,13 @@ If it’s not working, move to the next fix.
 
  2) In the**Process** tab, click the app and click**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -139,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,19 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-complete-overview-screenflow-v4-for-macos/"><u>[New] 2024 Approved Complete Overview ScreenFlow v4 for macOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-from-novice-to-expert-a-guide-for-effective-single-stream-livestreams/"><u>[Updated] 2024 Approved From Novice to Expert A Guide for Effective Single-Stream Livestreams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-keep-your-creativity-alive-with-insta-content-sharing/"><u>[Updated] 2024 Approved Keep Your Creativity Alive with Insta Content Sharing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-10-best-free-photo-collage-apps-to-combine-photos-on-iphone/"><u>2024 Approved 10 Best FREE Photo Collage Apps to Combine Photos on iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-nioh-2-from-freezing-and-crashing/"><u>Effective Solutions to Stop Nioh 2 From Freezing and Crashing</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012634665-how-to-stop-serious-sam-4-from-freezing-or-hiccupping-on-your-computer-top-tips/"><u>How to Stop Serious Sam 4 From Freezing or Hiccupping on Your Computer – Top Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>In 2024, Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-strategies-to-eliminate-stutter-in-your-fallout-76-session/"><u>Overcoming Performance Hiccups: Strategies to Eliminate Stutter in Your Fallout 76 Session</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-steelseries-gg-engine-issues-on-windows-pcs/"><u>Troubleshooting & Fixes: SteelSeries GG Engine Issues on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-issues-in-fortnite-a-comprehensive-guide/"><u>Troubleshooting Lag Issues in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-overcoming-stability-problems-in-jurassic-world-evolution-gameplay/"><u>Ultimate Solution for Overcoming Stability Problems in Jurassic World Evolution Gameplay</u></a></li>
+</ul></div>
 

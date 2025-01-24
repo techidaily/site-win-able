@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends 2022: Resolving the 'Leaf' Error Code Issue"
-date: 2025-01-17T00:30:46.831Z
-updated: 2025-01-17T16:34:08.528Z
+date: 2025-01-19T16:05:32.129Z
+updated: 2025-01-24T16:14:04.177Z
 tags:
   - win11
   - win10
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -69,15 +69,19 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -104,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -114,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -157,24 +157,20 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximize-your-impact-top-10-insta-tools-for-post-management/"><u>[New] 2024 Approved Maximize Your Impact Top 10 Insta Tools for Post Management</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-do-siri-voice-on-tiktok-in-2024/"><u>[Updated] How to Do Siri Voice on TikTok, In 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-convert-audio-online-mp3-to-youtube-live-upload-guide/"><u>[Updated] In 2024, Convert Audio Online MP3 to YouTube Live Upload Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>2024 Approved Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/are-services-active-on-xbox-live-real-time-xbox-online-status/"><u>Are Services Active on Xbox Live? Real-Time Xbox Online Status</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-and-firefox-tips-solving-the-problem-of-stalled-video-but-ongoing-audio-on-youtube/"><u>Chrome & Firefox Tips: Solving the Problem of Stalled Video but Ongoing Audio on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/complete-guide-to-record-desktop-screen-on-windows-for-free-3-ways/"><u>Complete Guide to Record Desktop Screen on Windows for Free [3 Ways]</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-it-fast-how-to-stop-fifa-22-from-crashing-on-your-computer/"><u>Fix It Fast: How to Stop FIFA 22 From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/grand-theft-auto-v-gaming-smoothed-eliminating-stutters-and-lag/"><u>Grand Theft Auto V Gaming Smoothed: Eliminating Stutters and Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-disco-elysium-adventure-from-crashing-on-pc-a-comprehensive-guide/"><u>How to Stop Your Disco Elysium Adventure From Crashing on PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-xs-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone XS to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-guide-solving-freezing-and-fps-dips-in-siftu-expert-advice/"><u>PC Gaming Guide: Solving Freezing and FPS Dips in SIFTU – Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-performance-optimization-solutions-to-stop-wrc-10-from-crashing-and-dive-into-the-fia-world-rally-action/"><u>PC Performance Optimization: Solutions to Stop WRC 10 From Crashing and Dive Into the FIA World Rally Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mystery-overcoming-valorants-lag-issues/"><u>Solving the Mystery: Overcoming Valorant's Lag Issues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-art-of-capture-and-storage-managing-snapshots-like-a-pro-for-2024/"><u>The Art of Capture and Storage Managing Snapshots Like a Pro for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A78 5G FRP</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-black-ops-cold-war-overcoming-error-code-0xc0000005/"><u>Troubleshooting Black Ops Cold War: Overcoming Error Code 0Xc0000005</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-deals-grab-your-samsung-odyssey-neo-g8-for-just-550-during-best-buys-anti-prime-event-insights/"><u>Unlock Exclusive Deals - Grab Your Samsung Odyssey Neo G8 For Just $550 During Best Buy's Anti-Prime Event - Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-craft-compelling-openers-for-your-podcast-episodes-examples-and-tips/"><u>[New] 2024 Approved Craft Compelling Openers for Your Podcast Episodes Examples & Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[New] 2024 Approved Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality-for-2024/"><u>[Updated] Navigating the Ins and Outs of Aiseesoft's Screencast Functionality for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>[Updated] Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transforming-film-aesthetics-using-luts/"><u>2024 Approved Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-and-correcting-the-palworld-error-a-step-by-step-approach/"><u>Deciphering and Correcting the 'Palworld' Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-smoothing-out-batman-arkham-knight-performance-hiccups-and-glitches/"><u>Expert Advice on Smoothing Out Batman: Arkham Knight Performance Hiccups & Glitches</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a56s-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A56s 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-apple-ensure-a-triumphant-introduction-of-vision-pro-key-strategies-revealed/"><u>How Can Apple Ensure a Triumphant Introduction of Vision Pro? Key Strategies Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-a-players-handbook-to-combat-lag-in-naraka-bladepoint/"><u>Optimizing Performance: A Player's Handbook to Combat Lag in Naraka Bladepoint</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-play-solutions-for-a-smooth-pubg-experience/"><u>Optimizing Play: Solutions for a Smooth PUBG Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code/"><u>Resolving Device Manager's Code</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-on-fixing-launching-errors-in-farming-simulator-22/"><u>Step-by-Step Guide on Fixing Launching Errors in Farming Simulator 22</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-solution-to-eliminate-fallout-4-black-screen-problem/"><u>Unlock the Solution to Eliminate Fallout 4 Black Screen Problem</u></a></li>
 </ul></div>
 

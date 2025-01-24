@@ -1,7 +1,7 @@
 ---
 title: Complete Fixes for Blackout Screenshots in Rainbow Six Siege - Gaming Solutions
-date: 2024-08-18T15:25:02.893Z
-updated: 2024-08-19T15:25:02.893Z
+date: 2025-01-21T16:44:48.984Z
+updated: 2025-01-24T16:48:45.176Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 In the past couple days, many Cold War gamers are reporting a**UI error 27711** , a glitch that usually occurs during game loading. But fret not if you’re seeing this error. Below we’ve gathered some easy fixes for you, try them and get your game working right away.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work your way down until you find the one that scores.
@@ -30,8 +31,9 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
@@ -43,14 +45,13 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
  This error could mean that there’s**an integrity issue** with your game files. In other words, there are files corrupted or missing in your game folder. If that’s the case, a scan and repair might help you fix this glitch:
 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
@@ -94,17 +95,9 @@ To do so, first visit the website of your GPU manufacturer:
  If the new driver doesn’t do the charm, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Windows updates include several kinds of updates, with some mitigate vulnerabilities and some offer new features. We recommend**keeping your system up to date** so that you can fully enjoy the game.
@@ -116,9 +109,11 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -137,8 +132,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +139,20 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-trustworthy-tiktok-audience-growers/"><u>[New] 2024 Approved Trustworthy TikTok Audience Growers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras-for-2024/"><u>[New] Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-download-and-play-with-ifunnys-meme-magic/"><u>[New] Download and Play with iFunny's Meme Magic</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-effortless-laptop-viewing-with-top-ranked-apps/"><u>2024 Approved Effortless Laptop Viewing with Top-Ranked Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-game-crash-woes-in-final-fantasy-xiv-with-our-step-by-step-pc-solution-guide/"><u>Banish Game Crash Woes in Final Fantasy XIV with Our Step-by-Step PC Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-curse-of-24-solutions-for-a-smooth-start-in-forza-horizon-4/"><u>Beat the Curse of '24 – Solutions for a Smooth Start in Forza Horizon 4</u></a></li>
+<li><a href="https://facebook.techidaily.com/could-a-friendly-interface-revolutionize-your-neighborhoods-retail-scene/"><u>Could a Friendly Interface Revolutionize Your Neighborhood's Retail Scene?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997872071-cyberpunk-2077-and-the-mystery-of-flatlining-with-error-2024/"><u>Cyberpunk 2#077 & The Mystery of Flatlining with Error 2#024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premier-video-communication-tools-the-top-10-for-ios-and-android/"><u>In 2024, Premier Video Communication Tools The Top 10 for iOS & Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-for-catastrophic-ark-malfunction-in-depth-tips/"><u>Mastering Fixes for Catastrophic ARK Malfunction – In-Depth Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/sims-4-optimization-techniques-to-eliminate-lag-in-your-gaming-experience-2024-edition/"><u>Sims 4 Optimization Techniques to Eliminate Lag in Your Gaming Experience - 2024 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-storytellers-edge-integrating-youtube-vids-with-ig/"><u>The Storyteller's Edge Integrating YouTube Vids with IG</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Resolution: When Phasmophobia Stops Working on VR Platforms"
-date: 2024-08-18T15:25:16.668Z
-updated: 2024-08-19T15:25:16.668Z
+date: 2025-01-23T16:17:12.899Z
+updated: 2025-01-24T16:25:09.410Z
 tags:
   - win11
   - win10
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enjoy conquering fearsome monsters. But many players have been reporting that Nioh 2 keeps crashing on startup, or in the middle of a game. If you’re experiencing the same problem, you’re able to fix it with the following solutions.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just walk your way down until you find the one works for you.
@@ -42,8 +34,9 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 * [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Run the game as administrator
 
  It’s very likely that Nioh 2 crashing is caused by a lack of administrative rights. Running your game/ game launcher as admin is the first method you should try when your game crashes or not fails to launch. Here’s how:
@@ -51,6 +44,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
  1) Navigate to the folder where you installed Nioh 2 (usually This PC/Local Disk (C)/SteamLibrary/steamapps/common/Nioh 2).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-local-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or you can right-click Nioh 2, and select Manage > Browse local files.
 
@@ -62,20 +59,18 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-admin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Shut down all unnecessary apps
 
  In case other apps are interfering with Nioh 2, please make sure you have shut down all non-essential programs (especially anti-virus) before starting the game.
 
  Press **Ctrl + Shift + Esc**  at the same time to open the Task Manager, and close all unnecessary apps running in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
  For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
@@ -104,6 +99,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -114,6 +113,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify the game integrity
 
@@ -129,9 +132,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Install/repair Visual C++ files
 
  If the Nioh 2 keeps crashing even when you start it from the executable, try installing/repairing all the Visual C++ redistributable (both 86bit and 64bit).
@@ -139,6 +139,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
  1) Visit [Microsoft Visual C++ downloads center](https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads) and download both the x86 and x64 executable file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/download-1200x330.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
@@ -148,9 +152,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 4) Also download the Microsoft Visual C++ 2013 (both the x86 and x64) and complete the installation/repair.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 5) Once complete, restart your PC for it to take full effect.
@@ -172,8 +173,9 @@ Play your game again and see if Nioh 2 not launching is resolved by now.
 Now launch your game, and see if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  To make sure no other apps is interfering with Nioh 2, you can try performing a clean boot. Here’s how:
@@ -182,16 +184,10 @@ Now launch your game, and see if it crashes again.
 
  2) Type **msconfig** and press **Enter** to open **System Configuration** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
  4) Select the **Startup** tab and click **Open Task Manager** .
@@ -200,16 +196,10 @@ Now launch your game, and see if it crashes again.
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
  6) Go back to **System Configuration** , then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
@@ -234,8 +224,6 @@ Now launch your game, and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +231,16 @@ Now launch your game, and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-the-loop-fixing-frozen-photo-booth-videos/"><u>2024 Approved Breaking the Loop Fixing Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converti-file-mmf-a-formato-wav-gratuito-online-con-movavi/"><u>Converti File MMF a Formato WAV Gratuito Online Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-gaming-experience-ultimate-tricks-for-enhancing-fallout-76-frame-rates/"><u>Elevate Your Gaming Experience: Ultimate Tricks for Enhancing Fallout 76 Frame Rates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-online-video-scaling-service/"><u>In 2024, Online Video Scaling Service</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011737772-play-smoother-than-ever-cyberpunk-2077s-persistent-latency-challenges-fixed/"><u>Play Smoother than Ever: Cyberpunk 2077'S Persistent Latency Challenges Fixed!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/prioritize-your-videography-with-top-12-players/"><u>Prioritize Your Videography with Top 12 Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-gta-5-here-are-fixes-to-get-it-up-and-running/"><u>Trouble with GTA 5? Here Are Fixes to Get It Up and Running!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-hacks-to-stop-zoom-from-crashing-in-windows-11-and-10/"><u>Ultimate Troubleshooting Hacks to Stop Zoom From Crashing in Windows 11 and 10</u></a></li>
+<li><a href="https://win-updates.techidaily.com/update-or-roll-back-graphics-drivers/"><u>Update or Roll Back Graphics Drivers:</u></a></li>
+</ul></div>
 

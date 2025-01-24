@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2025-01-15T21:46:11.475Z
-updated: 2025-01-18T09:11:05.224Z
+date: 2025-01-21T16:52:40.475Z
+updated: 2025-01-24T17:02:31.387Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OBS lags when streaming
@@ -54,20 +54,20 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) When Windows asks you to confirm, click **End process** .
 
@@ -125,6 +125,10 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
@@ -162,17 +166,13 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -181,7 +181,7 @@ wireless router
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Swap Wifi to Ethernet connection
@@ -193,6 +193,10 @@ wireless router
  Also, you should avoid possible wireless interference that weakens your Wi-Fi signals such as cordless phones and microwave ovens. Place them far away from your router, or simply move your laptop to a new location with stronger Wi-Fi signals.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OBS lags when recording
 
@@ -236,21 +240,17 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
@@ -283,18 +283,22 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-selecting-the-ideal-mac-screenshot-software/"><u>[New] In 2024, Selecting the Ideal Mac Screenshot Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-10-best-facebook-meme-pages-you-never-know-before-for-2024/"><u>[Updated] 10 Best Facebook Meme Pages You Never Know Before for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-engaging-video-audiences-choosing-impactful-youtube-images-for-2024/"><u>[Updated] Engaging Video Audiences Choosing Impactful YouTube Images for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-system-inadequate-cpu-specifications-for-running-vanguard-efficiently/"><u>Enhance Your System: Inadequate CPU Specifications for Running Vanguard Efficiently</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/essential-guidelines-for-a-thorough-computer-cleanse-and-maintenance-by-yl-software-experts/"><u>Essential Guidelines for a Thorough Computer Cleanse & Maintenance by YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-freeing-up-system-ram-resolved/"><u>Fortnite Freeing Up System RAM - Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001656004-gta-not-working-heres-how-to-get-your-online-adventure-back-on-track/"><u>GTA nOt wOrkIng? Here's How to Get Your Online Adventure Back on Track!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-graphics-on-windows-3-quick-techniques/"><u>Rejuvenate Graphics on Windows - 3 Quick Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/sound-clarity-in-media-paid-vs-free-software-solutions/"><u>Sound Clarity in Media - Paid Vs. Free Software Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-controllers-not-detected-in-windows-here-are-the-solutions/"><u>Steam Controllers Not Detected in Windows? Here Are the Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-low-frames-per-second-fps-issues-in-titanfall-2-a-comprehensive-guide/"><u>Tackling Low Frames Per Second (FPS) Issues in Titanfall 2: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-free-video-recovery-software-pour-windows-10-testez-le-nouveau-meilleur/"><u>Top Free Video Recovery Software Pour Windows 10 - Testez Le Nouveau Meilleur!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action/"><u>[New] Highest Priority List Best 10 Apps for Live Baseball & Basketball Action</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-freely-enhance-your-photos-iosandroids-best-overlay-apps/"><u>[New] In 2024, Freely Enhance Your Photos IOS/Android's Best Overlay Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-stuck-at-optimizing-shaders-star-wars-battlefront-ii/"><u>[Quick Fix] Stuck at Optimizing Shaders Star Wars Battlefront II</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-transform-viewers-criticism-into-content-enhancement/"><u>[Updated] In 2024, How to Transform Viewers' Criticism Into Content Enhancement</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm44k544og44o844k644gr44k144og44oq44ot44oh44kq5pku5b2x77ya5bcc6zaa55qe44gq5pa55rov44ks44kk44oj44cn/"><u>「スムーズにサムバビデオ撮影：専門的な方法ガイド」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029962679-2024-windows-10/"><u>2024のベスト動画プレイヤー推薦 - Windows 10互換で無料</u></a></li>
+<li><a href="https://win-able.techidaily.com/4-mtsm2ts/"><u>上位4つの推奨編集プログラム: MTS/M2TSに最適な無料ソフト</u></a></li>
+<li><a href="https://win-able.techidaily.com/aviwmv-windows-1110/"><u>AVIからWMVへの効果的な変換手順 - Windows 11/10で使えるテクニック</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crafting-your-own-whatsapp-tone-for-android/"><u>Crafting Your Own WhatsApp Tone for Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027357708-dvd/"><u>DVD視聴技術：如何使用投影仪以及解决再生问题</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/forex-traders-beware-steer-clear-of-these-13-common-errors-using-trade-copier-on-mt4-and-mt-5-platforms/"><u>Forex Traders Beware: Steer Clear of These 13 Common Errors Using Trade Copier on MT4 & MT 5 Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030328034-mtsmp4/"><u>MTSファイルがMP4に簡単に変換できる最新ガイド - 迅速なバッチアップリケーション付き</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/onetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>The Monetization Contest DailyMovement vs Youtube's Earnings Battleground</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-2024s-must-have-macbook-peripherals-and-upgrades-in-depth-analysis-and-expert-ratings/"><u>Ultimate Guide to 2024'S Must-Have MacBook Peripherals and Upgrades: In-Depth Analysis and Expert Ratings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-pc-masterpieces-discovering-top-tier-hardware-at-toms-place/"><u>Unveiling PC Masterpieces: Discovering Top-Tier Hardware at Tom's Place</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029964594-dvd/"><u>ハックでDVDにビデオをエミュレート！最適な無料・有料ツール比較ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-premiere-pro-and-rush/"><u>パワフル映像取り込み：Adobe Premiere Pro & Rushでの効率的な録画技術</u></a></li>
 </ul></div>
 
