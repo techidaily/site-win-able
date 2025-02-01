@@ -1,7 +1,7 @@
 ---
 title: "Fixing Crashes in 'Oxygen Not Included': Tips and Tricks for Seamless Gaming"
-date: 2025-01-21T16:08:40.941Z
-updated: 2025-01-24T16:12:22.971Z
+date: 2025-01-28T17:12:45.643Z
+updated: 2025-01-31T17:28:31.676Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not try them all; just work from the top down until you find the one that does the trick.
@@ -36,6 +32,10 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 4. **[Close background applications](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Lower the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Warcraft 3 Reforged
 
@@ -62,10 +62,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
  If your machine is too weak for the game, it’s time to perform a thorough PC upgrade. But if you have a decent setup, the problem has to do with something else, and please move on to more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -100,6 +96,10 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -117,13 +117,13 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**Details** tab. Then, right-click**Warcraft 3\. exe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Mouse over**Set priority** and then click**Above normal** or**High** .
 
@@ -141,17 +141,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click each resource-hogging application, and then click **End task**  to close them one by one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-2-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -159,11 +151,19 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Stop overclocking
 
  To gain the best performance, many players attempted to overclock their GPUs. However, doing this is sometimes counterproductive and can render your game unstable. We suggest**lowering your GPU to the default settings** to stop Warcraft 3 Reforged from crashing. If the situation isn’t mitigated with this workaround, turn to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Lower the graphics settings
 
@@ -179,13 +179,13 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Make sure**VSync** is turned off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Set each of the parameters under Graphical Quality to**Low** or**Medium** .
 
@@ -214,20 +214,24 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-first-rate-biodegradable-filming-gear-tutorials-for-2024/"><u>[New] First-Rate Biodegradable Filming Gear Tutorials for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-vanguard-headgear-companies-for-vr/"><u>[New] Vanguard Headgear Companies for VR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>[Updated] Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-uncomplicatedscreensave-free-recording-software-for-2024/"><u>[Updated] UncomplicatedScreenSave Free Recording Software for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-vr-unleashed-in-depth-reviews-of-peripherals/"><u>[Updated] VR Unleashed - In-Depth Reviews of Peripherals</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-v30-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme V30 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-when-amd-graphics-driver-wont-start/"><u>Effective Solutions When AMD Graphics Driver Won't Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-kernelbasedll-crash-instantly-a-simple-guide/"><u>Fixing the kernelbase.dll Crash Instantly: A Simple Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-art-of-time-control-fcpx-freeze-frames-and-slow-motion/"><u>New In 2024, The Art of Time Control FCPX Freeze Frames and Slow Motion</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-players-beware-solutions-to-the-persistent-crashing-issue-in-alien-fireteam-elite/"><u>PC Players Beware! Solutions to the Persistent Crashing Issue in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-the-ultimate-fixes-for-a-non-responsive-logitech-c920-webcam/"><u>Resolved: The Ultimate Fixes for a Non-Responsive Logitech C920 Webcam</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994735052-smooth-sailing-with-gas-station-simulator-on-pc-crash-free-strategies/"><u>Smooth Sailing with Gas Station Simulator on PC - Crash-Free Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-network-hiccups-for-smooth-play-in-the-new-world-update/"><u>Troubleshooting Network Hiccups for Smooth Play in the New World Update</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728509053855-windows-11/"><u>Windows 11資料夾在線/不在線切換技巧 - 如何有效利用</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-budget-friendly-methods-for-youtube-card-creation/"><u>[New] 2024 Approved Budget-Friendly Methods for YouTube Card Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-advanced-editing-techniques-for-immersive-video-in-premiere-pro/"><u>[New] Navigating Advanced Editing Techniques for Immersive Video in Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skyrocket-your-skill-set-in-windows-photoshop/"><u>[New] Skyrocket Your Skill Set in Windows Photoshop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-taking-screenshots-on-mac-5-methods/"><u>[Updated] 2024 Approved Taking Screenshots on Mac [5 Methods]</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-essential-guide-to-free-attractive-youtube-intros/"><u>2024 Approved The Essential Guide to Free, Attractive YouTube Intros</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-performance-fixes-6-quick-strategies-to-eliminate-lag-and-stutters/"><u>Elden Ring Performance Fixes: 6 Quick Strategies to Eliminate Lag and Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-for-playing-fallout-3-without-crashes-on-windows-10-systems/"><u>Expert Advice for Playing Fallout 3 Without Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-the-network-unreachable-hurdle-in-steam/"><u>Expert Advice on Overcoming the 'Network Unreachable' Hurdle in Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-rogue-company-pc-version-persistent-issues-with-frequent-crashes/"><u>Fix: Rogue Company PC Version Persistent Issues with Frequent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-tips-to-resolve-poe-freezing-for-a-smooth-gaming-experience/"><u>Free Tips to Resolve PoE Freezing for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-has-fortnites-season-8-impacted-player-frames-per-second-fps/"><u>How Has Fortnite's Season 8 Impacted Player Frames Per Second (FPS)?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-launching-success-on-youtube-tutorial-with-two-strategies/"><u>In 2024, Launching Success on YouTube Tutorial with Two Strategies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-12-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 12 5G</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-easily-craft-engaging-videos-on-your-mac-with-our-guide/"><u>New 2024 Approved Easily Craft Engaging Videos on Your Mac with Our Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-hurdles-setting-up-easy-anti-cheat-properly/"><u>Overcoming Launch Hurdles: Setting Up Easy Anti-Cheat Properly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-issue-fixed-now-visible-on-youtube-for-2024/"><u>Shorts Issue Fixed – Now Visible on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-excessive-cpu-consumption-while-playing-god-of-war-tips-and-tricks/"><u>Solving Excessive CPU Consumption While Playing God of War: Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-errors-solving-gas-station-simulator-pc-instability-issues/"><u>Troubleshooting Persistent Errors: Solving Gas Station Simulator PC Instability Issues</u></a></li>
 </ul></div>
 

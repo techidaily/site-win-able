@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2025-01-22T16:28:14.090Z
-updated: 2025-01-24T16:06:11.756Z
+date: 2025-01-30T23:23:16.433Z
+updated: 2025-02-01T02:57:40.739Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your home network
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
 
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  This will compare your game files with those of the latest version on Warframe’s content distribution network (CDN), replaces any bad game data, and update outdated files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
 
@@ -121,7 +121,7 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
@@ -171,17 +171,24 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-essential-10-games-comparable-to-grand-theft-auto-v-for-2024/"><u>[Updated] Essential 10 Games Comparable to Grand Theft Auto V for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-through-essential-zoom-recording-equipment-for-2024/"><u>[Updated] Navigating Through Essential Zoom Recording Equipment for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-origins-ultimate-guide-to-increasing-download-speeds/"><u>Boosting Your Origins: Ultimate Guide to Increasing Download Speeds</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fix-resolve-assassins-creed-odyssey-pc-game-crashes/"><u>Effortless Fix: Resolve Assassin's Creed Odyssey PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/elder-scrolls-online-update-successfully-addresses-blackwood-regions-lag-problems/"><u>Elder Scrolls Online Update Successfully Addresses Blackwood Region's Lag Problems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fixing-warped-youtube-videos-step-by-step-for-2024/"><u>Fixing Warped YouTube Videos Step-by-Step for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-13t-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 13T Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-v30t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme V30T Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-rainbow-six-extraction-stability-improvements-confirmed/"><u>PC Gamers Rejoice as Rainbow Six Extraction Stability Improvements Confirmed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-evolution-of-auto-hdr-and-its-role-in-todays-photography-for-2024/"><u>The Evolution of Auto HDR and Its Role in Today's Photography for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-fixing-document-scanner-errors/"><u>Troubleshooting Techniques for Fixing Document Scanner Errors</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-intricacies-of-a-zero-day-exploit-a-comprehensive-guide-by-malwarefox/"><u>Unveiling the Intricacies of a Zero-Day Exploit: A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] 2024 Approved Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-prevent-and-solve-gaming-applications-from-crashing/"><u>Comprehensive Guide to Prevent and Solve Gaming Applications From Crashing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-tutorial-for-disabling-software-on-a-windows-machine-with-help-from-yl-software-experts/"><u>Comprehensive Tutorial for Disabling Software on a Windows Machine with Help From YL Software Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-prevent-dead-by-daylight-crashes-top-tricks-for-a-stable-gameplay-experience/"><u>Expert Advice to Prevent Dead By Daylight Crashes: Top Tricks for a Stable Gameplay Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/gecata-game-recorder-review/"><u>Gecata Game Recorder Review</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-x7-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find X7 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-winos-basic-render-capabilities/"><u>Improving WINOS' Basic Render Capabilities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-insta-gurus-guide-the-essential-hashtags-you-need-today/"><u>In 2024, Insta Gurus Guide The Essential Hashtags You Need Today</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210425290-9781902405957-judy-halls-good-vibrations/"><u>Judy Hall's Good Vibrations | Free Book</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mastering-the-selection-of-ideal-mobile-dj-speaker-systems-insights-from-djntv-exclusive/"><u>Mastering the Selection of Ideal Mobile DJ Speaker Systems: Insights From #DJNTV Exclusive</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-browser-performance-tackling-chromes-cpu-overload-issue-resolved/"><u>Optimized Browser Performance: Tackling Chrome's CPU Overload Issue Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-stuttering-and-freezing-in-baldurs-gate-with-these-6-proven-remedies/"><u>Overcome Stuttering & Freezing in Baldur's Gate with These 6 Proven Remedies</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-wont-start-discover-the-fixes-that-work/"><u>Resident Evil Village Won't Start? Discover the Fixes That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-lag-troubles-with-these-fixes-for-dying-light-gameplay/"><u>Resolve Your Lag Troubles with These Fixes for Dying Light Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-successfully-start-age-of-empires-ii-on-windows-11/"><u>Resolved: How to Successfully Start Age of Empires II on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-lag-fix-baldurs-gate-stuttering-and-freezing-using-our-expert-guide/"><u>Say Goodbye to Lag! Fix Baldur's Gate Stuttering & Freezing Using Our Expert Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-blaze-curve-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Blaze Curve 5G FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/unanswered-questions-surrounding-diablo-immortals-pc-launch-date-amidst-delay-rumors/"><u>Unanswered Questions Surrounding Diablo Immortal's PC Launch Date Amidst Delay Rumors</u></a></li>
 </ul></div>
 

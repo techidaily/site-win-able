@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2025-01-21T17:07:43.693Z
-updated: 2025-01-24T16:36:12.157Z
+date: 2025-01-30T21:24:58.077Z
+updated: 2025-01-31T20:27:49.170Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,6 +47,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -56,15 +60,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -77,6 +73,10 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -107,15 +107,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -129,7 +129,7 @@ OR
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
@@ -158,22 +158,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-develop-memes-for-viral-impact-adobe-way/"><u>[New] Develop Memes for Viral Impact, Adobe Way</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-live-streaming-software-vs-hardware-which-is-better/"><u>[New] Live Streaming Software Vs Hardware Which Is Better</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-exploring-the-difference-between-ig-reels-and-stories/"><u>[Updated] Exploring the Difference Between IG Reels & Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-choosing-ideal-youtube-thumbnail-shapes-for-2024/"><u>[Updated] Guide to Choosing Ideal Youtube Thumbnail Shapes for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10-for-2024/"><u>[Updated] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10) for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-distinctions-a-look-at-youtube-and-dailymention-for-2024/"><u>[Updated] Unveiling Distinctions A Look at YouTube and DailyMention for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-how-to-effortlessly-download-songs-onto-your-samsung-device/"><u>1. How to Effortlessly Download Songs Onto Your Samsung Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-techniques-for-creating-mp3-files-on-your-computer/"><u>Efficient Techniques for Creating MP3 Files on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-downloading-of-bilibili-media-in-mp4-format-a-step-by-step-tutorial/"><u>Effortless Downloading of Bilibili Media in MP4 Format – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-hd-video-grabber-seamless-streaming-content-capture-and-conversion/"><u>Effortless HD Video Grabber: Seamless Streaming Content Capture and Conversion</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-superior-sound-fidelity-steps-for-transforming-audio-to-top-tier-wav/"><u>Ensuring Superior Sound Fidelity: Steps for Transforming Audio to Top-Tier WAV</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-review-top-rated-dvd-transformers-convert-your-discs-into-various-media-formats-with-ease/"><u>Expert Review: Top Rated DVD Transformers - Convert Your Discs Into Various Media Formats with Ease!</u></a></li>
-<li><a href="https://win-able.techidaily.com/firefoxmp4/"><u>FirefoxにおけるMP4形式動画の再生不能:解決法</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-your-websites-blueprint-exploring-the-importance-of-a-well-designed-sitemap/"><u>Guide to Your Website's Blueprint: Exploring the Importance of a Well-Designed Sitemap</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-audio-only-plays-during-mp4-videos-on-a-pc/"><u>How to Resolve Audio-Only Plays During MP4 Videos on a PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-free-video-conferencing-solutions-for-windowsmac-users/"><u>In 2024, Free Video Conferencing Solutions for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/preeminent-sites-to-amplify-youtube-traffic-for-2024/"><u>Preeminent Sites to Amplify YouTube Traffic for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-skyrocket-fb-engagement-enhancing-page-rankings/"><u>[New] 2024 Approved Skyrocket FB Engagement Enhancing Page Rankings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-bits-and-bytes-to-subtitles-the-zip-to-srt-pathway/"><u>[New] From Bits and Bytes to Subtitles The ZIP To SRT Pathway</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-notable-top-5-lightweight-action-recording-units/"><u>[New] Notable Top 5 Lightweight Action Recording Units</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-mysteries-of-video-monetization/"><u>[New] Unveiling the Mysteries of Video Monetization</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-nba-2k20-crash-issue-quickly-and-easily/"><u>[SOLVED] NBA 2K20 Crash Issue | Quickly & Easily</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-10-review/"><u>Amazon Fire HD 10 Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-mituting-overworked-processor-in-the-newest-cyrodiil-encounter/"><u>Diagnosing and Mituting Overworked Processor in the Newest Cyrodiil Encounter</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-your-terraria-game-glitches-six-reliable-fixes-for-restoring-stability/"><u>End Your Terraria Game Glitches: Six Reliable Fixes for Restoring Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-fortnite-sign-in-issues-fast-a-simple-guide/"><u>Fix Your Fortnite Sign-In Issues Fast: A Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-launch-problems-heres-how-to-fix-the-initial-black-screen/"><u>Helldivers 2 Launch Problems? Here's How to Fix the Initial Black Screen!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-msi-afterburner-to-see-your-graphics-card-under-windows-10-or-11/"><u>How to Get MSI Afterburner to See Your Graphics Card Under Windows 10 or 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-steams-cloud-synchronization-issues-expert-tips-and-tricks/"><u>How to Resolve Steam's Cloud Synchronization Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-migliori-programmi-di-compressione-video-per-ottimizzare-le-dimensioni-dei-file/"><u>I Migliori Programmi Di Compressione Video per Ottimizzare Le Dimensioni Dei File</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-save-windows-screen-shots-made-simple/"><u>In 2024, Capture and Save Windows Screen Shots Made Simple</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-video-decks-smart-description-templates/"><u>In 2024, Elevate Video Decks Smart Description Templates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-pova-6-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Pova 6 Pro 5G Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-civi-3-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Civi 3 Phone Hassle-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-god-of-wars-persistent-pc-freezing-problems-a-step-by-estep-guide/"><u>Overcoming God of War's Persistent PC Freezing Problems - A Step-by-eStep Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-directx-errors-on-fifa-20-expert-tips-and-fixes/"><u>Troubleshooting DirectX Errors on FIFA 20 – Expert Tips and Fixes</u></a></li>
 </ul></div>
 
