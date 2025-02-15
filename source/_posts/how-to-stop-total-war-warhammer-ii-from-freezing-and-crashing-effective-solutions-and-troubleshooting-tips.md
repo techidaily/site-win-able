@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2025-01-30T23:23:16.433Z
-updated: 2025-02-01T02:57:40.739Z
+date: 2025-02-11T03:20:00.711Z
+updated: 2025-02-14T17:48:18.817Z
 tags:
   - win11
   - win10
@@ -42,19 +42,11 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -89,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
@@ -121,16 +113,24 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If your issue persists, then move on to the next fix below.
 
@@ -171,24 +171,18 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] 2024 Approved Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-prevent-and-solve-gaming-applications-from-crashing/"><u>Comprehensive Guide to Prevent and Solve Gaming Applications From Crashing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comprehensive-tutorial-for-disabling-software-on-a-windows-machine-with-help-from-yl-software-experts/"><u>Comprehensive Tutorial for Disabling Software on a Windows Machine with Help From YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-to-prevent-dead-by-daylight-crashes-top-tricks-for-a-stable-gameplay-experience/"><u>Expert Advice to Prevent Dead By Daylight Crashes: Top Tricks for a Stable Gameplay Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/gecata-game-recorder-review/"><u>Gecata Game Recorder Review</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-x7-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find X7 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-winos-basic-render-capabilities/"><u>Improving WINOS' Basic Render Capabilities</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-insta-gurus-guide-the-essential-hashtags-you-need-today/"><u>In 2024, Insta Gurus Guide The Essential Hashtags You Need Today</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210425290-9781902405957-judy-halls-good-vibrations/"><u>Judy Hall's Good Vibrations | Free Book</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mastering-the-selection-of-ideal-mobile-dj-speaker-systems-insights-from-djntv-exclusive/"><u>Mastering the Selection of Ideal Mobile DJ Speaker Systems: Insights From #DJNTV Exclusive</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimized-browser-performance-tackling-chromes-cpu-overload-issue-resolved/"><u>Optimized Browser Performance: Tackling Chrome's CPU Overload Issue Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-stuttering-and-freezing-in-baldurs-gate-with-these-6-proven-remedies/"><u>Overcome Stuttering & Freezing in Baldur's Gate with These 6 Proven Remedies</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-village-wont-start-discover-the-fixes-that-work/"><u>Resident Evil Village Won't Start? Discover the Fixes That Work!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-lag-troubles-with-these-fixes-for-dying-light-gameplay/"><u>Resolve Your Lag Troubles with These Fixes for Dying Light Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-successfully-start-age-of-empires-ii-on-windows-11/"><u>Resolved: How to Successfully Start Age of Empires II on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-lag-fix-baldurs-gate-stuttering-and-freezing-using-our-expert-guide/"><u>Say Goodbye to Lag! Fix Baldur's Gate Stuttering & Freezing Using Our Expert Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-blaze-curve-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Blaze Curve 5G FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/unanswered-questions-surrounding-diablo-immortals-pc-launch-date-amidst-delay-rumors/"><u>Unanswered Questions Surrounding Diablo Immortal's PC Launch Date Amidst Delay Rumors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-becoming-an-economic-force-a-guide-to-earning-on-youtube-for-2024/"><u>[Updated] Becoming an Economic Force A Guide to Earning on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevate-videos-innovative-youtube-editing-techniques-revealed/"><u>[Updated] In 2024, Elevate Videos Innovative YouTube Editing Techniques Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/7-uplifting-social-media-impacts-todays-world/"><u>7 Uplifting Social Media Impacts Today's World</u></a></li>
+<li><a href="https://win-able.techidaily.com/apple-video-converter-factory-update-now-includes-free-support-for-the-latest-ipod-nano/"><u>Apple Video Converter Factory Update: Now Includes Free Support for the Latest iPod Nano</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-alternatives-to-justdubs-top-7-legitimate-websites-for-safely-streaming-english-dubbed-anime/"><u>Best Alternatives to JustDubs: Top 7 Legitimate Websites for Safely Streaming English Dubbed Anime</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boosting-your-acer-nitro-5s-capabilities-with-the-newest-graphics-and-system-drivers/"><u>Boosting Your Acer Nitro 5'S Capabilities with the Newest Graphics and System Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-youtubef/"><u>Chrome と YouTubefの字幕をスムーズに取得するための方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-how-to-transform-and-save-youtube-content-as-avi-or-divx-files-on-any-computer/"><u>Comprehensive Guide: How to Transform and Save YouTube Content as AVI or DivX Files on Any Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/creating-a-webm-video-the-ultimate-guide-and-list-of-leading-creators/"><u>Creating a WebM Video: The Ultimate Guide & List of Leading Creators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-gpt-to-microphone-my-podcast-saga/"><u>From GPT to Microphone: My Podcast Saga</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/44oh44k544kv44oi44od44ox5lik44gu44og44os44ot44k344on44o844ks5yq5546h55qe44gr6yyy55s744gz44kl44gf44kb44gu44ks44kk44oj44op44kk44oz44go5oqa6kgt/"><u>デスクトップ上のテレビショーを効率的に録画するためのガイドラインと技術</u></a></li>
 </ul></div>
 
