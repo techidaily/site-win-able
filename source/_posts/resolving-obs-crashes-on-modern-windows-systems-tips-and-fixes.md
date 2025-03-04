@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2025-02-09T00:25:18.019Z
-updated: 2025-02-15T04:41:50.951Z
+date: 2025-02-25T12:29:09.378Z
+updated: 2025-03-04T00:25:19.140Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -73,10 +69,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,10 +91,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Scan and repair corrupt game files
 
  It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
@@ -111,10 +99,6 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
@@ -132,19 +116,11 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -172,22 +148,17 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-transform-your-strategy-with-these-20-marketing-terms/"><u>[New] Transform Your Strategy with These 20 Marketing Terms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-ensure-your-virtual-meetings-are-documented/"><u>[Updated] In 2024, How to Ensure Your Virtual Meetings Are Documented</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-humorhub-imagery-mememagic-inc/"><u>[Updated] In 2024, HumorHub Imagery MemeMagic Inc</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-guide-to-eradicate-green-screen-from-mac-produced-videos/"><u>[Updated] In 2024, The Ultimate Guide to Eradicate Green Screen From Mac-Produced Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-design-tips-for-captivating-facebook-slideshows/"><u>2024 Approved Design Tips for Captivating Facebook Slideshows</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999057156-busting-the-double-frame-rate-drop-mystery-on-pc-expert-solutions-revealed/"><u>Busting The Double Frame Rate Drop Mystery on PC – Expert Solutions Revealed!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-infinix-hot-30-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Infinix Hot 30 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/eversapce-2-troubleshooting-guide-resolving-pc-crash-issues-permanently/"><u>Eversapce 2 Troubleshooting Guide: Resolving PC Crash Issues Permanently</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-wallpaper-engine-issues-in-windows-11-and-10/"><u>Fixes & Solutions: Resolving Wallpaper Engine Issues in Windows 11 and 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-instant-access-to-the-latest-acer-wireless-network-drivers-free-edition/"><u>Get Instant Access to the Latest Acer Wireless Network Drivers - Free Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-nagging-not-launching-troubleshoot-and-fix-the-issue-today/"><u>Resident Evil Nagging Not Launching? Troubleshoot and Fix the Issue Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-getting-intel-driver-assistant-back-on-track-on-pc/"><u>Step-by-Step Guide: Getting Intel Driver Assistant Back on Track on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-players-handbook-to-smooth-sailing-overcoming-ping-issues-in-chivalry-ii/"><u>The Player’s Handbook to Smooth Sailing: Overcoming Ping Issues in Chivalry II</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-pcs-vr-challenges-with-these-8-proven-techniques-to-prevent-vrchat-crashes/"><u>Troubleshoot Your PC's VR Challenges with These 8 Proven Techniques to Prevent VRChat Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-issues-in-ituness-audio-setup/"><u>Troubleshooting: Resolving Issues in iTunes's Audio Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-online-cricket-broadcasts-for-2024/"><u>Unleashing the Power of Online Cricket Broadcasts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-virtual-realitys-trailblazers-top-pc-headsets-for-the-year/"><u>[Updated] Virtual Reality's Trailblazers Top PC Headsets for the Year</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stitch-together-photographs-the-montage-masterclass/"><u>2024 Approved Stitch Together Photographs The Montage Masterclass</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-proven-strategies-to-resolve-overwatch-2-launch-failures/"><u>Beat the Glitch: Proven Strategies to Resolve Overwatch 2 Launch Failures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhanced-game-recorders-beyond-fbx-frameworks-for-2024/"><u>Enhanced Game Recorders Beyond FBX Frameworks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-stalling-solutions-for-when-call-of-duty-modern-warfare-freezes-on-your-desktop/"><u>No More Stalling - Solutions for When 'Call of Duty: Modern Warfare' Freezes on Your Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-when-your-epic-games-launcher-wont-open/"><u>Quick Fixes for When Your Epic Games Launcher Won't Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-problems-netflix-works-perfectly-on-your-xbox-one/"><u>Say Goodbye to Problems: Netflix Works Perfectly on Your Xbox One</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-multiversus-startup-failure-on-personal-computers/"><u>Solutions for MultiVersus Startup Failure on Personal Computers</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-tutorial-building-a-windows-1011-installation-media-on-usb-drive/"><u>Step-by-Step Tutorial: Building a Windows 10/11 Installation Media on USB Drive</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782140-9781594777868-the-sacred-network/"><u>The Sacred Network | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-why-electronics-like-ipads-and-macbooks-fail-to-charge-in-cold-weather/"><u>Winter Woes: Understanding Why Electronics Like iPads and MacBooks Fail to Charge in Cold Weather</u></a></li>
 </ul></div>
 

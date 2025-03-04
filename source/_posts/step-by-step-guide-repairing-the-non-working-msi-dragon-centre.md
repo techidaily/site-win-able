@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2025-02-12T19:16:02.536Z
-updated: 2025-02-14T16:02:58.243Z
+date: 2025-02-26T07:10:23.288Z
+updated: 2025-03-04T10:11:51.147Z
 tags:
   - win11
   - win10
@@ -30,19 +30,11 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 2. [Update audio driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Use wire headsets
 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -62,10 +54,6 @@ Hope it works for you, if not, try updating your audio driver.
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
@@ -74,16 +62,8 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -106,22 +86,22 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeted-timelines-a-complete-guide-to-video-backups/"><u>[New] 2024 Approved Tweeted Timelines A Complete Guide to Video Backups</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-soundtracking-dreams-an-overview-of-magix-fx/"><u>[New] Soundtracking Dreams An Overview of Magix FX</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-whats-in-it-for-a-million-youtube-viewers/"><u>[New] What’s in It for a Million YouTube Viewers?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>2024 Approved Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-viral-victory-hot-talk-highlights/"><u>2024 Approved Twitter's Viral Victory Hot Talk Highlights</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-downloads-expert-advice-on-speeding-up-origin/"><u>Boosting Your Downloads: Expert Advice on Speeding Up Origin</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-experience-by-improving-frame-rate-drops/"><u>Enhancing Rainbow Six Extraction Experience by Improving Frame Rate Drops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-lenovos-revolutionary-see-through-laptop-unveiled-at-mwc-s-personal-insights/"><u>Exploring Lenovo's Revolutionary See-Through Laptop Unveiled at MWC 'S Personal Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-cs2-game-crash-issues-on-your-pc/"><u>Fixes & Solutions: Resolving CS2 Game Crash Issues on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-prevent-and-solve-pc-issues-with-red-dead-redemption-2/"><u>Guide to Prevent and Solve PC Issues with 'Red Dead Redemption 2'</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-8-hd-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 8 HD to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/seamless-transition-transferring-exclusive-youtube-content-to-gmail-for-2024/"><u>Seamless Transition Transferring Exclusive YouTube Content to Gmail for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-roblox-running-expert-strategies/"><u>Solving the Issue: How to Get Roblox Running - Expert Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-process-of-erasing-yourself-from-twitch/"><u>The Complete Process of Erasing Yourself From Twitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-eradicate-stuttering-in-your-pc-fortnite-battles-today/"><u>Troubleshooting Guide: Eradicate Stuttering in Your PC Fortnite Battles Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-repair-error-code-0x803f8001-in-your-minecraft-launcher-windows/"><u>Troubleshooting Guide: How to Repair Error Code 0X803f8001 in Your Minecraft Launcher (Windows)</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-step-by-step-fixes-for-ps4-system-freezes/"><u>Ultimate Guide: Step-by-Step Fixes for PS4 System Freezes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-a-step-by-step-guide-to-desktop-image-fusion/"><u>[New] A Step-by-Step Guide to Desktop Image Fusion</u></a></li>
+<li><a href="https://win-lab.techidaily.com/anleitung-umwandlung-von-windows-11-in-ein-brennbild-und-ubertragung-auf-einen-usb-stick-fur-den-startvorgang/"><u>Anleitung: Umwandlung Von Windows 11 in Ein Brennbild Und Übertragung Auf Einen USB-Stick Für Den Startvorgang</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easily-adjust-your-printer-configuration-via-pc-settings-using-tips-from-yl-software-experts/"><u>Easily Adjust Your Printer Configuration via PC Settings Using Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-and-lag-expert-solutions-for-smooth-play/"><u>Fix Your Game Crashes and Lag - Expert Solutions for Smooth Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-connection-troubles-heres-how-to-fix-no-ping-detected-from-our-servers/"><u>Halo Infinite Connection Troubles? Here's How to Fix 'No Ping Detected From Our Servers'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-stream-wmv-files-on-your-chrome-os-device/"><u>How to Successfully Stream WMV Files on Your Chrome OS Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-visual-magic-essential-techniques-for-ps-3d-luts/"><u>In 2024, Crafting Visual Magic Essential Techniques for PS 3D Luts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/market-mastery-strategys-first-impressions/"><u>Market Mastery Strategy's First Impressions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-errors-linked-to-winservicesexe/"><u>Navigating Errors Linked to Winservices.exe</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-hacks-ending-the-saga-of-constant-crashes-in-outpost-infinity-siege-gameplay/"><u>PC Gaming Hacks: Ending the Saga of Constant Crashes in Outpost: Infinity Siege Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnecting-tips-for-when-youre-cut-off-from-hearthstone-online-gameplay/"><u>Reconnecting Tips for When You're Cut Off From Hearthstone Online Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-outlook-app-shutdowns-a-step-by-step-guide/"><u>Resolving Frequent Outlook App Shutdowns - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-how-to-prevent-constant-failures-in-nox-player-performance-on-laptopspcs/"><u>Step-by-Step Guide: How to Prevent Constant Failures in Nox Player Performance on Laptops/PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-performer-in-the-market-id-coolings-advanced-frozn-a620-pro-se-air-cooler-review-exceptional-quality-and-price-point-combination/"><u>Top Performer in the Market: ID-Cooling's Advanced Frozn A620 Pro SE Air Cooler Review - Exceptional Quality and Price Point Combination</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-your-steam-client-wont-respond/"><u>Troubleshooting Tips for When Your Steam Client Won't Respond</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-compilation-winning-16-free-media-players-for-2024/"><u>Ultimate Compilation Winning 16 Free Media Players for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-wsappx-identifying-and-resolving-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Identifying & Resolving Excessive Memory & Processor Consumption</u></a></li>
 </ul></div>
 

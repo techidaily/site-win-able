@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac"
-date: 2025-01-26T00:04:21.379Z
-updated: 2025-02-01T01:13:47.475Z
+date: 2025-03-03T02:45:19.933Z
+updated: 2025-03-04T09:31:54.893Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,10 +35,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 5. **[Disable your USB device](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart Origin completely
 
@@ -62,19 +54,11 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
@@ -82,20 +66,12 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
 
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 10. Click**OK** .
 
@@ -132,16 +108,8 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
@@ -171,10 +139,6 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-72.png)
 4. Run Origin and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully, one of the fixes above worked for you. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
 
 * [Origin](https://tools.techidaily.com/drivereasy/download/)
@@ -195,17 +159,24 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-transform-your-media-projects-uploading-images-to-youtube/"><u>[Updated] Transform Your Media Projects Uploading Images to YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-carminatis-gig-economy-ajays-youtube-wealth-stream/"><u>2024 Approved Carminati's Gig Economy AJay's YouTube Wealth Stream</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-step-by-step-guide-to-transferring-customactiondata-during-wix-customaction-execution/"><u>A Step-by-Step Guide to Transferring CustomActionData During WiX CustomAction Execution</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-steam-from-hanging-or-crashing/"><u>Fixing the Issue: How to Stop Steam From Hanging or Crashing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-lava-storm-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Lava Storm 5G Face Lock?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-7-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 7 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/phoenix-point-stability-issues-heres-how-you-can-solve-them/"><u>Phoenix Point Stability Issues? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/reactivate-and-fix-your-windows-11-spotlight-issue-a-step-by-step-guide/"><u>Reactivate and Fix Your Windows 11 Spotlight Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-performance-hiccups-in-mass-effect-legendary-edition-for-both-pc-gamers-and-xbox-users/"><u>Solving Performance Hiccups in Mass Effect Legendary Edition for Both PC Gamers and Xbox Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-fixing-not-found-msidll-file-problems/"><u>Troubleshooting Steps for Fixing 'Not Found' msi.dll File Problems</u></a></li>
-<li><a href="https://win-docs.techidaily.com/understanding-the-role-of-tpm-in-windows-11s-enhanced-security-features-insights-from-zdnet/"><u>Understanding the Role of TPM in Windows 11'S Enhanced Security Features - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>Updated Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-invisible-glance-at-fb-episodes/"><u>[New] 2024 Approved Invisible Glance at FB Episodes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures-for-2024/"><u>[New] Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-beginners-roadmap-for-audacity-audio-capture/"><u>[Updated] 2024 Approved The Complete Beginner's Roadmap for Audacity Audio Capture</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-video-view-count-top-hashtag-trends-guide/"><u>2024 Approved Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast/"><u>2024 Approved Premiere Pro Refinements for iPhone HD Video Clarity and Contrast</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-startup-obstacles-in-helldivers-2-a-guide-to-dealing-with-black-screens/"><u>Bypassing Startup Obstacles in Helldivers 2: A Guide to Dealing with Black Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009544976-dragons-dogma-2-crashing-on-pc-how-to-fix/"><u>Dragon's Dogma 2 Crashing on PC: How to Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-counter-strike-global-offensive-wont-launch/"><u>Effective Solutions When Counter-Strike Global Offensive Won't Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-genshin-impact-on-your-windows-or-mac-computer/"><u>How to Fix Persistent Crashes in Genshin Impact on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-11-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 11 Pro Max Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-cyberpunk-2077-gaming-experience-by-activating-gpu-on-windows-11/"><u>Maximize CYBERPUNK 2077 Gaming Experience by Activating GPU on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-the-ultimate-list-of-5-key-services-for-twitch-content-creators/"><u>Must-Have: The Ultimate List of 5 Key Services for Twitch Content Creators</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k20-gameplay-hacked-eliminate-crashes-with-these-simple-fixes/"><u>NBA 2K20 Gameplay Hacked: Eliminate Crashes with These Simple Fixes!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-of-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad/"><u>New The Best of the Big Screen Top Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992778406-overcoming-recurrent-pc-hardware-and-software-collisions-solutions-unveiled/"><u>Overcoming Recurrent PC Hardware and Software Collisions – Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-fall-guys-startup-issues-no-crash-gameplay/"><u>Resolving 'Fall Guys' Startup Issues: No-Crash Gameplay</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-zero-30-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Zero 30 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-go-2023-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark Go (2023) Phone Hassle-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-saga-troy-expert-advice-for-a-steady-and-uninterrupted-pc-gaming-session/"><u>Total War Saga: Troy - Expert Advice for a Steady and Uninterrupted PC Gaming Session</u></a></li>
 </ul></div>
 

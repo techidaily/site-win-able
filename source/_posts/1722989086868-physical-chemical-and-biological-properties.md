@@ -1,7 +1,7 @@
 ---
 title: Physical, Chemical, and Biological Properties
-date: 2024-12-12T20:31:21.535Z
-updated: 2024-12-19T22:21:06.961Z
+date: 2025-03-03T12:02:17.462Z
+updated: 2025-03-04T11:44:06.794Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![steam clear cache](https://images.drivereasy.com/wp-content/uploads/2021/07/clear_download_cache.jpg)
 3. Then select**OK** to confirm and acknowledge that you’ll need to log in to Steam again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![confirm clear cache](https://images.drivereasy.com/wp-content/uploads/2021/07/confirm_clear_cache.jpg)
 
  This process will not affect your currently installed games, but you will need to log into Steam afterwards.
@@ -91,10 +87,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -108,10 +100,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 2. Click**OK** to confirm your action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Once the Command Prompt window is open, type the following command lines (press**Enter** after entering each command line):  
 **`netsh winsock reset`**  
 **`netsh int ip reset`**  
@@ -120,10 +108,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **`ipconfig /flushdns`**  
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. You’ll need to restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5\. Change your DNS server
 
@@ -149,10 +133,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
  If you worked hard through the basic troubleshooting guide but still the error ‘**You have lost connection to the Destiny 2 servers** ‘ persists, you can try setting up UPnP or Port Forwarding (we don’t recommend doing both of them).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1\. Enable UPnP
 
 1. In the Windows Seach bar, type in**cm** d and select**Command Prompt** .  
@@ -164,10 +144,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Enable Port Forwarding
 
@@ -183,15 +159,7 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
@@ -206,15 +174,7 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
@@ -281,20 +241,24 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-invest-in-insta-success-the-top-earners-playbook/"><u>[New] 2024 Approved Invest in Insta Success The Top Earners' Playbook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>[New] In 2024, Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-shift-video-techniques-mastering-transitions/"><u>[New] Quick-Shift Video Techniques Mastering Transitions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-acoustic-windows-aficionado-toolkit/"><u>[Updated] In 2024, Acoustic Windows Aficionado Toolkit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-role-of-content-quality-in-youtube-rankings/"><u>[Updated] The Role of Content Quality in YouTube Rankings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-pivoting-pictures-a-how-to-on-flipping-videos-for-viral-engagement/"><u>2024 Approved Pivoting Pictures A How-To on Flipping Videos for Viral Engagement</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-gaming-interruptions-easily-resolve-steam-disk-errors/"><u>Avoid Gaming Interruptions: Easily Resolve Steam Disk Errors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-clear-stickers-in-video/"><u>Comprehensive Guide to Clear Stickers in Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-4-pc-fix-no-more-vehicle-collisions/"><u>Forza Horizon 4 PC Fix - No More Vehicle Collisions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/genshin-impact-pc-version-troubleshooting-and-fixing-crashes-successfully/"><u>Genshin Impact PC Version: Troubleshooting & Fixing Crashes Successfully!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-efficiently-incorporate-and-retract-audacity-into-your-chromebooks-audio-workflow/"><u>New 2024 Approved Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-twitch-stream-buffering-seven-tactics-for-a-smooth-viewing-experience/"><u>Overcome Twitch Stream Buffering: Seven Tactics for a Smooth Viewing Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/staying-the-course-teslas-assurance-of-continued-development-on-cybertruck-and-upcoming-platform-revealed-by-zdnet/"><u>Staying the Course: Tesla's Assurance of Continued Development on Cybertruck & Upcoming Platform Revealed by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-resolving-issues-with-intel-graphics-drivers/"><u>Troubleshooting Fixes: Resolving Issues with Intel Graphics Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-assassins-creed-valhallas-unexpected-launch-schedule-shift/"><u>Unraveling the Mystery Behind Assassin's Creed Valhalla’s Unexpected Launch Schedule Shift</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-15-strategies-to-supercharge-your-learning-with-podcasts/"><u>[New] 2024 Approved 15 Strategies to Supercharge Your Learning with Podcasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-color-grading-plugins-top-15-luts-for-action-cams-for-2024/"><u>[New] Best Color Grading Plugins Top 15 LUTs For Action Cams for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-mac-screen-recorders-ranked-a-comprehensive-analysis/"><u>[Updated] In 2024, Top Mac Screen Recorders Ranked A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-inside-look-prospects-and-pitfalls-of-samsung-image-processor-2023/"><u>[Updated] Inside Look Prospects & Pitfalls of Samsung Image Processor, 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-ai-substitutes-for-topaz-gigapixel-ranking-the-top-10-options/"><u>Best Free AI Substitutes for Topaz Gigapixel: Ranking the Top 10 Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-playback-errors-on-firefox-optimizing-your-viewing-experience/"><u>Bypassing Playback Errors on Firefox: Optimizing Your Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-server-linkage-and-stability-in-escape-from-tarkov/"><u>Expert Advice on Restoring Server Linkage and Stability in Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-implemented-accessing-origin-accounts-is-possible-again/"><u>Fix Implemented! Accessing Origin Accounts Is Possible Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-baldurs-gate-ebook-wont-start-a-step-by-step-solution/"><u>Fixing 'Baldur's Gate eBook Won't Start': A Step-by-Step Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-x50i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor X50i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>In 2024, Mastering the Art of Audio with Zoom Your Complete Guidebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-your-gameplay-enhancing-frame-rates-in-ring-of-elysium/"><u>Maximizing Your Gameplay: Enhancing Frame Rates in Ring of Elysium</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-troubleshooting-tips-for-a-smooth-fifa-19-gaming-experience/"><u>No More Glitches: Troubleshooting Tips for a Smooth FIFA 19 Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-installation-hurdles-solving-the-msfs2020-checking-for-updates-error/"><u>Overcoming Installation Hurdles - Solving the MSFS2020 'Checking for Updates' Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-persistent-loading-issues-in-among-us/"><u>Resolved: How to Fix Persistent Loading Issues in Among Us</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-fix-it-friends-fall-guys-initial-load-issues-and-avoid-unexpected-shutdowns/"><u>Solve Fix-It Friends (Fall Guys) Initial Load Issues & Avoid Unexpected Shutdowns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-workflow-for-high-volume-designs-with-canva-and-chatgpt-integration/"><u>The Ultimate Workflow for High-Volume Designs with Canva & ChatGPT Integration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-live-view-expert-tips-for-navigating-with-google-maps/"><u>Unlocking the Power of Live View: Expert Tips for Navigating with Google Maps</u></a></li>
 </ul></div>
 

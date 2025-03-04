@@ -1,7 +1,7 @@
 ---
 title: Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside
-date: 2025-02-07T16:30:23.564Z
-updated: 2025-02-14T18:04:55.807Z
+date: 2025-02-28T02:18:08.999Z
+updated: 2025-03-03T16:33:40.275Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -48,10 +44,6 @@ Here’s how you can check the file integrity on Steam:
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
@@ -77,10 +69,6 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -116,10 +104,6 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -131,15 +115,7 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -162,24 +138,24 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-2023-fb-live-stream-mp4-conversion-tool/"><u>[New] 2024 Approved 2023 FB Live Stream MP4 Conversion Tool</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-halt-real-time-audiovideo-capturing-on-apples-platform/"><u>[New] 2024 Approved Halt Real-Time Audio/Video Capturing on Apple's Platform</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-blocking-unwanted-youtube-channels-pc-and-mobile-edition/"><u>[New] Blocking Unwanted Youtube Channels PC & Mobile Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-high-impact-imaging-our-favorite-7-4k-cameras/"><u>[Updated] 2024 Approved High-Impact Imaging Our Favorite 7 4K Cameras</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mp3-to-youtube-converter-upload-mp3-to-youtube/"><u>[Updated] MP3 to YouTube Converter Upload MP3 to YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-deep-dive-into-samsungs-picture-perfection-app-for-2024/"><u>A Deep Dive Into Samsung's Picture Perfection App for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/easy-guide-to-instagram-post-duplication/"><u>Easy Guide to Instagram Post Duplication</u></a></li>
-<li><a href="https://win-able.techidaily.com/freshly-updated-game-no-more-freezing/"><u>Freshly Updated Game - No More Freezing</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-elex-ii-from-crashing-on-your-computer/"><u>How to Prevent Elex II From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-modern-warfare-the-new-era-of-first-person-shooting-in-counter-strike-global-offensive/"><u>Mastering Modern Warfare: The New Era of First-Person Shooting in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-gameplay-fluidity-2024-expert-fixes-for-frequent-fps-drops-in-valorant/"><u>Maximize Gameplay Fluidity: 2024 Expert Fixes for Frequent FPS Drops in Valorant</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-transcribing-speech-to-mp3-audio-format-for-diverse-platforms-for-2024/"><u>New Transcribing Speech to MP3 Audio Format for Diverse Platforms for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-obstacle-correcting-the-apex-legends-leaf-code-glitch/"><u>Overcome the Obstacle: Correcting the Apex Legends Leaf Code Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-unveiled-endless-crashes-plaguing-pathfinder-the-wrath-of-the-righteous-edition/"><u>Solution Unveiled: Endless Crashes Plaguing Pathfinder - The Wrath of the Righteous Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-stop-zombie-army-4-from-freezing-or-crashing-on-your-pc/"><u>Solved! How to Stop Zombie Army 4 From Freezing or Crashing on Your PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/tactics-to-make-fb-videos-attractive-and-effective/"><u>Tactics to Make FB Videos Attractive and Effective</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-long-awaited-debut-it-takes-two-is-out/"><u>The Long-Awaited Debut: 'It Takes Two' Is Out!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-fall-guys-freezing-on-load/"><u>Troubleshooting Guide: How to Fix Fall Guys Freezing on Load</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-becoming-a-gif-maestro-the-meme-creators-handbook/"><u>[New] In 2024, Becoming a GIF Maestro The Meme Creator’s Handbook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-free-attractive-youtube-intros-for-2024/"><u>[Updated] The Essential Guide to Free, Attractive YouTube Intros for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-guide-to-youtube-app-on-iphones-and-androids/"><u>[Updated] Ultimate Guide to YouTube App on iPhones and Androids</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-guide-to-resolving-lower-fps-in-farming-simulator-22-when-played-on-a-personal-computer/"><u>A Guide to Resolving Lower FPS in Farming Simulator 22 When Played on a Personal Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-traffic-with-smart-youtube-title-and-tag-use/"><u>Boosting Traffic with Smart YouTube Title & Tag Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/chivalry-2-update-fixes-implemented-to-prevent-game-crashes-successfully/"><u>Chivalry 2 Update: Fixes Implemented to Prevent Game Crashes Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-launch-postponed-for-pc-version-reasons-known/"><u>Diablo Immortal Launch Postponed for PC Version, Reasons Known</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-macx-pro-premium-apple-tv-format-converter-for-mac-now-free/"><u>Download MacX Pro: Premium APPLE TV Format Converter for Mac - Now FREE!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/download-freier-high-definition-video-player-fur-die-wiedergabe-von-full-hd-und-hd-inhalten-720p/"><u>Download: Freier High-Definition Video Player Für Die Wiedergabe Von Full HD Und HD-Inhalten (720P)</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-4201-demystified-comprehensive-guide-to-troubleshoot-genshin-impacts-hiccup/"><u>Error 4201 Demystified: Comprehensive Guide to Troubleshoot Genshin Impact's Hiccup</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-troubleshooting-steps-for-mtg-arenas-black-screen-issue/"><u>Fixes and Troubleshooting Steps for MTG Arena's Black Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-internet-explorer-has-stopped-working/"><u>How to Fix Internet Explorer Has Stopped Working</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-modern-warfare-3s-notorious-issue-memory-error-12707/"><u>How to Overcome Modern Warfare 3'S Notorious Issue: Memory Error 12707</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flick-retrospective-the-goofy-movie-edition-revisited/"><u>In 2024, Flick Retrospective The 'Goofy Movie' Edition Revisited</u></a></li>
+<li><a href="https://win-able.techidaily.com/obs-on-windows-10-and-11-troubleshooting-crashes-updated-solutions/"><u>OBS on Windows 10 & 11: Troubleshooting Crashes - Updated Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/speedy-sound-solutions-for-smartphone-users/"><u>Speedy Sound Solutions for Smartphone Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-stable-drops-in-gaming-fps-scores/"><u>Troubleshooting and Enhancing Stable Drops in Gaming FPS Scores</u></a></li>
 </ul></div>
 

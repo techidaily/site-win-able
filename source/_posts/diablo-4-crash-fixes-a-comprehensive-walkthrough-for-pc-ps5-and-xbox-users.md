@@ -1,7 +1,7 @@
 ---
 title: "Diablo 4 Crash Fixes: A Comprehensive Walkthrough for PC, PS5 & Xbox Users"
-date: 2025-02-09T17:39:02.020Z
-updated: 2025-02-14T16:00:15.519Z
+date: 2025-02-25T11:25:28.906Z
+updated: 2025-03-03T16:24:54.399Z
 tags:
   - win11
   - win10
@@ -58,23 +58,11 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update controller
 
@@ -86,19 +74,11 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/ms-accessories.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Run the app, it automatically detected the Microsoft controller which was connected to your PC.
 
  4) Follow the instructions to update the controller.
 
  5) Play Diablo 4 and check whether you have crashed or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Change game settings
 
@@ -136,10 +116,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 4. Find the reverting to default option in BIOS settings, select it, save changes, and exit.  
  If you can’t find the option, find the Advanced tab, go to Performance and look for CPU overclocking. Then disable it and save changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Close or uninstall conflicts apps
 
  Blizzard suggests gamers close all other applications while playing Diablo 4 to resolve application conflicts and free up resources. And there are gamers who reported several software which conflict with Diablo 4.
@@ -155,10 +131,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 3) Right-click on the suspicious app and select End task.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Update operating system
 
@@ -184,20 +156,12 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your PC and check whether the Diablo 4 crashing is solved or not.
 
 ## Diablo 4 crashing fixes for PS5/Xbox
 
  Many PS5 and Xbox gamers say they’ve encountered constant crashes. They have to start restarting the game after each dungeon which is annoying. Restarting works for PS5, but that’s not a permanent fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Free up storage
 
@@ -234,19 +198,18 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-your-ultimate-resource-steps-to-free-premium-image-use-for-2024/"><u>[New] Your Ultimate Resource Steps to Free Premium Image Use for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-device-footage-to-youtube-shorts-your-streamlined-approach-for-2024/"><u>[Updated] From Device Footage to YouTube Shorts - Your Streamlined Approach for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-platform-dominance-a-comprehensive-twitch-vs-youtube-review-for-2024/"><u>[Updated] Platform Dominance A Comprehensive Twitch Vs. YouTube Review for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-slim-storage-cloud-cost-insights/"><u>[Updated] Secure & Slim Storage Cloud Cost Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-instantaneously-add-closed-captions-to-youtube-clips/"><u>[Updated] Your Guide to Instantaneously Add Closed Captions to YouTube Clips</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-game-crash-issues-in-football-manager-2020-expert-tips-and-tricks/"><u>A Comprehensive Guide to Fixing Game Crash Issues in Football Manager 2020: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728495065416-aomei-backupper/"><u>AOMEI Backupper软件的系统需求分析</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-3-troubleshooting-guide-eliminating-game-crashes-and-ensuring-smooth-running/"><u>ARMA 3 Troubleshooting Guide: Eliminating Game Crashes and Ensuring Smooth Running</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-undead-and-technical-difficulties-in-zombie-army-4-dead-war/"><u>Beat the Undead & Technical Difficulties in Zombie Army 4: Dead War</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210595748-9781452103273-horrorscopes/"><u>Horrorscopes | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-battlefield-ebootstraps-launch-issue-guide/"><u>Mastering the Fix: Battlefield Ebootstraps Launch Issue Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frequent-glitches-optimizing-your-persona-4-golden-experience/"><u>Resolving Frequent Glitches: Optimizing Your Persona 4 Golden Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-the-grounded-game-crashes-effective-tips-and-tricks/"><u>Solve the 'Grounded' Game Crashes : Effective Tips & Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outubers-blueprint-building-a-powerhouse-channel/"><u>The YouTuber’s Blueprint Building a Powerhouse Channel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-celebrating-beauty-innovators-youtubes-elite-list/"><u>[Updated] 2024 Approved Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-explore-sites-where-you-can-procure-youtube-affiliate-partnerships-for-2024/"><u>[Updated] Explore Sites Where You Can Procure Youtube Affiliate Partnerships for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-learn-the-easy-ways-to-turn-your-watching-experience-on-youtube-into-a-screencast-without-money/"><u>[Updated] In 2024, Learn the Easy Ways to Turn Your Watching Experience on YouTube Into a Screencast Without Money</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[Updated] Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-vi-wont-start-on-windows-10-fixes-and-solutions/"><u>Civilization VI Wont Start on Windows 10 – Fixes & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sons-of-the-forest-glitches-for-smooth-gaming-on-your-computer/"><u>Fixing Sons of the Forest Glitches for Smooth Gaming on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-and-msvcr110dll-troubleshooting-a-dll-file-not-found-issue/"><u>Helldivers 2 and MSVCR110.dll - Troubleshooting a DLL File Not Found Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-c33-2023-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme C33 2023 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-troubleshooting-pc-instability-before-launch/"><u>Lego Star Wars The Skywalker Saga - Troubleshooting PC Instability Before Launch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-ai-techniques-for-enhanced-software-engineering-essential-guide-and-tips-zdnet/"><u>Mastering AI Techniques for Enhanced Software Engineering: Essential Guide and Tips | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-trouble-free-gameplay-correcting-serious-faults-in-tales-of-arise-ue4-version/"><u>Mastering Trouble-Free Gameplay: Correcting Serious Faults in Tales of Arise, UE4 Version</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/quick-and-effective-video-production-on-mac-for-snapchat/"><u>Quick and Effective Video Production on Mac for Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-the-elder-scrolls-online-launching-issues/"><u>Troubleshooting Tips: How to Resolve 'The Elder Scrolls Online' Launching Issues</u></a></li>
 </ul></div>
 

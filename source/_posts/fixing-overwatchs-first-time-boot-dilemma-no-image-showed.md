@@ -1,7 +1,7 @@
 ---
 title: Fixing Overwatch's First-Time Boot Dilemma – No Image Showed
-date: 2025-02-07T22:48:33.277Z
-updated: 2025-02-14T23:30:13.777Z
+date: 2025-02-28T23:59:55.691Z
+updated: 2025-03-04T10:52:15.022Z
 tags:
   - win11
   - win10
@@ -73,10 +73,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -84,10 +80,6 @@ Here’s how you can check for updates manually:
 Once done, restart your PC and see if Warzone is using your GPU.
 
  If updating your system doesn’t help, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
 
@@ -100,16 +92,8 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t work for you, simply move on to the next one.
 
@@ -121,20 +105,12 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
@@ -143,10 +119,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
  If this setting doesn’t help, take a look at the next solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -176,22 +148,24 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>[New] 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-tune-up-guide-new-gadgets-reviewed/"><u>[New] Tune-Up Guide New Gadgets Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>[Updated] 2024 Approved Mastering Mobile Audio IPhone Voice Memos Made Easy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-and-quality-editing-tips-for-obs-studio-aces/"><u>[Updated] In 2024, Quick and Quality Editing Tips for OBS Studio Aces</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-vsco-image-enhancement-for-2024/"><u>Comprehensive Guide to VSCO Image Enhancement for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-your-profile-a-guide-to-stellar-facebook-tales/"><u>Elevate Your Profile: A Guide to Stellar Facebook Tales</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-f04-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy F04 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framed-fantasies-expert-recommendations-on-software-and-sites/"><u>In 2024, Framed Fantasies Expert Recommendations on Software & Sites</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-for-mov-to-mpeg-transformation-using-windows-11-tools/"><u>Quick Guide for MOV to MPEG Transformation Using Windows 11 Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-to-transform-your-dvd-into-an-avi-file/"><u>Simple Steps to Transform Your DVD Into an AVI File</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-iphone-video-issues-top-6-tips-for-successful-pc-playback/"><u>Solve Your iPhone Video Issues: Top 6 Tips for Successful PC Playback</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-mass-mpa-to-wav-file-conversions/"><u>Step-by-Step Tutorial on Mass MPA to WAV File Conversions</u></a></li>
-<li><a href="https://win-able.techidaily.com/superior-iphone-video-editor-ultimate-pro-convert-any-video-format-effortlessly/"><u>Superior iPhone Video Editor Ultimate Pro - Convert Any Video Format Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-showdown-best-servers-and-storage-racking-for-high-performance-networks/"><u>The Ultimate Showdown: Best Servers & Storage Racking for High-Performance Networks</u></a></li>
-<li><a href="https://win-able.techidaily.com/transform-your-dvds-into-versatile-video-files-guide-on-converting-dvd-content/"><u>Transform Your DVDs Into Versatile Video Files: Guide on Converting DVD Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/twitchtvpc/"><u>Twitch.tv動画PCでダウンロード・レコーディング・セーブ手順</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-hand-held-balance-for-sharp-images/"><u>[New] 2024 Approved Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-vivid-visuals-strategies-for-splendid-screen-illumination/"><u>[New] In 2024, Vivid Visuals Strategies for Splendid Screen Illumination</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[Updated] In 2024, CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-secret-sauce-to-staying-fresh-on-instagram-a-4-step-guide-to-gifs/"><u>[Updated] The Secret Sauce to Staying Fresh on Instagram A 4-Step Guide to GIFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-advanced-ai-claude-takes-the-helm-for-amazons-latest-alexa-enhancement-zdnet/"><u>Anthropic's Advanced AI, Claude, Takes the Helm for Amazon's Latest Alexa Enhancement | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008963145-arma-3-crashing-woes-heres-the-ultimate-guide-to-solve-them/"><u>Arma 3 Crashing Woes? Here's the Ultimate Guide to Solve Them !</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-savvy-amazon-kindle-review-2019-the-essentials-of-an-economical-reading-device/"><u>Budget Savvy Amazon Kindle Review (2019): The Essentials of an Economical Reading Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/death-stranding-on-pc-crash-no-longer-an-issue-update-breakdown/"><u>Death Stranding on PC Crash No Longer an Issue - Update Breakdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-updating-graphic-card-drivers-for-enhanced-gameplay-in-forza-horizon-5/"><u>Guide to Updating Graphic Card Drivers for Enhanced Gameplay in Forza Horizon 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-battlenet-connection-issues-in-windows-environments/"><u>How to Repair Your Battle.net Connection Issues in Windows Environments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spark-the-flame-top-10-motivational-films-for-you/"><u>In 2024, Spark the Flame Top 10 Motivational Films for You</u></a></li>
+<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-movie-release-update/"><u>Insights Unveiled: 'It Takes Two' Movie Release Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovos-p11-pro-insights-a-promising-tablet-experience-with-some-downsides/"><u>Lenovo's P11 Pro Insights - A Promising Tablet Experience With Some Downsides</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-setup-of-tiny-tinas-wonderlands-for-pc-a-step-by-step-troubleshooting-guide/"><u>Mastering the Setup of Tiny Tina’s Wonderlands for PC – A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-corporate-correspondence-via-ai-practical-tips-and-tricks/"><u>Optimizing Corporate Correspondence via AI: Practical Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-difficulties-for-pc-based-wizardry-software-creations/"><u>Overcoming Launch Difficulties for PC-Based Wizardry Software Creations</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-ark-survival-ascended-pc-game-crash-issues-using-9-effective-fixes/"><u>Solve Your ARK: Survival Ascended PC Game Crash Issues Using 9 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-squadrons-solving-the-games-infamous-crash-glitch/"><u>Star Wars: Squadrons - Solving the Game's Infamous Crash Glitch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wireless-vinyl-magic-audio-technicas-bk-turntable-revealed/"><u>Wireless Vinyl Magic: Audio-Technica's BK Turntable Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Glitches - Tips for a Smoother Gameplay in Genshin Impact
-date: 2025-02-09T01:48:39.285Z
-updated: 2025-02-15T02:11:20.800Z
+date: 2025-03-03T03:57:37.008Z
+updated: 2025-03-03T21:22:31.234Z
 tags:
   - win11
   - win10
@@ -58,17 +58,9 @@ Here are the requirements for your reference:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-81.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’re sure that your machine meets the system requirements to run the game, but House Flipper 2 still crashes, please move on to the other fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Start House Flipper 2 with a command
 
@@ -78,10 +70,6 @@ Here are the requirements for your reference:
 2. Copy and paste this command and hit Enter:` **steam://rungameid/613100// -force-feature-level-10-0** `  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-82.png)
 3. When asked if you want to run House Flipper 2, click OK to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This command is to force House Flipper 2 to run on Direct 10, which is lower than Direct 11 it requires. It should work on older computers or older graphics cards. But if your House Flipper 2 still crashes or doesn’t open in this way, please move on.
 
@@ -99,15 +87,7 @@ Here are the requirements for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then try your House Flipper 2 again to see if it still crashes. If the problem remains, please move on to the next fix.
 
@@ -156,10 +136,6 @@ Here are the requirements for your reference:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-21.png)
 3. Select**Switchable Graphics** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-22.png)
 4. Click**Installed Profile Applications** if House Flipper 2 is not shown in Running Applications. Click the .exe for House Flipper 2 and select**High Performance** .  
@@ -226,10 +202,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Turn off V-Sync
 
  VSync (Vertical Sync) is designed to fix screen tearing and screen stuttering by syncing the refresh rate with the frame rate of your monitor. When the game’s frame rate is too high for your monitor to keep up, not only will you notice the eye-soring screen tearing, but also the game crashing like the one with House Flipper 2\. To fix it, you can change the VSync settings for your display card.
@@ -243,10 +215,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
@@ -256,10 +224,6 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
@@ -271,10 +235,6 @@ To do so, first visit the website of your GPU manufacturer:
  When V-sync is off, launch House Flipper 2 again to see if it still crashes. If the problem still remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Reinstall the game into a different drive (preferably to an SSD)
 
@@ -329,22 +289,24 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/av1-dateien-mit-handbrake-erstellen-funktioniert-das-und-wie/"><u>AV1 Dateien Mit HandBrake Erstellen - Funktioniert Das Und Wie?</u></a></li>
-<li><a href="https://win-able.techidaily.com/clear-solution-for-overwatchs-persistent-dark-screen-on-launch-discovered/"><u>Clear Solution for Overwatch's Persistent Dark Screen on Launch Discovered</u></a></li>
-<li><a href="https://win-able.techidaily.com/collaborate-with-colleagues-across-different-departments-to-ensure-seamless-customer-experiences-and-effective-resolution-of-complex-problems-requiring-inpu352/"><u>Collaborate with Colleagues Across Different Departments to Ensure Seamless Customer Experiences and Effective Resolution of Complex Problems Requiring Input From Various Specialists.</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-civ-6-effective-solutions-to-tackle-access-violation-glitches-under-new-legal-provisions-year-2024/"><u>Decoding CIV 6: Effective Solutions to Tackle Access Violation Glitches Under New Legal Provisions (Year 2024)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-flac-to-mp3-converter-easy-and-reliable-by-movavi/"><u>Free Online FLAC to MP3 Converter - Easy and Reliable by Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-x9b-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-poco-f5-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Poco F5 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-when-lost-ark-wont-connect-tactics-for-handling-server-errors/"><u>Mastering the Fix for When Lost Ark Won't Connect: Tactics for Handling Server Errors</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/569387-9780307768582-reiki-for-spiritual-healing/"><u>Reiki for Spiritual Healing | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-palworld-eos-account-access-problems-with-these-6-key-fixes/"><u>Resolve Your PalWorld EOS Account Access Problems with These 6 Key Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-touchpad-functionality-after-driver-loss/"><u>Restoring Touchpad Functionality After Driver Loss</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996446435-rocket-league-freezing-issues-solve-them-with-these-expert-tips/"><u>Rocket League Freezing Issues? Solve Them with These Expert Tips !</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-solve-fortnite-loading-error-in-minutes/"><u>Troubleshoot and Solve 'Fortnite Loading Error' In Minutes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-memes-an-introduction/"><u>Understanding Memes: An Introduction</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-destiny-2-and-the-infamous-2024-broccoli-glitch-solution/"><u>Unraveling the Mystery: Destiny 2 and the Infamous 2024 Broccoli Glitch Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-asus-rog-strix-z370-f-gaming-motherboard-drivers/"><u>[INSTANT DOWNLOAD] ASUS ROG Strix Z370-F Gaming Motherboard Drivers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/1716491022533-new-triller-vs-tiktok-similarities-and-differences-a-complete-guide-for-2024/"><u>[New] Triller Vs. TikTok - Similarities & Differences - a Complete Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[Updated] Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-playing-fb-videos-on-your-apple-device/"><u>2024 Approved Playing FB Videos on Your Apple Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-graphics-card-not-functioning-in-windows-(-)-solutions-and-tips/"><u>Cyberpunk 2077 Graphics Card Not Functioning in Windows <->: Solutions and Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/editing-enhanced-mastering-movies-in-windows-11-environment-for-2024/"><u>Editing Enhanced Mastering Movies in Windows 11 Environment for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-re-established-link-to-world-of-warcraft-online-services/"><u>Fixing the Issue: Re-Established Link to World of Warcraft Online Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-mystery-unraveling-apex-legends-error-code-23/"><u>Fixing the Mystery: Unraveling Apex Legends' Error Code 23</u></a></li>
+<li><a href="https://win-able.techidaily.com/obs-recording-malfunction-heres-how-you-can-fix-it-now/"><u>OBS Recording Malfunction? Here's How You Can Fix It Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/online-sign-in-portal-restored-access-regained/"><u>Online Sign-In Portal Restored: Access Regained</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-woes-resolved-dealing-with-ongoing-rogue-company-malfunctions/"><u>PC Gaming Woes Resolved: Dealing with Ongoing Rogue Company Malfunctions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-effortlessly-embedding-an-audio-trail-on-your-mp4-video/"><u>Quick Guide: Effortlessly Embedding an Audio Trail on Your MP4 Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frame-drops-and-lag-in-cyberpunk-2077-a-comprehensive-guide/"><u>Resolving Frame Drops and Lag in Cyberpunk 2077: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-hp-monitor-malfunctions-a-complete-walkthrough/"><u>Resolving HP Monitor Malfunctions: A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-digital-muse-leveraging-chatgpt-technology-for-your-poetry-writing-journey/"><u>The Digital Muse: Leveraging ChatGPT Technology for Your Poetry Writing Journey</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-downloading-youtube-media-for-2024/"><u>The Ultimate Guide to Downloading YouTube Media for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Pova 6 Pro 5G Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-unable-to-join-a-party-in-fortnite-error-code-84/"><u>Ultimate Guide to Fixing 'Unable to Join a Party' In Fortnite (Error Code 84)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dvdmovavi-movavis-ultimate-dvd-writing-and-backup-solution/"><u>データバックアップ・DVD焼き込みソフト「Movavi」ユーザガイド - Movavi's Ultimate DVD Writing & Backup Solution</u></a></li>
 </ul></div>
 

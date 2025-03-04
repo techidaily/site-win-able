@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Connectivity Errors: Restore Functionality of Logitech G Hub on Windows Computers"
-date: 2025-02-14T00:41:22.213Z
-updated: 2025-02-15T04:27:18.052Z
+date: 2025-02-28T12:11:22.127Z
+updated: 2025-03-03T20:17:12.886Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -76,10 +72,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
 
@@ -94,10 +86,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 
@@ -105,10 +93,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
@@ -137,10 +121,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 If this fix can’t help, you can move to the next.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the settings
 
@@ -175,19 +155,11 @@ If this fix can’t help, you can move to the next.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
  If it doesn’t work, you can contact your ISP for more information. Some players reported the ISP would block their ability to use all Minecraft servers. You need to persist and they’ll make a change.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tips
 
@@ -220,19 +192,20 @@ If this fix can’t help, you can move to the next.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-safaris-picture-in-picture-settings-simplified/"><u>[New] Safari’s Picture In Picture Settings Simplified</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>2024 Approved The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tiny-tycoons-trail-to-treasure-ryan-kaji-and-youtube-earnings/"><u>2024 Approved Tiny Tycoon’s Trail to Treasure Ryan Kaji and YouTube Earnings</u></a></li>
-<li><a href="https://win-able.techidaily.com/cutting-through-the-buffering-proven-solutions-to-your-lol-bandwidth-woes/"><u>Cutting Through the Buffering: Proven Solutions to Your LoL Bandwidth Woes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-no-cost-streaming-sites-top-7-picks-for-web-series-lovers/"><u>Discover the Ultimate List of No-Cost Streaming Sites - Top 7 Picks for Web Series Lovers</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-black-ops-cold-war-issue-error-887a0005-demystified/"><u>Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-lost-ark-experience-fixing-lag-issues-maximizing-fps-gain/"><u>Enhance Your Lost Ark Experience: Fixing Lag Issues, Maximizing FPS Gain</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y17s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y17s For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-poco-f5-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Poco F5 5G?</u></a></li>
-<li><a href="https://win-able.techidaily.com/lunar-client-stability-issues-effective-strategies-for-preventing-pc-crashes/"><u>Lunar Client Stability Issues: Effective Strategies for Preventing PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-latency-free-performance-in-obs-broadcasts-and-video-capture-sessions/"><u>Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-11-power-management-a-complete-guide-to-using-the-battery-report-feature/"><u>Mastering Windows 11 Power Management: A Complete Guide to Using the Battery Report Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-troubleshooting-guide-to-fix-game-crashes/"><u>Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aji-ryan-at-11-amassing-wealth-via-online-videos-for-2024/"><u>[New] Kaji Ryan At 11, Amassing Wealth via Online Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tracing-back-on-facebook-a-laptop-and-mobile-recipe-for-2024/"><u>[Updated] Tracing Back on Facebook A Laptop & Mobile Recipe for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buys-secret-offer-for-free-macbook-air-m3-heres-the-insider-tutorial-zdnet/"><u>Best Buy’s Secret Offer for Free MacBook Air M3? Here's the Insider Tutorial! | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvd-video-dvdmp4/"><u>DVD Video: 理解して変換～DVDをMP4ファイルにするためのガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dragon-quest-xi-software-errors-troubleshooting-steps-inside/"><u>Fixing Dragon Quest XI Software Errors: Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/free-dj-dex-3-re-v31801-download-pioneer-dj-software/"><u>Free DJ DEX 3 RE v3.18.0.1 Download - Pioneer DJ Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-touchpad-sensitivity-on-windows-11-laptops/"><u>How to Change Touchpad Sensitivity on Windows 11 Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-sony-vaio-drivers-for-your-windows-device/"><u>How to Update or Download Sony VAIO Drivers for Your Windows Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-5-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme GT 5 ProFRP Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-court-and-your-computer-solve-nba-2k21-pc-glitches-easily/"><u>Mastering the Court and Your Computer: Solve NBA 2K21 PC Glitches Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-obstacles-a-2022-guide-for-playing-outriders-on-windows/"><u>Overcoming Startup Obstacles: A 2022 Guide for Playing Outriders on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-for-fixing-utorrents-downloading-problems/"><u>Step-by-Step Guide for Fixing uTorrent's Downloading Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-starting-your-game-fixing-pathfinder-wrath-of-the-righteous-not-loading-issues/"><u>Trouble with Starting Your Game? Fixing Pathfinder: Wrath of the Righteous Not Loading Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-assassins-creed-mirage-launch-problems-insider-advice-for-gamers-in-2n14/"><u>Ultimate Fixes for Assassin's Creed Mirage Launch Problems - Insider Advice for Gamers in 2N14</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011528804-why-isnt-my-amazon-prime-video-working-expert-solutions-inside/"><u>Why Isn't My Amazon Prime Video Working? Expert Solutions Inside</u></a></li>
 </ul></div>
 

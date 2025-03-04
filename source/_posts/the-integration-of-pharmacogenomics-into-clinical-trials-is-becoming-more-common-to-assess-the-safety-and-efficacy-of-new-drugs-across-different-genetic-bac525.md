@@ -1,7 +1,7 @@
 ---
 title: The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds
-date: 2025-02-14T01:49:15.202Z
-updated: 2025-02-15T00:22:14.969Z
+date: 2025-03-01T03:27:26.811Z
+updated: 2025-03-04T05:25:41.988Z
 tags:
   - win11
   - win10
@@ -118,25 +118,13 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -168,15 +156,7 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Make sure your system is up to date
 
@@ -188,16 +168,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -222,21 +194,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sequel-of-seconds-measuring-20mb-footage/"><u>[Updated] 2024 Approved Sequel of Seconds Measuring 20MB Footage</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-engage-viewers-immediitsly-the-art-of-screensharing-on-facebook-livestreams/"><u>[Updated] In 2024, Engage Viewers Immediitsly The Art of Screensharing on Facebook Livestreams</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-erase-the-obvious-techniques-for-masked-youtube-content/"><u>2024 Approved Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-luminous-color-corrector-kit/"><u>2024 Approved Luminous Color Corrector Kit</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-for-non-functional-windows-11-spotlight-images/"><u>Common Problems and Solutions for Non-Functional Windows 11 Spotlight Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-the-ideal-iphone-vpn-provider-comprehensive-guide-and-ratings-from-industry-insiders/"><u>Find the Ideal iPhone VPN Provider: Comprehensive Guide & Ratings From Industry Insiders</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-gionee-f3-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Gionee F3 Pro Easily?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>In 2024, Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-expert-tips-for-a-smooth-uncrashed-gaming-experience/"><u>Jurassic World Evolution - Expert Tips for a Smooth, Uncrashed Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-constant-outlook-instability-fixes-for-regular-software-interruptions/"><u>Overcoming Constant Outlook Instability: Fixes for Regular Software Interruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-help-how-to-fix-starfield-crashing-problems/"><u>PC Gaming Help - How to Fix Starfield Crashing Problems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210256718-9781641402019-seeking-after-the-man-in-me/"><u>Seeking after the Man in Me | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solutions-for-persistent-pc-crashes-in-persona-3-fractal-edition-p3f/"><u>Troubleshooting & Solutions for Persistent PC Crashes in Persona 3 Fractal Edition (P3F)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-smooth-run-in-arcadegeddon-on-your-computer-issues-resolved/"><u>Troubleshooting Tips for a Smooth Run in Arcadegeddon on Your Computer [ISSUES RESOLVED]</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-minecraft-launch-failures/"><u>Troubleshooting Tips: Resolving Minecraft Launch Failures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-flawless-frequency-facilitator-for-voices-for-2024/"><u>[New] Flawless Frequency Facilitator for Voices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laugh-loom-image-stitcher/"><u>[New] Laugh Loom Image Stitcher</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-step-by-step-guide-to-download-and-store-twitter-videos-on-phone/"><u>[New] Step-by-Step Guide to Download and Store Twitter Videos on Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams-for-2024/"><u>[New] The Essential Blueprint for Finding and Enjoying Premium Cricket Streams for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>[Updated] 2024 Approved Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-classical-cinematography-a-modern-tutorial-for-2024/"><u>[Updated] Creating Classical Cinematography A Modern Tutorial for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-marvel-gaming-experience-the-ultimate-guide-to-fixing-guardians-of-the-galaxy-on-pc/"><u>Elevate Your Marvel Gaming Experience - The Ultimate Guide to Fixing Guardians of the Galaxy on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/follow-your-kiln-manufacturers-instructions-for-temperature-and-timing-typically-around-cone-03-1824f-or-995c-to-cone-6-2232f-or-1222c-depending-on-the-type425/"><u>Follow Your Kiln Manufacturer's Instructions for Temperature and Timing, Typically Around Cone 03 (1824°F or 995°C) to Cone 6 (2232°F or 1222°C), Depending on the Type of Underglaze Used</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-red-dead-online-pc-stuttering-and-crashes-solutions-inside/"><u>How to Overcome Red Dead Online PC Stuttering and Crashes – Solutions Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-start-mass-effect-legendary-edition-fixes-for-common-launch-issues/"><u>How to Successfully Start Mass Effect Legendary Edition - Fixes for Common Launch Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-methods-to-mend-javascript-errors-in-your-discord-experience/"><u>Masterful Methods to Mend JavaScript Errors in Your Discord Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-godfall-lag-ultimate-fix-for-pc-game-crashes-and-freezes/"><u>No More Godfall Lag: Ultimate Fix for PC Game Crashes and Freezes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-common-errors-expert-advice-to-restore-netflix-functionality-on-your-lg-tv/"><u>Overcome Common Errors: Expert Advice to Restore Netflix Functionality on Your LG TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-your-dream-job-on-linkedin-using-chatgpt-essential-tips-for-a-competitive-edge/"><u>Secure Your Dream Job on LinkedIn Using ChatGPT - Essential Tips for a Competitive Edge</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-apex-legends-launch-issues-with-these-fast-fixes/"><u>Troubleshoot Apex Legends Launch Issues with These Fast Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004210310-troubleshooting-steps-for-star-wars-battlefront-2-error-code-327-get-back-in-the-game/"><u>Troubleshooting Steps for Star Wars Battlefront 2 Error Code 327 – Get Back in the Game</u></a></li>
 </ul></div>
 

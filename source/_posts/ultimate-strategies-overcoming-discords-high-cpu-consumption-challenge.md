@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Strategies: Overcoming Discord's High CPU Consumption Challenge"
-date: 2025-02-13T04:28:23.217Z
-updated: 2025-02-14T17:55:08.790Z
+date: 2025-02-26T23:28:46.876Z
+updated: 2025-03-04T07:39:58.763Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 
  If you’ve already done these, you can move on to the advanced troubleshooting below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’re the advanced fixes for your**Valorant not launching issue** . You might not need to try them all, just work down the list until you find the one that does the trick.
@@ -64,20 +60,12 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-42-27.jpg)
 2. Under the**Scale and layout** section, select an option from the drop down menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-47-42.jpg)
 3. Choose a**lower** resolution.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-51-18.jpg)
 
  You can test all the resolution options with Valorant and see which one solve your problem. If this method doesn’t work for you, don’t worry, just try the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -129,10 +117,6 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
 4. Launch Valorant and see if you can log in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Close all Riot related processes
 
  Some players commented that Valorant won’t start when a process is not working properly. That means you need to exit all the Riot related processes and launch Valorant again. Here’re 3 things you need to do:
@@ -169,10 +153,6 @@ Here’s an example of how to disable Windows Security:
 
  If this fix doesn’t help you, turn the antivirus back on and continue to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7: This game is not available on your operating system
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/game-not-available.jpg)
@@ -185,10 +165,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
 3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Release Standby Memory
 
  One common reason Valorant won’t launch is that your PC doesn’t have the available RAM for the game. Windows uses part of the physical RAM as cache, or what is called**Standby Memory** . The system might run into issues when standby memory isn’t released on time. In that case, you can clear the standby memory manually and see how it goes.
@@ -197,20 +173,12 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. You can empty the standby memory manually.  
 
  First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
 4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
@@ -232,10 +200,6 @@ Here’s an example of how to disable Windows Security:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
@@ -270,10 +234,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-52-29.jpg)
 4. Go to the[Valorant official website](https://playvalorant.com/en-us/) and download the latest version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s it. Hopefully you can launch Valorant without any problems. If you have any questions or suggestions, feel free to leave a comment.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -293,18 +253,19 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-enter-the-tiktok-live-arena-procedures-for-participation/"><u>[New] Enter the TikTok Live Arena Procedures for Participation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-htc-vive-review-the-most-immersive-vr-headset/"><u>[Updated] In 2024, HTC Vive Review – The Most Immersive VR Headset</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-how-to-record-hulu-on-winmacmobile/"><u>[Updated] The Ultimate Guide How To Record Hulu On Win/Mac/Mobile</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/dead-walkers-dominance-leading-zombie-video-game-ranks-for-2024/"><u>Dead Walkers Dominance Leading Zombie Video Game Ranks for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-6-most-watched-shorter-video-repositories-for-2024/"><u>Elite 6 Most Watched Shorter Video Repositories for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-how-to-ensure-smooth-operation-in-fall-guys-on-pc-setups/"><u>Expert Advice: How to Ensure Smooth Operation in Fall Guys on PC Setups</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-overcoming-game-wont-open-by-confirming-file-integrity-and-data/"><u>Guide To Overcoming 'Game Won't Open' By Confirming File Integrity and Data</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 14 Pro Max Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-warframe-not-loading-issue-quickly-and-easily/"><u>How to Fix the 'Warframe Not Loading' Issue Quickly and Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-chrome-loading-errors-steps-to-successfully-access-all-websites/"><u>Overcoming Chrome Loading Errors: Steps to Successfully Access All Websites</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-your-contents-reputation-while-gaining-a-million-viewer-engagements-for-2024/"><u>Securing Your Content's Reputation While Gaining A Million Viewer Engagements for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-tutorial-on-how-to-convert-smk-files-from-smacker-videos-effortlessly/"><u>The Ultimate Tutorial on How to Convert SMK Files From Smacker Videos Effortlessly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-touchscreen-laptop-showdown-in-depth-reviews-and-ratings-curated-by-zdnet-professionals/"><u>Ultimate Touchscreen Laptop Showdown: In-Depth Reviews & Ratings Curated by ZDNet Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-path-of-exile-failed-to-connect-to-instance-2024-guide/"><u>[SOLVED] Path Of Exile Failed To Connect To Instance – 2024 Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-recording-of-powerpoint-slides-via-webcam-for-2024/"><u>[Updated] Streamlined Recording of PowerPoint Slides via Webcam for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exposing-the-pinnacle-5-digital-title-artists/"><u>2024 Approved Exposing the Pinnacle 5 Digital Title Artists</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-google-pixel-4a-the-ideal-choice-for-casual-users/"><u>Comprehensive Evaluation of the Google Pixel 4A: The Ideal Choice for Casual Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curtailing-windows-auto-update-interruptions/"><u>Curtailing Windows Auto-Update Interruptions</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-troubleshooting-guide-fixes-for-endless-loading-pages/"><u>Dota 2 Troubleshooting Guide - Fixes for Endless Loading Pages</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-12-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus 12 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722988004807-minecraft-installation-woes-heres-how-you-can-get-it-running-smoothly-on-windows-11/"><u>Minecraft Installation Woes? Here's How You Can Get It Running Smoothly on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-player-how-to-fix-launching-failures-in-persona-3-fes/"><u>Persistent Player? How to Fix Launching Failures in Persona 3 FES</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-lag-and-freezing-problems-in-fortnite-for-a-smoother-gaming-experience/"><u>Resolve Lag and Freezing Problems in Fortnite for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722877499166-savvy-shoppers-secret-the-six-best-websites-for-incredible-savings/"><u>Savvy Shoppers' Secret: The Six Best Websites for Incredible Savings</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-discords-packet-dropping-problem/"><u>Step-By-Step Guide to Fixing Discord's Packet Dropping Problem</u></a></li>
 </ul></div>
 

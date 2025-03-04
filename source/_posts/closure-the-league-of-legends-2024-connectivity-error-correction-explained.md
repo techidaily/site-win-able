@@ -1,7 +1,7 @@
 ---
 title: "Closure: The League of Legends 2024 Connectivity Error Correction Explained"
-date: 2025-02-09T22:49:34.001Z
-updated: 2025-02-15T01:06:12.882Z
+date: 2025-02-24T22:25:41.915Z
+updated: 2025-03-03T21:58:25.341Z
 tags:
   - win11
   - win10
@@ -44,17 +44,9 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
 2. Wait at least 30 seconds to let the two machines cool down a bit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
 5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Switch Wi-Fi into a wired connection
 
@@ -71,19 +63,11 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Run LOL to check the issue is resolved or not.
 
@@ -114,10 +98,6 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
 
@@ -139,19 +119,11 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Launch LOL and check the connection issue.
 
  Don’t lose your hope if you still cannot fix the connection issue after trying all the methods above. Just read the next fix and give it a shot.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 7: Change your DNS server
 
@@ -170,10 +142,6 @@ Connection issues can happen in every online game and bother many players. The L
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
@@ -205,19 +173,18 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>[New] The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-editing-tiktok-edition-unveiled/"><u>[Updated] In 2024, Cutting-Edge Editing TikTok Edition Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-video-potential-dslr-vs-mirrorless-innovation/"><u>[Updated] In 2024, Decoding Video Potential DSLR vs Mirrorless Innovation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-multimedia-text-producer/"><u>[Updated] In 2024, Multimedia Text Producer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-wwii-display-problems-with-black-screens-on-pc-a-complete-guide/"><u>Fixing Call of Duty: WWII Display Problems with Black Screens on PC - A Complete Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210355820-9781644113011-flower-essences-from-the-witchs-garden/"><u>Flower Essences from the Witch's Garden | Free Book</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/from-capture-to-sharing-fb-video-uploads-via-pc-plus-android-for-2024/"><u>From Capture to Sharing FB Video Uploads via PC + Android for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-black-ops-4s-frame-rate-dips-and-steady-your-gameplay/"><u>How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-v-rising-game-lag-and-ensure-fluid-playback-on-pc/"><u>How to Stop V Rising Game Lag and Ensure Fluid Playback on PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professionals-picks-selecting-the-best-software-for-live-streamsvmix-or-wirecast/"><u>In 2024, Professionals' Picks Selecting the Best Software for Live Streams—VMix or Wirecast?</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-device-sync-how-to-resolve-iphone-recognition-failures-on-windows-10-using-itunes/"><u>Mastering Device Sync: How to Resolve iPhone Recognition Failures on Windows 10 Using iTunes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap-for-2024/"><u>Taking Comedy to the Digital Frontier Your GIF Creation Roadmap for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003299648-troubleshooting-steams-remote-play-top-solutions-for-when-it-fails/"><u>Troubleshooting Steam's Remote Play: Top Solutions for When It Fails!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-innovative-audio-tools-crafting-perfect-virtual-performances/"><u>[New] Innovative Audio Tools Crafting Perfect Virtual Performances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-your-go-to-list-for-immersive-sandboxes-for-2024/"><u>[Updated] Your Go-To List for Immersive Sandboxes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-profit-with-windows-11-pro-capture-best-offers/"><u>Accelerate Profit with Windows 11 Pro: Capture Best Offers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996576083-back-4-blood-pc-game-stability-issues-resolved-no-more-unexpected-crashes/"><u>Back 4 Blood PC Game Stability Issues Resolved: No More Unexpected Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-speedily-correcting-issues-with-your-control-software/"><u>Expert Tips: Speedily Correcting Issues With Your Control Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/future-proof-smartphone-choice-the-battle-between-galaxy-s24-ultra-and-s23-ultra-unveiled/"><u>Future-Proof Smartphone Choice: The Battle Between Galaxy S24 Ultra and S23 Ultra Unveiled</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-samsung-galaxy-watch-active-your-go-to-for-wellbeing-tracking/"><u>In-Depth Analysis: Samsung Galaxy Watch Active, Your Go-To for Wellbeing Tracking</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-game-advanced-techniques-to-prevent-phasmophobia-from-crashing-in-2amo/"><u>Master the Game: Advanced Techniques to Prevent Phasmophobia From Crashing in 2Amo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-deal-grab-your-new-ipad-for-only-199-at-amazons-labor-day-discount-extravaganza-featured/"><u>Score a Deal: Grab Your New iPad for Only $199 at Amazon's Labor Day Discount Extravaganza – Featured !</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/simplicity-in-action-constructing-an-intuitive-youtube-signup-page/"><u>Simplicity in Action Constructing an Intuitive YouTube Signup Page</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones-for-2024/"><u>Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-new-world-connection-issue/"><u>Ultimate Guide: Resolving the New World Connection Issue</u></a></li>
 </ul></div>
 

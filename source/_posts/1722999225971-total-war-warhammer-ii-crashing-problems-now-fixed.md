@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2025-02-12T17:16:51.577Z
-updated: 2025-02-14T18:06:15.788Z
+date: 2025-02-28T22:35:33.055Z
+updated: 2025-03-04T04:29:39.756Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -66,10 +62,6 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this doesn’t work for you, then try to verify game files in Steam.
 
 ### Fix 3: Verify game files
@@ -83,10 +75,6 @@ If this fix doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -108,10 +96,6 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -132,16 +116,8 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -168,22 +144,20 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-play-5-outstanding-gba-console-emulators-on-desktop-pcs-for-2024/"><u>[New] Perfect Play 5 Outstanding GBA Console Emulators on Desktop PCs for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-lost-ark-keeps-crashing-on-pc/"><u>[SOLVED] Lost Ark Keeps Crashing on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-techniques-for-excellent-powerpoint-recordings-for-2024/"><u>[Updated] Cutting-Edge Techniques for Excellent PowerPoint Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-ig-stories-with-seamless-audio-integration-for-2024/"><u>[Updated] Elevate IG Stories With Seamless Audio Integration for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-scrutiny-alternate-viewpoints/"><u>[Updated] Future Scrutiny Alternate Viewpoints</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-directory-ultimate-free-vectr-and-illustration-websites/"><u>Cutting-Edge Directory Ultimate Free Vectr and Illustration Websites</u></a></li>
-<li><a href="https://win-studio.techidaily.com/descubre-los-tipos-mas-eficaces-de-software-libre-para-la-sincronizacion-de-archivos-seleccionado-por-expertos/"><u>Descubre Los Tipos Más Eficaces De Software Libre Para La Sincronización De Archivos, Seleccionado Por Expertos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-solutions-for-pausing-resume-problems-with-ios-software-enhancements/"><u>Effective Solutions for Pausing-Resume Problems with iOS Software Enhancements</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-resolving-no-data-centers-detected-in-halo-infinite/"><u>Expert Advice for Resolving 'No Data Centers Detected' In Halo Infinite</u></a></li>
-<li><a href="https://win-able.techidaily.com/gameloop-stability-fixes-how-to-prevent-crashing-on-windows-11-and-10-systems/"><u>GameLoop Stability Fixes: How to Prevent Crashing on Windows 11 & 10 Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-download-vlc-player-for-free-and-safe-on-mac-in-2024/"><u>How to Download VLC Player for Free and Safe on Mac, In 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y71-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Huawei Nova Y71 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-black-screens-in-fallout-4-easy-troubleshooting-steps-inside/"><u>No More Black Screens in Fallout 4: Easy Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-silent-broadcasts-expert-advice-for-solving-twitch-streaming-sound-issues/"><u>Overcoming Silent Broadcasts: Expert Advice for Solving Twitch Streaming Sound Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-splitgate-lag-techniques-for-enhancing-fps-performance/"><u>Overcoming Splitgate Lag: Techniques for Enhancing FPS Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-playthrough-smooth-sailing-troubleshooting-guide-for-the-king-of-fighters-xv/"><u>PC Playthrough Smooth Sailing: Troubleshooting Guide for 'The King of Fighters XV'</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-recurrent-pc-freezes-in-rogue-company-a-complete-guide/"><u>Troubleshooting Recurrent PC Freezes in Rogue Company: A Complete Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>[New] 2024 Approved Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-guard-your-content-the-copyright-check-before-tiktok-publishing/"><u>[New] In 2024, Guard Your Content The Copyright Check Before TikTok Publishing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>[Updated] Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-ways-to-stop-your-overwatch-2-game-from-crashing-on-windowsmac/"><u>Effortless Ways to Stop Your Overwatch 2 Game From Crashing on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-irritating-ue4-madness-bug-a-solution-for-outrider-players/"><u>How to Fix the Irritating 'UE4-Madness' Bug: A Solution for Outrider Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-profitability-initial-steps-to-earnings/"><u>In 2024, YouTube Profitability Initial Steps to Earnings</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-steam-stability-overcoming-responsiveness-issues/"><u>Mastering Steam Stability: Overcoming Responsiveness Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-voice-chat-obstacles-in-among-us-a-pc-players-handbook/"><u>Overcoming Voice Chat Obstacles in Among Us: A PC Player's Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/rearranging-display-panel-configurations/"><u>Rearranging Display Panel Configurations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scopri-le-basi-dei-file-video-avi-modi-efficaci-per-aprirli/"><u>Scopri Le Basi Dei File Video AVI: Modi Efficaci per Aprirli</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008646838-solving-the-msvcr110dll-missing-issue-in-helldivers-2/"><u>Solving the 'MSVCR110.dll Missing' Issue in HellDivers 2</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-economical-path-to-skype-calls-as-mp3-files-for-2024/"><u>The Economical Path to Skype Calls as MP3 Files for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-digital-green-magic-comprecipate-free-lessons-from-4-masterful-channels-for-2024/"><u>The Ultimate Guide to Digital Green Magic Comprecipate Free Lessons From 4 Masterful Channels for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-how-to-repair-a-malfunctioning-qr-code-reader-on-your-iphone/"><u>Top 10 Solutions: How to Repair a Malfunctioning QR Code Reader on Your iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolve-dead-by-daylights-error-code-8014-quickly/"><u>Troubleshooting Tips: Resolve Dead by Daylight's Error Code 8014 Quickly</u></a></li>
 </ul></div>
 

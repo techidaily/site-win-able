@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability for 'Age of Ashes': How to Prevent Unwanted PC Crashes"
-date: 2024-12-14T09:00:43.337Z
-updated: 2024-12-20T01:39:58.003Z
+date: 2025-03-01T01:35:52.733Z
+updated: 2025-03-04T10:38:44.760Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  If you’re using a faulty or outdated graphics driver, you will possibly encounter this crashing issue in State of Decay 2\. To fix the potential problems and ensure the game functions properly, you should install the latest graphics driver on your computer.
@@ -99,15 +95,7 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch State of Decay 2 to see if the crashing issue remains.
 
@@ -126,10 +114,6 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
 
@@ -145,30 +129,14 @@ If the crashing issue occurs again, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -177,10 +145,6 @@ If this method doesn’t do the trick, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open Windows Settings. Then click**Time & Language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/time-language.jpg)
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
@@ -233,10 +197,6 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
 
@@ -261,20 +221,19 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-use-the-instagram-question-sticker/"><u>[New] 2024 Approved How to Use the Instagram Question Sticker?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>[New] In 2024, Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-the-spectacular-features-of-dells-p2715q-display/"><u>[Updated] Breaking Down the Spectacular Features of Dell's P2715Q Display</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-phasmophobias-stagnant-90-load-barrier-step-by-step-solutions-for-ultimate-progress/"><u>Defeat Phasmophobia's Stagnant 90% Load Barrier: Step-by-Step Solutions for Ultimate Progress</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-issues-with-the-alienware-command-center-solutions-at-hand/"><u>Fixing Issues with the Alienware Command Center - Solutions at Hand</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-tips-and-techniques-to-prevent-paladins-from-crashing/"><u>Master the Tips and Techniques to Prevent Paladins From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002307190-mastered-high-cpu-issue-in-cyberpunk-2077-game-now-runs-smoothly/"><u>Mastered High CPU Issue in Cyberpunk 2077 – Game Now Runs Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-crashes-mastering-stability-for-dragon-age-origins-on-windows-11/"><u>No More Crashes! Mastering Stability for Dragon Age: Origins on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-au-mp3-konvertierprogramm-von-movavi-kostenlos-nutzen-und-herunterladen/"><u>Online AU-MP3 Konvertierprogramm Von Movavi Kostenlos Nutzen Und Herunterladen</u></a></li>
-<li><a href="https://article-files.techidaily.com/perfect-pairings-the-science-of-matching-music-with-imagery-for-2024/"><u>Perfect Pairings The Science of Matching Music with Imagery for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-creating-hdr-in-photoshop-for-2024/"><u>The Ultimate Guide to Creating HDR in Photoshop for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-roblox-crashing-problems-on-pc-quickly-6-proven-strategies/"><u>Troubleshoot Roblox Crashing Problems on PC Quickly: 6 Proven Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smoother-minecraft-gameplay-on-windowsmac/"><u>Troubleshooting Techniques for Smoother Minecraft Gameplay on Windows/Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-browsing-bygone-tales-in-the-facebook-universe-with-devices-for-2024/"><u>[Updated] Browsing Bygone Tales in the Facebook Universe with Devices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-first-steps-in-camera-shopping-for-newcomers-to-film/"><u>[Updated] First Steps in Camera Shopping – For Newcomers to Film</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-fatal-error-ark-expert-strategies-to-restore-functionality/"><u>Decoding the 'Fatal Error ARK': Expert Strategies to Restore Functionality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-follow-instructions-for-downloading-lenovo-x1-carbon-drivers-on-windows-10-and-7/"><u>Easy-to-Follow Instructions for Downloading Lenovo X1 Carbon Drivers on Windows 10 and 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-lagging-problems-in-outriders/"><u>Expert Solutions to Overcome Lagging Problems in Outriders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-rockstar-games-launcher-expert-tips-and-guide-issues/"><u>Fixing the Rockstar Games Launcher: Expert Tips and Guide Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-updated-graphic-drivers-in-forza-horizon-5-game/"><u>How To Correct Updated Graphic Drivers In Forza Horizon 5 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-enable-hyper-v-capabilities-on-your-windows-10-pc/"><u>How to Successfully Enable Hyper-V Capabilities on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-social-stream-wars-fb-live-vs-yt-live-and-tweetstreams/"><u>In 2024, Social Stream Wars FB LIVE Vs. YT Live & TweetStreams</u></a></li>
+<li><a href="https://win-able.techidaily.com/madden-21-update-eliminates-common-pc-gaming-stops-and-drops/"><u>Madden 21 Update Eliminates Common PC Gaming Stops and Drops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-thumbnail-dimensions-on-desktop-pics-w11/"><u>Set Thumbnail Dimensions on Desktop Pics W11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-avatar-customization-concocting-caricatured-images-for-2024/"><u>Social Avatar Customization Concocting Caricatured Images for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stop-motion-mastery-a-beginners-guide-to-freeze-frames/"><u>Stop Motion Mastery A Beginners Guide to Freeze Frames</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-on-windows-beating-black-screen-glitches-with-this-ultimate-fix-guide/"><u>Zoom on Windows - Beating Black Screen Glitches with This Ultimate Fix Guide</u></a></li>
 </ul></div>
 

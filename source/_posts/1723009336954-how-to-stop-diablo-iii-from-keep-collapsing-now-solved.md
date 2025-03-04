@@ -1,7 +1,7 @@
 ---
 title: How to Stop Diablo III From Keep Collapsing - Now Solved!
-date: 2025-02-08T22:55:10.815Z
-updated: 2025-02-14T22:13:38.871Z
+date: 2025-03-01T12:51:02.923Z
+updated: 2025-03-03T18:16:13.281Z
 tags:
   - win11
   - win10
@@ -32,19 +32,11 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. [**Change the graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Turn off the preview window
 
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
@@ -88,25 +80,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -120,10 +100,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
@@ -153,21 +129,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-exhilarating-virtual-track-gaming-experiences/"><u>[New] 2024 Approved Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-tops-in-audio-modification-software-echos-successor/"><u>[New] In 2024, Tops in Audio Modification Software Echo's Successor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fast-track-fun-turning-animated-art-into-sticky-messages-quickly/"><u>[Updated] Fast Track Fun Turning Animated Art Into Sticky Messages Quickly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-zoom-mastering-screen-sharing-basics-for-2024/"><u>[Updated] Zoom Mastering Screen-Sharing Basics for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-water-management-ensures-that-crops-receive-adequate-moisture-with-minimal-waste-preventing-erosion-and-nutrient-runoff-which-are-essential-for-th560/"><u>Effective Water Management Ensures that Crops Receive Adequate Moisture with Minimal Waste, Preventing Erosion and Nutrient Runoff, Which Are Essential for the Sustainability of Agricultural Lands.</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-winwordexe-trouble-in-a-few-simple-steps-an-easy-guide/"><u>Fixing WINWORD.EXE Trouble in a Few Simple Steps – An Easy Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gamers-dream-deal-capture-every-detail-with-the-incredible-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-199/"><u>Gamer's Dream Deal – Capture Every Detail with the Incredible Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at $199</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-guilty-gear-strive-crashing-on-pc/"><u>How to Fix Guilty Gear Strive Crashing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-rainbow-six-extraction-from-suddenly-crashing-on-pc-systems/"><u>How to Stop Rainbow Six Extraction From Suddenly Crashing on PC Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 15</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-smooth-performance-how-to-address-gtfos-gameplay-hiccups-and-fps-issues/"><u>Mastering Smooth Performance: How to Address GTFO's Gameplay Hiccups & FPS Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-high-performance-gamers-invest-in-mechanical-inputs/"><u>Should High-Performance Gamers Invest in Mechanical Inputs?</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-repairing-link-failures-in-granblue-fantasy-games/"><u>The Ultimate Guide to Repairing Link Failures in Granblue Fantasy Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-discord-video-call-volume-problems/"><u>Troubleshooting Tips: Resolving Discord Video Call Volume Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-premium-wireless-charging-devices-rigorously-tested/"><u>Ultimate List of Premium Wireless Charging Devices , Rigorously Tested</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unending-chats-strategies-for-continuous-snapstreaks/"><u>Unending Chats - Strategies for Continuous Snapstreaks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-academy-for-storytellers-top-8-recommendations/"><u>[New] 2024 Approved Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamer-profitability-analysis-and-verification-for-2024/"><u>[New] Streamer Profitability Analysis and Verification for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-pioneering-the-future-of-instagram-downloads/"><u>[Updated] 2024 Approved Pioneering the Future of Instagram Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-ultimate-fixes-for-dead-by-daylight-game-crashing-issues/"><u>Beat the Glitch: Ultimate Fixes for Dead by Daylight Game Crashing Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-13c-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi 13C 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-when-amd-radeon-software-wont-open-on-pcs/"><u>Effective Fixes for When AMD Radeon Software Won't Open on PCs</u></a></li>
+<li><a href="https://fox-search.techidaily.com/frei-verfugbare-software-zur-besten-datensynchronisation-externer-hdds-und-ssds/"><u>Frei Verfügbare Software Zur Besten Datensynchronisation Externer HDDs Und SSDs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-fugetek-ft-568-selfie-stick-evaluation-top-quality-and-durability/"><u>In-Depth Fugetek FT-568 Selfie Stick Evaluation: Top Quality and Durability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/non-athletic-games-the-best-10-front-rows/"><u>Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gaming-experience-how-to-increase-wow-frame-rate/"><u>Optimizing Gaming Experience: How to Increase WoW Frame Rate</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-hurdle-of-an-unlaunchable-cities-skylines-2-experience/"><u>Overcoming the Hurdle of an Unlaunchable Cities: Skylines 2 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/razer-synapse-wont-launch-troubleshooting-solutions/"><u>Razer Synapse Won't Launch: Troubleshooting Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ready-for-next-level-audio-download-now-the-latest-sound-blaster-audigy-fx-drivers/"><u>Ready for Next-Level Audio? [Download Now] The Latest Sound Blaster Audigy FX Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-call-of-duty-bocw-freezing-effective-fixes-and-hacks-at-no-expense/"><u>Solve Call of Duty: BOCW Freezing - Effective Fixes and Hacks at No Expense</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-connection-dropped-issues-on-escape-from-tarkov-server/"><u>Step-by-Step Solution: Overcoming 'Connection Dropped' Issues on Escape From Tarkov Server</u></a></li>
 </ul></div>
 

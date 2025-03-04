@@ -1,7 +1,7 @@
 ---
 title: Getting MultiVersus to Run on Your Computer? Here's How!
-date: 2024-08-18T15:48:38.157Z
-updated: 2024-08-19T15:48:38.157Z
+date: 2025-03-02T17:06:51.506Z
+updated: 2025-03-03T20:52:45.862Z
 tags:
   - win11
   - win10
@@ -31,19 +31,12 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -52,25 +45,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 This could take several minutes. Wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 **5)**  Relaunch your game to test the issue.
@@ -135,25 +119,16 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
@@ -174,8 +149,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +156,24 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>[New] In 2024, Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nnovative-gaming-intro-options-free-versus-paid-for-youtube-creators/"><u>[New] Innovative Gaming Intro Options Free Versus Paid for YouTube Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-best-no-fee-apps-your-guide-to-downloading-pinterest-content/"><u>[Updated] In 2024, Best No-Fee Apps Your Guide to Downloading Pinterest Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-decoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics/"><u>[Updated] In 2024, Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-troubleshoot-and-resolve-the-ark-crashing-issue-effortlessly/"><u>Guide to Troubleshoot & Resolve the Ark Crashing Issue Effortlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/hidden-gems-top-8-private-video-downloaders/"><u>Hidden Gems Top 8 Private Video Downloaders</u></a></li>
+<li><a href="https://discover-community.techidaily.com/high-definition-lebron-james-desktop-scenes-and-visuals-premium-quality-from-yl-technologies/"><u>High-Definition Lebron James Desktop Scenes & Visuals - Premium Quality From YL Technologies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-non-print-in-canon-on-windows-with-ease/"><u>Resolve Non-Print in Canon on Windows with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-fortnite-error-code-84-steps-to-overcome-unable-to-join-a-party/"><u>Resolving Fortnite Error Code 84: Steps to Overcome 'Unable to Join a Party'</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-wpestoreexe-program-malfunction-a-step-by-step-guide/"><u>Resolving the WPE_Store.exe Program Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-resolve-dolby-atmos-compatibility-issues-with-windows-1011/"><u>Steps to Resolve Dolby Atmos Compatibility Issues with Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/tales-of-arise-resolving-game-crashes-and-enhancing-playability/"><u>Tales of Arise: Resolving Game Crashes & Enhancing Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-tricks-to-keep-world-of-warships-running-smoothly-on-a-pc-setup/"><u>Top 5 Tricks to Keep 'World of Warships' Running Smoothly on a PC Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworld-solutions-when-it-wont-start/"><u>Troubleshooting Palworld: Solutions When It Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-success-fixing-rainbow-six-siege-startup-problems/"><u>Troubleshooting Success: Fixing Rainbow Six Siege Startup Problems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/unlocking-the-secrets-of-concealed-files-on-your-pc-a-guide-by-yl-computing/"><u>Unlocking the Secrets of Concealed Files on Your PC: A Guide by YL Computing</u></a></li>
+</ul></div>
 

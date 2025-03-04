@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips & Tricks: Preventing Elite Dangerous Game Crashes on Windows"
-date: 2024-12-17T04:08:06.434Z
-updated: 2024-12-20T10:59:16.402Z
+date: 2025-02-26T08:37:32.691Z
+updated: 2025-03-03T16:38:17.300Z
 tags:
   - win11
   - win10
@@ -66,10 +66,6 @@ If Dota 2 still crashes randomly, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -95,17 +91,9 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click **Yes** .
 
@@ -155,10 +143,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
@@ -166,10 +150,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -213,17 +193,9 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-312.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Type**\-safe** and click**OK** .
 
@@ -243,10 +215,6 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
@@ -258,10 +226,6 @@ If Dota 2 still crashes, check the fix below.
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Type**\-autoconfig** and click**OK** .
 
@@ -319,10 +283,6 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_16-51-54-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Download and reinstall_Dota 2_ .
 
  Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -349,24 +309,19 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-fast-fortnite-icons-in-minutes-for-2024/"><u>[New] Crafting Fast Fortnite Icons in Minutes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-optimize-playback-settings-in-snapchat-applications/"><u>[New] How To Optimize Playback Settings in Snapchat Applications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-laugh-loop-meme-treasures-for-diverse-events/"><u>[New] Laugh Loop Meme Treasures for Diverse Events</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-decoding-fbs-interface-how-to-find-just-watched-content/"><u>[Updated] In 2024, Decoding FB's Interface How To Find Just-Watched Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>[Updated] In 2024, From Basics to Alternatives Understanding Vidma's Capture Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-odyssey-stutter-and-crashes-latest-fixes-for-a-smooth-2024-gaming-experience/"><u>Assassin's Creed Odyssey Stutter and Crashes - Latest Fixes for a Smooth 2024 Gaming Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/download-directx-on-windows-1110-fast-simple-steps-inside/"><u>Download DirectX on Windows 11/10: Fast, Simple Steps Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-gameplay-fluidity-solutions-to-cyberpunk-2077s-frame-rate-dips-explored/"><u>Enhancing Gameplay Fluidity: Solutions to Cyberpunk 2077'S Frame Rate Dips Explored</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-addressing-stability-problems-in-the-ultimate-nioh-2-gaming-experience/"><u>Expert Advice for Addressing Stability Problems in the Ultimate Nioh 2 Gaming Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/from-script-to-screen-animating-stories-using-wmm-for-2024/"><u>From Script to Screen Animating Stories Using WMM for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-pinnacle-top-5-camcorders-for-flexible-filming/"><u>In 2024, Pinnacle Top 5 Camcorders for Flexible Filming</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-solutions-for-fallout-3-not-starting-comprehensive-guide/"><u>Latest Solutions for Fallout 3 Not Starting - Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004325875-quick-fix-assassins-creed-valhalla-lagging/"><u>Quick Fix: Assassin's Creed: Valhalla Lagging</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quintessential-filters-to-perfect-ocean-shoots/"><u>Quintessential Filters to Perfect Ocean Shoots</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolution-steps-for-critical-dev-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolution Steps for Critical Dev Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-elevated-cpu-demand-in-god-of-war-a-step-by-step-guide/"><u>Resolving Elevated CPU Demand in God of War: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-issues-with-armored-core-vi-fire-and-fury-launch-malfunction/"><u>Troubleshooting Steps for Resolving Issues with Armored Core VI - Fire & Fury Launch Malfunction</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-against-wowla-errors-in-lol-a-step-by-step-fixing-manual/"><u>Winning Against WoWLA Errors in LoL: A Step-by-Step Fixing Manual</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-discord-avatars/"><u>[Updated] 2024 Approved Unlocking the Full Potential of Discord Avatars</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-acclaimed-encoder-technology-in-broadcast-systems/"><u>[Updated] Acclaimed Encoder Technology in Broadcast Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-action-gear-selecting-the-top-15-cameras/"><u>[Updated] Best Action Gear Selecting the Top 15 Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ideal-tools-for-secure-vimeo-downloads/"><u>[Updated] Ideal Tools for Secure Vimeo Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-darkness-correcting-helldivers-2s-black-outage-on-start-up/"><u>Banish the Darkness: Correcting Helldivers 2'S Black Outage on Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-fallout-76-performance-top-techniques-to-eliminate-lag/"><u>Boost Your Fallout 76 Performance: Top Techniques to Eliminate Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-the-bug-solving-apex-legends-loading-issues-fast/"><u>Bypass the Bug: Solving Apex Legends Loading Issues Fast</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-convenience-and-performance-of-a-google-wireless-nest-doorbell-on-batteries/"><u>Expert Review: The Convenience and Performance of a Google Wireless Nest Doorbell on Batteries</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-reno-10-proplus-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Oppo Reno 10 Pro+ 5G Without Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-re5-startup-difficulties-effective-fixes-for-personal-computers/"><u>Overcoming RE5 Startup Difficulties: Effective Fixes for Personal Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-your-computer-when-it-says-denied-access-while-installing-a-usb-drive/"><u>Solve Your Computer When It Says 'Denied Access' While Installing a USB Drive</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-game-crashes-for-sword-and-fairy-vii-a-comprehensive-guide/"><u>Solved! Overcoming PC Game Crashes for Sword and Fairy VII – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-of-constant-minecraft-game-crashes-a-six-step-guide/"><u>Solving the Issue of Constant Minecraft Game Crashes: A Six-Step Guide</u></a></li>
 </ul></div>
 

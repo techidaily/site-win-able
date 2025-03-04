@@ -1,7 +1,7 @@
 ---
 title: Horizon Zero Dawn PC Version - How to Prevent and Fix the Crashing Problem
-date: 2025-02-12T02:46:03.622Z
-updated: 2025-02-14T16:46:56.109Z
+date: 2025-03-03T13:21:06.704Z
+updated: 2025-03-04T08:44:32.233Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are several fixes that have helped other users resolve the **Ashen crash** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 8. [**Add Ashen as an exception to your 3rd party antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for Ashen
 
@@ -75,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics drivers
 
  Ashen may crash if the graphics drivers on your PC are outdated or corrupted. So you can try updating your graphics drivers to the latest version to see if it helps fix the the game crash issue.
@@ -99,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -116,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Ashen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
@@ -197,10 +177,6 @@ Select your graphics card manufacturer first:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -209,10 +185,6 @@ Select your graphics card manufacturer first:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -223,16 +195,8 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
@@ -242,10 +206,6 @@ Select your graphics card manufacturer first:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see on the screenshot below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -284,24 +244,24 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-behind-the-scenes-discord-streaming-basics/"><u>[New] In 2024, Behind-the-Scenes Discord Streaming Basics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-experts-companion-navigating-the-nuances-of-mobizen-screen-recording/"><u>[Updated] 2024 Approved Expert's Companion Navigating the Nuances of Mobizen Screen Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-versamix-suite-mac-and-pc-for-2024/"><u>[Updated] VersaMix Suite - Mac & PC for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-troubleshooting-tips-for-rapid-fixes-of-fortnite-not-loading-issues/"><u>Easy Troubleshooting Tips for Rapid Fixes of Fortnite Not Loading Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-delays-during-obs-streaming-and-video-capture/"><u>Expert Tips for Resolving Delays During OBS Streaming & Video Capture</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-call-of-duty-wwiis-black-display-glitch-on-windows-pcs/"><u>Expert Tips to Resolve Call of Duty: WWII's Black Display Glitch on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-roblox-crashes-in-a-flash-6-essential-tips-for-pc-users-new-guide/"><u>Fix Roblox Crashes in a Flash: 6 Essential Tips for PC Users - New Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005983936-football-manager-2020-stops-responding-heres-how-you-can-unfreeze-it/"><u>Football Manager 2020 Stops Responding? Here's How You Can Unfreeze It!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-by-drfone-android/"><u>How to Bypass FRP from Tecno?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y28-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y28 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-seamless-play-optimize-your-system-for-high-framerate-bliss/"><u>Master the Art of Seamless Play: Optimize Your System for High-Framerate Bliss</u></a></li>
-<li><a href="https://win-dash.techidaily.com/optimize-windows-file-exploration-with-improved-organization-techniques/"><u>Optimize Windows File Exploration with Improved Organization Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-tablet-unveiling-whats-inside-teaser-on-upcoming-specs-and-release-timelines/"><u>Pixel Tablet Unveiling - What's Inside? Teaser on Upcoming Specs & Release Timelines</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premier-movie-sneak-peeks-ensemble/"><u>Premier Movie Sneak Peeks Ensemble</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-preventing-left-4-dead-2-game-crashes/"><u>Resolved: Fixes for Preventing Left 4 Dead 2 Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-hub-how-to-combat-constant-disconnections-in-risk-of-rain-2/"><u>Solution Hub: How to Combat Constant Disconnections in Risk of Rain 2</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-free-to-do-approach-for-text-and-video-combination-for-2024/"><u>The Free-to-Do Approach for Text & Video Combination for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-phasmophobia-vr-malfunctions/"><u>Troubleshooting Steps for Phasmophobia VR Malfunctions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/virtual-efficiency-boosted-setting-up-zoom-right-for-2024/"><u>Virtual Efficiency Boosted Setting Up Zoom Right for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-flight-accessories-for-the-phantom-4/"><u>[Updated] In 2024, Essential Flight Accessories for the Phantom 4</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-simplifying-cross-platform-sharing-instagram-and-facebook-integration/"><u>2024 Approved Simplifying Cross-Platform Sharing Instagram & Facebook Integration</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/a-comprehensive-guide-to-crypto-exchange-solutions-by-yl-software-experts/"><u>A Comprehensive Guide to Crypto Exchange Solutions by YL Software Experts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-nokia-71-smartphone-exceptional-display-and-photography-capabilities-analyzed/"><u>Affordable Nokia 7.1 Smartphone: Exceptional Display & Photography Capabilities Analyzed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aws-gravitn4-cpu-benchmark-review-superior-speeds-vs-amd-intel-chips-at-a-lower-price-point/"><u>AWS Gravitn4 CPU Benchmark Review: Superior Speeds Vs. AMD, Intel Chips at a Lower Price Point</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-performance-enhancement-the-definitive-guide-to-reducing-lag-with-these-10-tricks/"><u>Battlefield 5 Performance Enhancement: The Definitive Guide to Reducing Lag with These 10 Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/cutting-edge-fixes-for-persistent-lags-in-pc-gaming-whats-new-in-2cuary/"><u>Cutting-Edge Fixes for Persistent Lags in PC Gaming – What's New in 2Cuary</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-camcorders-with-direct-facing-screens/"><u>Elite Camcorders with Direct Facing Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-freeze-no-more-essential-tips-to-keep-your-game-running-smoothly-in-2einite-pc-fixes-of-2024/"><u>Fortnite Freeze No More: Essential Tips to Keep Your Game Running Smoothly in 2Einite - PC Fixes of 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-and-safe-installation-how-to-update-your-corsair-keyboard-drivers-on-windows/"><u>Free and Safe Installation: How to Update Your CORSAIR Keyboard Drivers on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-steam-controller-recognition-problems-in-windows-os/"><u>How to Fix Steam Controller Recognition Problems in Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-connectivity-fix-overcoming-the-reconnection-glitch-of-202n4/"><u>League of Legends Connectivity Fix - Overcoming the Reconnection Glitch of 202N4</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-starfields-technical-hurdles-solutions-for-uninterrupted-gaming-on-windows/"><u>Navigate Starfield's Technical Hurdles: Solutions for Uninterrupted Gaming on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speedy-video-rendering-for-effective-ppt-deliveries/"><u>Speedy Video Rendering for Effective PPT Deliveries</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-a-nonfunctional-alienware-command-center/"><u>Step-by-Step Solutions for a Nonfunctional Alienware Command Center</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-understated-charm-of-android-13-embracing-simplicity-over-spectacle/"><u>The Understated Charm of Android 13: Embracing Simplicity Over Spectacle</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-for-warzone-game-not-starting-up/"><u>Troubleshooting Guide: Fixes for Warzone Game Not Starting Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-cant-i-get-red-dead-redemption-game-running/"><u>Troubleshooting Tips: Why Can't I Get Red Dead Redemption ‛️️ Game Running?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-v30-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme V30? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Steam From Stopping You: Immediate Solutions to Persistent App Crashes"
-date: 2025-02-08T16:37:48.599Z
-updated: 2025-02-15T03:13:30.721Z
+date: 2025-03-02T21:14:15.816Z
+updated: 2025-03-04T03:59:03.228Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Repair your game
 
  Most of the time, repairing your game does the trick. Your Battlefront 2 crashing may be caused by corrupted game files. If you haven’t tried this before, make sure you do this before you try the following fixes.
@@ -73,10 +69,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Wait for the process to complete.
 
  Restart Origin and play your game to see if the crashing issue persists. If the game keeps crashing randomly, move on to the next fix.
@@ -89,17 +81,9 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Wait for the process to complete.
 
@@ -147,10 +131,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 3) Play Battlefront 2 again to test the issue.
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Revert back to DX11
 
@@ -219,25 +199,13 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Restart your PC and launch your Battlefront 2 to see if the game launches normally.
 
@@ -297,20 +265,17 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-beyond-the-boundaries-limitations-in-vr/"><u>[New] In 2024, Beyond the Boundaries Limitations in VR</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-premium-hardware-hunt-cards-for-4k-editors/"><u>[New] Premium Hardware Hunt Cards for 4K Editors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-boosting-views-essential-hashtags-for-trending-shorts/"><u>[Updated] Boosting Views Essential Hashtags for Trending Shorts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-optimal-variety-premium-webcam-stands-and-mounts/"><u>[Updated] In 2024, Optimal Variety Premium Webcam Stands & Mounts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-step-by-step-journey-of-becoming-an-ez-grabber-user/"><u>[Updated] In 2024, The Step-By Step Journey of Becoming an EZ Grabber User</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlined-visuals-for-google-meet-participants-on-devices-for-2024/"><u>[Updated] Streamlined Visuals for Google Meet Participants on Devices for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-silence-to-symphony-enhancing-stories-with-ig-music/"><u>2024 Approved From Silence to Symphony Enhancing Stories with IG Music</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-persistent-diablo-iii-shutdowns/"><u>Diagnosing and Repairing Persistent Diablo III Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-detecting-and-repairing-a-missing-steam-vr-setup/"><u>Expert Advice on Detecting and Repairing a Missing Steam VR Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-beat-saber-from-continuously-crashing/"><u>Fixing the Issue: How to Stop Beat Saber From Continuously Crashing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-in-producing-accelerated-video-narratives/"><u>In 2024, Techniques in Producing Accelerated Video Narratives</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-cyberpunk-2077-for-gpu-in-windows-11-a-comprehensive-fix-guide/"><u>Optimizing Cyberpunk 2077 for GPU in Windows 11: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-mini-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 mini Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-black-screens-on-your-persona-nkiller-common-causes-and-solutions/"><u>Troubleshooting Persistent Black Screens on Your Persona Nkiller: Common Causes & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-error-in-discord-problem-solved-with-latest-fix/"><u>Update Error in Discord? Problem Solved with Latest Fix!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-healing-power-of-asmr-explained-here/"><u>[New] The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-a-list-nintendo-switch-fighter-titles-max-156/"><u>[Updated] 2024 Approved A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-decoding-the-micro-video-phenomenon-on-facebook-for-2024/"><u>[Updated] Decoding the Micro-Video Phenomenon on Facebook for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-innovative-frame-tools-and-websites-image-editors/"><u>[Updated] In 2024, Innovative Frame Tools and Websites Image Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/escape-from-tarkov-hackers-beware-solving-your-anticheat-errors-quickly-and-effectively/"><u>Escape From Tarkov Hackers Beware! Solving Your Anticheat Errors Quickly and Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-tips-to-elevate-your-canva-projects-by-10x/"><u>Exclusive Tips to Elevate Your Canva Projects by 10X</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-how-to-fix-persistent-crashes-in-manor-lords-when-played-on-a-desktop-computer/"><u>Guide: How to Fix Persistent Crashes in Manor Lords When Played on a Desktop Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-backup-and-recover-your-android-phones-call-history/"><u>How to Backup & Recover Your Android Phone's Call History</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V30 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://facebook.techidaily.com/invisible-influence-7-hidden-harmfulness-of-networking-sites/"><u>Invisible Influence: 7 Hidden Harmfulness of Networking Sites</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-pc-compatibility-and-crash-problems-in-nba-2k21/"><u>Troubleshooting Guide: Resolving PC Compatibility and Crash Problems in NBA 2K21</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-avatar-frontiers-of-pandora-not-initializing-properly/"><u>Troubleshooting Steps for 'Avatar - Frontiers of Pandora' Not Initializing Properly</u></a></li>
 </ul></div>
 

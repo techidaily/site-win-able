@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Counter-Strike 2 From Crashing: Ultimate Guide (Updated 2Vew)"
-date: 2025-02-12T20:32:12.893Z
-updated: 2025-02-15T03:00:47.283Z
+date: 2025-03-01T06:41:34.311Z
+updated: 2025-03-03T22:57:38.026Z
 tags:
   - win11
   - win10
@@ -58,10 +58,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-92.png)
@@ -74,10 +70,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run your game as an administrator
 
 _Arma 3_ crashing issues might occur when it fails to access critical game files or folders under the stander user account. To see if that’s the core issue, try running Steam as an administrator, then launch your game from Steam. Here is how to do it:
@@ -88,17 +80,9 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Arma 3_ to test your issue.
 
@@ -231,10 +215,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Arma 3**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
@@ -242,10 +222,6 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-45.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -273,10 +249,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-40.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Paste**C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Arma 3** on the address bar, then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-41.png)
@@ -303,10 +275,6 @@ OR
 **9)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-37.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch_Arma 3_ to reinstall BattlEye. If the game still crashes, try the next fix.
 
@@ -345,10 +313,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
@@ -370,10 +334,6 @@ OR
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -404,18 +364,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mac-users-path-to-professional-audio-with-audacity/"><u>[New] Mac Users' Path to Professional Audio with Audacity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-cadence-chronicles-role-sound-narrative/"><u>[Updated] 2024 Approved Quick Cadence Chronicles Role-Sound Narrative</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instant-impact-facebook-vids/"><u>[Updated] In 2024, Instant Impact Facebook Vids</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/diagnosing-and-mending-malfunctioned-device-drivers-expert-tips-from-yl-software-solutions/"><u>Diagnosing & Mending Malfunctioned Device Drivers: Expert Tips From YL Software Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/expert-free-fb-imagecinematic-creator-kit-for-2024/"><u>Expert Free FB Image/Cinematic Creator Kit for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-pc-game-woes-solving-constant-load-failures-in-necromunda-hired-gun/"><u>Fix Your PC Game Woes - Solving Constant Load Failures in 'Necromunda: Hired Gun'</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-star-wars-battlefront-2s-persistent-black-screen-error-fixes-and-solutions/"><u>How to Resolve Star Wars Battlefront 2'S Persistent Black Screen Error - Fixes & Solutions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-elevate-your-tiktok-presence-with-novel-pfp-concepts/"><u>In 2024, Elevate Your TikTok Presence with Novel PFP Concepts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-manor-lords-crash-issue-in-your-windows-computer/"><u>Solving the Manor Lords Crash Issue in Your Windows Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-your-halo-infinite-game-from-skipping-beats-with-these-fixes/"><u>Stop Your Halo Infinite Game From Skipping Beats with These Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-comprehensive-guide-to-resolving-fifa-20-pc-game-crashes/"><u>Ultimate Fixes: Comprehensive Guide to Resolving FIFA 20 PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-assassins-creed-mirage-from-crashing/"><u>Ultimate Guide to Preventing Assassin's Creed Mirage From Crashing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-tv-with-youtube-video-loops/"><u>[New] Streamline Your TV with YouTube Video Loops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] In 2024, Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5a6m5ywo44gq44kz44ou44o844go5beu5yig44gu44g44kz44ou44o877ya5yq5546h55qe44gq44oq44od44kv44ki44od44ox5oml5q6144g444ki44gg44gt44gd/"><u>完全なコピーと差分のみコピー：効率的なバックアップ手段へようこそ</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477986925-apple-wont-accept-my-creditdebit-here-are-6-fixes/"><u>Apple Won't Accept My Credit/Debit? Here Are 6 Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-troubleshooting-guide-solutions-for-preventing-pc-game-crashes/"><u>Battlefield 2042 Troubleshooting Guide - Solutions for Preventing PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-menace-solving-the-no-audio-issue-in-evil-genius-2/"><u>Fixing Silent Menace: Solving the 'No Audio' Issue in Evil Genius 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-concurrent-frame-rate-reduction-issues-in-your-pc-games/"><u>How to Resolve Concurrent Frame Rate Reduction Issues in Your PC Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-horizon-zero-dawn-gameplay-enhance-frame-rate-and-optimize-performance/"><u>Improve Horizon Zero Dawn Gameplay: Enhance Frame Rate & Optimize Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a05-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy A05 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-resurrecting-windows-photo-viewer-via-windows-10-simple-fixes/"><u>In 2024, Resurrecting Windows Photo Viewer via Windows 10 - Simple Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/next-gen-photography-unveiling-auto-and-smart-hdr-features-for-2024/"><u>Next-Gen Photography Unveiling Auto and Smart HDR Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-crashes-in-black-desert-online-a-step-by-step-guide/"><u>Overcoming PC Crashes in Black Desert Online - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-continuous-freezing-in-watch-dogs-legion-on-windows-pc/"><u>Resolved! Fixes for Continuous Freezing in Watch Dogs Legion on Windows PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fluctuating-screens-uncover-these-7-remedies-for-your-flickering-smartphone-display/"><u>Say Goodbye to Fluctuating Screens: Uncover These 7 Remedies for Your Flickering Smartphone Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998501069-smooth-sailing-ahead-no-more-fps-drops-for-forza-horizon-5-players-on-windows-machines/"><u>Smooth Sailing Ahead: No More FPS Drops for Forza Horizon 5 Players on Windows Machines!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-for-swtor-launch-malfunctions-now-solved/"><u>Troubleshooting Fixes for SWTOR Launch Malfunctions – Now Solved!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-adding-effective-audio-to-your-quicktime-projects-2023-edition/"><u>Updated 2024 Approved Adding Effective Audio to Your QuickTime Projects 2023 Edition</u></a></li>
 </ul></div>
 

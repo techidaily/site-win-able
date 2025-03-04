@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2025-02-12T17:23:59.710Z
-updated: 2025-02-15T01:58:17.149Z
+date: 2025-03-02T18:29:12.889Z
+updated: 2025-03-04T08:06:24.223Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -61,10 +57,6 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -100,10 +92,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -130,10 +118,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
@@ -143,10 +127,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -171,20 +151,21 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-5-android-photo-enhancers/"><u>[New] Top 5 Android Photo Enhancers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ipadiso/"><u>「スムーズなアクセス：iPadでISOファイル再生の究極ガイド」</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-charting-a-course-through-websites-of-youtube-affiliates/"><u>2024 Approved Charting a Course Through Websites of YouTube Affiliates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/5-proven-methods-to-enhance-your-instagram-tv-experience-for-2024/"><u>5 Proven Methods to Enhance Your Instagram TV Experience for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/iso2024/"><u>最新ISO変更ツールが選ばれる！2024新バージョンフリーソフトのベストテック</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nokia-c12-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nokia C12 Through Google Earth?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unparalleled-vr-game-setups-top-8-edition/"><u>In 2024, Unparalleled VR Game Setups Top 8 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/lossless-dvd-copying-guide-how-to-duplicate-your-movies-in-windows-10/"><u>Lossless DVD Copying Guide: How to Duplicate Your Movies in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-accessing-exclusive-movies-discover-how-our-japanese-film-downloader-enhances-viewing-pleasure/"><u>Master the Art of Accessing Exclusive Movies: Discover How Our Japanese Film Downloader Enhances Viewing Pleasure</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-video-compression-the-ultimate-guide-to-slashing-file-sizes-with-vlc-tools/"><u>Mastering Video Compression: The Ultimate Guide to Slashing File Sizes with VLC Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-guide-to-speeding-up-load-times-for-battlefront-2-on-your-computer/"><u>Quick Guide to Speeding Up Load Times for Battlefront 2 on Your Computer</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317050-9781401926243-the-amazing-power-of-animals/"><u>The Amazing Power of Animals | Free Book</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audio-engineering-simplified-utilizing-dynamic-ducking-techniques-in-final-cut-pro-x-for-professional-results-for-2024/"><u>Updated Audio Engineering Simplified Utilizing Dynamic Ducking Techniques in Final Cut Pro X for Professional Results for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-mobile-apps-to-extract-audio-from-videos-ios-and-android/"><u>Updated In 2024, Best Mobile Apps to Extract Audio From Videos (iOS and Android)</u></a></li>
-<li><a href="https://win-able.techidaily.com/movwindowsmac/"><u>ビデオファイル(MOV形式)から静止画像を取り出せるプロの手法（Windows/Mac）</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elite-group-16-youtube-entries-boosting-views/"><u>[New] 2024 Approved Elite Group 16 YouTube Entries Boosting Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-emulating-old-hollywood-style-in-modern-videos/"><u>[New] In 2024, Emulating Old Hollywood Style in Modern Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-distortion-driven-the-artists-guide-to-altered-text/"><u>2024 Approved Distortion Driven The Artist's Guide to Altered Text</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-comprehensive-list-top-rated-srt-translation-services-for-2024/"><u>A Comprehensive List Top-Rated SRT Translation Services for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-vlc-issues-with-latest-upgraded-win11/"><u>Bypassing VLC Issues with Latest Upgraded Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-understanding-and-fixing-the-games-crashing-glitches/"><u>Diablo II Resurrected - Understanding and Fixing the Game's Crashing Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/hassle-free-guide-to-solve-constant-outriders-malfunctions/"><u>Hassle-Free Guide to Solve Constant Outriders Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-frequent-freezes-in-firefox-updated-tips/"><u>How to Fix Frequent Freezes in Firefox - Updated Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-necromunda-sovled-hired-gun-from-crashing-on-windows-pc/"><u>How to Prevent Necromunda [SOVLED]: Hired Gun From Crashing on Windows PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-mix-fold-3-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Mix Fold 3? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-replace-imovie-with-these-top-windows-10-video-editing-tools/"><u>New Replace iMovie with These Top Windows 10 Video Editing Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-original-directory-view-in-win11/"><u>Recovering Original Directory View in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-how-to-fix-crashes-in-squadrons-troubleshooting-guide/"><u>STAR WARS: How to Fix Crashes in Squadrons - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-vr-malfunctions-heres-how-you-can-solve-them-swiftly/"><u>Steam VR Malfunctions? Here's How You Can Solve Them Swiftly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-crash-of-wallpaper-engine-on-windows-11-and-10-systems/"><u>Troubleshooting the Crash of Wallpaper Engine on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-se-2020-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone SE (2020)? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

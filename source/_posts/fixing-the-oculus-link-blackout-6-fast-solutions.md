@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Oculus Link Blackout: 6 Fast Solutions"
-date: 2025-02-14T03:21:50.474Z
-updated: 2025-02-15T00:37:32.681Z
+date: 2025-02-25T16:45:56.042Z
+updated: 2025-03-04T12:55:27.237Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
 ### Fix 2 – Update your device drivers
@@ -90,17 +86,9 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable in-game overlay
 
@@ -115,10 +103,6 @@ There are mainly two ways you can update the driver:
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Opt out of Public Test Channel
 
  According to[Oculus official support](https://support.oculus.com/200468603765391/) , Oculus Link may not work as intended if you enroll in Public Test Channel. That means you will be testing a beta version of the Oculus software which is possibly unreliable and more likely to run into the black screen issue.
@@ -130,17 +114,9 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-1.jpg)
 3. **Toggle off** the button next to Public Test Channel.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -152,10 +128,6 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
@@ -185,20 +157,20 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>[New] StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/iuwvjplusmhjoinoplusaxuuwgsewrijog44k544ob44o844og44k144o844ot44k544gn44gu44ky44o844og5rai5asx5lql5lu2ig/"><u>問題解決報告: スチームサービスでのゲーム消失事件</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-2-crash-free-gaming-expert-advice-and-solutions/"><u>Alan Wake 2 Crash-Free Gaming : Expert Advice and Solutions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/become-a-tiktok-phenomenon-with-self-cloning-insights/"><u>Become a TikTok Phenomenon with Self-Cloning Insights</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/beyond-expectations-the-latest-lg-tv-bp550-review/"><u>Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-forza-horizon-5-visuals-update-your-graphic-drivers-today/"><u>Boosting Forza Horizon 5 Visuals? Update Your Graphic Drivers Today</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-x709-issue-windows-fix-guide/"><u>Correcting X709 Issue: Windows Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/enabling-virtualization-a-comprehensive-tutorial-for-hyper-v-in-windows-11/"><u>Enabling Virtualization: A Comprehensive Tutorial for Hyper-V in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-winwordexe-hiccups-effortless-strategies-for-word-users/"><u>Fixing WINWORD.EXE Hiccups: Effortless Strategies for Word Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/hp-visual-unit-failure-heres-how-to-get-your-screen-working-again/"><u>HP Visual Unit Failure? Here’s How to Get Your Screen Working Again</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-cyberpunk-2077-enhancements-for-steady-frame-rates/"><u>Troubleshooting Cyberpunk 2077 - Enhancements for Steady Frame Rates</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stabilizing-age-of-wonders-planetfall-resolving-pc-crash-issues/"><u>Ultimate Guide to Stabilizing Age of Wonders: Planetfall - Resolving PC Crash Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-gameloops-instability-issues-on-windows-11-and-10-systems/"><u>Ultimate Solution: Resolving GameLoop's Instability Issues on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[Updated] 2024 Approved From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-hassle-free-hd-video-on-your-device-for-2024/"><u>[Updated] Hassle-Free HD Video on Your Device for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-5-hd-webcams-for-seamless-video-conferencing/"><u>[Updated] Prime 5 HD Webcams For Seamless Video Conferencing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-selection-of-excellent-5k-displays-ranked-8/"><u>[Updated] Ultimate Selection of Excellent 5K Displays - Ranked #8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-v30-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo V30 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-news-immortals-fenyx-rising-finally-takes-off-following-past-hurdles/"><u>Breaking News: Immortals Fenyx Rising Finally Takes Off Following Past Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-the-performance-a-guide-to-stop-lunar-application-from-falling-in-windows-os/"><u>Enhancing the Performance: A Guide to Stop Lunar Application From Falling in Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-ghostrunner-critical-crash-issue-on-windows-10/"><u>Fixing the Ghostrunner Critical Crash Issue on Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-short-form-script-template/"><u>In 2024, Short-Form Script Template</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-bugs-solving-oxygen-not-included-crash-issues/"><u>Overcoming Game Bugs: Solving Oxygen Not Included Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003640318-restore-sounds-in-roblox-games-for-windows-11-and-10-common-fixes-exposed/"><u>Restore Sounds in Roblox Games for Windows 11 and 10 - Common Fixes Exposed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-cyberpunk-2077s-gameplay-interruptions/"><u>Troubleshooting Guide: Fixing Cyberpunk 2077'S Gameplay Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-persistent-zoom-issues-on-windows-11-and-10-for-enhanced-2024-productivity/"><u>Ultimate Guide to Fixing Persistent Zoom Issues on Windows 11 & 10 for Enhanced 2024 Productivity</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Updated Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
 </ul></div>
 

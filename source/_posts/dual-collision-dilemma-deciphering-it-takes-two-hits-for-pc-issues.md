@@ -1,7 +1,7 @@
 ---
 title: "Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues"
-date: 2025-02-13T17:00:12.263Z
-updated: 2025-02-14T21:41:52.727Z
+date: 2025-03-03T02:23:40.265Z
+updated: 2025-03-04T03:41:07.659Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![run dialog: %AppData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-AppData.png)
 6. In the pop-up window, delete the **Origin**  folder.  
 
@@ -67,29 +63,17 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Address-Bar.png)
 8. Double-click the **Local**  folder to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
 9. Delete the **Origin**  folder in the **Local** folder.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. **Double-click** the shortcut of Origin on your desktop.
 
  See if Origin crashes after you cleared the cache. If this issue persists, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Origin as administrator
 
@@ -99,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 2. You’ll be prompted for permission. Click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If Origin crashes again, try the next fix to update your graphics driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -138,10 +114,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows compatibility troubleshooter
 
  You may run into this issue if Origin is not compatible for your current Windows operating system. If you’re net sure, run **Program Compatibility Troubleshooter** .
@@ -152,19 +124,11 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager-main-screen.png)
 2. Go to your Origin install folder (Normally the path should be**C:\\Program Files (x86)\\Origin** ) and delete the file “**OriginThinSetupInternal** “.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/origin-123.png)
 3. In your Origin install folder,**right-click** the file**Origin** and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 4. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshoot.png)
 5. Select**Try recommended settings** .  
@@ -209,10 +173,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -307,15 +267,22 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-virality-in-instagram-clips/"><u>[New] 2024 Approved Mastering Virality in Instagram Clips</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-insider-guide-attending-live-tiktok-gigs/"><u>[New] 2024 Approved The Insider Guide Attending Live TikTok Gigs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-obs-playback-handbook/"><u>[New] In 2024, The Complete OBS Playback Handbook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-purerecorder-capturing-life-in-games-without-cost/"><u>[New] PureRecorder Capturing Life in Games Without Cost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-live-stream-over-the-network-with-vlc-media-player/"><u>2024 Approved How to Live Stream Over the Network with VLC Media Player</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-storage-galore-selecting-top-ps5-hddsssds/"><u>2024 Approved Storage Galore Selecting Top PS5 HDDs/SSDs</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-utilizing-zune-video-converter-factory-at-no-cost/"><u>Step-by-Step Tutorial on Utilizing Zune Video Converter Factory at No Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-master-the-art-of-avchd-file-editing-on-your-pc-using-windows-1011-tools-and-software/"><u>Step-by-Step Tutorial: Master the Art of AVCHD File Editing on Your PC Using Windows 10/11 Tools and Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/to-encode-or-not-to-encode-determining-the-role-of-adobe-media-encoder-in-your-workflows/"><u>To Encode or Not to Encode: Determining the Role of Adobe Media Encoder in Your Workflows</u></a></li>
-<li><a href="https://win-able.techidaily.com/transforming-audio-files-quick-and-simple-steps-for-switching-from-flac-to-ogg/"><u>Transforming Audio Files: Quick and Simple Steps for Switching From FLAC to Ogg</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-up-content-creation-standard-studio-vs-beta-access/"><u>[New] Step-Up Content Creation Standard Studio Vs. Beta Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gopro4/"><u>「大幅にデータ容量を節約するGoProビデオ圧縮テクニック4つの解決策」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-maximizing-health-outreach-via-fb-advertising/"><u>2024 Approved Maximizing Health Outreach via FB Advertising</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-lag-monster-expert-tips-and-strategies-to-reduce-high-ping-in-warzone-2024-edition/"><u>Beat the Lag Monster: Expert Tips and Strategies to Reduce High Ping in Warzone 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-the-buffer-fix-your-steam-lag-problem-now/"><u>Busting the Buffer: Fix Your Steam Lag Problem Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-privacy-on-apple-music-top-4-strategies-for-personalized-secure-playlists/"><u>Enhancing Privacy on Apple Music: Top 4 Strategies for Personalized, Secure Playlists</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-address-and-solve-lag-issues-in-fortnite-quickly-and-easily/"><u>Expert Tips to Address and Solve Lag Issues in Fortnite Quickly & Easily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-google-pixel-8-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Google Pixel 8 Phones with/without a PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-arise-game-crash-issues-successfully/"><u>How To Solve Arise Game Crash Issues Successfully</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>In 2024, Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-voice-memo-primer-tips-and-tricks/"><u>In 2024, The Complete Voice Memo Primer Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-error-72amo6ab-in-nba-2k24-a-players-handbook/"><u>Quick Solutions for Error 72Amo6ab in NBA 2K24: A Player's Handbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-league-of-legends-launch-error/"><u>Resolving the Issue: League of Legends Launch Error</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/solving-the-silent-issue-a-step-by-step-guide-to-restoring-audio-on-your-vlc-dvd-rips/"><u>Solving the Silent Issue: A Step-by-Step Guide to Restoring Audio on Your VLC DVD Rips</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-a-broken-steamvr-system-swiftly/"><u>Step-by-Step Guide to Fixing a Broken SteamVR System Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-and-solving-high-latency-in-street-fighter-6-on-pc/"><u>Ultimate Guide: Troubleshooting & Solving High Latency in Street Fighter 6 on PC</u></a></li>
 </ul></div>
 

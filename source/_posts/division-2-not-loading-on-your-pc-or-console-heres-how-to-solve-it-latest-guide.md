@@ -1,7 +1,7 @@
 ---
 title: Division 2 Not Loading on Your PC or Console? Here's How to Solve It (Latest Guide)
-date: 2025-02-08T01:01:09.616Z
-updated: 2025-02-14T22:03:32.459Z
+date: 2025-02-25T01:52:27.420Z
+updated: 2025-03-04T02:28:55.412Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
  Here are seven fixes that have helped other users resolve the Fallout 76 Disconnected From Server problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,10 +33,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 5. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1:**Reset Winsock**
 
@@ -57,10 +49,6 @@ Here is how to reset Winsock data:
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -99,10 +87,6 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -150,10 +134,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -179,10 +159,6 @@ _wireless router_
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Launch Fallout 76.
 
@@ -212,25 +188,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -267,24 +231,20 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-androids-favorite-3ds-game-emulators-ranked/"><u>[New] 2024 Approved Android's Favorite 3DS Game Emulators Ranked</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-8-cost-effective-multi-platform-virtual-communication-software/"><u>[Updated] Top 8 Cost-Effective, Multi-Platform Virtual Communication Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-the-shadows-effective-solutions-for-overwatch-launch-blackouts/"><u>Banishing the Shadows: Effective Solutions for Overwatch Launch Blackouts</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-how-to-restore-accidentally-deleted-photos-from-your-iphone/"><u>Complete Guide: How to Restore Accidentally Deleted Photos From Your iPhone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/easy-steps-to-move-your-ipod-content-seamlessly-to-an-iphone/"><u>Easy Steps to Move Your iPod Content Seamlessly to an iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-pc-gaming-experience-by-eliminating-lag-and-frames-per-second-fps-dips/"><u>Enhance Your PC Gaming Experience by Eliminating Lag and Frames Per Second (FPS) Dips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f15-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F15 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-g2-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo G2 Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-uninterrupted-gaming-8-remedies-for-vrchat-issues-on-desktops/"><u>Master the Art of Uninterrupted Gaming: 8 Remedies for VRChat Issues on Desktops</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-multi-fps-drop-problems-a-guide-to-enhancing-pc-gameplay/"><u>Mastering Multi-FPS Drop Problems: A Guide to Enhancing PC Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987491146-resident-evil-village-opening-problems-heres-how-you-can-fix-it/"><u>Resident Evil Village Opening Problems? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-your-fallout-76-online-play-solutions-for-pc-users/"><u>Restoring Your Fallout 76 Online Play: Solutions for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/sharpen-your-gaming-experience-solutions-for-outriders-blurry-image-issues/"><u>Sharpen Your Gaming Experience: Solutions for Outriders' Blurry Image Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-connection-issues-how-to-resolve-no-match-found-in-warzone-on-pc/"><u>Solving Connection Issues: How to Resolve No Match Found in Warzone on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-no-audio-device-installed-issue-on-your-windows-pc/"><u>Solving the 'No Audio Device Installed' Issue on Your Windows PC</u></a></li>
-<li><a href="https://solve-news.techidaily.com/top-13-gratis-dvd-spieler-die-mit-windows-11-kompatibel-sind/"><u>Top 13 Gratis DVD-Spieler, Die Mit Windows 11 Kompatibel Sind</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-ultimate-gaming-experience-now-flawlessly-running-on-pcs-worldwide/"><u>Yakuza: Like a Dragon – Ultimate Gaming Experience Now Flawlessly Running on PCs Worldwide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-quick-engagement-techniques-for-zooms-camera-shots/"><u>[New] 2024 Approved Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-techniques-for-ultimate-iphone-hdr/"><u>[New] Advanced Techniques for Ultimate iPhone HDR</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-find-cricket-sound-effect/"><u>2024 Approved Find Cricket Sound Effect</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-facebook-stories-like-a-pro/"><u>2024 Approved Navigating Facebook Stories Like a Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-trouble-a-users-manual-to-restore-logitech-c920-camera-performance/"><u>Bypassing Trouble: A User's Manual to Restore Logitech C920 Camera Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-resolve-the-live-server-connection-error-challenge/"><u>Effective Strategies to Resolve the 'Live Server Connection Error' Challenge</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/exploring-the-difference-between-ig-reels-and-stories/"><u>Exploring the Difference Between IG Reels & Stories</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-sign-in-troubles-heres-a-fast-and-simple-guide-to-get-you-back-in/"><u>Fortnite Sign-In Troubles? Here's a Fast & Simple Guide to Get You Back In!</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-game-bug-fixed-application-no-longer-freezing-up/"><u>Modern Warfare 3 Game Bug Fixed: Application No Longer Freezing Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-snowrunner-stability-issues-expert-fixes-for-persistent-pc-shutdowns-and-restarts/"><u>Overcome SnowRunner Stability Issues: Expert Fixes for Persistent PC Shutdowns and Restarts</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolve-your-apex-legends-game-launch-problems-today/"><u>Quick Fixes: Resolve Your Apex Legends Game Launch Problems Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-iphones-photography-skills-fixing-the-focus-problem/"><u>Revive Your iPhone's Photography Skills: Fixing the Focus Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/setting-up-the-dramacool-extension-for-enhanced-asian-entertainment-in-kodi-versions-20-and-19/"><u>Setting Up the DramaCool Extension for Enhanced Asian Entertainment in Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-secrets-of-scavengers-winning-techniques-and-hints/"><u>Unlocking Secrets of 'Scavengers' - Winning Techniques and Hints</u></a></li>
 </ul></div>
 

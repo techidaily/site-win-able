@@ -1,7 +1,7 @@
 ---
 title: Improve Your PC's Performance and Reduce Lag While Playing Street Fighter 6
-date: 2025-02-12T00:44:01.928Z
-updated: 2025-02-15T04:57:19.794Z
+date: 2025-02-27T03:27:38.268Z
+updated: 2025-03-04T06:56:43.833Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -82,27 +78,15 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
 
@@ -115,10 +99,6 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
@@ -138,10 +118,6 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
@@ -160,10 +136,6 @@ If it’s still not working, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -195,18 +167,20 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-audio-extraction-best-youtube-to-mp3-tools-list-for-2024/"><u>[New] Effortless Audio Extraction Best YouTube to MP3 Tools List for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-harmonizing-your-windows-photos-how-to-incorporate-audio-visual-features-for-2024/"><u>[Updated] Harmonizing Your Windows Photos How to Incorporate Audio-Visual Features for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-video-promotion-mastery-craft-your-winning-market-plan/"><u>[Updated] In 2024, Instagram Video Promotion Mastery Craft Your Winning Market Plan</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-ultimate-shot-selection-best-stabilizers-reviewed/"><u>[Updated] In 2024, Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
-<li><a href="https://win-able.techidaily.com/amazons-path-of-warriors-addressing-and-correcting-in-game-connectivity-problems/"><u>Amazon's Path of Warriors: Addressing and Correcting In-Game Connectivity Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-warzone-directx-error-a-step-by-step-tutorial-for-seamless-gameplay/"><u>Banish the 'Warzone DirectX Error': A Step-by-Step Tutorial for Seamless Gameplay</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/filmmaking-for-social-media-imovie-tips-for-crafting-square-content-for-2024/"><u>Filmmaking for Social Media IMovie Tips for Crafting Square Content for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-pc-troubleshooting-madden-nfl-21-continuous-crashes/"><u>Fix Your PC: Troubleshooting Madden NFL 21 Continuous Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enable-and-repair-broken-spatial-audio-for-windows-operating-systems/"><u>How to Enable and Repair Broken Spatial Audio for Windows Operating Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/intel-chipset-utilities-crash-heres-your-guide-for-stability-fixes/"><u>Intel Chipset Utilities Crash? Here's Your Guide for Stability Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-compatibility-with-samsung-850-evo-access-downloads-of-official-drivers-here/"><u>Seamless Compatibility with Samsung 850 EVO - Access Downloads of Official Drivers Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/techniques-to-improve-frames-per-second-fps-during-the-battle-royale-of-tainted-grail-conquest/"><u>Techniques to Improve Frames Per Second (FPS) During the Battle Royale of Tainted Grail: Conquest</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts-for-2024/"><u>[New] Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-outros-that-grow-your-channel-faster/"><u>[Updated] In 2024, YouTube Outros that Grow Your Channel Faster</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-startup-failures-of-red-dead-redemption-2-effective-fixes-for-gamers/"><u>Addressing Startup Failures of Red Dead Redemption 2: Effective Fixes for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-discord-disruptions-effective-strategies-to-fix-data-transfer-delays/"><u>Banishing Discord Disruptions: Effective Strategies to Fix Data Transfer Delays</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to reinstall hardware drivers on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gameplay-gimmicks-voice-variations-in-free-fire/"><u>In 2024, Gameplay Gimmicks Voice Variations in Free Fire</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>In 2024, Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-lag-effective-solutions-for-deadlock-free-gaming-on-pc-and-ps5-platforms/"><u>Overcome Lag: Effective Solutions for Deadlock-Free Gaming on PC and PS5 Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-solutions-for-valheims-freezing-glitches-on-personal-computers/"><u>Overcoming Lag: Solutions for Valheim's Freezing Glitches on Personal Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/profi-rezensionen-zu-den-top-4-speedhasten-video-convertern-and-gutscheinemassiger-download/"><u>Profi-Rezensionen Zu Den Top 4 Speedhasten Video Convertern & Gutscheinemäßiger Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-blackout-on-pcs/"><u>Troubleshooting Chrome Blackout on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-restoring-sounds-in-lost-ark/"><u>Troubleshooting Guide: Restoring Sounds in Lost Ark</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-a-non-responsive-alienware-command-center/"><u>Troubleshooting Tips: Solving a Non-Responsive Alienware Command Center</u></a></li>
 </ul></div>
 

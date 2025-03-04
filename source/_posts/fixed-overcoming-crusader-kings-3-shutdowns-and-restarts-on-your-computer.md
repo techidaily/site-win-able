@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer"
-date: 2025-02-11T16:19:17.664Z
-updated: 2025-02-14T20:25:48.179Z
+date: 2025-02-26T21:19:52.815Z
+updated: 2025-03-04T04:32:57.783Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix Disco Elysium Crashes
 
@@ -76,10 +72,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -101,10 +93,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -125,10 +113,6 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -146,10 +130,6 @@ If your game still crashes after this, try the fix below.
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7 – Reinstall the game
 
@@ -187,10 +167,6 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 If the game still crashes, then try the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 9 – Run as administrator
 
  Running your computer under a standard user mode can give a hard time to gameplay as limited user rights may cause problems when your game tries to access certain game files.
@@ -201,17 +177,9 @@ To run your game as administrator, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Repeat steps 1-2 to grant Steam admin rights.
 
@@ -238,21 +206,20 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-audio-recorder-reviews-ipad-edition-3/"><u>[New] Professional Audio Recorder Reviews IPad Edition #3</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>[New] Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-vsco-photo-editing-tips-and-tricks/"><u>[Updated] Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/dark-souls-iii-performance-fixed-say-goodbye-to-unexpected-shutdowns/"><u>Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-remedies-for-persistent-outriders-game-crashes/"><u>Effortless Remedies for Persistent Outriders Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancements-and-fixes-to-address-god-of-wars-available-memory-glitch/"><u>Enhancements and Fixes to Address God of War's Available Memory Glitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-your-snipsnap-glitches-with-these-9-simple-fixes/"><u>Fix Your SnipSnap Glitches with These 9 Simple Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722980884059-how-to-fix-fps-dropslow-fps-in-valorant-2024-tips/"><u>How to Fix FPS Drops/Low FPS in Valorant – 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-graphics-card-errors-on-oculus-devices/"><u>How to Resolve Graphics Card Errors on Oculus Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-free-mp4-screen-capture-toolkit-released/"><u>In 2024, Free MP4 Screen Capture Toolkit Released</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-e-conference-headline-generator/"><u>Leading E-Conference Headline Generator</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-ssd-reviews-ps5-edition/"><u>Premium SSD Reviews: PS5 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-ai-conversation-with-alternatives/"><u>Redefining AI Conversation with Alternatives</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/smb-video-marketing-success-factors/"><u>SMB Video Marketing Success Factors</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-tame-diablo-3s-crashing-problem-expert-advice-for-smooth-play/"><u>Troubleshoot and Tame Diablo 3'S Crashing Problem: Expert Advice for Smooth Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-slime-rancher-2-freezing-or-crashing/"><u>Troubleshooting Tips: Resolving Issues with Slime Rancher 2 Freezing or Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005574195-black-ops-cold-war-crack-the-mystery-behind-errorcode-0xc0000005-and-play-smoothly/"><u>'Black Ops Cold War': Crack the Mystery Behind ERROR_CODE 0xC0000005 and Play Smoothly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevate-your-artwork-implementing-3d-text-effects/"><u>[New] In 2024, Elevate Your Artwork Implementing 3D Text Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995959997-solved-steam-cant-log-in/"><u>[SOLVED] Steam Can't Log In</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-perfecting-webp-conversion-to-jpeg-format/"><u>[Updated] 2024 Approved Perfecting WebP Conversion to JPEG Format</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhancing-engagement-professional-pc-techniques-for-youtube-editors-for-2024/"><u>[Updated] Enhancing Engagement Professional PC Techniques for YouTube Editors for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-nvidia-geforce-experience-problem-decode-and-repair-error-0x0003/"><u>Clearing Up Nvidia Geforce Experience Problem: Decode and Repair Error 0X0003</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-take-on-the-new-iphone-15-why-it-stands-out-for-tech-enthusiasts-insights/"><u>Expert Take on the New iPhone 15: Why It Stands Out for Tech Enthusiasts | Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-steam-cloud-desynchronization-problems/"><u>How to Fix Steam Cloud Desynchronization Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-submerged-splendor-top-underwater-video-techniques-with-gopro/"><u>In 2024, Submerged Splendor Top Underwater Video Techniques with GoPro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175709133-revolutionize-your-cpu-cooling-with-our-10k-3d-printed-liquid-nitrogen-vessel-triple-the-speed/"><u>Revolutionize Your CPU Cooling with Our $10K 3D Printed Liquid Nitrogen Vessel - Triple the Speed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/skyrocket-your-ark-game-speed-on-pc-with-effective-fps-optimization-techniques/"><u>Skyrocket Your ARK Game Speed on PC with Effective FPS Optimization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-the-black-screen-in-rainbow-six-siege-a-complete-guide/"><u>Solving the Mystery of the Black Screen in Rainbow Six Siege: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-the-finals-pre-launch-glitches-key-insights-and-strategies-for-a-smooth-2024-rollout/"><u>Step-by-Step Fixes for The Finals Pre-Launch Glitches: Key Insights & Strategies for a Smooth 2024 Rollout</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-imposes-penalties-on-deepcools-sales-support-to-russia-amidst-conflict-with-ukraine/"><u>US Imposes Penalties on DeepCool's Sales Support to Russia Amidst Conflict with Ukraine</u></a></li>
 </ul></div>
 

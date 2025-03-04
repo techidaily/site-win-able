@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2025-02-11T19:54:45.058Z
-updated: 2025-02-14T20:54:30.993Z
+date: 2025-03-02T08:14:53.374Z
+updated: 2025-03-04T06:06:19.924Z
 tags:
   - win11
   - win10
@@ -60,10 +60,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -93,10 +89,6 @@ OR
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -144,10 +136,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Run Steam as an administrator
 
  Granting Steam administrative rights would probably let you play your game smoothly. So here, you can run Steam in Administrator mode.
@@ -159,10 +147,6 @@ OR
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
@@ -182,10 +166,6 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
@@ -194,17 +174,9 @@ Here’s how you can do this:
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now restart your computer and your problem should be fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
@@ -213,10 +185,6 @@ Now restart your computer and your problem should be fixed.
 Take these steps:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
@@ -252,19 +220,22 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-groupwatcher-pro-hd-downloader/"><u>[New] GroupWatcher Pro HD Downloader</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-asmr-quality-meets-economic-realities-for-2024/"><u>[Updated] ASMR Quality Meets Economic Realities for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bending-space-and-time-vrs-cinematic-innovation/"><u>[Updated] Bending Space and Time VR's Cinematic Innovation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-channeling-success-the-personal-brand-strategy-for-youtubers/"><u>[Updated] Channeling Success The Personal Brand Strategy for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-yt-comments-tips-for-desktop-iphone-android-users/"><u>[Updated] In 2024, Finding YT Comments Tips for Desktop, iPhone, Android Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-translating-trust-the-importance-of-client-endorsements-for-2024/"><u>[Updated] Translating Trust The Importance of Client Endorsements for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-for-correcting-tfla0002-glitches-on-exam-day/"><u>Comprehensive Troubleshooting for Correcting TFLA0002 Glitches on Exam Day</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f04-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy F04 Phone Without Password?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inside-look-the-power-of-recmeister-capturing-features/"><u>Inside Look The Power of Recmeister Capturing Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-how-to-resolve-call-of-dutys-warzone-version-50-and-31-disc-read-error-on-pc-step-by-step-guide/"><u>Mastering the Fix: How to Resolve Call of Duty's Warzone Version [5.0] & [3.1] 'Disc Read Error' On PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cket-subscribers-mastering-youtube-traffic-boost/"><u>Skyrocket Subscribers Mastering YouTube Traffic Boost</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixes-for-when-grand-theft-auto-v-wont-start/"><u>Troubleshooting Tips: Fixes for When Grand Theft Auto V Won't Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-freezing-issues-in-grand-theft-auto-v/"><u>Troubleshooting Tips: Resolving Freezing Issues in Grand Theft Auto V</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-tips-to-get-the-unresponsive-nvidia-drivers-working-again/"><u>Ultimate Tips to Get the Unresponsive NVIDIA Drivers Working Again</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>[Updated] In 2024, Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-the-potential-of-your-youtube-videos-with-effective-end-screens/"><u>[Updated] In 2024, Unlock the Potential of Your YouTube Videos with Effective End Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-quickstep-into-viral-audio-youtubes-short-musical-journey/"><u>[Updated] The Quickstep Into Viral Audio YouTube's Short Musical Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-load-screen-hurdle-fixing-red-dead-redemption-2s-loading-problems/"><u>Beating the Load Screen Hurdle - Fixing Red Dead Redemption 2'S Loading Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-the-art-of-photographic-collage-with-picshot/"><u>Demystifying the Art of Photographic Collage with Picshot</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-c210-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia C210</u></a></li>
+<li><a href="https://win-able.techidaily.com/ending-buffering-woes-effective-techniques-to-optimize-obs-performance/"><u>Ending Buffering Woes: Effective Techniques to Optimize OBS Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-steams-remote-play-when-it-stops-responding-proven-methods/"><u>How to Fix Steam's Remote Play when It Stops Responding: Proven Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-x6-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco X6 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intuitive-tips-for-determining-your-gaming-hours-on-xbox/"><u>Intuitive Tips for Determining Your Gaming Hours on Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-realm-of-baldurs-gate-six-strategic-fixes-to-combat-game-freezes-and-hitches/"><u>Master the Realm of Baldur’s Gate: Six Strategic Fixes to Combat Game Freezes & Hitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-gunfights-achieving-higher-frame-rates-in-cod-modern-warfare/"><u>Mastering Gunfights: Achieving Higher Frame Rates in COD: Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-unresponsive-keyboards-in-your-pathfinder-wrath-of-the-righteous-adventure/"><u>Quick Fixes for Unresponsive Keyboards in Your Pathfinder 'Wrath of the Righteous' Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-stuttering-in-cyberpunk-2077-performance-improvements-unveiled/"><u>Say Goodbye to Stuttering in Cyberpunk 2077: Performance Improvements Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-chrome-stalling-issues-on-your-windows-10-machine/"><u>Step-by-Step Guide: Overcoming Chrome Stalling Issues on Your Windows 10 Machine</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-softwares-visual-treat-premium-high-resolution-onward-wallpapers-and-backgrounds/"><u>YL Software's Visual Treat: Premium High-Resolution Onward Wallpapers & Backgrounds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2025-02-14T02:55:30.375Z
-updated: 2025-02-14T22:01:30.824Z
+date: 2025-02-28T09:15:55.361Z
+updated: 2025-03-04T04:46:04.332Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -74,10 +66,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -99,10 +87,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
@@ -118,10 +102,6 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 ### Fix 5 – Turn off overlays
@@ -135,10 +115,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -172,16 +148,15 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-precision-record-keeper-for-chromebook/"><u>[New] In 2024, Precision Record Keeper for ChromeBook</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resident-evil-village-fps-drops-on-pc/"><u>[SOLVED] Resident Evil Village Fps Drops on PC</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-softening-system-sounds-a-comprehensive-guide/"><u>[Updated] 2024 Approved Softening System Sounds A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic5-ultimate-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic5 Ultimate Unlock Without Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009430607-epic-games-launcher-troubleshooting-fix-not-opening-issues-fast/"><u>Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-rectify-outlook-not-connected-problems/"><u>How to Successfully Rectify 'Outlook Not Connected' Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011235151-resolving-yakuza-6-for-pc-instability-top-solutions-discovered/"><u>Resolving Yakuza 6 for PC Instability: Top Solutions Discovered</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/toms-tech-reviews-insider-guides-and-gadget-comparisons/"><u>Tom's Tech Reviews: Insider Guides & Gadget Comparisons</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-and-fixing-cod-mw-dev-error-6034-on-windows-and-xbox-consoles/"><u>Ultimate Guide: Troubleshooting and Fixing CoD: MW Dev Error 6034 on Windows and Xbox Consoles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-and-video-converter-tech-assistance-portal/"><u>WinX DVD & Video Converter Tech Assistance Portal - 線上資料回答與技術支援</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tips-for-making-facebook-ad-videos-memorable/"><u>[New] 2024 Approved Tips for Making Facebook Ad Videos Memorable</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-effortless-group-chats-joining-zoom-on-your-android/"><u>[New] In 2024, Effortless Group Chats Joining Zoom on Your Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-ideal-images-to-ignite-your-inner-fire/"><u>[Updated] In 2024, Ideal Images to Ignite Your Inner Fire</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-streamrecord-lags-in-obs-step-by-step-troubleshooting-guide/"><u>Fixing Stream/Record Lags in Obs: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/forging-an-ai-that-harmonizes-with-humanity/"><u>Forging an AI that Harmonizes with Humanity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y100i-power-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y100i Power 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-for-palworlds-persistent-session-lookup-failures/"><u>Mastering Fixes for Palworld's Persistent Session Lookup Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connect-issues-troubleshooting-steps-for-the-latest-problems/"><u>Ubisoft Connect Issues: Troubleshooting Steps for the Latest Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-of-zmi-powerpack-20000-the-definitive-guide-to-convenient-power-on-demand/"><u>Unveiling the Potential of ZMI PowerPack 20000 - The Definitive Guide to Convenient Power on Demand</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-startup-problems-solved-easy-fix-for-non-responsive-menus/"><u>Windows 11 Startup Problems Solved – Easy Fix for Non-Responsive Menus</u></a></li>
 </ul></div>
 

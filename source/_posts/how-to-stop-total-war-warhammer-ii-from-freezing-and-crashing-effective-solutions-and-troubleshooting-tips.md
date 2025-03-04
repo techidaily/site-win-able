@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2025-02-11T03:20:00.711Z
-updated: 2025-02-14T17:48:18.817Z
+date: 2025-02-28T22:20:44.916Z
+updated: 2025-03-04T02:40:44.422Z
 tags:
   - win11
   - win10
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -79,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
 
@@ -112,25 +104,13 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your issue persists, then move on to the next fix below.
 
@@ -171,18 +151,17 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-becoming-an-economic-force-a-guide-to-earning-on-youtube-for-2024/"><u>[Updated] Becoming an Economic Force A Guide to Earning on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevate-videos-innovative-youtube-editing-techniques-revealed/"><u>[Updated] In 2024, Elevate Videos Innovative YouTube Editing Techniques Revealed</u></a></li>
-<li><a href="https://facebook.techidaily.com/7-uplifting-social-media-impacts-todays-world/"><u>7 Uplifting Social Media Impacts Today's World</u></a></li>
-<li><a href="https://win-able.techidaily.com/apple-video-converter-factory-update-now-includes-free-support-for-the-latest-ipod-nano/"><u>Apple Video Converter Factory Update: Now Includes Free Support for the Latest iPod Nano</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-alternatives-to-justdubs-top-7-legitimate-websites-for-safely-streaming-english-dubbed-anime/"><u>Best Alternatives to JustDubs: Top 7 Legitimate Websites for Safely Streaming English Dubbed Anime</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boosting-your-acer-nitro-5s-capabilities-with-the-newest-graphics-and-system-drivers/"><u>Boosting Your Acer Nitro 5'S Capabilities with the Newest Graphics and System Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-youtubef/"><u>Chrome と YouTubefの字幕をスムーズに取得するための方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-how-to-transform-and-save-youtube-content-as-avi-or-divx-files-on-any-computer/"><u>Comprehensive Guide: How to Transform and Save YouTube Content as AVI or DivX Files on Any Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/creating-a-webm-video-the-ultimate-guide-and-list-of-leading-creators/"><u>Creating a WebM Video: The Ultimate Guide & List of Leading Creators</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-gpt-to-microphone-my-podcast-saga/"><u>From GPT to Microphone: My Podcast Saga</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/44oh44k544kv44oi44od44ox5lik44gu44og44os44ot44k344on44o844ks5yq5546h55qe44gr6yyy55s744gz44kl44gf44kb44gu44ks44kk44oj44op44kk44oz44go5oqa6kgt/"><u>デスクトップ上のテレビショーを効率的に録画するためのガイドラインと技術</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-art-of-conversion-boosting-click-through-rates-on-social-platforms/"><u>[New] The Art of Conversion Boosting Click-Through Rates on Social Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>[New] The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elite-insight-engine-highest-chart-tracker/"><u>[Updated] 2024 Approved Elite Insight Engine Highest Chart Tracker</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-itunes-video-management-made-simple/"><u>[Updated] ITunes Video Management Made Simple</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-hidden-truths-about-youtube-earnings/"><u>[Updated] The Hidden Truths About YouTube Earnings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-echoes-of-exploration-your-step-by-step-blueprint-to-becoming-a-travel-vlogger/"><u>2024 Approved Echoes of Exploration Your Step-by-Step Blueprint to Becoming a Travel Vlogger</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-wont-start-on-steam-here-are-quick-fixes/"><u>Helldivers 2 Won't Start on Steam? Here Are Quick Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-starfield-freezing-issues-optimizing-game-performance-on-windows-computers/"><u>Overcome Starfield Freezing Issues: Optimizing Game Performance on Windows Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-complete-disk-saturation-on-your-windows-10-machine-a-step-by-step-guide/"><u>Resolving Complete Disk Saturation on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/struggling-with-assassins-creed-mirage-on-your-pc-or-console-expert-advice-for-24-release/"><u>Struggling with Assassin's Creed Mirage on Your PC or Console? Expert Advice for 2#4 Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-steps-to-youtube-to-mpeg-conversion-for-2024/"><u>Top 10 Steps to YouTube-to-MPEG Conversion for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-triumph-fixing-error-code-84-in-fortnite-for-uninterrupted-parties/"><u>Troubleshoot and Triumph: Fixing Error Code 84 in Fortnite for Uninterrupted Parties</u></a></li>
 </ul></div>
 

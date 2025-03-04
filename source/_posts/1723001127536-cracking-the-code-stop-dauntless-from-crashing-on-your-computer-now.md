@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now"
-date: 2025-02-11T17:03:11.526Z
-updated: 2025-02-14T16:23:32.480Z
+date: 2025-03-01T22:10:02.580Z
+updated: 2025-03-03T21:40:53.858Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -70,10 +66,6 @@ This could take several minutes. Wait for the process to be complete.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -89,10 +81,6 @@ This could take several minutes. Wait for the process to be complete.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -120,17 +108,9 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -151,10 +131,6 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -187,14 +163,19 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-resource-for-advanced-periscope-techniques/"><u>[New] The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-the-art-of-silence-increase-in-audacity/"><u>[Updated] Perfecting the Art of Silence Increase in Audacity</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-launch-issues-for-dragons-dogma-2-on-windows-computers/"><u>Fixing Launch Issues for Dragon's Dogma 2 on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005407611-hit-the-battlefields-pc-release-of-god-of-war-fps-now-available/"><u>Hit the Battlefields: PC Release of God of War FPS Now Available!</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-the-beat-saber-game/"><u>How to Resolve Constant Crashes in the Beat Saber Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-addressing-and-fixing-hearthstone-crashes-on-desktop-systems/"><u>Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-expression-an-in-depth-guide-to-snapchat-filters-for-2024/"><u>Unlocking Creative Expression An In-Depth Guide to Snapchat Filters for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725289314029-winx-dvd-ripper-platinum/"><u>アダルトビデオメーカー集紹介：モードイズとWinX DVD Ripper Platinumの両方に対応</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tune-your-status-on-whatsapp/"><u>[New] Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-screen-capture-tool-2021-for-2024/"><u>[New] Ultimate Screen Capture Tool 2021 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-complete-guide-to-videdit-studio-pro-features-and-more/"><u>[Updated] A Complete Guide to VidEdit Studio Pro, Features and More</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-m1-space-apples-lightest-or-heaviest-model/"><u>[Updated] Navigating the M1 Space Apple's Lightest or Heaviest Model?</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-not-launching-solved/"><u>Assassin’s Creed Valhalla Not Launching [Solved]</u></a></li>
+<li><a href="https://facebook.techidaily.com/connectivity-chronicles-seeking-pages-groups-in-fb-realm/"><u>Connectivity Chronicles: Seeking Pages, Groups in FB Realm</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-case-fixes-for-previously-persistent-issues-in-death-stranding-on-pc-unveiled/"><u>Crack the Case: Fixes for Previously Persistent Issues in Death Stranding on PC Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-strategies-for-seamless-clip-composition/"><u>Expert Strategies for Seamless Clip Composition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unplug-and-replay-twitch-livestream-techniques/"><u>In 2024, Unplug and Replay Twitch Livestream Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-steam-stability-solutions-to-stop-the-app-from-hanging/"><u>Mastering Steam Stability: Solutions to Stop the App From Hanging</u></a></li>
+<li><a href="https://facebook.techidaily.com/monitoring-tools-spotting-intruder-usage-quickly/"><u>Monitoring Tools: Spotting Intruder Usage Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-common-pc-issues-in-fortnite-a-step-by-step-guide/"><u>Resolving Common PC Issues in Fortnite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-warzone-20-lag-issues-top-strategies-for-a-smooth-game/"><u>Solving Warzone 2.0 Lag Issues: Top Strategies for a Smooth Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-a-smooth-youtube-experience/"><u>Step-by-Step Solutions for a Smooth YouTube Experience</u></a></li>
 </ul></div>
 

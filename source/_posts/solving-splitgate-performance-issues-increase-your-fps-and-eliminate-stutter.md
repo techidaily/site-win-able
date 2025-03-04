@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2025-02-12T19:33:49.736Z
-updated: 2025-02-15T00:43:56.942Z
+date: 2025-03-01T12:27:55.931Z
+updated: 2025-03-04T06:06:40.462Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all the solutions. Simply work down the list until you find the one that gives you luck.
@@ -48,10 +44,6 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
@@ -78,16 +70,8 @@ If this fix doesn’t help you, take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
@@ -124,10 +108,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -149,10 +129,6 @@ If the latest driver doesn’t help you, check out the next method.
  Some gamers reported that they managed to solve the stuttering by turning Vertical Sync on, so it might be a potential fix you can try. Meanwhile, if VSync doesn’t improve your game, try lowering your in-game graphics and see what happens.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Empty Standby Memory
 
@@ -182,26 +158,14 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
@@ -211,10 +175,6 @@ This method may require a basic level of computer knowledge.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
@@ -247,24 +207,18 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-timeless-family-adventures-on-screen-this-season/"><u>[New] 2024 Approved Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-edit-gopro-4k-video/"><u>[New] In 2024, How to Edit GoPro 4K Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-f1-2020-keeps-crashing-on-pc/"><u>[SOLVED] F1 2020 Keeps Crashing on PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-audacity-audio-recording-on-macos-for-2024/"><u>[Updated] Step-by-Step Audacity Audio Recording on MacOS for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-htc-u23-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your HTC U23 is off? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-launch-uncertain-stay-updated-on-the-future-of-mobile-exclusive-release/"><u>Diablo Immortal PC Launch Uncertain - Stay Updated on the Future of Mobile-Exclusive Release</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-the-best-11-cost-free-word-game-worlds/"><u>Dive Into the Best 11 Cost-Free Word Game Worlds</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-latency-lag-a-guide-to-fixing-v-rising-gameplay-interruptions-on-pcs/"><u>Eliminate Latency Lag: A Guide to Fixing V Rising Gameplay Interruptions on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-code-130-on-steam-heres-how-to-get-it-running-smoothly-again/"><u>Error Code 130 on Steam? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correct-interface-bug-27711-on-call-of-dutys-cold-war-adventure/"><u>How to Correct Interface Bug #27711 on Call of Duty's Cold War Adventure</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-c55-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C55 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-flip-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo X Flip Phone without PIN</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-performance-issues-understanding-fps-fluctuations-in-f1-2021/"><u>PC Performance Issues - Understanding FPS Fluctuations in F1 2021</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fix-updating-synaptics-ps2-touchpad-drivers-made-simple/"><u>Quick Fix: Updating Synaptics PS/2 Touchpad Drivers Made Simple</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/smooth-transition-upgrading-your-dell-alienware-drive-without-losing-a-bit-of-data/"><u>Smooth Transition: Upgrading Your Dell Alienware Drive Without Losing a Bit of Data</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-dealing-with-crashes-ultimate-solutions-for-stable-ascent-gaming-on-pc/"><u>Stop Dealing with Crashes: Ultimate Solutions for Stable Ascent Gaming on PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-t2-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo T2 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-stop-frame-rate-dips-in-resident-evil-village-pc/"><u>Troubleshooting Steps: How to Stop Frame Rate Dips in Resident Evil Village [PC]</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-open-league-of-legends/"><u>Troubleshooting Tips for Players Unable to Open League of Legends</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-from-muffled-to-clear-the-initial-use-of-fade-in-audition-for-2024/"><u>[New] From Muffled to Clear The Initial Use of Fade in Audition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[New] Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-microsoft-screen-recorder/"><u>[New] Microsoft Screen Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-vlc-capture-tool-assessment/"><u>[Updated] 2024 Approved VLC Capture Tool Assessment</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-input-latency-mastering-valorant-on-your-pc/"><u>Beat Input Latency: Mastering Valorant on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-3-stability-issues-on-pc-discover-the-fix/"><u>Halo 3 Stability Issues on PC? Discover the Fix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-moonlight-mastery-a-photographers-guidebook-to-nighttime-imagery/"><u>In 2024, Moonlight Mastery A Photographer's Guidebook to Nighttime Imagery</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-debugging-eradicating-xbox-and-pcs-code-0-1766-error-in-call-of-duty-warzone/"><u>Master the Art of Debugging: Eradicating Xbox & PC's Code 0-1766 Error in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-like-a-dragon-a-step-by-step-guide-to-amassing-endless-riches-in-pc/"><u>Mastering 'Like a Dragon': A Step-by-Step Guide to Amassing Endless Riches in Pc</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-roam-tips-for-resolving-stalling-start-up-in-far-cry-5/"><u>Ready to Roam? Tips for Resolving Stalling Start-Up in Far Cry 5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revive-your-photos-two-methods-to-restore-photo-viewing-in-win10-for-2024/"><u>Revive Your Photos Two Methods to Restore Photo Viewing in Win10 for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solving-audio-issues-on-your-pc-a-step-by-step-guide-by-yl-computing/"><u>Solving Audio Issues on Your PC: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-workshop-designers-app/"><u>Ultimate Workshop Designer's App</u></a></li>
 </ul></div>
 

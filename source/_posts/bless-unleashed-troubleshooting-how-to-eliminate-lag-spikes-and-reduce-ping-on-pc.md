@@ -1,7 +1,7 @@
 ---
 title: "Bless Unleashed Troubleshooting: How to Eliminate Lag Spikes and Reduce Ping on PC"
-date: 2025-02-11T18:39:43.425Z
-updated: 2025-02-15T02:15:01.518Z
+date: 2025-02-25T00:25:48.008Z
+updated: 2025-03-03T16:06:17.065Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -74,10 +70,6 @@ If this method doesn’t help, check out your graphics driver.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -91,10 +83,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
@@ -112,15 +100,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -141,10 +121,6 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -172,21 +148,16 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-kinemaster-insider-the-art-of-seamless-video-transitions-for-2024/"><u>[New] Kinemaster Insider The Art of Seamless Video Transitions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-selecting-holy-songs-for-ringtone-amplification/"><u>[New] Selecting Holy Songs for Ringtone Amplification</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-your-dream-makeup-routine-with-youtubes-leaders/"><u>[Updated] In 2024, Discovering Your Dream Makeup Routine with YouTube's Leaders</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95828505-9781608684946-big-love/"><u>Big Love | Free Book</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guia-paso-a-paso-para-aplicar-la-herramienta-de-copia-automatica-de-archivos-robocopy-en-windows-10/"><u>Guía Paso a Paso Para Aplicar La Herramienta De Copia Automática De Archivos (Robocopy) en Windows 10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-xr-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone XR to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optional-12-cup-grated-parmesan-cheese/"><u>Optional: 1/2 Cup Grated Parmesan Cheese</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-effective-techniques-to-secure-your-favorite-audios-from-youtube/"><u>Quick & Effective Techniques to Secure Your Favorite Audios From YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/removing-cinavia-protection-enabling-hd-streaming-from-your-ps4-with-a-personal-copy/"><u>Removing Cinavia Protection: Enabling HD Streaming From Your PS4 with a Personal Copy</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/removing-discord-servers-step-by-step/"><u>Removing Discord Servers Step-by-Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-acc-to-wav-conversion-techniques-for-windows-users/"><u>Seamless ACC-to-WAV Conversion Techniques for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-converting-mp4-files-to-mov-format-both-online-and-desktop-methods/"><u>Simple Steps: Converting MP4 Files to MOV Format - Both Online and Desktop Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-adding-the-tv-chopo-extension-in-kodi-195-leia/"><u>Step-by-Step Guide to Adding the TV Chopo Extension in Kodi 19.5 Leia</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-cutting-edge-sleep-technology/"><u>The Definitive Guide to Cutting-Edge Sleep Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-earning-cash-online-with-no-skills-needed/"><u>The Ultimate Guide to Earning Cash Online with No Skills Needed</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp3mp/"><u>おススメのビットレート変換フリーソフト MP3/MP オプションのガイド</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-cultivating-a-thriving-business-model-with-snapchat-insights/"><u>[New] In 2024, Cultivating a Thriving Business Model with Snapchat Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>2024 Approved Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-fast-solutions-stop-roblox-from-freezing-on-your-computer/"><u>6 Fast Solutions: Stop Roblox From Freezing on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-correcting-missing-d3dx9nine-dll-problems/"><u>Comprehensive Guide: Correcting Missing D3dx9_nine DLL Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-intel-irisplus-gpu-drivers-smooth-and-speedy-setup-process/"><u>Download the Newest Intel Iris+ GPU Drivers: Smooth and Speedy Setup Process!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-now-effective-solutions-for-risk-of-rain-ebx-not-crashing-issues/"><u>Fix It Now: Effective Solutions for Risk of Rain Ebx Not Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bestiary-of-no-cost-iphone-enhancement-apps-for-ultimate-selfies/"><u>In 2024, Bestiary of No-Cost iPhone Enhancement Apps for Ultimate Selfies</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-get-your-witcher-3-game-running-smoothly-again/"><u>Step-By-Step Solutions To Get Your Witcher 3 Game Running Smoothly Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-overcome-onedrives-immediate-folder-addition-error/"><u>Swift Solutions to Overcome OneDrive's Immediate Folder Addition Error</u></a></li>
 </ul></div>
 

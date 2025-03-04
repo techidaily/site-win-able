@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2025-02-14T02:31:05.973Z
-updated: 2025-02-14T21:15:57.983Z
+date: 2025-02-27T19:08:21.926Z
+updated: 2025-03-03T22:20:46.580Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## OBS lags when streaming
 
  When you’re streaming with OBS, network latency is no stranger to live streamers. In order to deliver a smoother watching experience, it’s quite necessary to reduce lag spikes while streaming.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 3. **[Restart modem & router](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Stop other bandwidth-intensive activities
 
@@ -60,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
@@ -116,10 +104,6 @@ ipconfig /flushdns
  Exit the Command Prompt window. Now check to see if your OBS is still laggy. If it is, move on to Fix 3.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Restart modem & router
 
@@ -195,10 +179,6 @@ wireless router
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Adjust OBS settings
 
  There’re quite a few guidelines for how to find out the OBS settings that give you the best streaming/recording performance. You can simply google “obs settings for streaming” and follow the instructions ranking high; also keep in mind that you may need to play around with different settings until you find the ones that work wonders. For example, you could start with the settings below:
@@ -211,10 +191,6 @@ wireless router
 * Change**Recording Format** to**flv** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
@@ -240,10 +216,6 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
@@ -251,10 +223,6 @@ wireless router
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Lower in-game graphics settings
 
@@ -283,20 +251,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-charting-a-course-to-riches-youtubes-monetary-milestones/"><u>[New] 2024 Approved Charting a Course to Riches YouTube's Monetary Milestones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-leading-ladies-of-livestreams-top-10-female-youtubers-unveiled/"><u>[New] Leading Ladies of Livestreams Top 10 Female YouTubers Unveiled</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/astering-mcn-your-comprehensive-youtube-creators-roadmap/"><u>[New] Mastering MCN Your Comprehensive YouTube Creator's Roadmap</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-building-an-audience-with-exceptional-fb-reel-content-for-2024/"><u>[Updated] Building an Audience with Exceptional FB Reel Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailored-techniques-for-thriving-on-igtv-for-2024/"><u>[Updated] Tailored Techniques for Thriving on IGTV for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-themes-for-dynamic-youtuber-profiles/"><u>2024 Approved Free Themes for Dynamic YouTuber Profiles</u></a></li>
-<li><a href="https://win-able.techidaily.com/all-in-one-digital-content-guard-video-and-picture-watermarking-solutions/"><u>All-in-One Digital Content Guard: Video & Picture Watermarking Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-12-complimentary-video-editing-apps-on-instagram-top-picks-for-pc-online-and-mobile-use/"><u>Best 12 Complimentary Video Editing Apps on Instagram: Top Picks for PC, Online & Mobile Use</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-guide-using-top-rated-windows-1011-dvd-decode-software-to-watch-any-movie/"><u>Best Guide: Using Top-Rated Windows 10/11 DVD Decode Software to Watch Any Movie</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-effortless-techniques-for-ripping-burning-and-duplicating-dvdcd-content/"><u>Comprehensive Guide: Effortless Techniques for Ripping, Burning & Duplicating DVD/CD Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-upkeep-package-for-enhancing-your-kodi-indigo-xmb-channel-experience/"><u>Comprehensive Upkeep Package for Enhancing Your Kodi Indigo XMB Channel Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/cost-free-guide-mastering-simple-techniques-in-editing-your-screenshots/"><u>Cost-Free Guide: Mastering Simple Techniques in Editing Your Screenshots</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dell-inspiron-3671-computer-system-evaluation-an-affordable-option-for-everyday-use/"><u>Dell Inspiron 3671 Computer System Evaluation: An Affordable Option for Everyday Use</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-conversion-techniques-from-avi-to-ogg-for-high-quality-videos-and-sounds/"><u>Easy Conversion Techniques From AVI to OGG for High-Quality Videos and Sounds</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-achieve-flawless-video-for-instagram-perfection/"><u>In 2024, Achieve Flawless Video for Instagram Perfection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-movement-study-2023/"><u>[Updated] 2024 Approved Comprehensive Movement Study 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-phantoms-slow-mo-magic/"><u>[Updated] Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ve-triumphed-avoid-game-downtime-with-our-fix-it-guide/"><u>Diablo Ve Triumphed: Avoid Game Downtime with Our Fix-It Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-issues-with-the-paradox-game-launcher-practical-tips-for-success/"><u>Fixing Common Issues with the Paradox Game Launcher - Practical Tips for Success</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969941038-fresh-graphics-driver-release-nvidias-rtx-1e-super-drivers-for-windows-1011-download-now/"><u>Fresh Graphics Driver Release: NVIDIA's RTX 1E Super Drivers for Windows 10/11 - Download Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-minecrafts-persistent-black-screen-glitch/"><u>How to Resolve Minecraft's Persistent Black Screen Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-king-of-fighters-xv-from-frequently-crashing-on-your-computer/"><u>How to Stop The King of Fighters XV From Frequently Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-visual-hiccups-heres-how-you-can-fix-the-notorious-black-screen-in-202e/"><u>League of Legends Visual Hiccups? Here's How You Can Fix the Notorious Black Screen in 202E</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-hashtags-to-enhance-fb-user-engagement-for-2024/"><u>Leveraging Hashtags to Enhance FB User Engagement for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-hosting-solutions-industry-experts-ranked-selections-techreview/"><u>Top-Rated Cloud Hosting Solutions: Industry Experts' Ranked Selections | TechReview</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-your-youtube-videos-buffering-issues/"><u>Ultimate Guide: Resolving Your YouTube Video's Buffering Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/work-meets-play-dell-unveils-a-game-changing-ultraportable-laptop-to-revolutionize-your-workday-and-after-hours-gaming-sessions/"><u>Work Meets Play: Dell Unveils a Game-Changing Ultraportable Laptop to Revolutionize Your Workday and After-Hours Gaming Sessions!</u></a></li>
 </ul></div>
 

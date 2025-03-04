@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Stop KernelBase.dll From Crashing - Effective Methods Unveiled!
-date: 2024-08-18T15:48:27.547Z
-updated: 2024-08-19T15:48:27.547Z
+date: 2025-03-03T07:02:49.423Z
+updated: 2025-03-03T23:48:00.395Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/0fc1e99290cf59c3605c4bd53329b181e70c2492c
 4. **[Try different launch options](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Verify the integrity of the game files
 
  Sometimes the corrupted or missing files might cause the Guilty Gear Strive to crash. To fix this issue, we can go to Steam to verify the integrity of your game’s files. Here’s how to do it:
@@ -47,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/0fc1e99290cf59c3605c4bd53329b181e70c2492c
 
 If not, go ahead and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  If Guilty Gear Strive keeps crashing while in-game, it’s likely that your graphics driver is faulty or outdated. To see if that’s the case for you, you should update your drivers. There are two ways you can try.
@@ -66,9 +59,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/61604-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660.jpg)
 
  Once you’ve updated your graphics driver, restart your computer and launch Guilty Gear Strive again.
@@ -82,14 +72,8 @@ If the game still crashes, don’t worry, try the next fix.
 1. On your keyboard, press**the Windows logo key** and type**System Configuration** , then click**Open** from the list of results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/systemconfiguration.jpg)
 2. In the System Configuration window, click the**Services** tab, check**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. Select the Startup tab and click**Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/startup.jpg)
@@ -97,9 +81,6 @@ If the game still crashes, don’t worry, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/end.jpg)
 6. Close Task Manager.
 7. Go back to the System Configuration window and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ok.jpg)
 8. Restart your computer.
 
@@ -118,13 +99,7 @@ If the game still crashes, don’t worry, try the next fix.
 1. Open your**Steam Library** . Right-click Guilty Gear Strive and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/lib.jpg)
 2. On the General tab you’ll find the**LAUNCH OPTIONS** section. In the blank text box, type “**\-nohmd** ” or “**\-d3d11** ”.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/launch1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/launch2.jpg)
 3. Close the game’s Properties window.
 
@@ -132,17 +107,11 @@ If the game still crashes, don’t worry, try the next fix.
 
 If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Uninstall and reinstall the game
 
  If none of the fixes above resolve the Guilty Gear Strive crashing issue, you can try reinstalling the game as a last resort. Here’s how to do it:
 
 1. Open your**Steam Library** . Right-click Guilty Gear Strive and select**Manage** , then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/uninstall.jpg)
 2. Click**Uninstall** again to confirm that you want to delete its files.
 3. Wait a few minutes to uninstall the game.
@@ -162,8 +131,6 @@ If not, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +138,19 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-tips.techidaily.com/numeneras-torment-an-innovative-blend-of-sci-fi-roleplaying-and-immersive-storytelling-reviewed-here/"><u>'Numenera's Torment': An Innovative Blend of Sci-Fi Roleplaying & Immersive Storytelling Reviewed Here!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ving-youtube-financial-goals-via-viewer-statistics/"><u>Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-solutions-to-combat-lag-issues-for-a-smooth-ride-in-forza-horizon-5/"><u>Best Solutions to Combat Lag Issues for a Smooth Ride in Forza Horizon 5</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-your-feed-mastering-customization-in-facebooks-world/"><u>Crafting Your Feed: Mastering Customization in Facebook's World</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-complications-heres-what-you-need-to-know-about-correcting-them-for-fifa-nineteen-twenty/"><u>DirectX Complications? Here’s What You Need to Know About Correcting Them for FIFA Nineteen Twenty</u></a></li>
+<li><a href="https://driver-download.techidaily.com/evga-drivers-download-and-install-for-windows/"><u>EVGA Drivers Download and Install for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-correcting-the-roblox-error-277-on-windows/"><u>Expert Advice: Correcting the Roblox Error 277 on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/re-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>Explore Elite Gaming Opening Tutorials Free & Premium Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-igtv-picks-for-a-creative-edge/"><u>In 2024, Essential IGTV Picks for a Creative Edge</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mirrorless-mastery-10-best-stabilizing-choices-for-2024/"><u>Mirrorless Mastery 10 Best Stabilizing Choices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-lost-ark-startup-failures/"><u>Troubleshooting Guide: Resolving Lost Ark Startup Failures</u></a></li>
+</ul></div>
 

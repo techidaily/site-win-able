@@ -1,7 +1,7 @@
 ---
 title: "Fix Steam Crashes Instantly: Ultimate Troubleshooting Guide"
-date: 2024-12-12T21:30:44.556Z
-updated: 2024-12-19T23:25:59.519Z
+date: 2025-02-26T22:41:03.904Z
+updated: 2025-03-04T06:45:03.750Z
 tags:
   - win11
   - win10
@@ -68,19 +68,11 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
@@ -116,25 +108,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -158,16 +138,8 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -219,21 +191,9 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -282,19 +242,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-androids-fastest-vid-tuning-tools-reviewed/"><u>[New] Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-envisioning-your-fb-video-showcase/"><u>[Updated] In 2024, Envisioning Your FB Video Showcase</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-tips-overcome-crashes-using-latest-techniques/"><u>Alan Wake 2 Stability Tips: Overcome Crashes Using Latest Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-error-methods-to-reconnect-with-outlook-seamlessly/"><u>Fixing the Error: Methods to Reconnect with Outlook Seamlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-thx-immersive-sound-experience-back-troubleshooting-steps-for-windows-1110-users/"><u>Getting Thx Immersive Sound Experience Back: Troubleshooting Steps for Windows 11/10 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-use-remote-functionality-on-your-samsung-qled-or-led-tvs/"><u>How To Enable and Use Remote Functionality on Your Samsung QLED or LED TVs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-on-toms-computer-hardware/"><u>In-Depth Analysis on Tom's Computer Hardware</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-apples-extended-warranty-service-applecareplus-truly-essential-or-not/"><u>Is Apple's Extended Warranty Service (AppleCare+) Truly Essential or Not?</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-fps-performance-for-tainted-grail-conquest-players/"><u>Maximizing FPS Performance for Tainted Grail: Conquest Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/oculus-link-woes-here-are-six-swift-methods-to-get-you-back-online/"><u>Oculus Link Woes? Here Are Six Swift Methods to Get You Back Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-jedi-fallen-order-overcoming-initialization-hurdles-and-getting-play-time/"><u>Star Wars Jedi: Fallen Order - Overcoming Initialization Hurdles and Getting Play Time</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-youtube-viewing-experience-with-nvidias-rtx-technology-for-stunning-hdri-visuals/"><u>Transform Your YouTube Viewing Experience with NVIDIA's RTX Technology for Stunning HDRI Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-grading-insights-from-dr-john-doe/"><u>[New] Unveiling the Power of Grading Insights From Dr. John Doe</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-timeless-tunes-selecting-high-quality-ringtones-online/"><u>[Updated] Timeless Tunes Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crusader-kings-2-error-why-it-may-fail-to-load-and-how-to-resolve-it/"><u>Fixing Crusader Kings 2 Error: Why It May Fail to Load and How to Resolve It</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashingfreezing-issues-on-rocket-league-platform/"><u>How to Fix Continuous Crashing/Freezing Issues on Rocket League Platform</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>In 2024, Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-time-management-using-timestamps-to-amplify-views-on-youtube/"><u>In 2024, Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-imagery-in-chatgpt-4-via-dall-e/"><u>Mastering AI Imagery in ChatGPT-4 via DALL-E</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/method-for-securely-archiving-image-data-from-word-documents/"><u>Method for Securely Archiving Image Data From Word Documents</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-the-chaos-of-detroit-a-seamless-experience-on-your-computer/"><u>Navigating the Chaos of 'Detroit:' A Seamless Experience On Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-firefox-freezes-ultimate-fix-guide/"><u>No More Firefox Freezes: Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-in-the-latest-version-of-resident-evil-4-fixes-for-game-crashes/"><u>Overcoming Stability Issues in the Latest Version of Resident Evil 4: Fixes for Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-getting-your-multiversus-game-up-and-running-on-windows/"><u>Quick Guide: Getting Your MultiVersus Game Up and Running on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-ubisoft-connects-sluggish-download-speeds-a-step-by-step-guide/"><u>Solving Ubisoft Connect's Sluggish Download Speeds: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-13c-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-star-wars-squadrons-solved/"><u>Troubleshooting Tips for Persistent Crashes in Star Wars: Squadrons - Solved</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-100-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor 100 Pro.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes"
-date: 2025-02-07T19:52:55.070Z
-updated: 2025-02-14T23:35:55.658Z
+date: 2025-02-27T11:28:59.973Z
+updated: 2025-03-03T18:55:28.843Z
 tags:
   - win11
   - win10
@@ -76,10 +76,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your computer
 
  Some programs on your computer might conflict with_Diablo 3_ or the Blizzard Battle.net app, causing your game to crash frequently. Try performing a reboot on your PC to end unwanted programs completely, then relaunch your game.
@@ -117,10 +113,6 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **Diablo 3 > Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click **Begin Scan** .
 
@@ -170,10 +162,6 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: **Delete the game cache files**
 
  Another possible cause of the Diablo 3 crashing issue is the corrupted cache folder. In this case, clearing the cache folder can fix the issue. Follow the instructions below to see how to do it:
@@ -188,25 +176,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
@@ -220,17 +196,9 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-512.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
@@ -263,10 +231,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
  Relaunch your game to check if the crashing issue has been resolved. If not, check the fix below.
@@ -290,10 +254,6 @@ If your game crashes again, go ahead with the fix below.
  If you’re prompted about permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
 
@@ -321,20 +281,18 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-enhancing-slideshow-impact-with-webcam-integration/"><u>[New] In 2024, Enhancing Slideshow Impact with Webcam Integration</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-maximizing-photo-quality-for-commercial-use-for-2024/"><u>[New] Maximizing Photo Quality for Commercial Use for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/deciphering-whatsapp-talk-mechanics-for-2024/"><u>Deciphering WhatsApp Talk Mechanics for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-crash-code-0xc00aturism-for-call-stack-overflow-in-black-ops-cold-war/"><u>Decode the Crash Code 0Xc00aturism for Call Stack Overflow in Black Ops Cold War</u></a></li>
-<li><a href="https://win-able.techidaily.com/enjoy-uninterrupted-viewing-steps-to-correctly-run-netflix-on-your-xbox-one/"><u>Enjoy Uninterrupted Viewing: Steps to Correctly Run Netflix on Your Xbox One</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-and-simple-methods-to-fix-frequent-crashes-in-titanfall-2/"><u>Fast and Simple Methods to Fix Frequent Crashes in Titanfall 2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-manually-delete-blue-screen-error-dumps-from-your-windows-10-pc/"><u>How to Manually Delete Blue Screen Error Dumps From Your Windows 10 PC</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-page-to-screen-jujutsu-kaisen-on-tiktok/"><u>In 2024, From Page to Screen Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oneplus-11r-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your OnePlus 11R Phone Pattern Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sky-high-scores-pro-tactics-and-secrets-for-superior-playing-in-subway-surfers/"><u>Sky-High Scores: Pro Tactics and Secrets for Superior Playing in 'Subway Surfers'</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-the-critical-issue-why-does-my-pc-frequently-encounter-crashes-in-the-ascent-game/"><u>Tackling the Critical Issue – Why Does My PC Frequently Encounter Crashes in The Ascent Game?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-pc-crashes-effective-solutions/"><u>Troubleshooting City Skylines 2 PC Crashes: Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-error-3-0x0001000b-in-rainbow-six-siege-effective-solutions-and-steps/"><u>Troubleshooting Error 3-0X0001000B in Rainbow Six Siege - Effective Solutions and Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-ps3-simulators-for-windows-users-top-5/"><u>[New] 2024 Approved Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-comparing-obs-and-fraps-aimed-at-filmmakers-for-2024/"><u>[Updated] Comparing OBS and Fraps Aimed at Filmmakers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-generative-mastery-notion-against-gpt-3-showdown/"><u>Decoding Generative Mastery: Notion Against GPT-3 Showdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-iphone-microphone-easy-fixes-for-better-sound-quality/"><u>Fixing an Unresponsive iPhone Microphone – Easy Fixes for Better Sound Quality</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-superior-sd-cards-that-power-up-your-gopro-hero-78/"><u>In 2024, Superior SD Cards that Power Up Your GoPro Hero 7/8</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-game-stability-tackling-robocop-rupture-city-crashes-on-pc/"><u>Mastering the Art of Game Stability: Tackling 'RoboCop: Rupture City' Crashes on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-android-space-savers-compendium/"><u>Prime Android Space-Savers Compendium</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-game-crashes-a-step-by-step-guide-for-a-smooth-run-of-genshin-impact/"><u>Resolving Game Crashes: A Step-by-Step Guide for a Smooth Run of Genshin Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-dolby-atmos-issues-a-guide-for-windows-11-and-10-users/"><u>Solving Dolby Atmos Issues: A Guide for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995147181-tf2-wont-start-here-are-the-solutions/"><u>TF2 Won't Start? Here Are the Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-lone-pairs-on-heteroatoms-may-not-participate-in-resonance-affecting-the-electron-delocalization-and-properties-of-the-molec-student-what-are-the-charac354/"><u>The Lone Pairs on Heteroatoms May Not Participate in Resonance, Affecting the Electron Delocalization and Properties of the Molec [Student]: What Are the Characteristics of a Mortgage?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-r6x-game-crashes-on-your-windows-desktop/"><u>Troubleshooting Guide: Fixing R6X Game Crashes on Your Windows Desktop</u></a></li>
+<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-strategy-for-eradicating-chinese-malware-from-your-system/"><u>Ultimate Step-by-Step Strategy for Eradicating Chinese Malware From Your System</u></a></li>
 </ul></div>
 

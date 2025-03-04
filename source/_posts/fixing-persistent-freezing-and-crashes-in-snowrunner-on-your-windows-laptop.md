@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2025-02-07T17:18:10.679Z
-updated: 2025-02-15T03:18:05.458Z
+date: 2025-02-26T02:32:34.401Z
+updated: 2025-03-03T17:05:57.329Z
 tags:
   - win11
   - win10
@@ -60,16 +60,8 @@ Follow the steps below to fix the crashing issue.
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -83,10 +75,6 @@ Restart your computer for the changes to take effect.
 1. Launch Steam, right-click the game in the LIBRARY, and go to**Properties** .  
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
@@ -112,10 +100,6 @@ Restart your computer for the changes to take effect.
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Edit Settings
 
  This fix is working for most of the users, follow the steps to edit your Advanced Performance Settings.
@@ -130,16 +114,8 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
@@ -150,10 +126,6 @@ Restart your computer for the changes to take effect.
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -174,21 +146,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-youtube-channel-trailers-the-ultimate-guide-to-profitability/"><u>[New] Crafting YouTube Channel Trailers The Ultimate Guide to Profitability</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-ghostly-replay-techniques-for-editors/"><u>[New] In 2024, Ghostly Replay Techniques for Editors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-10-ways-free-and-paid-to-record-skype-calls-on-windows-and-mac/"><u>[Updated] 2024 Approved 10 Ways [Free & Paid] to Record Skype Calls on Windows & Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-curating-the-best-mac-snipping-software-compilation/"><u>[Updated] 2024 Approved Curating the Best Mac Snipping Software Compilation</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726026559471-mp4/"><u>「MP4動画のサウンドレベルを最適化するための人気フリーソフトライブラリ」</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-seamlessly-integrate-a-dvd-video-into-your-microsoft-powerpoint-presentations/"><u>1. Seamlessly Integrate a DVD Video Into Your Microsoft PowerPoint Presentations</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-universal-3gp-format-transformer-seamless-conversion-between-3gp-and-popular-video-types-like-mp4-avi-mkv/"><u>1. Universal 3GP Format Transformer: Seamless Conversion Between 3GP and Popular Video Types Like MP4, AVI, MKV</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/4khd-5/"><u>高解像度4KをフルHDにアップコンバートするための優れた無料ソフトウェア: ベスト5リスト</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029006703-windowsmac7/"><u>期間限定で購入!Windows/Mac用ベスト動画編集ソフトウェア7選を特別にお勧めします</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027823658-flac/"><u>FLACオーディオの品質低下なしに圧縮手法</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-apply-recent-updates-for-hid-mouse-hardware-support/"><u>How to Apply Recent Updates for HID Mouse Hardware Support</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-guide-activatingdeactivating-picture-in-picture-pip-for-youtube/"><u>In 2024, Quick Guide Activating/Deactivating Picture In Picture (PIP) for YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snap-better-pics-with-radial-blur-and-shadow-features-in-photoshop-for-2024/"><u>Snap Better Pics with Radial Blur and Shadow Features in Photoshop for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029590268-wav/"><u>WAV形式音声ファイルの音量設定手順と、使いやすい無料アプリ・ウェブサービス</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-lockscreen-customization-switching-spotlight-on-and-off/"><u>Windows Lockscreen Customization: Switching Spotlight On and Off</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028242152-youtube/"><u>YouTube上での長い動画ダウンロードテクニックと仕方</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cutting-edge-techniques-for-slow-motion-video-production-on-mobile-devices/"><u>[New] Cutting Edge Techniques for Slow Motion Video Production on Mobile Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-searchingforsmartercameraspost-mycam/"><u>2024 Approved SearchingForSmarterCamerasPost-MyCam</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-of-the-titans-fixing-character-overlaps-in-popular-comic-book-games-on-pc/"><u>Battle of the Titans: Fixing Character Overlaps in Popular Comic Book Games on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-tutorial-for-setting-up-arctic-zephyr-reloaded-interface-on-kodi-19x/"><u>Comprehensive Tutorial for Setting Up Arctic Zephyr Reloaded Interface on Kodi 19.x</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010980723-left-4-dead-2-stability-improvements-no-more-game-crashes/"><u>Left #4 Dead 2 Stability Improvements - No More Game Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-outros-and-descriptions-a-guide-to-excellence/"><u>Masterful Outros and Descriptions A Guide to Excellence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content-for-2024/"><u>Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/maximizing-your-pcs-performance-effective-techniques-to-clear-up-hard-drive-space/"><u>Maximizing Your PC's Performance: Effective Techniques to Clear Up Hard Drive Space</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-hogwarts-legacy-playtime-hiccups-with-these-6-fixes/"><u>Overcome Hogwarts Legacy Playtime Hiccups with These 6 Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-acrocefexe-programming-faults-and-issues/"><u>Solving the acrocef.exe Programming Faults and Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/tech-troubles-fix-your-game-instant-solutions-to-stop-titanfall-2-from-crashing/"><u>Tech Troubles? Fix Your Game: Instant Solutions to Stop Titanfall 2 From Crashing!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-valheims-stutters-and-pauses-on-windows-computers/"><u>Troubleshooting: Resolving Valheim's Stutters and Pauses on Windows Computers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 12 mini With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 

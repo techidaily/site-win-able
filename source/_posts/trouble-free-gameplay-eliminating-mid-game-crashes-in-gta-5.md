@@ -1,7 +1,7 @@
 ---
 title: "Trouble-Free Gameplay: Eliminating Mid-Game Crashes in GTA 5"
-date: 2024-08-18T15:50:44.434Z
-updated: 2024-08-19T15:50:44.434Z
+date: 2025-03-02T01:09:58.038Z
+updated: 2025-03-04T07:30:39.161Z
 tags:
   - win11
   - win10
@@ -26,40 +26,17 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
 2. [Lower the graphics settings in the game](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
 
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
@@ -73,16 +50,10 @@ Key features:
 9. Select the **Open** button. This will add the path to your Exception List.
 10. Select **OK** to save your changes and close the Exception List window.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -95,9 +66,6 @@ Key features:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -114,8 +82,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +89,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1727793226204-a-447213595499958-times-894427190999916/"><u> [A = 4.47213595499958 Times 8.94427190999916 </u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>[New] Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-the-seo-maze-a-guide-to-youtube-keywords/"><u>[Updated] In 2024, Navigating the SEO Maze A Guide to YouTube Keywords</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-18-ways-to-record-internet-radio-comprehensive-tutorial/"><u>2024 Approved 18 Ways To Record Internet Radio- Comprehensive Tutorial</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pixelpanorama-crafting-collage-vids-on-gear/"><u>2024 Approved PixelPanorama Crafting Collage Vids on Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-pc-troubleshooting-solutions-for-persistent-crashes/"><u>Battlefield 5 PC Troubleshooting: Solutions for Persistent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005062924-black-ops-cold-war-troubleshooting-guide-decode-and-solve-error-code-887a0005-now/"><u>Black Ops Cold War Troubleshooting Guide: Decode and Solve Error Code 887A0005 Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-remedies-to-overcome-the-user-cant-login-problem-in-counter-strike/"><u>Effective Remedies to Overcome the ‘User Can’t Login’ Problem in Counter-Strike</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-still-not-out-heres-why-and-when-we-can-expect-it/"><u>Guilty Gear Strive Still Not Out - Here's Why and When We Can Expect It</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-migliori-6-software-ai-per-il-rilevamento-e-laumento-della-qualita-video-una-guida-definitiva/"><u>I Migliori 6 Software AI per Il Rilevamento E L'aumento Della Qualità Video: Una Guida Definitiva</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-effective-solutions-for-stable-gameplay-in-zombie-army-4-on-windows/"><u>No More Glitches: Effective Solutions for Stable Gameplay in Zombie Army 4 on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-hasnt-alan-wake-2-released-yet/"><u>Troubleshooting Guide: Why Hasn't Alan Wake 2 Released Yet?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-no-more-everspace-2-game-crashes-on-your-windows-computer/"><u>Ultimate Fix: No More Everspace 2 Game Crashes on Your Windows Computer</u></a></li>
+</ul></div>
 

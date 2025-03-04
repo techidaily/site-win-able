@@ -1,7 +1,7 @@
 ---
 title: How to Prevent 'Starfield' From Freezing/Crashing on Your Computer
-date: 2025-02-14T03:44:09.763Z
-updated: 2025-02-15T02:22:16.828Z
+date: 2025-02-26T04:17:46.647Z
+updated: 2025-03-04T00:59:54.206Z
 tags:
   - win11
   - win10
@@ -48,17 +48,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -75,10 +67,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -108,10 +96,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
@@ -122,10 +106,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
 
@@ -160,10 +140,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 **1)** Type**control** in the search bar and click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
@@ -203,20 +179,19 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/1723001620657-solved-discord-overlay-not-working-quickly-and-easily/"><u>[Solved] | Discord Overlay Not Working | Quickly & Easily!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unexplored-instagram-tricks-for-enhanced-engagement/"><u>[Updated] 2024 Approved Unexplored Instagram Tricks for Enhanced Engagement</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-7-nft-generators-to-turn-your-artwork-into-nfts/"><u>[Updated] Top 7 NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-discover-the-latest-upgrades-chatgptplus-integration-with-googles-gemini-offering-new-ai-powered-conversations-for-enhanced-user-experience/"><u>1. Discover the Latest Upgrades: ChatGPT+ Integration with Google's Gemini, Offering New AI-Powered Conversations for Enhanced User Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-4-overcoming-frustrating-computer-restarts-during-play/"><u>Age of Empires 4: Overcoming Frustrating Computer Restarts During Play</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/breath-of-ice-the-winter-olympics-in-china-2022-for-2024/"><u>Breath of Ice The Winter Olympics in China 2022 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-evaluations-with-toms-technological-perspectives/"><u>Dive Into Hardware Evaluations with Tom's Technological Perspectives</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-fix-gzw-malfunctioning-and-crashes-on-your-desktop-pc/"><u>Effective Solutions to Fix GZW Malfunctioning and Crashes on Your Desktop PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminating-pesky-sms-a-step-by-step-guide-to-blocking-undesirable-messages-on-your-iphone/"><u>Eliminating Pesky SMS: A Step-by-Step Guide to Blocking Undesirable Messages on Your iPhone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/excellent-video-recorders-for-desktops/"><u>Excellent Video Recorders for Desktops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-laughs-to-clicks-your-stepwise-journey-on-9gag-for-2024/"><u>From Laughs to Clicks Your Stepwise Journey on 9GAG for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-smart-7-hd-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Smart 7 HD Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-dealing-with-unstable-wallpaper-engine-on-windows-11-10-systems/"><u>Troubleshooting Guide: Dealing with Unstable Wallpaper Engine on Windows 11, 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-a-crash-in-phoenix-point-game/"><u>Troubleshooting Guide: Resolving a Crash in Phoenix Point Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-ultimate-guide-prevent-escape-from-tarkov-game-crashes-on-desktop/"><u>Troubleshooting Ultimate Guide: Prevent Escape From Tarkov Game Crashes on Desktop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-secrets-of-screen-grabs-exposed/"><u>[New] 2024 Approved Secrets of Screen Grabs Exposed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tailored-thumbnail-for-social-media-vids/"><u>[New] 2024 Approved Tailored Thumbnail for Social Media Vids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-clearing-up-confusion-understanding-digital-rights-management-drm-for-2024/"><u>[New] Clearing Up Confusion Understanding Digital Rights Management (DRM) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/74406034-updated-in-2024-supercharge-your-media-download-sounds-for-editing/"><u>[Updated] In 2024, Supercharge Your Media Download Sounds for Editing!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/full-ps4-capture-tutorial-using-obs-for-2024/"><u>Full PS4 Capture Tutorial Using OBS for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-complet-comment-et-pourquoi-convertir-les-dvd-en-fichier-mp4-via-macos-effortlessly/"><u>Guide Complet: Comment Et Pourquoi Convertir Les DVD en Fichier MP4 via macOS Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-cod-warzone-error-0-1766-in-battle-royale-across-xbox-and-pc-platforms/"><u>How to Resolve COD: Warzone Error 0-1766 in Battle Royale Across Xbox and PC Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-update-or-repair-oculus-vr-graphics-drivers-solved/"><u>How to Update or Repair Oculus VR Graphics Drivers – Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004180878-modern-warfare-mw3-crash-mystery-solved-overcome-the-dauntinig-error-6068/"><u>Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068 !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/monitor-who-has-checked-out-your-google-documents-easily/"><u>Monitor Who Has Checked Out Your Google Documents Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-dilemma-of-starting-robocop-rogue-city-on-pc-tips-and-insights/"><u>Solving the Dilemma of Starting 'Robocop: Rogue City' On PC - Tips & Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-art-of-extended-frame-videos-on-iphone/"><u>The Art of Extended Frame Videos on iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstick-your-cortana-proven-fixes-for-the-not-working-problems/"><u>Unstick Your Cortana: Proven Fixes for the 'Not Working' Problems</u></a></li>
 </ul></div>
 

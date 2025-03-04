@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Addressing and Fixing Hearthstone Crashes on Desktop Systems"
-date: 2025-02-12T03:53:38.681Z
-updated: 2025-02-15T03:18:38.576Z
+date: 2025-02-28T06:12:33.415Z
+updated: 2025-03-04T03:01:36.789Z
 tags:
   - win11
   - win10
@@ -103,15 +103,7 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset your Starcraft 2 in-game options
 
@@ -128,19 +120,11 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
  If you have any third-party antivirus app installed, you might need to uninstall it temporarily or you can try **adding Starcraft 2 as an exception to your third-party antivirus application** .
 
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Run Starcraft 2 as administrator
 
@@ -165,10 +149,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this temporary method works for you, you’ll need to repeat these steps every time you start your game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Run Starcraft 2 in windowed mode
 
  Switching from the full-screen mode to windowed mode can sometimes work for many gamers.
@@ -180,10 +160,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 10: Perform a clean boot
 
  There might be other background software or services conflicting with your Starcraft 2\. To see if that’s the culprit of your Starcraft 2 crashing issue, you need to perform a clean boot to find out the problematic software.
@@ -193,19 +169,11 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
@@ -235,16 +203,20 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rise-in-popularity-top-10-instagram-hashtags-for-now/"><u>[New] 2024 Approved Rise in Popularity Top 10 Instagram Hashtags for Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>[New] Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-action-overwatch-video-recordings/"><u>Capturing the Action Overwatch Video Recordings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/essential-skills-for-harvesting-and-storing-gifs-from-facebooks-feed/"><u>Essential Skills for Harvesting and Storing GIFs From Facebook's Feed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/exclusive-symphony-broadcasts-for-2024/"><u>Exclusive Symphony Broadcasts for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-on-extracting-and-duplicating-oscar-winning-films-from-2014-dvds/"><u>Guide on Extracting & Duplicating Oscar-Winning Films From 2014 DVDs</u></a></li>
-<li><a href="https://win-able.techidaily.com/high-quality-dvd-conversion-step-by-step-guide-to-transforming-dvds-into-wmv-format-using-windows/"><u>High-Quality DVD Conversion: Step-by-Step Guide to Transforming DVDs Into WMV Format Using Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-does-handbrake-handle-mp4-and-mp3-file-conversion/"><u>How Does HandBrake Handle MP4 and MP3 File Conversion?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-youtube-keeping-pause-mode-on-tips-for-disabling-continuous-playback-interruptions/"><u>How To Fix YouTube Keeping Pause Mode On: Tips for Disabling Continuous Playback Interruptions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/seamless-sharing-across-apple-devices-connecting-your-iphone-ipad-and-mac-via-clipboard/"><u>Seamless Sharing Across Apple Devices: Connecting Your iPhone, iPad & Mac via Clipboard</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-leading-wireless-charging-devices-in-depth-analysis-from-cnet/"><u>Ultimate Guide to the Leading Wireless Charging Devices : In-Depth Analysis From CNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-expert-reviews-find-the-best-8-5k-computer-displays/"><u>[New] 2024 Approved Expert Reviews - Find the Best 8 5K Computer Displays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-phone-filters-and-camera-cases/"><u>[New] In 2024, Ultimate Phone Filters & Camera Cases</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-employing-google-trends-to-discover-compelling-video-themes/"><u>[Updated] Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-action-spectacular-the-full-t5-camera-review/"><u>[Updated] In 2024, Action Spectacular The Full T5 Camera Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-whiteboard-use-in-webinars-apple-android-and-pc-solutions-explored/"><u>2024 Approved Efficient Whiteboard Use in Webinars Apple, Android & PC Solutions Explored</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers-for-2024/"><u>A Comprehensive List of Prime Tablets for Photo Editing Lovers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-microphone-recorders-for-mac-users-our-five-superstar-picks-for-2024/"><u>Advanced Microphone Recorders for Mac Users Our Five Superstar Picks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-continuous-crashes-learn-how-to-fix-them-here/"><u>Dota 2 Continuous Crashes? Learn How to Fix Them Here</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-info-unveiling-the-device-lineup-for-ipados-v17/"><u>Essential Info: Unveiling the Device Lineup for iPadOS V17</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-epic-battles-of-god-of-war-fps-newly-released-for-pc-gamers/"><u>Experience the Epic Battles of God of War FPS – Newly Released for PC Gamers!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-correct-microsoft-outlook-access-issues-efficiently/"><u>Expert Advice to Correct Microsoft Outlook Access Issues Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-stop-outpost-infinity-siege-game-from-freezing-or-crashing-on-your-pc/"><u>Expert Advice to Stop Outpost: Infinity Siege Game From Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-the-endless-load-screen-in-fortnite/"><u>Troubleshooting Guide: Fixing the Endless Load Screen in Fortnite</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-simple-overcome-your-disappointing-discord-install-failure/"><u>Troubleshooting Made Simple: Overcome Your Disappointing Discord Install Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-overcoming-fortnite-error-84-and-joining-parties-successfully/"><u>Troubleshooting Steps for Overcoming Fortnite Error #84 and Joining Parties Successfully</u></a></li>
 </ul></div>
 

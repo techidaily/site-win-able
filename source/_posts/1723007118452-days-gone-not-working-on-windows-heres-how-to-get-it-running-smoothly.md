@@ -1,7 +1,7 @@
 ---
 title: 'Days Gone' Not Working on Windows? Here’s How to Get It Running Smoothly
-date: 2025-02-10T22:47:07.350Z
-updated: 2025-02-15T02:54:00.568Z
+date: 2025-02-28T10:51:08.124Z
+updated: 2025-03-03T18:30:49.875Z
 tags:
   - win11
   - win10
@@ -99,10 +99,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Open the game in your launcher and see if it launches smoothly. If yes, you’ve fixed the problem. If it’s still failing, just head on to**Fix 3** , below.
 
@@ -120,10 +116,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam1.png)
 4. Click**Close** to exit the window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Fire up Days Gone and see if it opens properly this time. If yes, congrats! If it doesn’t do the trick, please try**Fix 4** .
 
 ##### In Epic Games Launcher
@@ -133,14 +125,6 @@ To check the specs of your PC:
 3. Click the **DISPLAY**  tab, then in**WINDOW MODE** , choose**Windowed mode** . Click**Apply** and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-4.png)
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable all overlays
 
@@ -152,10 +136,6 @@ To check the specs of your PC:
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
 
@@ -178,10 +158,6 @@ To check the specs of your PC:
 
  Once you have disabled these overlays, run Days Gone and see if the launching problem is fixed. If not, move ahead to**Fix 5** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Verify game integrity
 
  Days Gone may not launch if the game files are missing or corrupt. Luckily, both Steam client and Epic Game Launcher have built-in repair features, allowing you to verify the integrity of the game files and fix it (if anything wrong is found).
@@ -196,10 +172,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
 4. Wait a bit until the process finishes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
 
  After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
@@ -211,20 +183,12 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify.png)
 3. Wait a bit until the process finishes. After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Rename the Movies Folder
 
  According to some players’ feedback, renaming the Movies folder has helped in recovering the game to normal. It may sound not too intuitive, but it’s worth a shot. To do so, simply find your game’s directory, locate the**Movies** folder, then rename the folder (e.g. Movies\_2).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/rename.png)
 
  Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7 – Close unnecessary apps
 
@@ -258,20 +222,24 @@ Here’s how to close background apps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-quick-guide-to-sharing-your-favorite-gifs-on-instagram/"><u>[New] In 2024, Quick Guide to Sharing Your Favorite GIFs on Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ignite-your-creative-spark-scriptwriting-tips-for-youtube-mastery/"><u>[Updated] Ignite Your Creative Spark Scriptwriting Tips for YouTube Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-3-efficient-methods-for-saving-youtubes-standardized-images/"><u>[Updated] In 2024, 3 Efficient Methods for Saving YouTube's Standardized Images</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-master-the-craft-three-secrets-to-perfectly-saving-streamed-discords/"><u>[Updated] In 2024, Master the Craft Three Secrets to Perfectly Saving Streamed Discords</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-overcoming-opening-problems-with-davinci-resolve-on-pc-running-windows/"><u>Expert Tips: Overcoming Opening Problems with DaVinci Resolve on PC Running Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-problem-when-your-skype-messages-wont-send-step-by-step-fixes/"><u>Fixing the Problem When Your Skype Messages Won't Send: Step-by-Step Fixes</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/hooge-onschuldendheid-hoe-ik-deelnemde-aan-het-ssd-vervoer-integendeel-niet-bent-opgebouwd/"><u>Hooge Onschuldendheid: Hoe Ik Deelnemde Aan Het SSD-Vervoer Integendeel Niet Bent Opgebouwd</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-solution-microsoft-flight-simulator-2020-update-stuck-no-more/"><u>Latest Solution! Microsoft Flight Simulator 2020 Update Stuck No More</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies/"><u>Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-for-sekiro-crash-problems-no-hassle/"><u>Quick Solutions for Sekiro Crash Problems - No Hassle!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-epic-games-launcher-displaying-a-dark-interface/"><u>Resolved: Fixes for Epic Games Launcher Displaying a Dark Interface</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-overcome-nvidia-geforce-experience-error-0x0003/"><u>Step-by-Step Solution to Overcome Nvidia GeForce Experience Error 0X0003</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-advanced-ai-5-freebie-pathways-to-gpt-4-access/"><u>Unlocking Advanced AI: 5 Freebie Pathways to GPT-4 Access</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/world-of-warcraft-low-fps-solutions-the-ultimate-troubleshooting-guide-for-gamers/"><u>World of Warcraft Low FPS Solutions: The Ultimate Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smooth-operation-file-transfer-between-different-os-phones/"><u>[New] In 2024, Smooth Operation File Transfer Between Different OS Phones</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-bite-sized-delights-10-viral-eats-from-tiktok/"><u>[Updated] Bite-Sized Delights 10 Viral Eats From TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-step-by-step-record-your-powerpoint-presentation/"><u>[Updated] In 2024, Step-by-Step Record Your PowerPoint Presentation</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-diablo-immortal-crashes-on-your-computer-ultimate-fix-it-tutorial-of-2024/"><u>Banish Diablo Immortal Crashes on Your Computer - Ultimate Fix-It Tutorial of 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-v30-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo V30</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-magic-of-unique-ai-design-microsofts-copilot-insights/"><u>Discover the Magic of Unique AI Design: Microsoft's Copilot Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-recurring-crashes-of-thunder-tier-one-on-windows/"><u>Effective Solutions for the Recurring Crashes of Thunder Tier One on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-eliminating-unwanted-shutdowns-while-playing-ffxiv-on-pc/"><u>Expert Advice: Eliminating Unwanted Shutdowns While Playing FFXIV On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-prevent-slow-response-in-valheim-for-a-smoother-gaming-session-on-windows-computers/"><u>Fix and Prevent Slow Response in Valheim for a Smoother Gaming Session on Windows Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-premium-4k-hevc-codecs-and-players-enhancing-your-viewing-experience-without-spending-a-dime/"><u>Free Premium 4K HEVC Codecs & Players: Enhancing Your Viewing Experience Without Spending a Dime</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991850006-how-to-stop-gta-5-from-suddenly-stopping-troubleshooting-steps-revealed/"><u>How To Stop GTA 5 From Suddenly Stopping - Troubleshooting Steps Revealed!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC Phone FRP Lock</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-team-chats-secrets-to-success-4-steps/"><u>In 2024, Optimal Team Chats Secrets to Success, #4 Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-making-dvd-content-available-for-instant-viewing-on-your-tablet/"><u>Quick Guide: Making DVD Content Available for Instant Viewing on Your Tablet</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-excessive-processor-use-in-google-chrome-browser/"><u>Resolving Excessive Processor Use in Google Chrome Browser</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-last-round-mishap-a-guide-to-overcoming-error-code-tfla0002/"><u>Resolving the Last Round Mishap: A Guide to Overcoming Error Code TFLA0002</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-steam-remote-play-problems-with-these-reliable-hacks/"><u>Solve Your Steam Remote Play Problems with These Reliable Hacks!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-civilization-vi-wont-start-on-windows-10/"><u>Troubleshooting Steps When Civilization VI Won't Start on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-maplestory-stability-issues-on-windows-11/"><u>Ultimate Guide: Resolving MapleStory Stability Issues on Windows 11</u></a></li>
 </ul></div>
 

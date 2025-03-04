@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting High Disk and CPU Load in WSAPPX: A Step-by-Step Guide to Optimization"
-date: 2025-02-10T17:57:00.062Z
-updated: 2025-02-15T03:16:17.303Z
+date: 2025-03-02T21:04:29.147Z
+updated: 2025-03-03T20:17:30.264Z
 tags:
   - win11
   - win10
@@ -86,10 +86,6 @@ Here are the system requirements for Control:
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your graphics card settings
 
  If this error message reappears after you lower the in-game graphics settings, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -114,10 +110,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -126,10 +118,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -143,10 +131,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
@@ -158,10 +142,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -188,15 +168,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -221,17 +193,9 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -240,10 +204,6 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -284,22 +244,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevating-presentations-with-adobe-captivate-skills/"><u>[New] In 2024, Elevating Presentations with Adobe Captivate Skills</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-maximize-your-consoles-potential-top-monitors-explored/"><u>[New] Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-visibility-mastering-youtube-success-tracks-for-2024/"><u>[Updated] Elevate Visibility Mastering YouTube Success Tracks for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-find-out-the-best-8-youtube-engagement-tools-for-2024/"><u>[Updated] Find Out The Best 8 Youtube Engagement Tools for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>[Updated] In 2024, A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024mp48-mts/"><u>「2024年に役立つ無料MP4フォーマット変換ツールベスト8: MTS編集用」</u></a></li>
-<li><a href="https://win-able.techidaily.com/3gp-mp43gp/"><u>3GPファイル定義: MP4から3GPへの無料変換ガイドとツール紹介</u></a></li>
-<li><a href="https://win-able.techidaily.com/55s76z2i5ypluso6yyy5lit44gr6zplusz5qw944ks6kit5a6a44gz44kl5q2j44gx44ge5pa55rov77ya5a6m5ywo44ob44ol44o844oi44oq44ki44or/"><u>画面収録中に音楽を設定する正しい方法：完全チュートリアル</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029774575-youtube/"><u>専用Youtubeバラエティ動画リポジトリから安全にダウンロード・保管：お笑いコレクション</u></a></li>
-<li><a href="https://win-able.techidaily.com/ace-your-audio-file-conversion-expert-strategies-for-turning-mpeg-into-high-quality-aac-on-pcs/"><u>Ace Your Audio File Conversion: Expert Strategies for Turning MPEG Into High-Quality AAC on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/all-in-one-kodi-walkthrough-essential-techniques-and-usage-explained-on-page-4/"><u>All-in-One Kodi Walkthrough: Essential Techniques & Usage Explained on Page 4</u></a></li>
-<li><a href="https://win11.techidaily.com/exiting-others-sign-in-profiles-on-microsoft-os/"><u>Exiting Other's Sign-In Profiles on Microsoft OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402315595-ios-users-check-this-out-chatgpt-app/"><u>IOS Users, Check This Out: ChatGPT App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategic-planning-aligning-research-with-business-objectives-for-2024/"><u>Strategic Planning Aligning Research with Business Objectives for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030244993-windows-media-player/"><u>Windows Media Player 使用時の動画、音楽編集ガイド</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fhm-4-trk-aal-kyf-ymknk-windows-thkyk-mzamna-aghza-alkmbyotr/"><u>فهم 4 طرق على كيف يمكنك Windows تحقيق مزامنة أجهزة الكمبيوتر</u></a></li>
-<li><a href="https://win-able.techidaily.com/44kq44ox44oz44ot44o844oj44gn6zay6kan5yplusv6io944gq5yuv55s744ks5a6j5ywo44gr44oa44km44oz44ot44o844oj44o75lplusd566h44gz44kl44gf44kb44gu44ks44kk44oj/"><u>オプンロードで閲覧可能な動画を安全にダウンロード・保管するためのガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010/"><u>[New] In 2024, Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tech-enthusiasts-review-the-top-10-sdk-enhanced-apps-for-fb-videos-on-android/"><u>[New] Tech Enthusiast's Review The Top 10 SDK-Enhanced Apps for FB Videos on Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-engaging-oratorics-assessment-version-8/"><u>2024 Approved Engaging Oratorics Assessment, Version 8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quirky-quirks-your-simple-steps-for-memelore-mastery/"><u>2024 Approved Quirky Quirks Your Simple Steps for Memelore Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-virtuosity-adding-fonts-to-adobe-workflows/"><u>2024 Approved Visual Virtuosity Adding Fonts to Adobe Workflows</u></a></li>
+<li><a href="https://win-able.techidaily.com/critical-guide-overcoming-pc-gaming-glitches-in-serious-sam-evolution-iv/"><u>Critical Guide: Overcoming PC Gaming Glitches in Serious Sam Evolution IV</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-alienware-command-center-back-on-track-resolved-fixes/"><u>Get Your Alienware Command Center Back on Track - Resolved Fixes!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A54 5G FRP?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-tower-of-fantasy-desktop-gaming-stability-problems/"><u>How to Overcome the 'Tower of Fantasy' Desktop Gaming Stability Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-x5-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco X5 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kid-friendly-guide-easy-steps-to-assemble-your-very-own-computer/"><u>Kid-Friendly Guide: Easy Steps to Assemble Your Very Own Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-stability-tips-no-more-crashing/"><u>League of Legends Stability Tips - No More Crashing!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-quick-downloads-on-origin-insider-secrets-and-techniques-a-2024-playbook/"><u>Mastering Quick Downloads on Origin: Insider Secrets & Techniques - A 2024 Playbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-fixes-for-persistent-update-loading-problems/"><u>Microsoft Flight Simulator 2020 - Fixes for Persistent Update Loading Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-stabilizing-adobe-after-effects-on-windows-11-and-10-systems/"><u>Step-by-Step Solutions for Stabilizing Adobe After Effects on Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackling-epsons-puzzling-error-x97/"><u>Tackling Epson's Puzzling Error X97</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-stability-fixes-top-2024-solutions-for-eliminating-game-crashes/"><u>Terraria Stability Fixes: Top 2024 Solutions for Eliminating Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-riot-games-fix-for-the-2024-reconnect-bug-in-lol/"><u>Understanding Riot Games' Fix for the 2024 Reconnect Bug in LoL</u></a></li>
 </ul></div>
 

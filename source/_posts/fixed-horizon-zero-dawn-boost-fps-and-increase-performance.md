@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance"
-date: 2025-01-25T21:02:05.903Z
-updated: 2025-01-31T21:08:02.792Z
+date: 2025-03-01T00:53:20.843Z
+updated: 2025-03-04T09:36:05.979Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 
  If your rigs are powerful enough for the game, you can move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify game files on Steam
 
  The constant crashes may indicate an integrity issue with your game files (It’s not a surprising problem, especially with AAA titles that take up almost 100GB of your disk). You can follow these steps to check:
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-verify-game-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, launch Horizon Zero Dawn and check if it crashes again.
 
@@ -103,10 +95,6 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -128,10 +116,6 @@ And here’s a quick guide to disable Steam overlay:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can start Horizon Zero Dawn and see if it crashes again.
 
  If this method doesn’t give you luck, simply check out the next one.
@@ -145,10 +129,6 @@ So here’s how to check for updates manually:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -184,23 +164,11 @@ You can use this guide to increase your virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** . Then select **Customize size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Reboot your PC and check if Horizon Zero Dawn crashes again.
@@ -218,10 +186,6 @@ And here’s how to enable HAGS:
 1. In the empty area of your desktop, right-click and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the**Default settings** section, click**Change default graphics settings** .  
@@ -251,24 +215,16 @@ And here’s how to enable HAGS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-exploring-online-collaboration-google-meet/"><u>[New] 2024 Approved Exploring Online Collaboration Google Meet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-equipment-list-secure-your-zoom-sessions-for-2024/"><u>[New] Essential Equipment List Secure Your Zoom Sessions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-perfecting-the-skill-for-selective-youtube-downloads/"><u>[New] Perfecting the Skill for Selective YouTube Downloads</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-youtube-creator-summit-a-getaway-for-youtubes-top-talent-for-2024/"><u>[New] The YouTube Creator Summit - A Getaway for YouTube's Top Talent for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-videography-unveiled-by-yi/"><u>[Updated] High Definition Videography Unveiled by Yi</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-diy-tips-for-affordable-youtube-introend-videos/"><u>[Updated] In 2024, DIY Tips for Affordable YouTube Intro/End Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>[Updated] The Seamless Storyteller Leveraging Inshot for Elegant Transitions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c210-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C210 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-fixing-crash-issues-with-no-rest-for-the-wicked-on-your-computer/"><u>Expert Advice: Fixing Crash Issues with 'No Rest for the Wicked' On Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-steam-remote-play-problems-now-top-troubleshooting-tips/"><u>Fix Your Steam Remote Play Problems Now – Top Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-discord-stream-malfunctions-preventing-the-platform-from-crashing-mid-stream/"><u>How to Resolve Discord Stream Malfunctions: Preventing the Platform From Crashing Mid-Stream</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-discord-from-failing-while-streaming-solutions-explored/"><u>How to Stop Discord From Failing While Streaming - Solutions Explored</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-your-battlefield-v-gameplay-the-ultimate-fixes-for-lag-issues/"><u>Improve Your Battlefield V Gameplay: The Ultimate Fixes for Lag Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-the-antimalware-service-executable-hogging-your-memory-heres-how-to-turn-it-off/"><u>Is the Antimalware Service Executable Hogging Your Memory? Here's How to Turn It Off</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993990815-oculus-link-display-malfunction-correct-it-quickly-with-these-6-tips/"><u>Oculus Link Display Malfunction? Correct It Quickly with These 6 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-startup-problems-for-far-cry-6/"><u>Solved! Overcoming PC Startup Problems for Far Cry 6</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-frequent-crashes-on-desktop/"><u>Troubleshooting Guide: How to Stop 'Hell Let Loose' From Frequent Crashes on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-spark-10-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Spark 10 5G</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-avoiding-common-pitfalls-in-digital-marketing-journey/"><u>[Updated] 2024 Approved Avoiding Common Pitfalls in Digital Marketing Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-styles-manipulating-text-with-3d/"><u>[Updated] Sculpting Styles Manipulating Text with 3D</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-disruptions-in-virtual-reality-gaming-eight-strategies-to-fix-vrchat-pc-problems/"><u>Avoid Disruptions in Virtual Reality Gaming: Eight Strategies to Fix VRChat PC Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-practices-for-streamlining-webinars-on-windowsapple-os-for-2024/"><u>Best Practices for Streamlining Webinars on Windows/Apple OS for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-practices-to-prevent-and-fix-recurring-outlook-program-crashes/"><u>Best Practices to Prevent and Fix Recurring Outlook Program Crashes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-sades-audio-driver-for-windows-secure-and-complete-guide/"><u>Download Sades Audio Driver for Windows - Secure & Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-call-of-duty-warzone-wont-start/"><u>Effective Solutions When Call of Duty Warzone Won't Start</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/galaxy-f14-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Galaxy F14 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-system-to-combat-high-cpu-usage-while-playing-phasmophobia/"><u>Optimizing Your System to Combat High CPU Usage While Playing Phasmophobia</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-fast-framing-homemade-tips-for-pros-for-2024/"><u>Top 5 Fast-Framing Homemade Tips for Pros for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-problems-during-spellbreak-gameplay/"><u>Troubleshooting PC Problems During Spellbreak Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Roblox Crashes in a Flash: 6 Essential Tips for PC Users - New Guide"
-date: 2024-12-29T19:27:44.769Z
-updated: 2025-01-05T18:14:48.585Z
+date: 2025-03-02T08:24:00.528Z
+updated: 2025-03-04T00:09:56.061Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -69,10 +65,6 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -103,19 +95,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -127,10 +111,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -158,14 +138,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-immersion-and-interaction-the-high-definition-shift-of-hp-envy-27/"><u>[New] 2024 Approved Immersion and Interaction The High-Definition Shift of HP Envy 27</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pausecapture-stop-and-save-live-image/"><u>[Updated] 2024 Approved PauseCapture Stop & Save Live Image</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-frozen-curse-in-rocket-league-expert-tips-for-a-fluid-gameplay-session/"><u>Beating the Frozen Curse in Rocket League: Expert Tips for a Fluid Gameplay Session</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-2-fps-optimization-techniques-get-smooth-gameplay-on-your-pc-without-the-hiccups/"><u>Dying Light 2 FPS Optimization Techniques - Get Smooth Gameplay on Your PC Without the Hiccups!</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-lag-and-crashes-in-lost-ark-on-pc-top-tips-and-tricks/"><u>Eliminate Lag and Crashes in Lost Ark on PC - Top Tips & Tricks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-find-x6-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo Find X6 to iPad | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-apple-eyes-new-projects-affordable-ar-spectacles-and-enhanced-vision-tech-revealed-by-zdnet/"><u>Innovative Apple Eyes New Projects: Affordable AR Spectacles & Enhanced Vision Tech Revealed by ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-msi-audio-device-drivers-available-now-compatible-with-all-windows-versions/"><u>Latest MSI Audio Device Drivers Available Now - Compatible With All Windows Versions</u></a></li>
-<li><a href="https://win-able.techidaily.com/war-thunder-stability-woes-master-the-tricks-to-prevent-frequent-crashes-latest-fixes/"><u>War Thunder Stability Woes? Master the Tricks to Prevent Frequent Crashes (Latest Fixes)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>[New] In 2024, The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-art-of-instagram-video-bordering/"><u>[New] Mastering the Art of Instagram Video Bordering</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-make-outstanding-youtube-outro-for-2024/"><u>[Updated] How to Make Outstanding YouTube Outro for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-step-into-the-future-the-best-10-free-video-call-applications/"><u>[Updated] Step Into the Future The Best 10 FREE Video Call Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-fix-directx-compatibility-problems-in-rainbow-six-siege/"><u>Easy Steps to Fix DirectX Compatibility Problems in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-resolve-gtfo-application-freezing/"><u>Effective Strategies to Resolve GTFO Application Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-fixing-launch-errors-for-the-thaumaturge-program-on-pc-systems/"><u>Expert Guide: Fixing Launch Errors for the Thaumaturge Program on PC Systems</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-copy-your-hard-drive-or-solid-state-to-another-drives-on-windows-win11108817/"><u>How to Copy Your Hard Drive or Solid State to Another Drives on Windows (Win11/10/8/8.1/7)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-online-photo-and-video-montage-tools-ranked-and-reviewed-for-2024/"><u>New Online Photo and Video Montage Tools Ranked and Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-astros-a50-headset-not-showing-up-on-your-command-center/"><u>Solutions for Astro's A50 Headset Not Showing Up on Your Command Center</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-wont-start-here-are-solutions-to-get-you-game-on/"><u>Team Fortress 2 Won't Start? Here Are Solutions to Get You Game On!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-aquatic-enhancements-for-gopro-footage/"><u>Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-is-call-of-duty-warzone-still-crashing-on-my-pc-here-are-the-fixes/"><u>Why Is 'Call of Duty: Warzone' Still Crashing on My PC ? Here Are the Fixes!</u></a></li>
 </ul></div>
 

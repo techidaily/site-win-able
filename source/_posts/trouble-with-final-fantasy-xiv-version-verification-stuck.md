@@ -1,7 +1,7 @@
 ---
 title: Trouble with Final Fantasy XIV - Version Verification Stuck
-date: 2025-02-10T17:58:49.486Z
-updated: 2025-02-14T22:24:59.259Z
+date: 2025-02-27T22:55:13.561Z
+updated: 2025-03-04T09:59:36.993Z
 tags:
   - win11
   - win10
@@ -65,17 +65,9 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check the info about your**Operating System** ,**Processor** ,**Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Display** tab and view your graphics’ info.
 
@@ -84,10 +76,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
  After ruling out the underpowered PC as a cause, you can continue with more in-depth fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -138,10 +126,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**Mafia: Definitive Edition** from the game list and click**Manage** . Then, click**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-5.jpg)
@@ -160,25 +144,13 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Turn on**Disable Launcher** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch Mafia Definitive Edition and see if the not-launching issue is resolved. If this still doesn’t help, please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Run Mafia Definitive Edition and game launcher as an administrator
 
@@ -195,10 +167,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You also need to grant the game launcher administrator rights as follows:
 
@@ -250,10 +218,6 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-5-2.jpg)
@@ -261,10 +225,6 @@ You also need to grant the game launcher administrator rights as follows:
  The process may take a few minutes, and after it completes, you can relaunch Mafia Definitive Edition to test. If the problem persists, check out the last fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Temporarily disable your antivirus
 
@@ -297,21 +257,22 @@ You also need to grant the game launcher administrator rights as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-how-luts-refine-image-details-and-contrast-in-photos/"><u>[New] In 2024, How LUTs Refine Image Details and Contrast in Photos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-superior-fb-videograbber-bundle-high-quality-downloads/"><u>[Updated] 2024 Approved Superior FB Videograbber Bundle - High-Quality Downloads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximizing-exposure-submitting-to-apple/"><u>[Updated] In 2024, Maximizing Exposure Submitting to Apple</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-investors-handbook-for-monetized-youtubers/"><u>[Updated] In 2024, The Investor's Handbook for Monetized Youtubers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unleash-creativity-with-these-8-free-youtube-thumbnail-builders/"><u>[Updated] Unleash Creativity with These 8 Free YouTube Thumbnail Builders</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728481550086-onedrive/"><u>搜索失去的 OneDrive 文件: 四大解决方案用于取回删除丢失信息</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1726219422367-mkvwmv-movavi/"><u>無料で簡単! MKV、WMVを自分流に変換するためのオンラインツール - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-and-enjoy-your-dvd-collections-directly-on-your-iphone-in-just-five-simple-steps/"><u>Convert and Enjoy Your DVD Collections Directly on Your iPhone in Just Five Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000378468-fix-chrome-lag-issues-fast-simple-solutions/"><u>Fix Chrome Lag Issues Fast: Simple Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-cyberpunk-2077-playability-fixing-the-infamous-frame-rate-drop/"><u>Improving Cyberpunk 2077 Playability: Fixing the Infamous Frame-Rate Drop</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-connection-issues-astro-a50-and-command-unit-sync-problems/"><u>Resolving Connection Issues: Astro A50 and Command Unit Sync Problems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/revolutionizing-gaming-analyzing-kinemasters-android-version-for-2024/"><u>Revolutionizing Gaming Analyzing KineMaster's Android Version for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-disruptions-fix-your-age-of-empires-4-pc-crashes-now/"><u>Say Goodbye to Game Disruptions – Fix Your Age of Empires 4 PC Crashes Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-with-gas-station-simulator-on-pc-crash-free-strategies/"><u>Smooth Sailing with Gas Station Simulator on PC - Crash-Free Strategies!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-issues-with-maplestory-not-starting-up/"><u>Solved! Issues with MapleStory Not Starting Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-ue4s-deadly-bug-enhancing-your-gameplay-experience/"><u>Step-by-Step Solution for UE4's Deadly Bug - Enhancing Your Gameplay Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-odins-last-hope-the-ragnarok-revelation/"><u>[New] Odin's Last Hope The Ragnarok Revelation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovative-acoustic-link-for-speakers/"><u>[Updated] Innovative Acoustic Link for Speakers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-discoresponders-handbook-react-and-converse/"><u>2024 Approved The DiscoResponder's Handbook React and Converse</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-dissecting-video-ranking-algorithms-on-youtube/"><u>In 2024, Dissecting Video Ranking Algorithms on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-non-standard-windows-media-processors/"><u>In 2024, Non-Standard Windows Media Processors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-video-content-script-tips-via-chatgpt/"><u>Master Your Video Content: Script Tips via ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-on-your-pc-isnt-stalling-anymore-ultimate-troubleshooting-tips-of-2024/"><u>Minecraft on Your PC Isn’t Stalling Anymore - Ultimate Troubleshooting Tips of 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/multiversus-wont-start-heres-what-you-can-do-to-get-it-running-on-pc/"><u>MultiVersus Won't Start? Here's What You Can Do to Get It Running on PC!</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-in-halo-infinite-essential-troubleshooting-steps-for-pc-users/"><u>No More Crashes in Halo Infinite: Essential Troubleshooting Steps for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-slowdowns-on-discord-comprehensive-guide-to-lag-solutions/"><u>Overcome Slowdowns on Discord - Comprehensive Guide to Lag Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-error-code-3-0x0001000b-in-rainbow-six-siege-gameplay/"><u>Overcoming Error Code 3-0X0001000B in Rainbow Six: Siege Gameplay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Asus ROG Phone 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-persistent-black-screens-on-persona-5-strikers-gameplay/"><u>Solving Persistent Black Screens on Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-dragon-quest-xi-crashes-for-good-proven-techniques-to-improve-gameplay-smoothness/"><u>Stop Dragon Quest XI Crashes for Good: Proven Techniques to Improve Gameplay Smoothness</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-warzone-crashes-troubleshoot-and-resolve-the-notorious-directx-error-in-just-four-steps/"><u>Stop Warzone Crashes: Troubleshoot and Resolve the Notorious DirectX Error in Just Four Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-evaluating-amazonbasics-12-page-high-security-shredding-device/"><u>The Ultimate Review: Evaluating AmazonBasics 12-Page High-Security Shredding Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "God of War PC Version: Fixes & Solutions for Persistent Crashing Issues"
-date: 2025-02-14T00:06:23.065Z
-updated: 2025-02-14T19:02:43.253Z
+date: 2025-02-28T12:04:25.248Z
+updated: 2025-03-03T23:12:59.480Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -46,19 +42,11 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
@@ -84,10 +72,6 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -95,10 +79,6 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
 
@@ -116,10 +96,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -130,10 +106,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
@@ -180,19 +152,22 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-expert-tips-for-photo-hdr-mastery-in-photoshop/"><u>[New] 2024 Approved Expert Tips for Photo-HDR Mastery in Photoshop</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigational-aids-for-increased-proximity-in-roblox-games/"><u>[Updated] 2024 Approved Navigational Aids for Increased Proximity in Roblox Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-download-youtube-responsibly-legal-mp4-conversion-methods/"><u>[Updated] Download YouTube Responsibly Legal MP4 Conversion Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/5-essential-tips-to-overcome-dev-error-n-6634-in-call-of-duty-warzone-latest-solutions-2022/"><u>5 Essential Tips to Overcome Dev Error N 6634 in Call of Duty: Warzone (Latest Solutions 2022)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/a-day-in-the-life-on-facebook-enhancing-participation/"><u>A Day in the Life on Facebook Enhancing Participation</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-blue-screens-a-guide-for-stable-fallout-3-gameplay-on-windows-11-systems/"><u>Banishing Blue Screens: A Guide for Stable Fallout 3 Gameplay on Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-path-of-exile-connection-failures-an-authoritative-guide-to-overcoming-server-issues/"><u>Beat Path of Exile Connection Failures: An Authoritative Guide to Overcoming Server Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-star-citizens-windows-operating-system-crashes/"><u>Comprehensive Fix for Star Citizen's Windows Operating System Crashes</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-common-problems-with-steams-remote-play-a-step-by-nstep-guide/"><u>Fixing Common Problems With Steam's Remote Play: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-the-device-not-found-error-when-setting-up-your-windows-7-pc/"><u>How to Successfully Overcome the 'Device Not Found' Error When Setting Up Your Windows 7 PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-deciphering-the-advantages-of-using-sns-hdr-over-others/"><u>In 2024, Deciphering the Advantages of Using SNS HDR Over Others</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-your-console-writes-a-letter-of-resignation/"><u>Unleash Your Console’ Writes a Letter of Resignation</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-microsoft-video-editor-easily-edit-videos-in-windows-1087/"><u>Updated In 2024, Microsoft Video Editor Easily Edit Videos in Windows 10/8/7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-bp550-revamped-the-ultimate-2023-examination/"><u>[New] BP550 Revamped - The Ultimate 2023 Examination</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-bringing-text-to-life-a-guide-to-dynamic-animation-methods-for-2024/"><u>[New] Bringing Text to Life A Guide to Dynamic Animation Methods for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximize-your-relaxation-with-asmr-apps/"><u>[New] In 2024, Maximize Your Relaxation with ASMR Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-11-essential-drone-gear-for-your-phantom-4-for-2024/"><u>[Updated] 11 Essential Drone Gear for Your Phantom 4 for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-customizing-audio-preferences-a-step-by-step-guide-with-yl-software-enhance-your-listening-experience/"><u>1. Customizing Audio Preferences: A Step-by-Step Guide with YL Software - Enhance Your Listening Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-solving-directx-glitches-efficiently/"><u>Battlefield 2042: Solving DirectX Glitches Efficiently</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-the-secrets-of-advanced-color-correction-techniques-for-2024/"><u>Decoding the Secrets of Advanced Color Correction Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-variability-between-offline-and-online-windows-installation-processes/"><u>Delving Into Variability Between Offline and Online Windows Installation Processes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006729132-football-manager-2022-delayed-discover-these-quick-fixes-to-launch-it-successfully/"><u>Football Manager 2022 Delayed? Discover These Quick Fixes to Launch It Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-resolve-continuous-freezing-in-grand-theft-auto-v-gameplay/"><u>Guide: Resolve Continuous Freezing in Grand Theft Auto V Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000094553-how-to-fix-madden-nfl-20-pc-game-crashing-issues-solved/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solved!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-premier-fifa-vids-data-visualized-for-social-media/"><u>In 2024, Premier FIFA Vids Data Visualized for Social Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997295788-mastering-the-quick-recovery-effortless-strategies-for-resolving-fortnite-login-difficulties-today/"><u>Mastering the Quick Recovery: Effortless Strategies for Resolving Fortnite Login Difficulties Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-optimized-eradicating-the-deathloop-stutter-with-expert-tips/"><u>PC Gaming Optimized: Eradicating the Deathloop Stutter with Expert Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rtx-2060-super-graphics-card-drivers-download-compatible-with-windows-10-and-11/"><u>RTX 2060 Super Graphics Card Drivers Download: Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-internet-explorer-no-longer-responding-errors/"><u>Troubleshooting Steps: Resolving 'Internet Explorer No Longer Responding' Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-overcome-the-red-dead-redemption-loading-screen-glitch/"><u>Troubleshooting: How to Overcome the Red Dead Redemption ^Loading Screen Glitch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'Oxygen Not Included' Crashes: Effective Solutions Inside"
-date: 2024-12-31T19:08:07.805Z
-updated: 2025-01-05T23:06:11.014Z
+date: 2025-02-26T02:35:22.000Z
+updated: 2025-03-04T02:55:34.057Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -66,17 +62,9 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
@@ -114,25 +102,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -141,10 +117,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Relaunch your game to check if your issue had been resolved.
 
@@ -161,10 +133,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **2)** Click**Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
@@ -243,10 +211,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8:**Check for Windows updates**
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep Oxygen Not Included from crashing. Here is how to do it:
@@ -270,10 +234,6 @@ OR
 **1)**  If you’re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -312,24 +272,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-blu-ray-innovation-top-10-pioneers-of-24/"><u>[New] 2024 Approved Blu-Ray Innovation Top 10 Pioneers of '24</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unleashing-youtube-profits-non-ad-revenue-techniques-for-growth/"><u>[New] 2024 Approved Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-potential-channel-building-mastery/"><u>[New] Unleashing Potential Channel Building Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-perfection-an-editors-guide/"><u>[Updated] Image Perfection An Editor's Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-expert-fb-video-sharing-tactics-for-desktop-and-handheld-devices/"><u>2024 Approved Expert FB Video Sharing Tactics for Desktop and Handheld Devices</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726028327380-3gpwmv/"><u>3GPファイルを効率よく一度にWMV形式に変換するコツ</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-strategies-to-resolve-lost-arks-cannot-connect-error-and-reconnect-successfully/"><u>Effective Strategies to Resolve Lost Ark’s Cannot Connect Error and Reconnect Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-the-frustration-repair-assassinn-creed-odyssey-from-frequent-crashes-on-your-computer-effortlessly/"><u>End the Frustration: Repair Assassin'n Creed Odyssey From Frequent Crashes on Your Computer Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-seamless-world-of-warships-experience-on-pc-with-these-5-rapid-remedies-for-game-crashes/"><u>Ensure Seamless World of Warships Experience on PC with These 5 Rapid Remedies for Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-metro-exodus-from-crashing-on-your-pc/"><u>Fixes and Solutions: How to Stop Metro Exodus From Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-jurassic-world-evolution-crashes-top-solutions-and-tips/"><u>Fixing Jurassic World Evolution Crashes: Top Solutions and Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-redesign-instant-twitter-video-view/"><u>In 2024, Redesign Instant Twitter Video View</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-issues-fixing-fifa-19-pc-game-crashes/"><u>No More Issues: Fixing FIFA 19 PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-addressing-the-game-security-breach-alert/"><u>Resolved: Addressing the 'Game Security Breach' Alert</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-guide-effortless-cloning-of-your-windows-server-2022-onto-a-new-hard-disk/"><u>Step-by-Step Guide: Effortless Cloning of Your Windows Server 2022 Onto a New Hard Disk</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-your-zoom-black-display-issue-expert-solutions-for-2-pcs/"><u>Troubleshoot & Resolve Your Zoom Black Display Issue: Expert Solutions for 2지원 PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-scavengers-pc-crashes-solutions-and-tips-revealed/"><u>Troubleshooting Scavengers PC Crashes - Solutions & Tips Revealed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-reno-11-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-complete-audio-enhancement-manual-from-raw-footage-to-final-cut-2023s-methodology/"><u>Updated 2024 Approved The Complete Audio Enhancement Manual From Raw Footage to Final Cut 2023S Methodology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfectly-smooth-window-snap-tool/"><u>[New] 2024 Approved Perfectly Smooth Window Snap Tool</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>[Updated] 2024 Approved Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-frontier-fighters-pinpointing-the-7-best-rts-battles/"><u>[Updated] Frontier Fighters Pinpointing the 7 Best RTS Battles</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-bugs-comprehensive-guide-to-overcoming-the-sims-4s-video-card-mistake/"><u>Banish the Bugs: Comprehensive Guide to Overcoming The Sims 4'S Video Card Mistake</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-mortal-kombat-11-crashes-fast-and-simple-solutions/"><u>Fixing Mortal Kombat 11 Crashes: Fast and Simple Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-converter-vocalizar-em-formato-wav-com-movavi/"><u>Gratis Online Converter: Vocalizar Em Formato WAV Com Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-path-to-excellent-gopro-filming-mastery/"><u>In 2024, The Path to Excellent Gopro Filming Mastery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-the-art-of-lossless-music-playback-tips-for-your-iphoneipad/"><u>Mastering the Art of Lossless Music Playback - Tips for Your iPhone/iPad</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-pc-performance-to-prevent-a-total-war-saga-troy-from-crashing-during-battle-scenes/"><u>Optimizing PC Performance to Prevent A Total War Saga: Troy From Crashing During Battle Scenes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-game-halt-issues-with-fallout-n-on-modern-pcs-win-10-edition/"><u>Resolving Game Halt Issues with Fallout N on Modern PCs - Win 10 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-next-gen-switch-accessories-for-24/"><u>The Future in Your Pocket: Next-Gen Switch Accessories for '24</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-v30-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme V30</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-resolved-issue-why-elden-ring-is-now-available/"><u>Update: Resolved Issue - Why Elden Ring Is Now Available</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enable and Master Hyper-V on Windows 11 – An In-Depth Guide
-date: 2025-02-11T04:48:39.395Z
-updated: 2025-02-14T18:19:16.986Z
+date: 2025-02-26T22:18:11.513Z
+updated: 2025-03-04T12:25:58.074Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
  Before you try out the following solutions, make sure you’ve tried to restart your PC and Roblox to see if your problem is just a one-time random error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Turn up the volume for Roblox
 
  Sometimes your PC is unmuted but the volume of a certain app is turned down. You can check the audio for Roblox to see if it’s enabled and adjust the volume:
@@ -56,17 +52,9 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_16-20-43.jpg)
 2. Scroll to find Roblox. Make sure**the audio is unmuted** and you can**bring up the volume** to 100 by default.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-volume-mixer.png)
 
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Check Roblox settings
 
@@ -76,10 +64,6 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 2. Click the**Roblox logo icon** at the top-left corner of your Roblox window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-34-14.jpg)
 3. Switch to the**Settings** tab. Make sure your audio is not muted and the**Volume** is not too low.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-35-15.jpg)
 
@@ -137,10 +121,6 @@ If the problem persists, move on to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If configuring the audio channel on your PC doesn’t bring the sound back in Roblox, try the next fix.
 
 ## Fix 6: Run the Windows audio troubleshooter
@@ -164,16 +144,8 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
 9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
@@ -183,15 +155,7 @@ If the problem persists, move on to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the problem persists, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Reinstall Roblox
 
@@ -207,10 +171,6 @@ If the problem persists, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-26-30.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. After you restart your computer, make sure other programs are closed. Go ahead and[download Roblox](https://www.roblox.com/Download) .
 7. Find**RobloxPlayerLauncher.exe** in your Downloads folder, double-click to install.  
@@ -241,22 +201,24 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-guide-backing-up-camera-roll-to-snapchat-in-the-right-way/"><u>[New] 2024 Approved Guide – Backing Up Camera Roll to Snapchat In the Right Way</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevating-photography-with-canons-time-lapse-methods/"><u>[Updated] 2024 Approved Elevating Photography with Canon's Time-Lapse Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-your-mac-with-a-macos-sierra-installation/"><u>[Updated] Boost Your Mac with a macOS Sierra Installation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[Updated] Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-intuitive-face-blurring-guide-on-piscart-tools/"><u>[Updated] Intuitive Face-Blurring Guide on PiscArt Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-2s-performance-issues-fixes-for-fps-drop-and-stuttering-in-pc-gameplay/"><u>Dying Light 2'S Performance Issues: Fixes for FPS Drop & Stuttering in PC Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-speeding-techniques-for-a-lag-free-chrome-web-browsing/"><u>Effortless Speeding Techniques for a Lag-Free Chrome Web Browsing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enterprises-can-now-customize-googles-vector-ai-with-private-data-introducing-the-new-genai-feature/"><u>Enterprises Can Now Customize Google's Vector AI with Private Data - Introducing the New GENAI Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-stability-to-your-football-manager-2020-installation/"><u>Expert Advice on Restoring Stability to Your Football Manager 2020 Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-hitman-3-continuous-crashing-issues/"><u>How to Resolve Hitman 3 Continuous Crashing Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-m14-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy M14 5G Device SIM</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-effective-ways-to-prevent-ring-of-elysium-game-crashes/"><u>Overcoming the Challenge: Effective Ways to Prevent Ring of Elysium Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-launching-dead-space-remastered-troubleshooting-latest-fixes-2024/"><u>Step-by-Step Solutions for Launching Dead Space Remastered Troubleshooting - Latest Fixes 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-flsun-s1-in-detail-dissecting-its-distinctive-warp-speed-and-oddball-delta-features-reviews/"><u>The FLSun S1 in Detail: Dissecting Its Distinctive Warp Speed & Oddball Delta Features – Reviews</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-z-flip-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy Z Flip 5 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-fifa-21-wont-boot-and-solutions/"><u>Troubleshooting Guide: Why FIFA 21 Won't Boot and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-battle-against-lag-in-fortnite-expert-tips-for-optimal-performance/"><u>Winning the Battle Against Lag in Fortnite: Expert Tips for Optimal Performance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-virtual-escapades-with-top-samsung-gear-vr-games/"><u>[New] In 2024, Virtual Escapades with Top Samsung Gear VR Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-windows-11-guide-titling-video-files-in-photos-app/"><u>[New] In 2024, Windows 11 Guide Titling Video Files in Photos App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-elevating-engagement-strategic-use-of-youtube-titles/"><u>[Updated] 2024 Approved Elevating Engagement Strategic Use of Youtube Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-shots-the-art-of-closing-in-on-movies/"><u>2024 Approved In-Depth Shots The Art of Closing in on Movies</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-open-on-windows-aturating-heres-what-you-need-to-know/"><u>Civilization 6 Won't Open on Windows Aturating, Here’s What You Need To Know!</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-lags-and-connectivity-bugs-a-players-guide-to-optimizing-new-world-performance/"><u>Defeat Lags and Connectivity Bugs: A Player’s Guide to Optimizing New World Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-your-music-crafting-stunning-lyric-videos-using-lyric-video-maker-for-2024/"><u>Elevating Your Music Crafting Stunning Lyric Videos Using Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-red-dead-redemption-2s-errgfxstate-error/"><u>Expert Tips for Resolving Red Dead Redemption 2'S ERR_GFX_State Error</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ate-interest-making-your-own-youtube-intros-for-2024/"><u>Generate Interest Making Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-facetime-connectivity-effective-strategies-to-eradicate-black-screen-errors/"><u>Mastering FaceTime Connectivity: Effective Strategies to Eradicate Black Screen Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-easy-the-best-3gp-video-rotators/"><u>New 2024 Approved Free and Easy The Best 3GP Video Rotators</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-error-42aboard-in-genshin-impact-a-user-guide-to-solutions/"><u>Overcome Error 42Aboard in Genshin Impact - A User Guide to Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-rev-up-your-slow-chrome-and-transform-your-surfing-speed/"><u>Quick Fixes to Rev Up Your Slow Chrome and Transform Your Surfing Speed</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-obs-for-smooth-recording-and-broadcasting/"><u>Resolved: Troubleshooting OBS for Smooth Recording and Broadcasting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-call-of-duty-black-ops-4-initialization-issues/"><u>Resolved! Fixes for Call of Duty Black Ops 4 Initialization Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-launch-problems-with-sea-of-thieves-step-by-step-solutions/"><u>Resolving Launch Problems with Sea of Thieves - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-slowdowns-how-we-tackled-the-outriders-lag-challenge/"><u>Say Goodbye to Slowdowns: How We Tackled the [Outriders] Lag Challenge</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-the-0xc19001e1-blue-screen-error-on-windows-10/"><u>Troubleshooting and Fixing the 0xC19001E1 Blue Screen Error on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
 </ul></div>
 

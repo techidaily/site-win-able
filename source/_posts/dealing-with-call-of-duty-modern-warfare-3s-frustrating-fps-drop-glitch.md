@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Call of Duty: Modern Warfare 3'S Frustrating FPS Drop Glitch"
-date: 2024-12-17T16:23:07.095Z
-updated: 2024-12-20T07:31:21.328Z
+date: 2025-02-24T23:30:17.382Z
+updated: 2025-03-04T12:39:05.416Z
 tags:
   - win11
   - win10
@@ -58,10 +58,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -69,10 +65,6 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -89,15 +81,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
 
@@ -106,10 +90,6 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
@@ -144,17 +124,17 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-video-recorder-download-and-record-video/"><u>[New] 2024 Approved Quick Video Recorder Download and Record Video</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-iphone-video-editors-cameo-vs-filmorago-showdown/"><u>[New] In 2024, IPhone Video Editors Cameo Vs. FilmoraGo Showdown</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-thumbnails-that-get-views/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Thumbnails that Get Views</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-virtual-meetings-expert-tips-for-using-zoom-win10/"><u>2024 Approved Mastering Virtual Meetings Expert Tips for Using Zoom (Win10)</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fixes-to-get-your-genshin-impact-game-running-smoothly-again/"><u>Effortless Fixes to Get Your Genshin Impact Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-addressing-the-football-manager-2020-system-crash-dilemma/"><u>Expert Solutions for Addressing the Football Manager 2020 System Crash Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-starting-issues-with-fall-guys-comprehensive-solutions/"><u>How to Fix Starting Issues with Fall Guys – Comprehensive Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-black-screen-problem-in-your-epic-games-installer-solved/"><u>How to Fix the Black Screen Problem in Your Epic Games Installer (Solved)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-m6-pro-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco M6 Pro 4G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/mastery-of-secure-wipe-expert-techniques-for-bitlocker-full-system-restore-on-windows-10-devices/"><u>Mastery of Secure Wipe: Expert Techniques for BitLocker Full System Restore on Windows 10 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-crashes-in-tormented-souls-pc-version/"><u>Troubleshooting Steps for Persistent Crashes in Tormented Souls PC Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-productivity-chatgpt-for-effective-time-utilization/"><u>Unlocking Productivity: ChatGPT for Effective Time Utilization</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tranquil-twilight-tales-in-video-form-for-2024/"><u>[New] Tranquil Twilight Tales in Video Form for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-new-world-keeps-crashing-on-pc/"><u>[SOLVED] New World Keeps Crashing on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-se-2022-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone SE (2022) Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996243994-call-of-duty-vanguard-stutter-and-lag-troubleshooting-solutions-for-a-smoother-game/"><u>Call of Duty Vanguard Stutter and Lag Troubleshooting: Solutions for a Smoother Game !</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-down-on-in-game-security-flaws-solutions-for-safer-play/"><u>Cracking Down on In-Game Security Flaws: Solutions for Safer Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-obs-streamrecord-lag-problems-a-comprehensive-guide/"><u>Fixing OBS Stream/Record Lag Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-adding-chatgpt-extensions-the-ultimate-enrollment-tutorial/"><u>Mastering the Art of Adding ChatGPT Extensions – The Ultimate Enrollment Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209606230-9788497632928-mundos-ocultos/"><u>Mundos ocultos | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-not-installed-error-in-eac-a-step-by-step-installation-tutorial/"><u>Overcoming the 'Not Installed' Error in EAC: A Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-tutorial-on-saving-wakanim-anime-episodes-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial on Saving Wakanim Anime Episodes as MP4, AVI, or MOV Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-giant-microsoft-sets-new-benchmark-in-laptop-durability-and-repairability-surprising-specialists-at-ifixit-raises-the-bar-for-rivals-like-apple-coverag109/"><u>Tech Giant Microsoft Sets New Benchmark in Laptop Durability and Repairability - Surprising Specialists at iFixit, Raises the Bar for Rivals Like Apple | Coverage by ZDNet</u></a></li>
 </ul></div>
 

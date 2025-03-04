@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Issues - How to Stop Hearthstone From Crashing
-date: 2025-02-10T00:57:46.393Z
-updated: 2025-02-14T22:19:11.344Z
+date: 2025-03-01T12:13:14.348Z
+updated: 2025-03-04T07:08:09.727Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -59,10 +55,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -98,22 +90,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -143,10 +123,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -161,10 +137,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,14 +166,18 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-internet-explorer-cannot-display-the-webpage/"><u>[SOLVED] Internet Explorer Cannot Display the Webpage</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-savor-playtime-the-essential-guide-to-high-quality-offline-ios-games/"><u>[Updated] In 2024, Savor Playtime – The Essential Guide to High-Quality Offline iOS Games</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-life-is-strange-true-colors-game-crashes-and-stops-working/"><u>How to Fix Life Is Strange: True Colors Game Crashes and Stops Working</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/identifying-and-resolving-loud-computer-fans-tips-and-solutions-by-yl-software-experts/"><u>Identifying and Resolving Loud Computer Fans: Tips & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale/"><u>New 2024 Approved Rise and Shine Wake Up to Savings with Our Filmora Easter Sale</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-game-crashes-ensuring-smooth-playthroughs-of-fallout-3-on-windows-11/"><u>No More Game Crashes: Ensuring Smooth Playthroughs of Fallout 3 on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-windows-11-taskbar-challenges-expert-fix-and-restoration-tips/"><u>Overcoming Windows 11 Taskbar Challenges: Expert Fix and Restoration Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-eliminate-auto-change-backgrounds/"><u>Windows 11: Eliminate Auto-Change Backgrounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-perfecting-gameplay-capture-on-the-newest-windows-11-for-2024/"><u>[New] Perfecting Gameplay Capture on the Newest Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration/"><u>[Updated] From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-screenstream-worldwide-live-including-exclusive-locals/"><u>2024 Approved ScreenStream Worldwide Live, Including Exclusive Locals</u></a></li>
+<li><a href="https://win-webster.techidaily.com/beat-the-frustration-essential-strategies-for-handling-cannot-open-file-corrupted-issues/"><u>Beat the Frustration: Essential Strategies for Handling 'Cannot Open - File Corrupted' Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dji-redefines-gaming-the-in-depth-comparison-of-mavic-air-and-spark/"><u>DJI Redefines Gaming The In-Depth Comparison of Mavic Air and Spark</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-valorant-game-crash-problems-expert-tips-and-tricks/"><u>Fix Your Valorant Game Crash Problems: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fresh-releases-discover-the-best-movies-on-disneyplus-right-now/"><u>Fresh Releases: Discover the Best Movies on Disney+ Right Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-yakuza-3-remastereds-pc-stability-problem-and-enjoy-seamless-gaming/"><u>How to Fix Yakuza 3 Remastered's PC Stability Problem and Enjoy Seamless Gaming</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-x-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone X Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/loaded-with-problems-resolve-among-us-endless-boot-up-hurdles-now/"><u>Loaded with Problems? Resolve Among Us' Endless Boot-Up Hurdles Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-error-code-80070057-for-a-seamless-cod-black-ops-cold-war-experience/"><u>Overcoming Error Code 80070057 for a Seamless Cod: Black Ops Cold War Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-dragons-dogma-2-crash-for-windows-gamers-effective-solutions-unveiled/"><u>Troubleshooting the Dragon's Dogma 2 Crash for Windows Gamers: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-logitech-g430-gaming-headset-firmware-download-and-installation-guide/"><u>Update Logitech G430 Gaming Headset Firmware – Download & Installation Guide</u></a></li>
 </ul></div>
 

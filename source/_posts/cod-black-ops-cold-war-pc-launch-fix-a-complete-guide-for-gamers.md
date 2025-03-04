@@ -1,7 +1,7 @@
 ---
 title: "Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers"
-date: 2025-02-09T16:56:18.341Z
-updated: 2025-02-14T17:51:24.243Z
+date: 2025-02-25T05:25:06.393Z
+updated: 2025-03-03T17:49:00.073Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -49,16 +45,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
@@ -87,18 +75,10 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
 
@@ -116,10 +96,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -127,10 +103,6 @@ There are mainly two ways you can update the graphics driver:
 1. Open Steam and navigate to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
@@ -180,21 +152,22 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-devising-a-personalized-tiktok-alphanumeric-marker/"><u>[New] Devising a Personalized TikTok Alphanumeric Marker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-pcsmartphone-session-recorder-for-2024/"><u>[New] The Ultimate PC/Smartphone Session Recorder for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-s23-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel S23</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-experiencing-an-xbox-network-downtime-or-is-it-a-localized-issue/"><u>Are You Experiencing an Xbox Network Downtime ... Or Is It a Localized Issue?</u></a></li>
-<li><a href="https://win-able.techidaily.com/did-you-brave-the-new-age-by-purchasing-samsungs-initially-unveiled-smartphone/"><u>Did You Brave the New Age by Purchasing Samsung's Initially Unveiled Smartphone?</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-ultimate-list-of-free-instagram-video-editors-across-pc-web-and-smartphone-platforms-ranked/"><u>Discover the Ultimate List of Free Instagram Video Editors Across PC, Web, and Smartphone Platforms - Ranked!</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-ultimate-showbox-replacements-expert-picks-on-top-notch-apps-to-watch-free/"><u>Discover the Ultimate ShowBox Replacements: Expert Picks on Top-Notch Apps to Watch FREE!</u></a></li>
-<li><a href="https://win-able.techidaily.com/dvd-compatibility-with-ps4-easy-method-enables-universal-playback/"><u>DVD Compatibility with PS4: Easy Method Enables Universal Playback</u></a></li>
-<li><a href="https://win-able.techidaily.com/dvd-iso/"><u>DVD パッケージ用に ISO ファイルを最適化する方法：初心者向けガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-for-correcting-dvd-copy-protection-issue-with-error-0x80/"><u>Effective Techniques for Correcting 'DVD Copy Protection' Issue with Error 0X80</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/best-youtube-video-editor-apps-for-android-for-2024/"><u>FREE Best YouTube Video Editor Apps for Android for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-guide-converting-dvds-into-mp4-format-on-windows-10-and-11/"><u>Free Guide: Converting DVDs Into MP4 Format on Windows 10 & 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-13-mini-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 13 mini? Find the Best Solution Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-12-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme 12 Pro+ 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976492296-latest-windows-compatible-hp-officejet-pro-8720-printer-driver-software-free-downloads/"><u>Latest Windows Compatible HP Officejet Pro 8720 Printer Driver Software - Free Downloads!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-professional-zoom-presentations-top-8-expert-techniques/"><u>Mastering the Art of Professional Zoom Presentations: Top 8 Expert Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ipple-rhythms-selecting-audio-distortion-tools-for-2024/"><u>[New] Ripple Rhythms Selecting Audio Distortion Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-piecing-together-attention-grabbing-channel-snippets/"><u>[Updated] 2024 Approved Piecing Together Attention-Grabbing Channel Snippets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-channels-strategies-for-stardom-on-youtube/"><u>[Updated] Elevating Channels Strategies for Stardom on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>2024 Approved Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-celebrated-list-top-15-classic-stop-motion-flicks-for-2024/"><u>A Celebrated List Top 15 Classic Stop-Motion Flicks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722984963235-borderlands-vegan-but-i-want-to-try-it-out/"><u>Borderlands Vegan, but I Want to Try It Out!</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-screen-audio-woes-heres-your-guide-to-getting-it-working-again/"><u>Discord Screen Audio Woes? Here's Your Guide to Getting It Working Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-to-get-your-genshin-impact-game-running-smoothly-again/"><u>Effortless Fixes to Get Your Genshin Impact Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-stuck-csgo-launch-problems-with-these-tips/"><u>Fix Your Stuck CSGO Launch Problems with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-starting-issues-with-fall-guys-comprehensive-solutions/"><u>How to Fix Starting Issues with Fall Guys – Comprehensive Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-black-screen-problem-in-your-epic-games-installer-solved/"><u>How to Fix the Black Screen Problem in Your Epic Games Installer (Solved)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-film-in-educational-practice/"><u>In 2024, Harnessing the Power of Film in Educational Practice</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-playthrough-fixes-for-cyberpunk-2077s-pc-crashes/"><u>Mastering Smooth Playthrough: Fixes for Cyberpunk 2077'S PC Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-17-inch-notebooks-of-the-year-2024s-best-selections/"><u>Premium 17-Inch Notebooks of the Year: 2024'S Best Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-repairing-windows-11-help-tool/"><u>Quick Guide: Repairing Windows 11 Help Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-your-icloud-notes-with-a-linux-system-a-step-by-step-guide/"><u>Synchronizing Your iCloud Notes with a Linux System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-crashes-in-tormented-souls-pc-version/"><u>Troubleshooting Steps for Persistent Crashes in Tormented Souls PC Version</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Modern Warfare 3 Fixes Memory Issue Code 12707"
-date: 2025-02-07T18:26:10.885Z
-updated: 2025-02-15T02:39:20.186Z
+date: 2025-02-25T02:37:31.857Z
+updated: 2025-03-04T11:05:45.733Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Reboot your network
 
  By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve this issue. Here is how to do it:  
@@ -69,18 +65,10 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -89,10 +77,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. Click **[here](http://www.speedtest.net/)**  to access the official website of SPEEDTEST.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
@@ -103,10 +87,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
@@ -131,16 +111,8 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
@@ -175,10 +147,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Avoid wireless interference
 
  If you failed to log into Fortnite when your PC connects to the Internet via your Wi-Fi network, this issue is also probably caused by **wireless interference** . Follow the instructions below to avoid wireless interference and improve your Wi-Fi signal:
@@ -204,10 +172,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Change the DNS server
 
 **Google Public DNS** provides you with **a speed boost** and **an increased security.** Try changing the DNS server in your PC to the Google Public DNS addresses to see if this issue can be resolved. Here is how to do it:
@@ -230,10 +194,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -270,24 +230,20 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-learn-youtube-video-ad-building-at-no-cost/"><u>[Updated] Learn YouTube Video Ad Building at No Cost</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-quick-tips-streamline-screen-capture-on-dell-systems/"><u>2024 Approved Quick Tips Streamline Screen Capture on Dell Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-8-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 8 Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-performance-issues-and-latency-drops-expected-for-players/"><u>COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-computer-lags-advanced-solutions-for-enhancing-your-sims-4-gameplay-pro-advice-2024/"><u>Conquering Computer Lags: Advanced Solutions for Enhancing Your Sims 4 Gameplay (Pro Advice, 2024)</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-solve-printer-scan-failures/"><u>Easy Steps to Solve Printer Scan Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-pc-version-fixes-and-solutions-for-persistent-crashing-issues/"><u>God of War PC Version: Fixes & Solutions for Persistent Crashing Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nokia-c02-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nokia C02 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-decoding-auroras-advanced-photographic-capabilities/"><u>In 2024, Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/sparks-limits-explored-by-djis-new-contender-mavic-air/"><u>Spark's Limits Explored by DJI's New Contender, Mavic Air</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-latest-ios-software-upgrades/"><u>Step-by-Step Guide: Successfully Downloading & Installing Latest iOS Software Upgrades</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-note-50-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme Note 50 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/success-story-how-we-overcame-the-game-security-infringement-noticed-issue/"><u>Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-lag-problems-head-on-how-to-optimize-your-connection-and-improve-back-4-blood-performance/"><u>Tackling Lag Problems Head-On: How to Optimize Your Connection and Improve 'Back 4 Blood' Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-microsoft-exploring-the-comprehensive-cloud-advertising-and-device-integration-plan/"><u>The Future of Microsoft: Exploring the Comprehensive Cloud, Advertising, and Device Integration Plan</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformando-seus-videos-mov-em-mp4-tutelar-eficiente-no-vlc-media-player/"><u>Transformando Seus Vídeos MOV Em MP4: Tutelar Eficiente No VLC Media Player</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-the-art-of-video-clarity-with-version-22-vce/"><u>[New] 2024 Approved Mastering the Art of Video Clarity with Version 2.2 VCE</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-metacores-finest-vr-headsets-and-eyewear-guide/"><u>[New] 2024 Approved Metacore's Finest VR Headsets and Eyewear Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-and-user-friendly-voice-editing-apps-for-2024/"><u>[New] Innovative and User-Friendly Voice Editing Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uncovering-top-tiktok-backdrops-quickly-for-2024/"><u>[New] Uncovering Top TikTok Backdrops Quickly for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-10-premier-vimeo-extraction-programs-reviewed-for-2024/"><u>[Updated] 10 Premier Vimeo Extraction Programs Reviewed for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-pros-to-follow-vr-industry-trailblazers/"><u>[Updated] 2024 Approved Pros to Follow VR Industry Trailblazers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-crafting-viral-video-content-on-youtube/"><u>2024 Approved The Art of Crafting Viral Video Content on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-reactivate-your-logitech-g-hub-on-windows-computers/"><u>Expert Solutions to Reactivate Your Logitech G Hub On Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-king-of-fighters-xv-crashes-solutions-for-stable-playthroughs-on-your-computer/"><u>Fix The King of Fighters XV Crashes: Solutions for Stable Playthroughs on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ping-woes-and-smooth-gameplay-expert-advice-on-chivalry-2-optimization-tips-updated-for-2nnd-quarter-of-2024/"><u>Fixing Ping Woes and Smooth Gameplay: Expert Advice on Chivalry 2 Optimization [Tips Updated for 2Nnd Quarter of 2024]</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-gas-station-simulator-troubleshooting-pc-crashes/"><u>Fixing the Gas Station Simulator - Troubleshooting PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-wolcen-mayhem-mastery-pc-edition/"><u>Overcoming Technical Hurdles in Wolcen: Mayhem Mastery - PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-interruptions-troubleshooting-tips-for-an-uncrashing-microsoft-outlook/"><u>Say Goodbye to Interruptions: Troubleshooting Tips for an Uncrashing Microsoft Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-obs-microphone-problems-the-ultimate-guide-with-6-fixes/"><u>Solving Obs Microphone Problems - The Ultimate Guide With 6 Fixes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transformative-tactics-for-developing-a-professional-youtubers-sanctuary-on-mobile/"><u>Transformative Tactics for Developing a Professional YouTubers' Sanctuary on Mobile</u></a></li>
 </ul></div>
 

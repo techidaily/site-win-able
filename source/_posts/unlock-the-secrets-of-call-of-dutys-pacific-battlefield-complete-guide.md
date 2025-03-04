@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Call of Duty's Pacific Battlefield - Complete Guide
-date: 2025-02-12T01:05:18.933Z
-updated: 2025-02-15T03:39:32.066Z
+date: 2025-02-25T07:26:37.027Z
+updated: 2025-03-03T23:40:50.944Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/RAM-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the Advanced tab, click**Setting** s.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/settings.jpg)
@@ -61,10 +57,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  3) Click the**Advanced** tab and click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Uncheck**Automatically manage paging file size for all drives** . Select**Custom size** and enter the**Initial size** and**Maximum size** .
 
@@ -77,10 +69,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  5) Click**Set** \>**OK** , then restart your computer for the changes to take effect.
 
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Turn off the in-game overlay
 
@@ -168,10 +156,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Run Origin and BFV as admin
 
  If you run into a game crashing issue, you can always try running both your game launcher and game executable file as an administrator. Your Battlefield 5 crashing issue can be caused by limited access to your game file.
@@ -188,15 +172,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: System File Checker
 
@@ -223,19 +199,11 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
@@ -253,10 +221,6 @@ sfc /scannow
  You can perform a restart and try to relaunch the game to see if Battlefield 5 crashes are gone.
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -306,18 +270,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-srt-extension-on-both-macwindows-platforms/"><u>[New] Mastering SRT Extension on Both Mac/Windows Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>[Updated] Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-breaking-tiktok-trends-twitters-1-list-unveiled/"><u>[Updated] In 2024, Breaking TikTok Trends Twitter's #1 List Unveiled</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-se-2020-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone SE (2020) How to Bypass?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/becoming-a-visionary-in-depth-guide-to-hdr-photography/"><u>Becoming a Visionary In-Depth Guide to HDR Photography</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-network-performance-with-realtek-driver-update-for-windows-10-download/"><u>Improve Network Performance with Realtek Driver Update for Windows 10 [Download]</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-error-0x80071ac3-volume-has-been-removed-from-windows-explorer/"><u>Overcoming the Challenge of Error 0X80071AC3: Volume Has Been Removed From Windows Explorer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-choices-top-10-best-vectors-websites-for-2024/"><u>Prime Choices Top 10 Best Vectors Websites for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-simple-guide-how-to-transform-your-music-videos-into-mp4mp3-files/"><u>Quick & Simple Guide: How to Transform Your Music Videos Into MP4/MP3 Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-guide-to-extracting-video-segments-from-your-dvd/"><u>Seamless Guide to Extracting Video Segments From Your DVD</u></a></li>
-<li><a href="https://win-able.techidaily.com/special-presentations-for-readers-of-toremouroueve-wonderfox-dvd-to-video-converter-offers-discounts-and-gifts/"><u>Special Presentations for Readers of Toremouroueve - WonderFox DVD to Video Converter Offers Discounts and Gifts</u></a></li>
-<li><a href="https://win-able.techidaily.com/steampcsepgaudio/"><u>SteamPCゲーム音楽及びSEPGAudioファイル抽出テクニック</u></a></li>
-<li><a href="https://win-able.techidaily.com/rmvb-2024/"><u>ベストの無料RMVB再生ソフト - 2024年度ガイド</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-audiences-adopting-youtube-vlogger-charisma/"><u>[New] In 2024, Captivating Audiences Adopting YouTube Vlogger Charisma</u></a></li>
+<li><a href="https://win-able.techidaily.com/arcadegeddon-and-pc-compatibility-improved-say-goodbye-to-crashes/"><u>Arcadegeddon and PC Compatibility Improved - Say Goodbye to Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-driven-customized-user-experiences/"><u>Cookiebot-Driven Customized User Experiences</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/crafting-virtual-laughter-the-metaverse-meme-journey-for-2024/"><u>Crafting Virtual Laughter The Metaverse Meme Journey for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-solving-grounded-pc-malfunctions-a-2024-update/"><u>Essential Tips for Solving Grounded PC Malfunctions - A 2024 Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/"><u>Fixing Overwatch Startup Issues: How to Get Rid of the Persistent Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-notorious-black-ops-cold-war-error-0xc0000005-step-by-step-guide/"><u>Fixing the Notorious Black Ops Cold War Error 0xC0000005 – Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expertly-selecting-the-best-tools-for-browser-content-capturing/"><u>In 2024, Expertly Selecting the Best Tools for Browser Content Capturing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-x-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone X GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-cinematic-art-with-top-ten-professional-tools/"><u>In 2024, Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-top-race-rc-rock-crawler-conquering-any-terrain/"><u>In-Depth Review of the Top Race RC Rock Crawler: Conquering Any Terrain</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-toolkit-software-one-stop-solution-to-ios-problems/"><u>IPhone Toolkit Software - One-Stop Solution to iOS Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg2522-driver-update-download-here/"><u>Latest Canon PIXMA MG2522 Driver Update - Download Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-problems-in-grand-theft-auto-online/"><u>Resolving Connection Problems in Grand Theft Auto Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/revamped-bioshock-2-experience-the-ultimate-remix-of-classic-with-improved-stability/"><u>Revamped BioShock 2 - Experience the Ultimate Remix of Classic with Improved Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-huoxijie-vii-sword-and-fairy-n7-stability-problems-for-smooth-gaming-experience/"><u>Solve Huòxījié VII (Sword and Fairy N7) Stability Problems for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-msi-afterburner-and-non-detecting-gpu-issues-on-windows-1110/"><u>Troubleshooting Guide: MSI Afterburner and Non-Detecting GPU Issues on Windows 11/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-frame-rates-in-tainted-grail-conquest/"><u>Ultimate Guide to Enhancing Frame Rates in Tainted Grail: Conquest</u></a></li>
 </ul></div>
 

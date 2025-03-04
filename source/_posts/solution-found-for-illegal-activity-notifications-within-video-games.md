@@ -1,7 +1,7 @@
 ---
 title: Solution Found for 'Illegal Activity' Notifications Within Video Games
-date: 2025-01-26T17:52:12.244Z
-updated: 2025-01-31T22:58:16.339Z
+date: 2025-03-01T11:36:29.782Z
+updated: 2025-03-04T09:35:52.219Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -49,10 +45,6 @@ Many players are complaining about the Escape from Tarkov low FPS since the rece
 2. Run Driver Easy and click the**Scan** **Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update** **All** ). Or you can click**Update** to update the graphics driver for free, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
@@ -96,10 +88,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ultimate-performance-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check how the game works. If the issue persists, proceed to the next method.
 
 ### Fix 4 – Disable fullscreen optimizations
@@ -116,10 +104,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-fullscreen-optimizations-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch EFT to check the game performance. If this gives you no luck, there are two more fixes to try.
 
 ### Fix 5 – Adjust the in-game graphics settings
@@ -131,10 +115,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-1.jpg)
 3. Scroll down to turn on**Mip Streaming** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Navigate to the**GAME** tab and uncheck**Always show interface elements** ,**Auto RAM Cleaner** as well as**Use only the physical cores** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-2.jpg)
 5. Select the**POSTFX** tab, and make sure to**untick Enable PostFX** .  
@@ -142,15 +122,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/tarkov-settings-3.jpg)
 6. Click**Save** to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test the issue again. If you’re still facing low FPS in Escape from Tarkov, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Configure the graphics card settings
 
@@ -167,10 +139,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-settings.jpg)
 4. Modify the settings as below:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Anisotropic filtering_ :**Application-controlled**  
 _Antialiasing – FXAA_ :**Off**  
@@ -190,10 +158,6 @@ _Vertical sync_ :**Off**
 1. Right-click the empty area on your desktop and select**AMD Radeon Software** .
 2. Go to**Gaming** \>**Global Settings** and configure the options as in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-graphics-card-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart the game to test, and you should find the FPS increases now.
 
@@ -219,24 +183,21 @@ Restart the game to test, and you should find the FPS increases now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-novices-approach-to-acquiring-picture-frames/"><u>[New] A Novice's Approach to Acquiring Picture Frames</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-success-on-facebook-a-beginners-and-pro-guide-compilation/"><u>[New] Crafting Success on Facebook A Beginner's & Pro Guide Compilation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-cost-free-online-collaboration-tools/"><u>[New] The Ultimate Guide to Cost-Free Online Collaboration Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guideline-on-budgeting-for-music-video-filming/"><u>2024 Approved Guideline on Budgeting for Music Video Filming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-capture-your-nintendo-switch-game-video/"><u>2024 Approved How To Capture Your Nintendo Switch Game Video</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/echoes-of-harmony-in-a-social-sphere-for-2024/"><u>Echoes of Harmony in a Social Sphere for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-co-op-connectivity-issues-how-to-get-online-play-running-smoothly-again/"><u>Elden Ring Co-Op Connectivity Issues - How to Get Online Play Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/everspace-2-stability-enhanced-top-tips-for-a-seamless-gaming-session-on-your-computer/"><u>Everspace #2 Stability Enhanced: Top Tips for a Seamless Gaming Session on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-low-frames-per-second-in-dayz-fast-and-easy-solutions-for-gamers/"><u>Master Low Frames Per Second in DayZ: Fast and Easy Solutions for Gamers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimal-zoom-settings-for-microsoft-teams-communication-for-2024/"><u>Optimal Zoom Settings for Microsoft Teams Communication for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/r-type-final-groo-how-to-prevent-pc-game-from-unexpectedly-shutting-down/"><u>R-Type Final Groo: How to Prevent PC Game From Unexpectedly Shutting Down</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-baldurs-gate-3-launching-problem-on-pcmac/"><u>Resolving Baldur's Gate 3 Launching Problem on PC/MAC</u></a></li>
-<li><a href="https://win-able.techidaily.com/revive-your-steam-vr-experience-quick-fixes-if-its-not-detected-by-system/"><u>Revive Your Steam VR Experience: Quick Fixes if It's Not Detected by System</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-no-user-logged-in-issue-in-cs-go/"><u>Top 5 Solutions for Resolving 'No User Logged In' Issue in CS: GO</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nwstoreexe-software-failures-effectively/"><u>Troubleshooting and Solving NW_store.exe Software Failures Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-a2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027727091-youtube/"><u>YouTube音声コンテンツ利用ガイド</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-skills-delivering-stellar-presentations-on-gmeet-anywhere/"><u>[New] Essential Skills Delivering Stellar Presentations on GMeet, Anywhere</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-diy-iphone-audio-memos-step-by-step/"><u>[New] In 2024, DIY iPhone Audio Memos Step by Step</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-make-your-discord-profile-picture-a-standout-choice/"><u>[Updated] In 2024, How to Make Your Discord Profile Picture a Standout Choice</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-collabs-how-to-find-youtube-collaboration-partners/"><u>2024 Approved YouTube Collabs How to Find YouTube Collaboration Partners?</u></a></li>
+<li><a href="https://win-able.techidaily.com/debugging-battles-ensuring-smooth-gameplay-for-midgardian-clans/"><u>Debugging Battles: Ensuring Smooth Gameplay for Midgardian Clans</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-resolving-issues-with-your-discord-camera-feature/"><u>Diagnosing and Resolving Issues with Your Discord Camera Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-war-thunder-game-crashes-top-solutions/"><u>How to Fix Recurring War Thunder Game Crashes : Top Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-port-reset-failed-issue-for-windows-11/"><u>How to Fix Unknown USB Device (Port Reset Failed) Issue for Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-zte-frp-by-drfone-android/"><u>In 2024, How Can We Bypass ZTE FRP?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/plug-in-proweries-expert-analysis/"><u>PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-navigating-around-troublesome-loading-screens-problem-solved/"><u>Red Dead Redemption Navigating Around Troublesome Loading Screens – Problem Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011085197-resolve-oculus-link-problems-quickly-with-these-proven-6-fixes/"><u>Resolve Oculus Link Problems Quickly with These Proven 6 Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-bugs-solve-your-football-manager-2eplus23-7-pc-launching-problems-now/"><u>Say Goodbye to Game Bugs! Solve Your Football Manager 2E+23-7 PC Launching Problems Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-essential-cybersecurity-certifications-according-to-zdnet/"><u>Top 7 Essential Cybersecurity Certifications , According to ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-ping-perfection-comprehensive-troubleshooting-steps-to-minimize-lag-on-pcs/"><u>Valheim Ping Perfection: Comprehensive Troubleshooting Steps to Minimize Lag on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi 13T Pro? | Dr.fone</u></a></li>
 </ul></div>
 

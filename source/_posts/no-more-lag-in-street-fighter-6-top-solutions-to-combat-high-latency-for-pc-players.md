@@ -1,7 +1,7 @@
 ---
 title: "No More Lag in Street Fighter 6: Top Solutions to Combat High Latency for PC Players"
-date: 2025-02-13T19:58:57.583Z
-updated: 2025-02-14T22:00:17.597Z
+date: 2025-02-27T16:18:45.168Z
+updated: 2025-03-03T18:10:34.369Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 7. [**This game is not available on your operating system**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Release Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Change your computer resolution
 
@@ -118,10 +114,6 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
 3. Select the**Compatibility** tab. Under**Settings** section,**check** the box before**Run this program as an Administrator** . Click**OK** to finish.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
 4. Launch Valorant and see if you can log in.
 
@@ -132,10 +124,6 @@ If this trick doesn’t work for you, simply try the next one.
 1. **Right click** Task Bar to open**task manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-58-59.jpg)
 2. **Scroll through** all the processes and search for Riot related processes (**Those with a Riot or Valorant logo** ). If you find any, select them and click**End task** to stop them.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-17-24.jpg)  
  (Note you**should not** **stop** the**Vanguard** process. Otherwise you’ll have to restart your computer before launching Valorant again.)
@@ -175,10 +163,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/end-valorant-task-mgr.jpg)
 2. Press**Win+R** to invoke the Run box, then type or paste**%localappdata%\\VALORANT\\Saved** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
 3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
 
@@ -189,10 +173,6 @@ Here’s an example of how to disable Windows Security:
 1. On your keyboard, press**Ctrl+Shift+Esc** together to open**Task Manager** . Navigate to the**Performance** tab, click**Open Resource Monitor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
  First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
@@ -209,10 +189,6 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
@@ -225,19 +201,11 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
@@ -249,10 +217,6 @@ Here’s an example of how to disable Windows Security:
  Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
 12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
@@ -269,10 +233,6 @@ Here’s an example of how to disable Windows Security:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-52-29.jpg)
 4. Go to the[Valorant official website](https://playvalorant.com/en-us/) and download the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s it. Hopefully you can launch Valorant without any problems. If you have any questions or suggestions, feel free to leave a comment.
 
@@ -293,17 +253,22 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ditch-dullness-boosting-speed-in-android-videos/"><u>[New] 2024 Approved Ditch Dullness Boosting Speed in Android Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987005373-solved-origin-wont-open-on-windows-10-11/"><u>[SOLVED] Origin Won't Open on Windows 10, 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-tips-for-quick-and-reliable-recording-of-presentations-for-2024/"><u>[Updated] Top Tips for Quick and Reliable Recording of Presentations for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone XS?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-timeout-issue-during-download-progress/"><u>How to Fix “Timeout” Issue During Download Progress</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-text-overlays-on-photos-in-windows-10s-photos-app-for-2024/"><u>Mastering Text Overlays on Photos in Windows 10'S Photos App for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/redmi-note-13-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Redmi Note 13 5G support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-storage-switcheroo-clone-and-upgrade-your-deck-now/"><u>Swift Storage Switcheroo: Clone & Upgrade Your Deck Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722984119530-team-fortress-2-boot-issues-heres-how-you-can-fix-them/"><u>Team Fortress 2 Boot Issues? Here’s How You Can Fix Them!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resident-evil-village-failed-to-initialize/"><u>Troubleshooting Steps: 'Resident Evil Village Failed to Initialize'</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/utilizing-cookiebot-technology-for-optimized-user-experience-and-analytics-tracking/"><u>Utilizing Cookiebot Technology for Optimized User Experience & Analytics Tracking</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-direct-send-from-camera-roll-your-easy-to-follow-guide-for-2024/"><u>[New] Direct Send From Camera Roll Your Easy-to-Follow Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-cinematography-best-lenses-for-immaculate-4k-output/"><u>[New] Optimal Cinematography Best Lenses for Immaculate 4K Output</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-beyond-the-norm-redefining-fun-with-vr-technology-for-2024/"><u>[Updated] Beyond the Norm Redefining Fun with VR Technology for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>[Updated] In 2024, Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seeking-clearance-can-you-upload-media-on-fb-for-2024/"><u>[Updated] Seeking Clearance Can You Upload Media on FB for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/8-best-youtube-video-promotion-services-real-for-2024/"><u>8 Best YouTube Video Promotion Services (Real) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-solutions-to-minecraft-launcher-update-problems-a-comprehensive-guide/"><u>Efficient Solutions to Minecraft Launcher Update Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012070358-eliminate-stutter-in-elden-ring-fast-fixes-you-can-do-today/"><u>Eliminate Stutter in Elden Ring - Fast Fixes You Can Do Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-dying-light-now-running-smoothly-with-improved-fps-and-stability-on-pc/"><u>Enhanced Dying Light Ⅱ - Now Running Smoothly with Improved FPS and Stability on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-seamlessly-reconnect-your-game-client-with-the-rainbow-six-siege-servers/"><u>How to Seamlessly Reconnect Your Game Client with the Rainbow Six Siege Servers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-intova-x-visionary-action-camera-unveiled-today/"><u>In 2024, Intova X Visionary Action Camera Unveiled Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/itunes-sounds-broken-heres-how-to-fix-the-detected-audio-setup-problems-effortlessly/"><u>ITunes Sounds Broken? Here's How to Fix the Detected Audio Setup Problems Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-initialization-errors-getting-started-with-urban-planning-minecraft-edition/"><u>Overcoming Initialization Errors: Getting Started with Urban Planning - Minecraft Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-undetected-graphics-card-by-msi-afterburner-on-windows-11/"><u>Resolving the Issue of Undetected Graphics Card by MSI Afterburner on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-not-loading-heres-how-you-can-resolve-it/"><u>Rocket League Not Loading? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-blocked-files-with-advanced-powershell-methods/"><u>Simplifying Blocked Files with Advanced PowerShell Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-potential-discover-the-gpt-models-that-outperform-chatgpt/"><u>Unleash Potential: Discover the GPT Models That Outperform ChatGPT</u></a></li>
 </ul></div>
 

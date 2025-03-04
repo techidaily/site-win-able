@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs
-date: 2025-02-09T23:18:30.515Z
-updated: 2025-02-14T16:52:48.655Z
+date: 2025-02-26T03:47:13.945Z
+updated: 2025-03-03T23:09:53.235Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 4. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as an administrator
 
  In some cases, Windows may not give your game the necessary permissions to work as it should. This might result in the game not starting or running properly. Enabling the option to run AoE 2 as an administrator may help:
@@ -44,10 +40,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
@@ -55,10 +47,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  \*If you’re playing the game on Steam, also run Steam as an administrator.
 
@@ -77,10 +65,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **7)** Restart your game to test your issue.
 
 If AoE still won’t launch, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -118,10 +102,6 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
@@ -132,17 +112,9 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -179,10 +151,6 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
@@ -196,10 +164,6 @@ If the issue continues to occur, go to the next solution.
 **6)** Try launching AoE 2 to see if this helped.
 
 If your game still won’t load, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -238,18 +202,17 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-go-global-with-gifs-converting-vimeo-video-to-animation/"><u>2024 Approved Go Global with GIFs Converting Vimeo Video to Animation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cambia-tus-archivos-webm-al-formato-mp4-facilmente-y-gratuitamente-usando-el-servicio-en-linea-de-convertidor-de-video-de-movavi/"><u>Cambia Tus Archivos WEBM Al Formato MP4 Fácilmente Y Gratuitamente Usando El Servicio en Línea De Convertidor De Video De Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/choosing-your-ideal-device-pc-vs-mac-insights-from-yl-computing/"><u>Choosing Your Ideal Device: PC Vs. Mac - Insights From YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-steam-crashes-instantly-ultimate-troubleshooting-guide/"><u>Fix Steam Crashes Instantly: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-redmi-note-12r-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-repair-a-non-responsive-nvidia-overlay-on-your-computer-screen/"><u>How to Repair a Non-Responsive Nvidia Overlay on Your Computer Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-prevent-minecraft-disruptions-now/"><u>Master the Art of Troubleshooting: Prevent Minecraft Disruptions Now!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/proactive-ways-to-record-breathtaking-live-sports-games/"><u>Proactive Ways to Record Breathtaking Live Sports Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-fixing-stuck-or-hanging-minecraft-sessions-on-personal-computers/"><u>Solutions for Fixing Stuck or Hanging Minecraft Sessions on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-confirming-your-gamee-data-accuracy-for-a-trouble-free-startup/"><u>Step-by-Step: Confirming Your Game'e Data Accuracy for a Trouble-Free Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-when-scavengers-keeps-crashing-on-your-computer/"><u>Ultimate Fixes When Scavengers Keeps Crashing on Your Computer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-industry-figures-transforming-vr-gaming/"><u>[Updated] Key Industry Figures Transforming VR Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-gaming-screens-selecting-the-top-5-ps5/"><u>[Updated] Ultimate Gaming Screens Selecting the Top 5 (PS5)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/avchdmp46/"><u>【高画質】AVCHD形式をMP4に変換できる無料ソフトウェアベスト6品種</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-issues-and-quick-fixes-for-minecraft-loading-problems/"><u>Common Issues & Quick Fixes for Minecraft Loading Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-intel-uhdiris-xe-graphics-driver-update-in-windows-1011/"><u>How to Get the Newest Intel UHD/Iris Xe Graphics Driver Update in Windows 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-g22-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia G22</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-steams-synchronization-problems-with-these-simple-fixes/"><u>Overcome Steam's Synchronization Problems with These Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-continuous-crashes-in-remnant-from-the-ashes-fix-now/"><u>Overcoming Continuous Crashes in Remnant: From the Ashes – Fix Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-opening-a-stubborn-razer-synapse-interface/"><u>Quick Fixes for Opening a Stubborn Razer Synapse Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-communication-restored-your-step-by-step-solution-to-discords-packet-loss-problem/"><u>Seamless Communication Restored: Your Step-by-Step Solution to Discord's Packet Loss Problem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-11-solutions-for-eliminating-display-flash-issues-on-windows-11-systems/"><u>Top 11 Solutions for Eliminating Display Flash Issues on Windows 11 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions to Resolve WINWORD.EXE Crashes
-date: 2024-12-17T07:20:27.579Z
-updated: 2024-12-19T20:17:31.527Z
+date: 2025-03-02T08:42:45.178Z
+updated: 2025-03-03T18:57:28.020Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -70,19 +62,11 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -124,10 +108,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 #### Modify AMD graphics card settings
@@ -160,19 +140,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -185,10 +157,6 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -199,15 +167,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -283,22 +243,21 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-stepwise-approach-to-twitter-archive-utilization/"><u>[New] 2024 Approved A Stepwise Approach to Twitter Archive Utilization</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-pro-editors-manual-tackling-gopro-distortion/"><u>[New] In 2024, Pro Editor's Manual Tackling GoPro Distortion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-nikons-1j5-a-4k-video-masterpiece/"><u>[Updated] Unveiling Nikon's 1J5 A 4K Video Masterpiece</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024-guide-to-resolving-minecraft-black-screen-glitch-tips-and-tricks-for-smooth-gaming/"><u>2024 Guide to Resolving Minecraft Black Screen Glitch: Tips and Tricks for Smooth Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/bust-assassins-creed-odyssey-pc-freeze-glitches-with-these-new-fixes-202n/"><u>Bust Assassin's Creed Odyssey PC Freeze Glitches with These New Fixes (202N)</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fixing-steam-launch-failures-in-helldivers-2-tips-and-tricks/"><u>Guide to Fixing Steam Launch Failures in Helldivers 2 - Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-solve-ark-system-crash-problems-successfully/"><u>How to Prevent & Solve ARK System Crash Problems Successfully</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic 5 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>In 2024, The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-your-minecraft-black-screen-woes-expert-advice-and-fixes-by-solved/"><u>Overcome Your Minecraft Black Screen Woes: Expert Advice and Fixes by [SOLVED]</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-fifa-21s-unsuccessful-boot-dilemma-a-solution-found/"><u>Overcoming FIFA 21'S Unsuccessful Boot Dilemma: A Solution Found</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723014036325-quick-solutions-upping-the-pace-of-your-utorrent-transfer-speeds/"><u>Quick Solutions: Upping the Pace of Your uTorrent Transfer Speeds!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-slow-loading-in-the-elder-scrolls-online-blackwood-region/"><u>Resolving the Issue of Slow Loading in The Elder Scrolls Online - Blackwood Region</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-gaming-setup-with-the-stunning-philips-49-inch-curved-oled-by-evga/"><u>Revolutionize Your Gaming Setup With the Stunning Philips 49-Inch Curved OLED by EVGA</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-6-free-tools-for-converting-bin-files-into-iso-images-a-comprehensive-guide/"><u>Top 6 Free Tools For Converting Bin Files Into ISO Images: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/why-audible-wins-over-alternativesdiscover-member-perks-here/"><u>Why Audible Wins Over Alternatives—Discover Member Perks Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-copyright-compliance-and-photovideo-sharing-for-2024/"><u>[New] Copyright Compliance & Photo/Video Sharing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-procedure-for-removing-stashed-videos-from-watch-later/"><u>[Updated] 2024 Approved Procedure for Removing Stashed Videos From Watch Later</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-your-favorite-videos-without-limits/"><u>[Updated] In 2024, Download Your Favorite Videos Without Limits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-complete-users-manual-to-zoom-meeting-recordings/"><u>2024 Approved The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/capture-spectacular-video-on-youtube-top-webcam-picks/"><u>Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/copernics-innovative-downloader-a-game-changer-for-savvy-data-organisation-and-access/"><u>Copernic's Innovative Downloader: A Game-Changer for Savvy Data Organisation and Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-outlooks-failed-search-with-copernic-the-ultimate-alternative/"><u>Fix Outlook's Failed Search with Copernic: The Ultimate Alternative</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-filmoras-fcc-initiative-a-guide/"><u>In 2024, Navigating Filmora's FCC Initiative A Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-copernic-tips-and-tricks-for-ultimate-customization-and-peak-performance/"><u>Mastering Copernic: Tips and Tricks for Ultimate Customization & Peak Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/practical-examples-of-auto-gtp-in-use/"><u>Practical Examples of Auto-GTP in Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-is-my-audio-not-playing-during-discord-screen-broadcast/"><u>Resolved: Why Is My Audio Not Playing During Discord Screen Broadcast?</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-illustrator-searches-with-powerful-tips-from-copernic-expertise/"><u>Streamline Your Illustrator Searches with Powerful Tips From Copernic Expertise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-sims-4-memories-key-methods-to-document-gameplay-success/"><u>Unlocking Sims 4 Memories Key Methods to Document Gameplay Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/updating-your-current-copernic-membership-a-step-by-step-guide/"><u>Updating Your Current Copernic Membership: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

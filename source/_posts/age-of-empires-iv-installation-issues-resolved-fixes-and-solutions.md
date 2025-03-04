@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2025-02-13T16:52:38.224Z
-updated: 2025-02-14T17:54:15.432Z
+date: 2025-03-01T13:51:43.348Z
+updated: 2025-03-04T01:09:31.901Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -90,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
@@ -137,19 +129,11 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -166,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,22 +173,14 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-swiftly-address-iphone-photography-blur/"><u>[New] 2024 Approved Swiftly Address iPhone Photography Blur</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-integrating-twitter-promotions-into-your-digital-strategy/"><u>[New] Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-simplifying-the-process-how-to-guide-for-booking-meets/"><u>[Updated] In 2024, Simplifying the Process How-To Guide for Booking Meets</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-proven-methods-to-prevent-metro-exodus-from-freezing-or-crashing-on-pc-systems/"><u>Beat the Lag: Proven Methods to Prevent Metro Exodus From Freezing or Crashing on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-glitches-tackling-continuous-god-of-war-pc-game-disruptions/"><u>Defeating Glitches: Tackling Continuous God of War PC Game Disruptions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-determine-the-gpu-in-your-system-and-update-its-software-expert-advice-from-zdnet/"><u>How to Determine the GPU in Your System & Update Its Software - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/loss-of-hardware-support-on-win1011-os/"><u>Loss of Hardware Support on Win10/11 OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-through-eos-login-challenges-in-palworld-with-effective-strategies/"><u>Navigating Through EOS Login Challenges in Palworld with Effective Strategies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pro-video-essentials-the-finest-portable-laptop-brands-for-2024/"><u>Pro Video Essentials The Finest Portable Laptop Brands for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-effective-ways-to-fix-your-fortnite-loading-woes/"><u>Quick & Effective Ways to Fix Your Fortnite Loading Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-7-dead-space-unlock-guide-overcoming-launch-challenges-in-the-202cd-version/"><u>Resident Evil 7 Dead Space Unlock Guide: Overcoming Launch Challenges in the 202CD Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995368995-rust-graphical-anomaly-resolved/"><u>Rust Graphical Anomaly - Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-get-your-left-click-mouse-working-again/"><u>Step-by-Step Instructions to Get Your Left-Click Mouse Working Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-fixing-the-frozen-screen-issue-error-887a0005-solution-guide/"><u>Successfully Fixing the 'Frozen Screen' Issue: Error 887A0005 Solution Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-to-optimize-and-lower-cpu-load-in-new-software-updates/"><u>Tips to Optimize and Lower CPU Load in New Software Updates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>[New] 2024 Approved Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-strategies-for-video-discovery-boosting-viewership-cost-free/"><u>[New] 2024 Approved Strategies for Video Discovery Boosting Viewership Cost-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-glitch-expert-tips-for-fixing-gears-5-stability-issues/"><u>Defeat the Glitch: Expert Tips for Fixing Gears 5 Stability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-for-windows-a-step-by-step-guide-to-stop-the-game-from-crashing/"><u>Guilty Gear Strive for Windows: A Step-by-Step Guide to Stop the Game From Crashing</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-persistent-steam-not-loading-problem-top-7-strategies/"><u>How to Resolve the Persistent Steam Not Loading Problem: Top 7 Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-warzone-20-not-starting-on-your-computer-key-fixes/"><u>How to Resolve Warzone 2.0 Not Starting on Your Computer - Key Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-first-step-in-vlogging-tools-you-need-for-2024/"><u>The First Step in Vlogging Tools You Need for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-edit-videos-on-mac-vn-video-editor-and-beyond/"><u>Updated In 2024, Edit Videos on Mac VN Video Editor and Beyond</u></a></li>
 </ul></div>
 

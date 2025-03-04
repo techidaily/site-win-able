@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting MSI Afterburner to Detect Your GPU on Windows 10 & 11 Systems"
-date: 2025-02-10T16:03:24.960Z
-updated: 2025-02-15T02:36:26.667Z
+date: 2025-03-01T19:16:12.808Z
+updated: 2025-03-04T09:26:49.837Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of this issue vary, here we’ve put together some fixes that proved working for many Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 4. [Delete the temp folder of After Effects](https://tools.techidaily.com/drivereasy/download/)
 5. [Reinstall codecs and plugins](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall / update After Effects](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Temporarily disable hardware acceleration
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
 1. Launch After Effects and go to**Edit** \>**Preferences** \>**Previews…** .  
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
@@ -104,10 +88,6 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -145,10 +125,6 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 
@@ -167,10 +143,6 @@ There’re mainly two ways you can update your graphics drivers:
 4. Launch After Effects to see if this issue persists.
 
 If After Effects still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall codecs and plugins
 
@@ -210,20 +182,21 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>[New] 2024 Approved Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-virtual-try-before-you-buy-tech/"><u>[New] In 2024, Virtual Try-Before-You-Buy Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-a-list-of-the-quickest-rising-youtube-spaces-for-encouragement-for-2024/"><u>[Updated] A List of the Quickest Rising YouTube Spaces for Encouragement for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-assistance-for-complex-equations/"><u>AI Assistance for Complex Equations</u></a></li>
-<li><a href="https://win-able.techidaily.com/closure-on-team-fortress-2s-persistent-crash-problem-expert-advice-for-players/"><u>Closure on Team Fortress 2'S Persistent Crash Problem: Expert Advice for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-the-frustration-expert-advice-for-stabilizing-pacific-drive-gameplay-on-windows-or-mac/"><u>End the Frustration: Expert Advice for Stabilizing Pacific Drive Gameplay on Windows or Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-red-dead-online-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop Red Dead Online From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo K11 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/maximizing-impact-with-every-second-in-a-youtube-short/"><u>Maximizing Impact with Every Second in a YouTube Short</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-tech-snags-ensuring-smooth-gameplay-of-no-rest-for-the-wicked-on-windows-platforms/"><u>Navigating Tech Snags: Ensuring Smooth Gameplay of 'No Rest for the Wicked' On Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-fall-guys-game-crashes-on-start-up-troubleshooting-guide/"><u>Resolve 'Fall Guys' Game Crashes on Start-Up: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-high-cpu-consumption-in-phasmophobia-a-step-by-step-guide/"><u>Solving High CPU Consumption in Phasmophobia: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-asus-rog-phone-8-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Asus ROG Phone 8 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-any-type-of-filter-in-gmail/"><u>Ultimate Guide: Setting Up Any Type of Filter in Gmail</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-obs-settings-for-low-end-pcs/"><u>[New] Best OBS Settings for Low-End PCs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-audio-enhancement-including-tracks-in-vimeo-clips-for-2024/"><u>[Updated] Audio Enhancement Including Tracks in Vimeo Clips for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-an-owners-guide-to-playlist-permutations-in-yt/"><u>[Updated] In 2024, An Owner's Guide to Playlist Permutations in YT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iuwlleeuuplusobqplusmthewkmplusockus4juobioociplusodleocoplusodqplusocvplusodvowkueaendrml6xmnkzoqp7niyjjgrxjgqtjg4jjgafjgyrjgznjgznjgohjgi0i/"><u>動画に魅力を与えるフィルター効果:日本語版サイトでおすすめ」</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlenet-wont-open-a-step-by-step-fix-guide-for-gamers/"><u>Battle.net Won't Open? A Step-by-Step Fix Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-graphics-errors-the-complete-solution-to-fix-red-dead-redemption/"><u>Busting Graphics Errors: The Complete Solution to Fix Red Dead Redemption</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722984478845-detailed-guide-to-address-fortnite-ls-0013-rocket-error-now-fixed/"><u>Detailed Guide to Address Fortnite LS-0013 Rocket Error – Now Fixed!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/die-ultimative-losung-fur-automatisch-geloschte-festplatteninhalte-recovery-tipps-und-tricks/"><u>Die Ultimative Lösung Für Automatisch Gelöschte Festplatteninhalte - Recovery-Tipps Und Tricks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-problem-solved-for-an-uninterrupted-fifa-20-playthrough/"><u>DirectX Problem Solved for an Uninterrupted FIFA 20 Playthrough</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-convertisseur-en-ligne-movavi-des-fichiers-mxf-en-animations-gif-rapides-et-faciles/"><u>Gratuit Convertisseur en Ligne Movavi : Des Fichiers MXF en Animations GIF Rapides Et Faciles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-complet-convertissez-vos-videos-mp4-en-avi-sans-frais-avec-movavi-en-ligne/"><u>Guide Complet : Convertissez Vos Vidéos MP4 en AVI Sans Frais Avec Movavi en Ligne</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/irresistible-article-announcer-for-2024/"><u>Irresistible Article Announcer for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-game-crashes-in-how-to-build-a-metropolis-cities-skylines-updated-tips/"><u>Master the Art of Troubleshooting Game Crashes in How to Build a Metropolis: Cities Skylines [Updated Tips]</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-blackout-blues-bypassing-common-issues-a-step-by-score-guide/"><u>Minecraft Blackout Blues? Bypassing Common Issues – A Step-by-Score Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackle-the-persistent-memory-error-12707-in-call-of-duty-modern-warfare-3-expert-fixes-and-tricks-revealed/"><u>Tackle the Persistent Memory Error 12707 in Call of Duty: Modern Warfare 3 - Expert Fixes and Tricks Revealed</u></a></li>
 </ul></div>
 

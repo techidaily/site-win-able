@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Phasmophobia VR Malfunctions
-date: 2025-01-01T21:54:48.421Z
-updated: 2025-01-05T20:09:20.572Z
+date: 2025-03-01T11:25:25.418Z
+updated: 2025-03-04T05:09:54.635Z
 tags:
   - win11
   - win10
@@ -34,19 +34,11 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -58,10 +50,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
@@ -69,10 +57,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -85,10 +69,6 @@ Game crashing issues might happen when your game files are corrupted.
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Delete everything except these:
 
@@ -129,10 +109,6 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -182,10 +158,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 If the problem still exists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -217,15 +189,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-avi-to-gif-conversion-windows-and-mac-edition-using-filmora/"><u>[New] 2024 Approved Mastering AVI-to-GIF Conversion Windows & Mac Edition Using Filmora</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>[New] Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-stand-out-in-the-crowd-top-15-innovative-snapchat-posts/"><u>[Updated] 2024 Approved Stand Out in the Crowd Top 15 Innovative Snapchat Posts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vantage-point-critique/"><u>2024 Approved Vantage Point Critique</u></a></li>
-<li><a href="https://win-able.techidaily.com/remnant-mastered-seamless-gaming-without-interruptions/"><u>Remnant Mastered: Seamless Gaming Without Interruptions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-repair-stabilizing-your-gameplay-of-nioh-kstv/"><u>Step-by-Step Repair: Stabilizing Your Gameplay of Nioh ˈɛkstɪv</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-players-handbook-advanced-techniques-to-improve-wow-fps-performance/"><u>The Ultimate Player's Handbook: Advanced Techniques to Improve WoW FPS Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-roller-champions-multiplayer-guide-navigating-the-best-of-2024-pc-edition/"><u>Ultimate Roller Champions Multiplayer Guide: Navigating the Best of 2024 PC Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-views-with-these-essential-youtube-seo-hacks/"><u>[Updated] Skyrocket Views with These Essential YouTube SEO Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-insiders-guide-to-instagrams-music-licensing-policies/"><u>2024 Approved The Insider’s Guide to Instagram's Music Licensing Policies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/back-up-your-blu-ray-films-to-a-windows-8-or-windows-10-system-with-ease/"><u>Back Up Your Blu-Ray Films to a Windows 8 or Windows 10 System with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-for-turning-on-hyper-v-in-windows-10-systems/"><u>Comprehensive Tutorial for Turning On Hyper-V in Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolve-stutter-and-collapse-issues-with-v-rising-on-desktop/"><u>Expert Advice: Resolve Stutter and Collapse Issues with V Rising on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/hitman-3-not-working-fix-the-steam-pc-crash-issues-with-ease/"><u>Hitman 3 Not Working? Fix the Steam PC Crash Issues with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-resident-evil-village-pc-performance-lags-complete-guide/"><u>How To Fix Resident Evil Village PC Performance Lags - Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-all-in-one-printer-model-3755-latest-driver-download-for-windows-users/"><u>HP All-in-One Printer Model 3755: Latest Driver Download for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-the-division-pressure-and-smoother-gameplay-in-the-2024-update-tips-and-tricks/"><u>Improve The Division Pressure and Smoother Gameplay in the 2024 Update - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-system-expert-advice-from-the-tech-vault-of-toms-hardware/"><u>Optimize Your System: Expert Advice From the Tech Vault of Tom's Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-game-lag-with-twin-drops-in-frames-per-second-fps/"><u>Overcoming PC Game Lag with Twin Drops in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-info.techidaily.com/simple-methods-for-deleting-iphone-reminder-notifications/"><u>Simple Methods for Deleting iPhone Reminder Notifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/stardew-valley-not-opening-heres-how-to-correct-that-error-smoothly/"><u>Stardew Valley Not Opening? Here's How to Correct That Error Smoothly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-addressing-and-solving-the-ralink-rt3290-wireless-network-card-problems-for-windows-1187-users/"><u>Step-by-Step Guide: Addressing and Solving the Ralink RT3290 Wireless Network Card Problems for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/strategic-message-management-expert-tips-for-discord-pinning/"><u>Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-way-to-enjoy-the-full-dragon-ball-universe-chronologically/"><u>The Ultimate Way to Enjoy the Full Dragon Ball Universe Chronologically</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Solutions to Prevent Marvel's Guardians of the Galaxy From Breaking Down on Windows
-date: 2024-08-18T15:48:08.020Z
-updated: 2024-08-19T15:48:08.020Z
+date: 2025-03-03T06:13:03.870Z
+updated: 2025-03-03T21:31:02.781Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -58,17 +55,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
 **3)** Click**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
@@ -99,16 +89,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -118,9 +102,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -143,9 +124,6 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
 Do the crashes disappear now? If not, continue to the next fix.
@@ -160,16 +138,10 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
@@ -193,8 +165,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +172,23 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/1723012526440-solved-cs-go-lag-quickly-and-easily/"><u>[SOLVED] | CS: GO Lag | Quickly & Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-kernelbasedll-crash-issue-quickly-and-easily/"><u>[SOLVED] | KernelBase.dll Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-10-economical-pc-monitoring-and-capture-tools/"><u>[Updated] 2024 Approved Top 10 Economical PC Monitoring and Capture Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-yearly-roundup-premium-skype-recorder-options/"><u>[Updated] 2024 Approved Yearly Roundup Premium Skype Recorder Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-zoom-and-gmail-collaboration-methods-for-2024/"><u>[Updated] The Ultimate Zoom and Gmail Collaboration Methods for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-your-unboxing-game-8-tips-from-experts/"><u>2024 Approved Perfect Your Unboxing Game 8 Tips From Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/discover-key-methods-to-store-discord-livestream-videos-efficiently/"><u>Discover Key Methods to Store Discord Livestream Videos Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-watch-dogs-legion-from-crashing-on-your-computer/"><u>Effective Solutions to Stop Watch Dogs: Legion From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-starfield-game-tackling-cut-out-sounds-and-hiccups-successfully/"><u>Fix Your Starfield Game: Tackling Cut-Out Sounds and Hiccups Successfully</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Google FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-snowrunner-from-regularly-crashing-on-your-computer-troubleshooting-steps-inside/"><u>How to Prevent SnowRunner From Regularly Crashing on Your Computer - Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-firefox-stalls-and-lockups-advanced-solutions-users/"><u>Overcoming Firefox Stalls & Lockups: Advanced Solutions Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-ios-screenshoting-hack/"><u>The Ultimate iOS Screenshoting Hack</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-starting-multiversus-on-your-computer-lets-fix-that-now/"><u>Trouble with Starting Multiversus on Your Computer? Let’s Fix That Now!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-to-playing-all-avi-videos-on-a-mac-no-need-for-conversions-with-this-superior-avi-player/"><u>Ultimate Guide to Playing ALL AVI Videos on a Mac: No Need for Conversions with This Superior AVI Player!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing the Recurring Crashes of Ascent in PC Version - Solved
-date: 2024-11-20T00:37:22.820Z
-updated: 2024-11-26T16:55:01.365Z
+date: 2025-02-27T03:54:44.502Z
+updated: 2025-03-04T13:36:31.959Z
 tags:
   - win11
   - win10
@@ -69,23 +69,11 @@ The Ascent
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -116,10 +104,6 @@ The Ascent
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Run The Ascent with DirectX 11
 
@@ -166,10 +150,6 @@ If the game still crashes, try the next fix, below.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update MS Visual C++ Redistributables
 
  To ensure compatibility, you may also need to update your Microsoft Visual C++ redistributables, because the outdated Visual C++ redistributables may also trigger The Ascent crashing issues.
@@ -181,10 +161,6 @@ If the game still crashes, try the next fix, below.
  Restart Windows OS after you installed the Visual C++ Redistributables. Then launch the game and see if the game crashes.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -208,10 +184,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
@@ -219,10 +191,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -258,21 +226,20 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-3-elemental-strategies-for-writing-effective-social-media-promotions/"><u>2024 Approved The 3 Elemental Strategies for Writing Effective Social Media Promotions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unmarred-stock-images-legal-and-ethical-tips/"><u>2024 Approved Unmarred Stock Images Legal & Ethical Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-and-solve-pc-specific-dark-screen-dilemma-on-zoom-chats-advanced-guide-updated/"><u>Decode and Solve PC-Specific Dark Screen Dilemma on Zoom Chats – Advanced Guide (Updated )</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c51-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C51 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722983973477-hyper-scape-not-working-on-pc-heres-how-to-resolve-it/"><u>Hyper Scape Not Working On PC? Here's How To Resolve It!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-gpu-now-working-post-update/"><u>Laptop's GPU Now Working Post-Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987905444-madden-22-wont-launch-here-are-fast-and-effective-fixes-to-get-back-in-the-game/"><u>Madden 22 Won't Launch? Here Are Fast and Effective Fixes to Get Back in the Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-resolving-sons-of-the-forest-game-crashes/"><u>PC Troubleshooting Guide: Resolving 'Sons of the Forest' Game Crashes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/precision-protests-unveiling-the-difference-between-hero5-black-and-session/"><u>Precision Protests Unveiling the Difference Between Hero5 Black and Session</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-increase-frame-rates-and-combat-stutters-in-new-games/"><u>Step-by-Step Guide to Increase Frame Rates and Combat Stutters in New Games</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-motorola-edgeplus-2023-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Edge+ (2023) ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-itel-p40-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Itel P40 Phone Hassle-Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-your-hp-monitor-issues-successfully/"><u>Troubleshooting Tips: Fixing Your HP Monitor Issues Successfully</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-on-the-go-10-best-free-speed-adjustment-apps-for-mobile-editing/"><u>Updated 2024 Approved Video on the Go 10 Best Free Speed Adjustment Apps for Mobile Editing</u></a></li>
-<li><a href="https://win-able.techidaily.com/victory-lap-getting-rocket-league-back-on-track-with-these-fixes/"><u>Victory Lap: Getting Rocket League Back on Track with These Fixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>[New] 2024 Approved Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-capturing-vr-gaming-sessions/"><u>[New] Essential Guide to Capturing VR Gaming Sessions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>[Updated] In 2024, How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-stardew-compendium-focus-on-ginger-isle/"><u>[Updated] The Complete Stardew Compendium Focus on Ginger Isle</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-overcoming-euro-truck-simulator-2s-pc-compatibility-challenges-and-avoiding-crashes/"><u>Comprehensive Solutions: Overcoming Euro Truck Simulator 2'S PC Compatibility Challenges & Avoiding Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/daily-task-champions-claude-vs-gpt-showdown/"><u>Daily Task Champions: Claude Vs. GPT Showdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-6-fix-how-to-resolve-black-screen-errors/"><u>Far Cry 6 Fix: How To Resolve Black Screen Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-controller-charging-issues-solved/"><u>Fixing Your PS4 Controller Charging Issues - Solved!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-mastering-all-ipad-operating-systems-variants/"><u>Guide to Mastering All iPad Operating Systems Variants</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo A79 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-when-minecraft-wont-start-up-correctly/"><u>Quick Solutions: When Minecraft Won't Start Up Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-how-to-address-the-dark-screen-glitch-in-persona-5-strikers/"><u>Solution Steps: How to Address the Dark Screen Glitch in Persona 5 Strikers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-load-errors-in-red-dead-redemption-2-gaming-experience/"><u>Troubleshooting Steps for Resolving Load Errors in Red Dead Redemption 2 Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-witcher-3-gameplay-interruptions-on-windows-a-comprehensive-guide/"><u>Troubleshooting The Witcher 3 Gameplay Interruptions on Windows: A Comprehensive Guide</u></a></li>
 </ul></div>
 

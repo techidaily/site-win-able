@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2025-02-09T22:07:28.779Z
-updated: 2025-02-14T21:58:05.117Z
+date: 2025-02-27T21:00:34.306Z
+updated: 2025-03-04T02:32:46.332Z
 tags:
   - win11
   - win10
@@ -56,10 +56,6 @@ Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
 
  If you’re using a custom wallpaper on Windows 10, you can enable an option to**set the accent color** of the Start menu, taskbar, and action center to match the base color of the image automatically.
@@ -72,10 +68,6 @@ Passive Adapter (DP to HDMI)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method doesn’t help your case, you can take a look at the next one.
 
@@ -97,10 +89,6 @@ Passive Adapter (DP to HDMI)
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
@@ -133,10 +121,6 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-more.jpg)
 2. In the resulting drop-down menu, select **Help** \> **About Google Chrome** . Opening this page will initiate the update process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-update.jpg)
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
 
@@ -145,10 +129,6 @@ If you don’t know how, simply follow these steps:
 ### Fix 7: Install all Windows updates
 
  Windows updates offer regular**security patches** and sometimes (twice a year) a**performance boost** . If it’s been a while since the last time you checked for system updates, you need to do it now as it might fix your problem right away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable hardware acceleration
 
@@ -164,17 +144,9 @@ Now you can test some websites and see if Chrome flickers again.
 
 If this fix doesn’t work for you, go ahead and try the last one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Downgrade your Chrome version
 
  According to some users, the flickering issue appears to only happen on some certain builds. If you’ve tried all the methods above and none works, you might want to try**downgrading your Chrome version** . To do this, simply go to the[Slimjet download page](https://www.slimjet.com/chrome/google-chrome-old-version.php) and select the previous version of your choice. Once you’ve installed an old version of Chrome, don’t forget to turn off auto-update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Modify your Registry
 
@@ -184,10 +156,6 @@ If this fix doesn’t work for you, go ahead and try the last one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar of Registry Editor, type or paste**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\DWM** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm.jpg)
 3. At the empty area of the right pane, right click and create a new**DWORD (32-bit) Value** and name it**OverlayTestMode** .  
 
@@ -195,10 +163,6 @@ If this fix doesn’t work for you, go ahead and try the last one.
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the issue lingers on, you can try the next solution.
 
@@ -212,10 +176,6 @@ If the issue lingers on, you can try the next solution.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -240,21 +200,22 @@ If the issue lingers on, you can try the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-secret-story-gazers-manual-for-discreet-instagram-stories-on-desktopmobile/"><u>[New] Secret Story Gazer's Manual for Discreet Instagram Stories on Desktop/Mobile</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/2018ylyl/"><u>2018年为自我及子孙后代创作的道歉信———关于普通投资者修炼生活：YL计算机与YL软件</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-compelling-visual-stories-with-engaging-voices-for-2024/"><u>Crafting Compelling Visual Stories With Engaging Voices for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-getting-past-the-payday-amoan-not-found-error-on-pc/"><u>Expert Advice for Getting Past the 'Payday Amoan Not Found' Error on PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-dull-to-dynamic-a-pros-guide-to-shade-shifting/"><u>From Dull to Dynamic A Pro's Guide to Shade Shifting</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashing-in-praeyst-for-the-gods-on-pc-a-comprehensive-guide/"><u>How to Fix Persistent Crashing in Praeyst for the Gods on PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-solve-shadowplays-non-recording-problem-on-your-pc-with-windows-os/"><u>How to Solve Shadowplay's Non-Recording Problem on Your PC with Windows OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-15-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 15 Pro Max Prevention & Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/inside-look-at-the-delayed-release-of-wolcen-lords-of-mayhem/"><u>Inside Look at the Delayed Release of Wolcen: Lords of Mayhem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-secure-browsing-with-proton-vpns-free-browser-plug-in-expert-tips-shared-by-zdnet/"><u>Navigating Secure Browsing with Proton VPN's Free Browser Plug-In | Expert Tips Shared by ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/problems-with-the-release-of-the-ascent-now-fixed/"><u>Problems with the Release of 'The Ascent': Now Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-browsing-top-tips-to-fix-crashing-chrome-on-windows-11-systems/"><u>Seamless Browsing: Top Tips to Fix Crashing Chrome on Windows 11 Systems</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/stunning-mac-os-yosemite-wallpapers-and-backgrounds-by-yl-computing-the-ultimate-collection/"><u>Stunning Mac OS Yosemite Wallpapers & Backgrounds by YL Computing - The Ultimate Collection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-windows-10s-best-new-applications-and-games/"><u>The Ultimate Guide to Windows 10'S Best New Applications & Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-eliminating-latency-issues-in-pc-games-expert-tips-and-tricks/"><u>Ultimate Guide to Eliminating Latency Issues in PC Games - Expert Tips & Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-next-gen-media-masters-5-top-mac-videography-apps/"><u>[New] Next-Gen Media Masters 5 Top Mac Videography Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scripted-time-warps-a-cinematic-approach/"><u>[New] Scripted Time Warps A Cinematic Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-money-mastery-made-simple-reddits-13-best-income-streams/"><u>[Updated] Money Mastery Made Simple Reddit's 13 Best Income Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-adventure-gone-wrong-expert-solutions-for-stable-playtime/"><u>Arise Adventure Gone Wrong? Expert Solutions for Stable Playtime!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/commemorative-special-offer-by-digiarty-for-its-18th-year-of-innovation-and-creativity/"><u>Commemorative Special Offer by Digiarty for Its 18Th Year of Innovation and Creativity</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-repairing-issues-with-playstationxboxs-grand-theft-auto-5-online/"><u>Expert Advice on Repairing Issues with PlayStation/Xbox's Grand Theft Auto 5 Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-season-8-update-analysis-understanding-the-fluctuation-in-frames-per-second-fps/"><u>Fortnite Season 8 Update Analysis: Understanding the Fluctuation in Frames per Second (FPS)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-lava-blaze-2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Lava Blaze 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-google-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Google</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-pathway-to-a-powerful-instagram-influence/"><u>In 2024, The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/integrating-new-print-devices-using-the-pcs-control-panel-expert-advice-by-yl-software-experts/"><u>Integrating New Print Devices Using the PC's Control Panel: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/pet-scans-are-essential-for-evaluating-the-metabolic-activity-within-brain-tumors-which-is-crucial-for-treatment-planning-and-monitoring-response-to-therapy102/"><u>PET Scans Are Essential for Evaluating the Metabolic Activity Within Brain Tumors, Which Is Crucial for Treatment Planning and Monitoring Response to Therapy.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-4-update-woes-discover-simple-solutions-to-prevent-game-crashes-now/"><u>Resident Evil 4 Update Woes? Discover Simple Solutions to Prevent Game Crashes Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-constant-lag-and-crashes-in-warframe/"><u>Resolved: Fixing Constant Lag and Crashes in Warframe</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-preventing-fallout-3-from-crashing-in-windows-11/"><u>Troubleshooting Guide: Preventing Fallout 3 From Crashing in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999595450-warframe-performance-tuned-bid-farewell-to-frustrating-game-freezes/"><u>Warframe Performance Tuned - Bid Farewell to Frustrating Game Freezes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006556559-zoom-blackout-blues-heres-your-ultimate-guide-to-clear-the-screen/"><u>Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen !</u></a></li>
 </ul></div>
 

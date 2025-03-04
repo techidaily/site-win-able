@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2025-02-12T23:51:23.096Z
-updated: 2025-02-14T16:51:42.376Z
+date: 2025-02-25T03:50:00.331Z
+updated: 2025-03-04T04:16:53.009Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -97,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -112,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -147,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -166,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,20 +173,19 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-proficient-use-of-obs-studio-on-your-android-phone/"><u>[Updated] In 2024, Proficient Use of OBS Studio on Your Android Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-driveease-expert-analysis/"><u>2024 Approved DriveEase Expert Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-get-clear-coffee-stain-free-images-using-ioss-free-app/"><u>2024 Approved Get Clear, Coffee Stain-Free Images Using iOS's Free App</u></a></li>
-<li><a href="https://win-popular.techidaily.com/captivating-aquatic-hd-wallpaper-visuals-from-yl-softwares-image-library/"><u>Captivating Aquatic HD Wallpaper Visuals From YL Software's Image Library</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/catalina-climb-upgrading-your-macos-expediently/"><u>Catalina Climb: Upgrading Your MacOS Expediently</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210360126-9781591811428-sky-above-earth-below/"><u>Sky Above, Earth Below | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-personal-cd-replication-for-secure-music-preservation/"><u>Step-by-Step Guide to Personal CD Replication for Secure Music Preservation</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-youtube/"><u>Step-by-Step Guide: Adding Your DVD Content to YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-genshin-impact-across-desktops-and-smartphones/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Genshin Impact Across Desktops and Smartphones</u></a></li>
-<li><a href="https://win-able.techidaily.com/stream-unlimited-films-with-these-6-free-android-movie-watching-apps/"><u>Stream Unlimited Films with These 6 Free Android Movie-Watching Apps!</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-13-essential-kid-friendly-extensions-for-kodi-stream-family-entertainment/"><u>Top 13 Essential Kid-Friendly Extensions for Kodi - Stream Family Entertainment</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-methods-to-capture-and-save-flash-media-from-various-gadgets-updated-guide/"><u>Top 5 Methods to Capture and Save Flash Media From Various Gadgets - Updated Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-premium-free-music-applications-available-on-android/"><u>Top 5 Premium-Free Music Applications Available on Android</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-karaoke-programs-spotlight-on-pcdjs-exclusive-member/"><u>Top Karaoke Programs: Spotlight on PCDJ's Exclusive Member</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/tumblr-image-format-specifications/"><u>Tumblr Image Format Specifications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-renderer-resurgence-new-radeon-edition/"><u>[New] 2024 Approved Renderer Resurgence New Radeon Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cinematic-footage-showdown-gopro-and-sj7/"><u>[New] In 2024, Cinematic Footage Showdown GoPro & SJ7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-whats-your-potential-income-from-youtube-sponsored-videos/"><u>[Updated] What's Your Potential Income From YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-summit-elite-25-testing-analysis/"><u>2024 Approved Summit Elite 25 Testing Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-ready-gamers-unite-masterful-ways-to-prevent-constant-titanfall-2-crashes/"><u>Battle-Ready Gamers Unite: Masterful Ways to Prevent Constant Titanfall 2 Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-the-firefox-hiccup-a-complete-2e24-guide-to-unfreeze-your-browser/"><u>Defeating the Firefox Hiccup - A Complete 2E24 Guide to Unfreeze Your Browser</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortlessly-organize-and-edit-karaoke-song-titles-in-bulk-using-our-advanced-batch-renewer-solution/"><u>Effortlessly Organize and Edit Karaoke Song Titles in Bulk Using Our Advanced Batch Renewer Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-6s-plus-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 6s Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issue-warzone-graphics-failure-to-render-properly/"><u>Resolved Issue: Warzone Graphics Failure to Render Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-discord-connectivity-problems-during-live-streaming/"><u>Resolving Discord Connectivity Problems During Live Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/retrace-mechanic-setup-for-2024/"><u>Retrace Mechanic Setup for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-sounds-errors-for-dying-light-players-tips-and-tricks/"><u>Troubleshooting Sounds Errors for Dying Light Players - Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-amazon-prime-video-playback-issues/"><u>Troubleshooting Steps for Fixing Amazon Prime Video Playback Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Prevent and Fix 'Assassin's Creed Odyssey' From Crashing on Your Windows PC"
-date: 2024-12-17T01:32:28.992Z
-updated: 2024-12-19T19:20:29.143Z
+date: 2025-02-27T20:30:55.309Z
+updated: 2025-03-04T07:19:41.296Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Assassin’s Creed Odyssey crashing
 
  Here are the solutions to fix Assassin’s Creed Odyssey crashing issue. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 5. **[Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)**
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -81,19 +73,11 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
 
@@ -102,10 +86,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  1) Open Assassin’s Creed Odyssey Settings (the**Options** tab).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the**Display** tab.
 
@@ -117,10 +97,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Turn off**VSync** .
 
@@ -191,22 +167,15 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-error-0xc19001e1-in-windows-11/"><u>[FIXED] Error 0Xc19001e1 in Windows 11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-luminance-hdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>[New] Luminance HDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-win10-screen-snapshot-maker-pro/"><u>[New] Win10 Screen Snapshot Maker Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fortnite-fps-drops-season-8-update/"><u>[SOLVED] Fortnite FPS Drops - Season 8 Update</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-instant-screen-capture-plus-audio-walkthrough/"><u>[Updated] 2024 Approved Instant Screen Capture + Audio Walkthrough</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-innovation-best-desktop-computers/"><u>2024 Approved Premium Innovation Best Desktop Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-launch-setback-decoded-a-look-at-the-underlying-causes/"><u>Assassin's Creed Valhalla Launch Setback Decoded: A Look at the Underlying Causes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-guide-recording-netflix-videos-on-a-mac/"><u>Essential Guide Recording Netflix Videos on a Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionize-your-social-network-creating-captivating-facebook-slides/"><u>In 2024, Revolutionize Your Social Network Creating Captivating Facebook Slides</u></a></li>
-<li><a href="https://win-able.techidaily.com/path-of-exile-connectivity-troubles-heres-your-2024-guide-to-stable-gameplay/"><u>Path of Exile Connectivity Troubles? Here's Your 2024 Guide to Stable Gameplay!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photo-mastery-top-8-web-based-creation-suite/"><u>Photo Mastery Top 8 Web-Based Creation Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/repaired-version-terrifying-encounter-with-a-fnaf-security-breach-now-running-smoothly-on-pc/"><u>Repaired Version: Terrifying Encounter with a FNAF Security Breach Now Running Smoothly on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-smart-analysts-guide-to-ai-driven-insights/"><u>The Smart Analyst’s Guide to AI-Driven Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-v-purse-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor V Purse Phone Pattern Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-when-steams-team-fortress-2-fails-to-load/"><u>Troubleshooting Tips When Steam's Team Fortress 2 Fails to Load</u></a></li>
-<li><a href="https://win-able.techidaily.com/utorrent-crashing-discover-7-effective-solutions/"><u>Utorrent Crashing: Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-mafia-definitive-edition-wont-be-releasing-solution-unveiled/"><u>Why Mafia: Definitive Edition Won't Be Releasing – Solution Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-breaking-down-the-fastest-green-screen-methods/"><u>[Updated] Breaking Down the Fastest Green Screen Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[Updated] From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comprehensively-understanding-iphones-recording-feature/"><u>[Updated] In 2024, Comprehensively Understanding iPhone's Recording Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-horror-game-immersion-fixing-lag-issues-in-resident-evil-village-on-pc/"><u>Enhance Your Horror Game Immersion - Fixing Lag Issues in Resident Evil Village on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-prevent-adobe-premiere-pro-crashing-incidents-on-windows-1110-platforms/"><u>Expert Solutions to Prevent Adobe Premiere Pro Crashing Incidents on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-os-version-whats-the-most-recent-upgrade/"><u>Latest Android OS Version - What's the Most Recent Upgrade?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-repairing-a-nonfunctional-zoom-webcam/"><u>Step-by-Step Guide to Repairing a Nonfunctional Zoom Webcam</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-end-of-nightmares-fixing-and-preventing-black-screens-in-cyberpunk-2077/"><u>The End of Nightmares: Fixing and Preventing Black Screens in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-optimizing-sims-4-speed-and-stability-on-windows-computers/"><u>Top Strategies for Optimizing Sims 4 Speed and Stability on Windows Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
 

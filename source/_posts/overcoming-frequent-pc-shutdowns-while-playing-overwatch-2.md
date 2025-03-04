@@ -1,7 +1,7 @@
 ---
 title: Overcoming Frequent PC Shutdowns While Playing Overwatch 2
-date: 2024-08-18T15:47:08.773Z
-updated: 2024-08-19T15:47:08.773Z
+date: 2025-03-02T09:38:32.343Z
+updated: 2025-03-04T05:20:28.834Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your video driver
 
  The Overwatch stuttering issue could be caused by**an old or corrupted video driver** on your computer. You can update your video driver to the latest version to try to solve the issue.
@@ -45,18 +42,12 @@ You can update your video driver either manually or automatically.
 1. Download and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b9f02530c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
 
  Restart your computer after updating your video driver. Then check if Overwatch runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Stop other background programs
 
  Overwatch needs internet when running. If other programs running background on your computer and eats up a lot network usage, that may cause Overwatch to stutter. So **stop any other unnecessary programs especially those are using a lot of network usage and system space** . Once you do, check if OverWatch runs smoothly.
@@ -91,9 +82,6 @@ Check to see if Overwatch runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Turn off Game DVR
 
  On Windows 10,**Game DVR** controls how you capture your game through screenshots and game clips. But with it enabled, you might also have the game stuttering problem.
@@ -102,18 +90,8 @@ Here’s how you can turn Game DVR off.
 
 1. On your keyboard, hold down the**Windows logo key** , then press**I** to bring up the**Settings** window.
 2. Click**Gaming** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select**Game bar** in the left then toggle off **Record game clips, screenshots, and broadcast using Game bar** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1be60bd72d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Select**Game DVR** in the left, then**turn off each option** in this section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bee7c51a7.jpg)
 
 Re-run your Overwatch game and check to see if it runs smoothly.
@@ -130,8 +108,6 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +115,19 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-splurging-less-with-low-cost-vr-technology-china/"><u>[New] 2024 Approved Splurging Less with Low-Cost VR Technology (China)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-action-in-pixelation-top-3-strategies-for-sports-gameplay-recordings/"><u>2024 Approved Action in Pixelation Top 3 Strategies for Sports Gameplay Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-optimization-for-seamless-play-overcoming-stuttering-challenges-on-personal-computers/"><u>Assassin’s Creed Valhalla Optimization for Seamless Play: Overcoming Stuttering Challenges on Personal Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conduct-free-local-chatgpt-simulation-via-gpt4all/"><u>Conduct Free, Local ChatGPT Simulation via GPT4All</u></a></li>
+<li><a href="https://win-info.techidaily.com/ensuring-your-safety-a-step-by-step-guide-to-verifying-the-security-of-downloads/"><u>Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-discord-screen-sharing-and-audio-glitches/"><u>Expert Tips for Fixing Discord Screen Sharing and Audio Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-the-80n070057-bug-in-cod-black-ops-cold-war/"><u>How To Correctly Address the 80N070057 Bug in COD: Black Ops Cold War</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-valorant-on-your-windows-or-mac-computer/"><u>How to Fix Persistent Crashes in Valorant on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-gamers-quest-1000plus-game-adventures-unfolded/"><u>In 2024, Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-15-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 15 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ize-monetization-the-step-by-step-for-youtube-profiles/"><u>Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-lameencdll-file-for-smooth-audacity-mp3-playback/"><u>Troubleshooting the lame_enc.dll File for Smooth Audacity MP3 Playback</u></a></li>
+</ul></div>
 

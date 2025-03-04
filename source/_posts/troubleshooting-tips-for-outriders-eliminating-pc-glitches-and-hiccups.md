@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips for Outriders: Eliminating PC Glitches and Hiccups"
-date: 2025-02-12T00:26:30.517Z
-updated: 2025-02-14T18:46:47.357Z
+date: 2025-02-28T03:35:32.547Z
+updated: 2025-03-04T12:16:33.703Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ You may run into the_Path of Exile (PoE)_ freezing issue for several reasons, su
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 1. **[End unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
@@ -48,10 +44,6 @@ Follow the instructions below:
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -130,10 +122,6 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Increase virtual memory
 
  Virtual memory combines your RAM with temporary space on your hard disk. If you’re running out of RAM and the default size of your virtual memory isn’t large enough for your needs, you’ll need to increase it manually.
@@ -141,10 +129,6 @@ If your issue continues to occur, move on and try the next fix.
 **1)** On your keyboard, press the **Windows logo** key and type **advanced system settings.** Then, click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-29-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click **Settings** .
 
@@ -154,25 +138,13 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Select your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-52.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -184,17 +156,9 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-32-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)** Restart your computer and your game.
 
 If your issue persists, then ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -226,10 +190,6 @@ If your issue persists, then ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **4)[Download](https://store.steampowered.com/about/)**  and install Steam. Then, reinstall your game on Steam.
 
 ### Fix 8: Clean the interior of your PC
@@ -259,22 +219,19 @@ Relaunch the game to see if this helped.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-voice-over-mastery-for-engaging-powerpoint-slides/"><u>[New] 2024 Approved Voice-Over Mastery for Engaging PowerPoint Slides</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-xbox-extra-storage-options-best-5-ranked-list/"><u>[New] Xbox Extra Storage Options Best 5 Ranked List</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-rich-tapestry-of-ajeys-channel-wealth/"><u>[Updated] The Rich Tapestry of Ajey's Channel Wealth</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-luts-techniques-for-movie-visuals-enhancement/"><u>2024 Approved Luts Techniques for Movie Visuals Enhancement</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-polling-puzzle-platforms-leading-politic-simulations/"><u>2024 Approved Polling Puzzle Platforms Leading Politic Simulations</u></a></li>
-<li><a href="https://win-able.techidaily.com/bioshock-n-a-seamless-gameplay-experience-with-fixes-to-previous-crashing-problems/"><u>BioShock N: A Seamless Gameplay Experience with Fixes to Previous Crashing Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-fixes-for-erratic-screen-behavior-correcting-chromes-flicker-on-your-windows-machine-guide/"><u>Definitive Fixes for Erratic Screen Behavior: Correcting Chrome's Flicker on Your Windows Machine (Guide)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-14-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi 14 Device SIM</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-escape-from-tarkov-crashes-on-personal-computers/"><u>Effective Solutions to Prevent Escape From Tarkov Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-gaming-application-from-crashing-in-windows-11-and-10/"><u>How to Stop Your Gaming Application From Crashing in Windows 11 and 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-with-no-cost-text-animation-methods/"><u>In 2024, Innovating with No-Cost Text Animation Methods</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/securely-remove-all-data-from-your-ios-devices-a-step-by-step-remote-guide/"><u>Securely Remove All Data From Your iOS Devices: A Step-by-Step Remote Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-solutions-resolving-the-windows-media-player-aac-format-error/"><u>Simple Solutions: Resolving the Windows Media Player AAC Format Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-and-solutions-for-dealing-with-unavailable-pc-support-on-rockstar-games/"><u>Tips and Solutions for Dealing with Unavailable PC Support on Rockstar Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zoom-unable-to-play-videos/"><u>Top 5 Solutions for Resolving 'Zoom Unable to Play Videos'</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-guide-how-to-stop-fifa-2021-from-crashing-on-pcs/"><u>Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/two-crash-problem-on-desktop-systems-successfully-fixed/"><u>Two-Crash Problem on Desktop Systems Successfully Fixed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-quick-pick-tricks-mastering-tiktok-photo-hacks/"><u>[New] 2024 Approved Quick-Pick Tricks Mastering TikTok Photo Hacks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-transform-your-youtube-vids-a-guide-to-softened-screens-for-2024/"><u>[New] How to Transform Your Youtube Vids A Guide to Softened Screens for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone/"><u>2024 Approved How to Transfer Videos and Photos From a PC to an iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994582044-banish-the-shadows-expert-fixes-to-minecrafts-ominous-black-screen-problem-2024-solutions-revealed/"><u>Banish the Shadows: Expert Fixes to Minecraft's Ominous Black Screen Problem - 2024 Solutions Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-listening-experience-on-windows-10-with-professional-sound-equalization-techniques/"><u>Boost Your Listening Experience on Windows 10 with Professional Sound Equalization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-display-problems-heres-how-you-can-get-your-screen-share-audio-working-again/"><u>Discord Display Problems? Here's How You Can Get Your Screen Share Audio Working Again!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p40-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P40 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993805539-mafia-ultimate-collection-release-delayed-resolution-inside/"><u>Mafia: Ultimate Collection Release Delayed - Resolution Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-dragons-dogma-2-performance-solutions-for-reducing-frame-rate-lag/"><u>Optimizing Dragon's Dogma 2 Performance: Solutions for Reducing Frame Rate Lag</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-chromium-from-creating-spontaneous-tabs-on-pc/"><u>Prevent Chromium From Creating Spontaneous Tabs on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-the-challenge-of-initiating-a-hosted-wifi-connection-on-windows-10/"><u>Resolved: Overcoming the Challenge of Initiating a Hosted WiFi Connection on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-troubles-decoded-solutions-for-non-responsive-behavior/"><u>Steam Troubles Decoded: Solutions for Non-Responsive Behavior</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lower-fps-in-dota-2-across-win10-and-win11-platforms/"><u>Troubleshooting: Lower FPS in Dota 2 Across Win10 & Win11 Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/which-angle-works-better-for-social-sharing-vertical-or-horizontal-for-2024/"><u>Which Angle Works Better for Social Sharing Vertical or Horizontal for 2024</u></a></li>
 </ul></div>
 

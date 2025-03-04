@@ -1,7 +1,7 @@
 ---
 title: "Defeating Challenges in 'Yakuza: Like a Dragon' For Personal Computers"
-date: 2024-08-18T15:49:31.427Z
-updated: 2024-08-19T15:49:31.427Z
+date: 2025-02-27T11:26:30.953Z
+updated: 2025-03-03T20:03:59.844Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
  Avoid using the Windows \[**ALT** \]+\[**TAB** \] function as it can have an impact on the framerate.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,22 +44,13 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
  Once you’ve confirmed that your device is good enough to run Deathloop, you can continue with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Use your primary graphics card
 
  If your game does not perform as well as you expect with your AMD or Nvidia graphics card, it may be running with the wrong GPU. To fix it, you can switch the game to your primary graphics card. Here’s how:
 
 1. Launch Deathloop and navigate to**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-options.jpg)
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
 Check if you still have the freezing issue in Deathloop.
@@ -77,9 +65,6 @@ If this does not resolve the problem, proceed to Fix 3\.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -90,9 +75,6 @@ If this does not resolve the problem, proceed to Fix 3\.
 
 If the game still keeps freezing, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close background programs
 
  Too many programs running in the background will take up more sources and slow down your PC. You can free up your system resources by closing all the additional programs in the background. Here’s how:
@@ -113,9 +95,6 @@ If the game still keeps freezing, take a look at the next fix.
 2. Choose**Save Data and Game/App Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
@@ -127,9 +106,6 @@ If this method doesn’t do the trick, check out the last fix.
  If you’re experiencing the issue of Deathloop keeps freezing on your PlayStation 5, you can try to power cycle your console. Here’s how:
 
 1. Press and hold the**power button** on your controller.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-power-button.jpg)
 2. Turn off the PS5 with**Turn Off PS5** and not “Enter Rest Mode”.
 3. Make sure the light goes out on the console and then**unplug its power cable** and**wait for 10 seconds** .
@@ -151,8 +127,6 @@ Check if the game freezes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +134,23 @@ Check if the game freezes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-deal-with-youtube-trolls-and-negative-comments-for-2024/"><u>[New] How To Deal with YouTube Trolls and Negative Comments for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-nikon-d850-vs-d7500-features-for-2024/"><u>[Updated] Exploring Nikon D850 Vs D7500 Features for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding/"><u>[Updated] In 2024, Proven Techniques to Enhance Subscriber Count with Effective Channel Branding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-image-jest-inc-punpictures-pro/"><u>2024 Approved Image Jest Inc PunPictures Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-c51-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C51 Fingerprint Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-to-stop-v-from-skipping-frames-and-hanging-pc-edition/"><u>Complete Guide to Stop V From Skipping Frames & Hanging - PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-hiccups-optimizing-your-play-of-outriders-on-windows-pcs/"><u>Fixing Performance Hiccups: Optimizing Your Play of Outriders on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-completely-sever-non-primary-accounts-on-windows/"><u>Guide to Completely Sever Non-Primary Accounts on WIndows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-doom-eternal-crashing-issues/"><u>How to Fix DOOM Eternal Crashing Issues?</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-strategies-to-overcome-dayzs-fps-decreases-effortlessly/"><u>Immediate Strategies to Overcome DayZ's FPS Decreases Effortlessly</u></a></li>
+<li><a href="https://win-great.techidaily.com/quick-guide-deploying-hyper-v-on-windows-server-19-with-three-user-friendly-techniques/"><u>Quick Guide: Deploying Hyper-V on Windows Server ˈ19 With Three User-Friendly Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/serious-sam-4-fixes-resolving-pc-game-crashes-and-stutters/"><u>Serious Sam 4 Fixes: Resolving PC Game Crashes and Stutters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smart-study-supplies-discover-the-9-key-technology-items-all-pupils-should-own/"><u>Smart Study Supplies: Discover the 9 Key Technology Items All Pupils Should Own</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-rainbow-six-sieges-server-connection-problems/"><u>Step-by-Step Solutions to Overcome Rainbow Six Siege's Server Connection Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-solution-for-nvidia-geforce-experience-error-code-0x00eus/"><u>The Complete Solution for NVIDIA Geforce Experience Error (Code 0X00eus)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-computer-with-new-geforce-gtx-1eback-to-back-winners-but-he-is-not-a-household-name-like-joe-montana-and-brett-favre-are-in-the-united-states/"><u>Update Your Computer with New GeForce GTX 1Eback-to-Back Winners, but He Is Not a Household Name Like Joe Montana and Brett Favre Are in the United States.</u></a></li>
+</ul></div>
 

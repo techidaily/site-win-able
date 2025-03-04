@@ -1,7 +1,7 @@
 ---
 title: Avoid Frustration - Solve Persistent Garry's Mod Crashing !
-date: 2025-02-12T04:28:52.337Z
-updated: 2025-02-15T03:19:45.712Z
+date: 2025-03-02T11:16:23.215Z
+updated: 2025-03-04T12:36:02.133Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
@@ -119,10 +115,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -141,17 +133,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch GMod.
 
@@ -174,10 +158,6 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -215,10 +195,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
@@ -226,10 +202,6 @@ Follow the instructions below to stop the automatic downloads:
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
@@ -247,23 +219,11 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **10)**  Relaunch Steam and your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -332,22 +292,18 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-15-youtube-template-download-sites/"><u>[New] 2024 Approved Top 15 YouTube Template Download Sites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphone-audio-augmentation-3-inexpensive-ways-for-clips-with-a-soundtrack/"><u>[Updated] IPhone Audio Augmentation 3 Inexpensive Ways for Clips with a Soundtrack</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/aeon-matrix-the-single-screen-superior-desk-for-2024/"><u>Aeon Matrix The Single Screen, Superior Desk for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-correcting-the-livekernelevent-error-117/"><u>Expert Tips on Correcting the 'LiveKernelEvent Error 117'</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/fundamental-principles-of-powerful-video-product-endorsements-for-2024/"><u>Fundamental Principles of Powerful Video Product Endorsements for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hd-audio-revolution-for-win11-users/"><u>HD Audio Revolution for Win11 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4-windows-11/"><u>MP4ビデオの切断方法 - Windows 11用ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4m2ts/"><u>MP4ファイルからM2TSへの変換手順を詳しく解説</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-a60-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel A60 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pubgpc/"><u>PUBGゲームの最高キャプチャ手順：PCおよびスマホ向け</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-straightforward-methods-for-converting-multimedia-into-bulk-ogg-audiovideo/"><u>Quick & Straightforward Methods for Converting Multimedia Into Bulk OGG Audio/Video</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gopro-video-transformation-quickly-convert-your-adventures-into-mp4-avi-or-other-formats-with-our-specialized-tool/"><u>Seamless GoPro Video Transformation: Quickly Convert Your Adventures Into MP4, AVI, or Other Formats with Our Specialized Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-inserting-your-brands-logo-into-videos-using-computer-tools/"><u>Simple Steps: Inserting Your Brand's Logo Into Videos Using Computer Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-windows-10-movie-and-tv-show-volume-blankness-fixing-sound-malfunctions/"><u>Solve Your Windows 10 Movie and TV Show Volume Blankness - Fixing Sound Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-capturing-spotify-tracks-for-free-on-windows-10-or-11/"><u>Step-by-Step Tutorial: Capturing Spotify Tracks for Free on Windows (10 or 11)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/algorithmic-youtube-video-selections/"><u>Stop Algorithmic YouTube Video Selections</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-updated-sony-s3700-bd-review-2023/"><u>[New] 2024 Approved Updated Sony S3700 BD REVIEW 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-video-repetition-a-guide-for-instagram-users-for-2024/"><u>[New] Mastering the Art of Video Repetition A Guide for Instagram Users for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/91757373-updated-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-have-the-sa/"><u>[Updated] Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version For 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-quick-reference-for-iphone-memo-making-for-2024/"><u>[Updated] The Ultimate Quick Reference for iPhone Memo-Making for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-clash-google-bard-and-microsofts-bing-chat-face-off/"><u>Chatbot Clash: Google Bard and Microsoft's Bing Chat Face-Off</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-techniques-for-fixing-recurring-crashing-glitches-in-wow-gaming/"><u>Effortless Techniques for Fixing Recurring Crashing Glitches in WOW Gaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rean-elites-top-food-vloggers-you-cant-miss-for-2024/"><u>Epicurean Elites Top Food Vloggers You Can't Miss for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-audacitys-audio-failure-on-windows-11-devices/"><u>Mending Audacity's Audio Failure on Windows 11 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/minimum-cpu-requirements-not-met-improve-your-setup-for-running-vanguard-seamlessly/"><u>Minimum CPU Requirements Not Met? Improve Your Setup for Running Vanguard Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/restoring-online-talking-features-for-players-of-among-us-on-desktop-computers/"><u>Restoring Online Talking Features for Players of Among Us on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/tech-support-triumph-a-step-by-step-solution-to-addressing-your-new-world-link-woes/"><u>Tech Support Triumph: A Step-by-Step Solution to Addressing Your New World Link Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-pc-version-of-god-of-war-keep-freezing-or-crashing/"><u>Why Does My PC Version of God of War Keep Freezing or Crashing?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-at-pokemon-unite-tips-and-tricks-for-pc-gamers/"><u>Winning at Pokémon Unite: Tips and Tricks for PC Gamers</u></a></li>
 </ul></div>
 

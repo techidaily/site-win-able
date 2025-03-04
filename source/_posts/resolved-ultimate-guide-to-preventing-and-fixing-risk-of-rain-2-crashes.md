@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Ultimate Guide to Preventing and Fixing Risk of Rain 2 Crashes"
-date: 2024-11-25T18:05:13.157Z
-updated: 2024-11-26T16:17:19.552Z
+date: 2025-03-03T13:00:52.594Z
+updated: 2025-03-03T16:38:49.531Z
 tags:
   - win11
   - win10
@@ -60,10 +60,6 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -77,10 +73,6 @@ The Ascent
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -99,10 +91,6 @@ The Ascent
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -125,10 +113,6 @@ The Ascent
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
@@ -144,10 +128,6 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. To disble Moive / Film Grain, add the following and save the file:  
 
@@ -168,10 +148,6 @@ If the game still crashes, try the next fix, below.
 6. Launch the game again after you save the Engine.ini file.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update MS Visual C++ Redistributables
 
@@ -195,10 +171,6 @@ If the game still crashes, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  The Ascent may also crash if there is a certain program conflicting with the game. To find out the problematic program that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -208,10 +180,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
@@ -257,24 +225,15 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-farming-secrets-stardew-on-ginger-isles/"><u>[New] In 2024, Farming Secrets Stardew on Ginger Isles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-easter-eggs-unlocking-the-secretive-tricks-and-tips/"><u>[Updated] Instagram Easter Eggs Unlocking the Secretive Tricks and Tips</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-mastering-photo-retrieval-expert-tips-on-restoring-images-from-a-minolta-camera/"><u>1. Mastering Photo Retrieval: Expert Tips on Restoring Images From a Minolta Camera</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertitori-online-gratuito-per-filetti-mpeg-a-mp3-ottienilo-facilmente-con-movavi/"><u>Convertitori Online Gratuito per Filetti MPEG a MP3 - Ottienilo Facilmente Con Movavi.</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-understanding-and-fixing-the-games-crashing-glitches/"><u>Diablo II Resurrected - Understanding and Fixing the Game's Crashing Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-techniques-for-fixing-recurring-crashing-glitches-in-wow-gaming/"><u>Effortless Techniques for Fixing Recurring Crashing Glitches in WOW Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/hassle-free-guide-to-solve-constant-outriders-malfunctions/"><u>Hassle-Free Guide to Solve Constant Outriders Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-frequent-freezes-in-firefox-updated-tips/"><u>How to Fix Frequent Freezes in Firefox - Updated Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-desktop-and-mobile-incorporate-timestamps-on-youtube-for-2024/"><u>Mastering Desktop & Mobile Incorporate Timestamps on YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/minimum-cpu-requirements-not-met-improve-your-setup-for-running-vanguard-seamlessly/"><u>Minimum CPU Requirements Not Met? Improve Your Setup for Running Vanguard Seamlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-online-talking-features-for-players-of-among-us-on-desktop-computers/"><u>Restoring Online Talking Features for Players of Among Us on Desktop Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/saving-iphone-vision-the-three-essential-steps-apple-needs-to-take/"><u>Saving iPhone Vision: The Three Essential Steps Apple Needs to Take</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screenmasterelite-11-an-experts-recording-guide-for-2024/"><u>ScreenMasterElite 11 An Expert's Recording Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-failed-display-sharing-on-windows-devices/"><u>Solutions for Failed Display Sharing on Windows Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-vr-malfunctions-heres-how-you-can-solve-them-swiftly/"><u>Steam VR Malfunctions? Here's How You Can Solve Them Swiftly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/tech-support-triumph-a-step-by-step-solution-to-addressing-your-new-world-link-woes/"><u>Tech Support Triumph: A Step-by-Step Solution to Addressing Your New World Link Woes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2065485-9781785350818-the-shamanic-handbook-of-sacred-tools-and-ceremonies/"><u>The Shamanic Handbook of Sacred Tools and Ceremonies | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-my-pc-version-of-god-of-war-keep-freezing-or-crashing/"><u>Why Does My PC Version of God of War Keep Freezing or Crashing?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-seamless-integration-with-atheros-adapter/"><u>Windows 10 Seamless Integration with Atheros Adapter</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-photo-text-editor-to-add-text-on-picture-for-2024/"><u>[Updated] Best Photo Text Editor to Add Text on Picture for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-getting-more-out-of-youtube-top-8-mobile-downloader-tips-for-2024/"><u>[Updated] Getting More Out of YouTube Top 8 Mobile Downloader Tips for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-nox-player-pc-crashes/"><u>How to Fix Persistent Nox Player PC Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-system-resources-lowering-impact-from-multimedia-use/"><u>Optimize System Resources: Lowering Impact From Multimedia Use</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-retrieving-data-post-iphone-restoration/"><u>Step-by-Step Guide: Retrieving Data Post-iPhone Restoration</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-development-issue-6068-in-call-of-duty-mobile/"><u>Troubleshooting Guide: Resolving Development Issue 6068 in Call of Duty Mobile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-updating-broadcoms-gigabit-ethernet-driver-on-your-windows-11-pc/"><u>Troubleshooting Guide: Updating Broadcom's Gigabit Ethernet Driver on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-youtube-videos-that-keep-playing-sound-with-no-visuals-chrome-and-firefox/"><u>Troubleshooting YouTube Videos that Keep Playing Sound with No Visuals (Chrome & Firefox)</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-fallout-3-not-starting-gamers-tips/"><u>Ultimate Troubleshooting Steps for Fallout ^3 Not Starting | Gamer's Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-mpeg-transport-stream-ts-definition-and-compatible-media-players/"><u>Understanding MPEG Transport Stream (TS): Definition & Compatible Media Players</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Blackout No More: Fixing Your Epic Games Launcher's Visual Glitches"
-date: 2025-01-28T21:43:23.728Z
-updated: 2025-01-31T22:26:52.325Z
+date: 2025-03-02T13:05:50.152Z
+updated: 2025-03-03T22:57:41.362Z
 tags:
   - win11
   - win10
@@ -87,10 +87,6 @@ Here’s how you can do this:
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your graphics driver** (recommended)
 
  Manually updating drivers can be a challenge. You’ll need to identify your system specs, find the drivers, and then download and install them. If that sounds a lot, consider doing it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -102,10 +98,6 @@ Here’s how you can do this:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -125,10 +117,6 @@ Here’s how you can do this:
  1) Right-click on the launcher shortcut from your desktop and select**Properties** .
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
 
@@ -158,27 +146,15 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
 
  If the problem persists, then select**No, try again using different settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
 
@@ -187,10 +163,6 @@ Here’s how you can do this:
  8) Check the box **Error message saying the problem needs to run in 256 colors or 8-bit color mode** . Then click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Check**Yes, try again using different settings,** and click**Next** .
 
@@ -208,10 +180,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
@@ -228,19 +196,11 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go through the list and check if**Epic Games Launcher** is added to it.
 
  If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
@@ -358,15 +318,21 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-captivating-content-top-three-channel-growth-strategies/"><u>[New] 2024 Approved Captivating Content Top Three Channel Growth Strategies</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleashing-your-creativity-advanced-techniques-for-boomers/"><u>[New] Unleashing Your Creativity Advanced Techniques for Boomers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-isolating-subject-with-affinity/"><u>2024 Approved Isolating Subject with Affinity</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-fixes-for-darkest-dungeon-2-crashes-on-pc-get-back-to-the-game-without-interruption/"><u>Common Fixes for Darkest Dungeon 2 Crashes on PC - Get Back to the Game Without Interruption</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/origin-service-down-heres-the-ultimate-guide-to-getting-your-account-up-and-running/"><u>Origin Service Down? Here’s the Ultimate Guide to Getting Your Account Up and Running</u></a></li>
-<li><a href="https://win-able.techidaily.com/swtor-not-starting-discover-proven-methods-to-resolve-launch-errors/"><u>SWTOR Not Starting? Discover Proven Methods to Resolve Launch Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-winwordexe-issues-with-these-5-handy-fixes/"><u>Troubleshoot WINWORD.EXE Issues with These 5 Handy Fixes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-elite-callers-on-windows-top-8-sorted/"><u>[New] 2024 Approved Elite Callers on Windows Top 8 Sorted</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-jumpstart-high-res-webcam-filming-for-amazing-results-for-2024/"><u>[New] Jumpstart High-Res WebCam Filming for Amazing Results for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hos-gaining-thunder-in-the-video-cosmos-for-2024/"><u>[New] Who's Gaining Thunder in the Video Cosmos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-12-proplus-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-on-the-steep-36-savings-for-an-8tb-samsung-t5-ssd-available-now-at-amazon-after-prime/"><u>Don't Miss Out on the Steep 36% Savings for an 8TB Samsung T5 SSD Available Now at Amazon After Prime</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-dell-inspiron-15-drivers-on-windows-10/"><u>Download & Install Official Dell Inspiron 15 Drivers on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-performance-problems-in-dying-light-how-to-solve-the-games-lags/"><u>Fixing Persistent Performance Problems in 'Dying Light': How to Solve the Game's Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-ryu-ga-gotoku-series-how-yakuza-like-a-dragon-performs-on-pc/"><u>Master the Ryu Ga Gotoku Series: How 'Yakuza: Like a Dragon' Performs on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-tips-preventing-and-repairing-warzone-20s-steady-stream-of-pc-breakdowns/"><u>Master Tips: Preventing and Repairing Warzone 2.0'S Steady Stream of PC Breakdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multi-personal-adventures-in-elden-ring-overcoming-connection-problems/"><u>Mastering Multi-Personal Adventures in Elden Ring: Overcoming Connection Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-tutorial-for-efficient-mp4-editing-on-windows-11-without-encoding-redo/"><u>Quick Tutorial for Efficient MP4 Editing on Windows 11 Without Encoding Redo</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-endless-cycle-stop-fuser-from-hitting-pc-blackouts-now/"><u>Resolving the Endless Cycle: Stop Fuser From Hitting PC Blackouts Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-problems-when-starting-farmers-simulator-22-a-comprehvew-guide/"><u>Solving Problems When Starting Farmer's Simulator 22 – A Comprehvew Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-apowermanagers-inability-to-access-notes-on-iphones-and-ipads/"><u>Troubleshooting ApowerManager's Inability to Access Notes on iPhones and iPads</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-getting-past-robloxs-stuck-loading-page/"><u>Troubleshooting Tips for Getting Past Roblox's Stuck Loading Page</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
 

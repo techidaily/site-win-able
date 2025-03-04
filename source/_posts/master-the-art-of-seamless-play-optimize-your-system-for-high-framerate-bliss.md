@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Seamless Play: Optimize Your System for High-Framerate Bliss"
-date: 2024-12-30T19:49:58.511Z
-updated: 2025-01-05T18:57:07.972Z
+date: 2025-02-28T10:39:35.601Z
+updated: 2025-03-03T22:48:05.319Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 5. **[Turn on VSync](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Empty Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install all Windows updates
 
  While the ubiquitous Windows update prompts might be annoying to some, keeping the system up to date is actually saving your time by avoiding tons of compatibility issues. So when you’re troubleshooting game issues, it’s always recommended to**check for system updates** first.
@@ -54,10 +50,6 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -81,17 +73,9 @@ If this fix doesn’t help you, take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you test the gameplay in Valorant and check for improvements.
 
@@ -140,19 +124,11 @@ If the latest driver doesn’t help you, check out the next method.
 
  If this fix doesn’t give you luck, simply continue to the next one below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Turn on VSync
 
  Some gamers reported that they managed to solve the stuttering by turning Vertical Sync on, so it might be a potential fix you can try. Meanwhile, if VSync doesn’t improve your game, try lowering your in-game graphics and see what happens.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Empty Standby Memory
 
@@ -164,20 +140,12 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. You can empty the standby memory manually.  
 
  First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
 4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
@@ -203,16 +171,8 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
@@ -248,16 +208,20 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-perfecting-your-tiktok-content-utilizing-templates-to-enhance-videos/"><u>[New] In 2024, Perfecting Your TikTok Content Utilizing Templates to Enhance Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-your-essential-list-of-free-high-quality-online-meeting-software-for-2024/"><u>[New] Your Essential List of Free, High-Quality Online Meeting Software for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-pc-breakdowns-during-gas-station-simulator-sessions/"><u>How to Fix Recurring PC Breakdowns During Gas Station Simulator Sessions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-podcast-pickings-gpodcasts-selection/"><u>In 2024, Prime Podcast Pickings - GPodCasts Selection</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722992743536-lost-in-battle-for-azeroth-or-stuck-on-overwatch-rebooting-your-way-back-into-the-game-servers/"><u>Lost in Battle for Azeroth or Stuck on Overwatch? Rebooting Your Way Back Into the Game Servers!</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubles-discover-how-to-overcome-crashes-in-detroit-become-human/"><u>PC Troubles? Discover How to Overcome Crashes in Detroit: Become Human!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-your-pcs-cygwin1dll-error-with-these-easy-fixes/"><u>Resolve Your PC's Cygwin1.dll Error with These Easy Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/todays-vr-hardware-review-for-2024/"><u>Today's VR Hardware Review for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-and-ipad-discounts-explore-savings-on-latest-tech/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch & iPad Discounts - Explore Savings on Latest Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-xcom-2-freezing-issues-on-windows-pcs/"><u>Troubleshooting and Solving XCOM 2 Freezing Issues on Windows PCs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/spect-ratios-unveiled-your-guide-to-stellar-yt-images-for-2024/"><u>[New] Aspect Ratios Unveiled Your Guide to Stellar YT Images for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-humor-hatchery-picture-mixer/"><u>[New] Humor Hatchery Picture Mixer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nnovate-thumbnails-discover-these-top-8-free-design-aids/"><u>[New] Innovate Thumbnails Discover These Top 8 Free Design Aids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-walkthrough-for-console-gaming-pc-recordings-for-2024/"><u>[New] The Complete Walkthrough for Console Gaming PC Recordings for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-transforming-viewing-habits-with-fb-live-on-roku/"><u>[Updated] In 2024, Transforming Viewing Habits with FB Live on Roku</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs-2-failure-to-launch-a-comprehensive-guide-to-resolve/"><u>CS 2 Failure to Launch? A Comprehensive Guide to Resolve</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-your-paradox-launcher-is-malfunctioning/"><u>Effective Solutions When Your Paradox Launcher Is Malfunctioning</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-lowering-cpu-load-during-zoom-sessions/"><u>Mastering the Art of Lowering CPU Load During Zoom Sessions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-free-music-makers-toolkit-12-essential-recording-software/"><u>New In 2024, The Free Music Makers Toolkit 12 Essential Recording Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-game-security-breach-alert-issue/"><u>Resolved: How to Fix the 'Game Security Breach Alert' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-errors-for-fallout-3-gameplay-in-windows-11/"><u>Resolving Performance Errors for Fallout 3 Gameplay in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/reviews-and-insights-on-the-superior-linksys-wrt3200acm-a-trailblazer-in-open-source-routers/"><u>Reviews & Insights on the Superior Linksys WRT3200ACM – A Trailblazer in Open-Source Routers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-when-stardew-valley-wont-load-up/"><u>Troubleshooting Guide: When Stardew Valley Won't Load Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-sea-of-thieves-resolving-crashes-effectively/"><u>Troubleshooting Sea of Thieves: Resolving Crashes Effectively</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
 </ul></div>
 

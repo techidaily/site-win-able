@@ -1,7 +1,7 @@
 ---
 title: Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC
-date: 2025-02-09T20:14:58.350Z
-updated: 2025-02-14T22:43:38.416Z
+date: 2025-03-01T12:19:30.032Z
+updated: 2025-03-03T18:00:22.968Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Allow your game through controlled folder access
 
  Sometimes Windows Security may block your game from running. So you should manually add your game to the list of allowed apps to prevent it from being blocked.
@@ -57,10 +53,6 @@ To do so, you can:
  2) Select **Virus & threat protection**  from the left pane. Scroll down and under the **Ransomware protection**  section, click **Manage ransomware protection** .
 
 ![allow  an app through controlled folder access fix Yakuza: Like a Dragon crashing on PC ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Switch the **Controlled folder access**  setting to **On** .  
  Then click **Allow an app through Controlled folder access** .
@@ -105,10 +97,6 @@ After you’ve done these, launch your game to check if it works.
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your graphics card driver (recommended)
 
  Updating drivers manually can be time-consuming and risky. So if you don’t feel like doing it on your own, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically detects, downloads, and installs the correct or missing drivers for your system. And you can also roll back to your previous driver version if you’re not satisfied with the updated one.
@@ -131,10 +119,6 @@ Here’s how it works:
  After you’ve updated your drivers, restart your computer for them to take effect. Then launch your game to check if the problem persists.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable fullscreen optimizations
 
@@ -228,10 +212,6 @@ This will open your game’s installation folder.
 
 ![disable overlay Geforce Experience Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-overlay-GEFORCE-Experinece-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After you’ve applied the changes, remember to quit the app.
 
 ### Disable Discord Overlay
@@ -276,19 +256,11 @@ Now you should be able to continue to play your game without crashes.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Run your game on a dedicated graphics card
 
  The integrated graphics chipset is built into the processor and makes sure that your computer can use a display even without a dedicated GPU. However, more demanding tasks such as gaming require a stronger GPU, which in most cases is the dedicated one.
 
  The biggest benefit of a dedicated GPU is performance. Not only does a dedicated graphics card have sophisticated RAM for the task of processing video, but also has dedicated RAM for the task, which is typically faster and better optimized for the task than your general system RAM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Find out if your computer has more than one GPU
 
@@ -303,10 +275,6 @@ Now you should be able to continue to play your game without crashes.
  3) Double-click**Display adapters** to expand the list. And you can see if your computer has more than one GPU.
 
 ![find out how many GPU your computer has](https://images.drivereasy.com/wp-content/uploads/2020/11/double-click-Display-adapters-to-expand-the-list.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Run the game on a dedicated graphics card
 
@@ -373,17 +341,9 @@ Now you should be able to continue to play your game without crashes.
 
 ![perform a clean boot Yakuza: Like a Dragon crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-3-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After restarting your computer, launch your game to see if it fixes the issue.
 
@@ -408,24 +368,21 @@ Now you should be able to continue to play your game without crashes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[Updated] Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
-<li><a href="https://win-able.techidaily.com/44cm44k544og44o844k644gr44k144og44oq44ot44oh44kq5pku5b2x77ya5bcc6zaa55qe44gq5pa55rov44ks44kk44oj44cn/"><u>「スムーズにサムバビデオ撮影：専門的な方法ガイド」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-metaverse-versus-omniverse-landscapes/"><u>2024 Approved Exploring Metaverse Versus Omniverse Landscapes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029962679-2024-windows-10/"><u>2024のベスト動画プレイヤー推薦 - Windows 10互換で無料</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/4-mtsm2ts/"><u>上位4つの推奨編集プログラム: MTS/M2TSに最適な無料ソフト</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/duplique-seus-dvds-sem-custos-com-os-top-10-aplicativos-mais-eficientes/"><u>Duplique Seus DVDs Sem Custos Com Os Top 10 Aplicativos Mais Eficientes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027357708-dvd/"><u>DVD視聴技術：如何使用投影仪以及解决再生问题</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722902286715-get-the-most-out-of-your-amd-radeon-install-latest-v2eb10-drivers-today/"><u>Get the Most Out of Your AMD Radeon: Install Latest V2eb.10 Drivers Today</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-honor-100-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Honor 100 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-14-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 14 Safe and Legal</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030328034-mtsmp4/"><u>MTSファイルがMP4に簡単に変換できる最新ガイド - 迅速なバッチアップリケーション付き</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726026661245-pinterest/"><u>Pinterestビジュアルコンテンツのダウンロード・セキュリティ対策について</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-instagram-filter-guide-keeping-up-with-2023-trends/"><u>Step-by-Step Instagram Filter Guide - Keeping Up with 2023 Trends</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-infinix-zero-5g-2023-turbo-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Zero 5G 2023 Turbo Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/webex/"><u>Webexビデオ会議録画のカット・マージュ操作ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/wowow/"><u>WOWOWフリートランスミッション録画・保存ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029964594-dvd/"><u>ハックでDVDにビデオをエミュレート！最適な無料・有料ツール比較ガイド</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-visual-snippet-retriever/"><u>[New] 2024 Approved Visual Snippet Retriever</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-method-to-record-your-youtube-watching-experience-for-2024/"><u>[New] Free Method to Record Your YouTube Watching Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-crown-award-winning-computers/"><u>[New] Innovation's Crown Award-Winning Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-world-of-warcraft-wont-launch-on-pc/"><u>[SOLVED] World of Warcraft Won't Launch on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-restore-functionality-of-your-clownfish-voice-changer/"><u>Effective Fixes to Restore Functionality of Your Clownfish Voice Changer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-steam-friends-network-is-down-error-step-by-step-solutions/"><u>Fixing the 'Steam Friends Network Is Down' Error: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-unstuck-from-the-cold-war-loading-screen-glitch-in-your-favorite-console-or-pc-game/"><u>Get Unstuck From the Cold War Loading Screen Glitch in Your Favorite Console or PC Game</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-top-10-dynamic-image-backdrops-viewer/"><u>In 2024, Top 10 Dynamic Image Backdrops Viewer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-into-cinematic-precision-with-windows-high-dynamic-range-support/"><u>Journey Into Cinematic Precision with Windows High-Dynamic Range Support</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-hp-screen-performance-correcting-driver-issues-in-modern-windows-os-versions/"><u>Optimizing HP Screen Performance: Correcting Driver Issues in Modern Windows OS Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-crashes-in-call-of-duty-modern-warfare-how-to-fix/"><u>Persistent Crashes in Call of Duty: Modern Warfare – How to Fix?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-unresponsive-behavior-in-rust-programs-a-comprehensive-2n4-fix-it-manual/"><u>Resolving Unresponsive Behavior in Rust Programs - A Comprehensive 2N4 Fix-It Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-personalized-window-pin-creation/"><u>The Ultimate Guide to Personalized Window PIN Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstick-your-dota-2-effective-fixes-for-continuous-loading-screens/"><u>Unstick Your Dota 2: Effective Fixes for Continuous Loading Screens</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2025-02-11T02:26:43.831Z
-updated: 2025-02-14T16:28:29.744Z
+date: 2025-02-28T07:07:11.568Z
+updated: 2025-03-04T13:39:23.476Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,10 +57,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -91,10 +83,6 @@ You can do it with only 2 steps:
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -127,10 +115,6 @@ And it’s quite easy to update too:
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -147,17 +131,9 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -180,17 +156,16 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-color-grading-utilizing-luts-from-cg-central/"><u>[New] 2024 Approved Mastering Color Grading Utilizing LUTs From CG Central</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/xpert-roundup-of-platforms-for-video-intro-acquisition/"><u>[New] Expert Roundup of Platforms for Video Intro Acquisition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-world-of-youtube-where-are-my-comments/"><u>[Updated] 2024 Approved Exploring the World of YouTube Where Are My Comments?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-8-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 8 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-techkeys-ultimate-bluetooth-adapter-drivers-compatible-with-windows-1078/"><u>Download Techkey's Ultimate Bluetooth Adapter Drivers Compatible with Windows 10/7/8</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-4-launch-issues-resolved-top-tips-and-tweaks-for-an-uninterrupted-gaming-session/"><u>Forza Horizon 4 Launch Issues Resolved? Top Tips and Tweaks for an Uninterrupted Gaming Session</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guidelwartipstogetqualityvideosoninstagram/"><u>Guidelwartipstogetqualityvideosoninstagram.</u></a></li>
-<li><a href="https://win-able.techidaily.com/guilty-gear-strives-latency-dilemma-addressed-and-fixed/"><u>Guilty Gear Strive's Latency Dilemma Addressed & Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-crashing-in-windows-(title)10-issue-resolved/"><u>How to Stop Microsoft Edge From Crashing in Windows <Title>10 [Issue Resolved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/multiversus-wont-open-expert-tips-for-getting-the-game-up-and-running-again/"><u>MultiVersus Won't Open? Expert Tips for Getting the Game Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimized-say-goodbye-to-abrupt-disconnections-in-the-hyper-scape-universe-on-pc-platforms/"><u>Optimized: Say Goodbye to Abrupt Disconnections in the Hyper Scape Universe on PC Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pushing-audio-boundaries-introducing-the-tascam-cd-200bt-and-bluetooth-connectivity/"><u>Pushing Audio Boundaries: Introducing the Tascam CD-200BT and Bluetooth Connectivity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailored-instagram-filters-a-step-by-step-process/"><u>[New] Tailored Instagram Filters A Step-by-Step Process</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capture-every-day-in-the-life-of-your-sims-with-pro-tips-for-gameplay-recordings/"><u>2024 Approved Capture Every Day in the Life of Your Sims with Pro Tips for Gameplay Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frame-rate-essential-tricks-for-resolving-low-fps-in-war-thunder/"><u>Boost Your Frame Rate: Essential Tricks for Resolving Low FPS in War Thunder</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-dirt-5-from-persistent-crashing-during-gameplay-on-pcs/"><u>How To Stop Dirt 5 From Persistent Crashing During Gameplay On PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-beginners/"><u>In 2024, The Ultimate List of Video Editing Software for Beginners</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-optimization-techniques-to-prevent-ac6-fires-of-rubicon-from-freezing-or-crashing/"><u>PC Optimization Techniques to Prevent AC6: Fires of Rubicon From Freezing or Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-beware-tips-for-fixing-launch-failures-with-modern-warfare-game-of-202ebefore/"><u>PC Players Beware: Tips for Fixing Launch Failures with Modern Warfare Game of 202Ebefore</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-partnership-a-guide-to-linking-insta-with-tiktok-for-2024/"><u>Perfect Partnership A Guide to Linking Insta with TikTok for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-resolving-issues-with-non-responsive-computer-systems/"><u>Step-by-Step Instructions: Resolving Issues with Non-Responsive Computer Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-gameplay-interruptions-in-a-total-war-saga-of-troy-on-desktops/"><u>Troubleshooting Guide: Resolving Gameplay Interruptions in A Total War - Saga of Troy on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987460460-troubleshooting-success-your-online-sign-in-issue-is-now-resolved/"><u>Troubleshooting Success: Your Online Sign-In Issue Is Now Resolved!</u></a></li>
 </ul></div>
 

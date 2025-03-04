@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified
-date: 2025-02-08T04:47:09.841Z
-updated: 2025-02-15T01:21:57.899Z
+date: 2025-02-26T23:39:58.629Z
+updated: 2025-03-04T05:59:24.590Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 3. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair game files
 
@@ -59,10 +51,6 @@ Here’s a quick guide for that:
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -95,15 +83,7 @@ And it’s fairly easy to update:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -125,10 +105,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
@@ -169,21 +145,16 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-incorporating-background-scenes-for-visual-depth/"><u>[New] Incorporating Background Scenes for Visual Depth</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-videographers-playbook-for-sims-games-for-2024/"><u>[New] The Videographer's Playbook for Sims Games for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>2024 Approved Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-hp-z440-desktop-workstation-latest-version/"><u>Download and Update Drivers for HP Z440 Desktop Workstation - Latest Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-preventing-hell-let-loose-game-crashes-on-your-desktop-computer/"><u>Expert Tips for Preventing Hell Let Loose Game Crashes on Your Desktop Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005379254-forza-horizon-4-wont-boot-here-are-the-best-solutions-to-get-you-racing-by-2024/"><u>Forza Horizon 4 Won't Boot? Here Are the Best Solutions to Get You Racing by 2024!</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/how-to-troubleshoot-graphics-card-problems-causing-gaming-crashes-on-your-computer-tips-and-expertise-by-yl-software/"><u>How to Troubleshoot Graphics Card Problems Causing Gaming Crashes on Your Computer – Tips & Expertise by YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/lower-new-world-game-cpu-usage-for-smoother-gaming-experience/"><u>Lower New World Game CPU Usage for Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-stability-issues-discover-how-to-keep-your-game-running-smoothly-on-pc/"><u>Microsoft Flight Simulator 2020 Stability Issues? Discover How To Keep Your Game Running Smoothly On PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-phone-launch-event-meet-your-next-smart-companion/"><u>Samsung Phone Launch Event: Meet Your Next Smart Companion</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-stuttering-and-enhance-your-gameplay-on-age-of-empires-(span)iv-with-these-essential-tricks(span)/"><u>Stop Stuttering and Enhance Your Gameplay on Age of Empires <Span>IV with These Essential Tricks</Span></u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-frostpunks-crash-problem-effective-solutions-for-continuous-play/"><u>Tackling Frostpunk's Crash Problem: Effective Solutions for Continuous Play.</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-high-wmi-cpu-load-in-win1011/"><u>Tackling High WMI CPU Load in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-call-of-duty-modern-warfare-3-fixing-the-persistent-memory-error-12707/"><u>Troubleshoot Your Call of Duty: Modern Warfare 3 - Fixing the Persistent Memory Error 12707</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-art-of-panning-and-zooming-a-ken-burns-effect-tutorial-for-2024/"><u>Updated The Art of Panning and Zooming A Ken Burns Effect Tutorial for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>[New] 2024 Approved Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>2024 Approved Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-basic-how-hdr-transforms-video-editing-processes-for-2024/"><u>Beyond Basic How HDR Transforms Video Editing Processes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-ps4-freezing-problems-step-by-step-solutions-inside/"><u>How to Overcome PS4 Freezing Problems? Step-by-Step Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-smooth-gameplay-fix-high-ping-and-lag-for-a-winning-csgo-match/"><u>Master Smooth Gameplay: Fix High Ping & Lag for a Winning CS:GO Match</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-generative-ai-7-critical-errors-you-shouldnt-make/"><u>Mastering Generative AI: 7 Critical Errors You Shouldn't Make</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-steam-troubleshooting-avoiding-fatal-connection-errors-with-client-processes/"><u>Mastering Steam Troubleshooting – Avoiding Fatal Connection Errors with Client Processes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-basic-route-for-voice-switching-in-your-windows-flipper-edition-for-2024/"><u>The Basic Route for Voice Switching in Your Windows Flipper Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-origin-application-not-starting-on-windows-11-issue-resolved/"><u>Troubleshooting Guide: Origin Application Not Starting on Windows 11 - Issue Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-secrets-mastering-fps-drop-rates-in-mass-effect-legendary-edition/"><u>Unveiling the Secrets: Mastering FPS Drop Rates in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-against-windows-woes-proven-methods-for-speeding-up-a-snails-pace-windows-11-setup/"><u>Winning Against Windows Woes: Proven Methods for Speeding Up a Snail's Pace Windows 11 Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2025-02-07T20:51:55.517Z
-updated: 2025-02-14T19:07:34.030Z
+date: 2025-03-01T09:14:44.265Z
+updated: 2025-03-04T00:20:25.514Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -34,10 +30,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -95,10 +87,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
@@ -108,15 +96,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -155,18 +135,21 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-craft-proficient-content-for-short-form-video-best-edits-reviewed/"><u>[New] In 2024, Craft Proficient Content for Short-Form Video Best Edits Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-social-media-insights-in-market-research/"><u>2024 Approved Leveraging Social Media Insights in Market Research</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-guide-to-converting-adts-audiotracks-to-high-quality-mp3s/"><u>Effortless Guide to Converting ADTS Audiotracks to High-Quality MP3s</u></a></li>
-<li><a href="https://win-able.techidaily.com/enable-seamless-multitasking-with-youtube-pip-comprehensive-instructions-for-chrome-and-firefox-users/"><u>Enable Seamless Multitasking with YouTube PiP: Comprehensive Instructions for Chrome and Firefox Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-fixes-for-sony-vegas-mp4-troubles-overcoming-challenges-with-no-sound-no-picture-and-more/"><u>Essential Fixes for Sony Vegas MP4 Troubles: Overcoming Challenges with No Sound, No Picture, and More</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-choosing-and-utilizing-leading-dvd-encryption-crackers-effectively/"><u>Expert Guide: Choosing and Utilizing Leading DVD Encryption Crackers Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-and-easy-guide-to-changing-your-videos-audio-format/"><u>Fast and Easy Guide to Changing Your Video's Audio Format</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-k70-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi K70 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/installing-loonatons-unleashed-with-trusted-aio-streams-on-your-kodi-device-complete-tutorial/"><u>Installing Loonatons Unleashed with Trusted AIO Streams on Your Kodi Device - Complete Tutorial</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-access-secure-canon-mf4800-drivers-start-printing-today/"><u>Instant Access: Secure Canon MF4800 Drivers – Start Printing Today!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/introductory-handbook-on-video-quality-and-size-for-2024/"><u>Introductory Handbook on Video Quality and Size for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer-for-2024/"><u>The Alchemy of Aesthetics Top 1 Written by an Experienced Graphic Designer for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-far-cry-6s-pc-gameplay-interruptions/"><u>Troubleshooting Steps for Fixing Far Cry 6'S PC Gameplay Interruptions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-exclusive-couples-spaces-on-discord-platform/"><u>[New] 2024 Approved Exclusive Couple's Spaces on Discord Platform</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/amified-design-making-your-youtube-banner-unforgettable/"><u>[New] Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-screen-savers-guide-to-recording-tech/"><u>2024 Approved The Screen Saver's Guide to Recording Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-black-screen-error-in-call-of-duty-wwii-windows-easy-troubleshooting-steps-inside/"><u>Beat the Black Screen Error in Call of Duty WWII (Windows) – Easy Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-infamous-roblox-code-277-glitch-for-pc-users-updated-guide/"><u>Bypassing the Infamous Roblox Code 277 Glitch for PC Users (Updated Guide)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-connection-fixing-pc-downtime-in-rockstar-titles/"><u>How to Restore Connection: Fixing PC Downtime in Rockstar Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/resetting-your-stream-reverse-your-video-order-now-for-2024/"><u>Resetting Your Stream Reverse Your Video Order Now for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolution-alert-online-profile-login-fully-functional-again/"><u>Resolution Alert: Online Profile Login Fully Functional Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-prevent-persistent-freezing-and-crashing-of-cod-modern-warfare/"><u>Solved: How to Prevent Persistent Freezing and Crashing of Cod: Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-stardew-valley-pc-crash-issues-a-comprehensive-guide/"><u>Solving Stardew Valley PC Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-essential-steps-for-forming-a-facebook-profile/"><u>The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://win-able.techidaily.com/unloading-successfully-effective-methods-to-clear-persistent-load-errors-on-discord-live-streams/"><u>Unloading Successfully: Effective Methods to Clear Persistent Load Errors on Discord Live Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-tailored-marketing-solutions-through-advanced-cookieless-tracking-tools-like-cookiebot/"><u>Unlocking Tailored Marketing Solutions Through Advanced Cookieless Tracking Tools Like Cookiebot</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210118723-vcruntime140dll-missing-program-cant-start-on-windows-10-solved/"><u>VCRUNTIME140.dll Missing, Program Can't Start on Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-style-guide-the-top-10-sites-for-stylish-laptop-graphics/"><u>Visual Style Guide The Top 10 Sites for Stylish Laptop Graphics</u></a></li>
 </ul></div>
 

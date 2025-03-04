@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2025-02-13T21:00:35.474Z
-updated: 2025-02-14T17:31:40.014Z
+date: 2025-02-28T00:24:09.934Z
+updated: 2025-03-04T00:47:06.274Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -91,10 +83,6 @@ You can use the following steps to check for Minecraft updates.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -102,10 +90,6 @@ You can use the following steps to check for Minecraft updates.
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
 
@@ -136,10 +120,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
@@ -149,15 +129,7 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -182,15 +154,17 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-content-top-8-no-cost-video-editing-software/"><u>[New] Elevate Your Content Top 8 No-Cost Video Editing Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-selecting-the-top-6-mac-video-capture-software-for-2024/"><u>[Updated] Selecting the Top 6 Mac Video Capture Software for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-straightforward-guide-for-instagram-chat-beginners-for-2024/"><u>[Updated] The Straightforward Guide for Instagram Chat Beginners for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/curating-the-best-mac-snipping-software-compilation-for-2024/"><u>Curating the Best Mac Snipping Software Compilation for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi Note 12 Pro+ 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mts/"><u>MTSファイル再生ガイド - 成功保証!</u></a></li>
-<li><a href="https://win-able.techidaily.com/perfectly-preserving-godzilla-movie-dvd-from-2014-zero-compression-damage/"><u>Perfectly Preserving Godzilla Movie DVD From 2014 - Zero Compression Damage!</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-adding-captions-to-your-kodi-media-player-with-ease/"><u>Simple Steps: Adding Captions to Your Kodi Media Player with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-transforming-f4v-videos-into-mp4-format/"><u>Step-by-Step Guide: Transforming F4V Videos Into MP4 Format</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-disco-streaming-guide-3-essential-recording-methods/"><u>The Ultimate Disco Streaming Guide 3 Essential Recording Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-conversion-tips-avi-to-gif-using-filmora-for-windowsmac-users/"><u>[New] 2024 Approved Cutting-Edge Conversion Tips AVI to GIF Using Filmora for Windows/Mac Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-proven-ways-to-cash-in-instagrams-leading-revenue-methods/"><u>[Updated] 2024 Approved Proven Ways to Cash In Instagram's Leading Revenue Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-making-sense-of-typical-podcaster-profits/"><u>[Updated] In 2024, Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-file-moves-with-advanced-auto-transfer-techniques-on-win-11/"><u>Ace File Moves with Advanced Auto-Transfer Techniques on Win 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-for-windows-crash-woes-discover-proven-fixes-for-uninterrupted-adventure-gaming/"><u>Dragon's Dogma 2 for Windows Crash Woes? Discover Proven Fixes for Uninterrupted Adventure Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014108462-enhance-your-pc-experience-no-more-hell-let-loose-game-crashes-here/"><u>Enhance Your PC Experience - No More Hell Let Loose Game Crashes Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-tandem-oled-technology-in-ipad-pro-on-next-gen-display-innovations-insights-from-zdnet/"><u>Exploring the Impact of Tandem OLED Technology in iPad Pro on Next-Gen Display Innovations: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-create-a-sports-youtube-channel-on-mac-in-2024/"><u>How to Create a Sports YouTube Channel on Mac, In 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>In 2024, Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-itunes-compatibility-problems-with-iphone-on-windows-10-expert-tips-and-solutions/"><u>Overcoming Itunes Compatibility Problems with iPhone on Windows 10: Expert Tips and Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/redynamiser-votre-ssd-sans-risque-decouvrez-deux-techniques-fiables/"><u>Redynamiser Votre SSD Sans Risque: Découvrez Deux Techniques Fiables</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-stabilizing-manor-lords-gameplay-on-windows-and-mac/"><u>Troubleshooting Tips for Stabilizing 'Manor Lords' Gameplay on Windows and Mac</u></a></li>
 </ul></div>
 

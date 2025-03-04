@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Play: A Complete Roller Champions How-To for PC Users"
-date: 2025-02-12T20:13:46.053Z
-updated: 2025-02-15T02:33:21.676Z
+date: 2025-02-26T04:43:11.932Z
+updated: 2025-03-04T09:33:53.517Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all, just work your way down the list until you find the one that does the trick.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 9. **[Scan and repair Windows](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Verify and repair game files
 
@@ -109,10 +101,6 @@ If this doesn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  It’s important that Lost Ark is not running while Windows is installing the updates in the background. When Windows is writing data into the drive, it could interfere with the gameplay.  
@@ -120,10 +108,6 @@ If this doesn’t help, move on to the next fix.
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check that the Windows Update client is not running while you’re playing Lost Ark.
 
  If this doesn’t help or your system is already up-to-date, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Check your antivirus software
 
@@ -134,10 +118,6 @@ If this doesn’t help, move on to the next fix.
  Make sure you stay cautious when you turn off the antivirus app and do NOT download anything from the internet when your computer is not under protection.
 
 If the crashing issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Turn off overlays
 
@@ -150,10 +130,6 @@ If the crashing issue persists, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/Steam-Settings-Disable-in-game-overlay.jpg)
 3. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re not experiencing random crashes for other Steam games, you can try to disable the Steam overlay only for Lost Ark.
 
 1. In your Steam library, right-click Lost Ark and click **Properties** .  
@@ -161,10 +137,6 @@ If the crashing issue persists, try the next fix.
 2. Under the **General tab** ,**toggle off Enable the Steam Overlay while in-game** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Discord
 
@@ -214,10 +186,6 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Lost Ark. If the game once again crashes, then you know that one of the services you ticked above is conflicting with it. If Lost Ark runs just fine, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Lost Ark.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -227,10 +195,6 @@ If the crashing issue persists, try the next fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
@@ -256,10 +220,6 @@ If the crashing issue persists, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -288,19 +248,21 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streaming-showdown-is-streamlabs-or-obs-your-best-choice/"><u>[New] Streaming Showdown Is Streamlabs or OBS Your Best Choice?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-video-format-for-youtube-uploading/"><u>[Updated] In 2024, Best Video Format for YouTube Uploading</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-the-silicon-how-to-achieve-success-in-the-tech-industry-outside-sv/"><u>Beyond the Silicon: How To Achieve Success In The Tech Industry Outside SV</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturewiz-windows-10s-snapshot-hero-for-2024/"><u>CaptureWiz Windows 10'S Snapshot Hero for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/dark-souls-3-ultimate-fixes-for-stability-and-performance-problems/"><u>Dark Souls 3: Ultimate Fixes for Stability and Performance Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-rotational-rigging-solutions/"><u>Full-Rotational Rigging Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fix-and-master-avatar-frontiers-of-pandora-pc-gaming-stability-issues/"><u>Guide to Fix and Master 'Avatar: Frontiers of Pandora' PC Gaming Stability Issues</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-migrate-sql-backups-into-a-fresh-database-a-three-step-guide/"><u>How to Migrate SQL Backups Into a Fresh Database - A Three-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/stability-recipe-keep-your-outriders-game-running-smoothly/"><u>Stability Recipe: Keep Your Outriders Game Running Smoothly</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-removing-video-captions-with-ease/"><u>Step-by-Step Guide: Removing Video Captions with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-browser-troubles-how-to-unfreeze-chrome-in-windows-10-instantly/"><u>Stop Browser Troubles: How to Unfreeze Chrome in Windows 10 Instantly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-pillars-of-profitable-digital-marketing/"><u>The Pillars of Profitable Digital Marketing</u></a></li>
-<li><a href="https://win-able.techidaily.com/vrchat-problems-solutions-for-when-loading-fails-completely/"><u>VRChat Problems: Solutions for When Loading Fails Completely</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-strategic-approaches-accumulating-top-notch-backdrop-imagery/"><u>[New] Strategic Approaches Accumulating Top-Notch Backdrop Imagery</u></a></li>
+<li><a href="https://win-able.techidaily.com/experts-reveal-ultimate-tips-to-prevent-your-sword-and-faery-epic-continuation-from-breaking-down-on-pc/"><u>Experts Reveal Ultimate Tips to Prevent Your Sword & Faery Epic Continuation From Breaking Down on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997859783-fixing-pc-crashes-during-gameplay-play-wrc-10-the-thrilling-fia-world-rally-challenge/"><u>Fixing PC Crashes During Gameplay: Play WRC 10 - The Thrilling FIA World Rally Challenge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-mp4-to-m4r-konvertor-virtuel-transfoeren-video-vers-audio-en-ligne-avec-moviepedia/"><u>Gratuit MP4-to-M4R Konvertor Virtuel: Transfoeren Vidéo Vers Audio en Ligne Avec Moviepedia</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-dark-screen-issue-in-hitman-3-pc-guide/"><u>How to Fix the Dark Screen Issue in Hitman 3 - PC Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-v27e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo V27e</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-monetization-mastery-how-ajay-achieves-wealth-online/"><u>In 2024, Monetization Mastery How AJay Achieves Wealth Online</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-and-high-performance-review-for-the-philips-hf3520-digital-alarm-clock/"><u>Inexpensive and High-Performance Review for the Philips HF3520 Digital Alarm Clock</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-battle-royale-bloopers-resolve-call-of-duty-mobiles-warzone-read-errors/"><u>Solving Battle Royale Bloopers: Resolve Call of Duty Mobile's Warzone Read Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-persistent-problem-of-new-world-games-crashing-on-your-computer/"><u>Solving the Persistent Problem of 'New World' Games Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-seamless-start-for-your-resident-evil-village-adventure/"><u>Success Story: Seamless Start for Your Resident Evil Village Adventure</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-blueprint-for-branding-success-on-snapchat/"><u>The Ultimate Blueprint for Branding Success on SnapChat</u></a></li>
+<li><a href="https://games-able.techidaily.com/thrifty-tech-for-top-graphics-performance/"><u>Thrifty Tech for Top Graphics Performance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-10-digital-storefronts-for-exquisite-presentation-boxes/"><u>Top 10 Digital Storefronts for Exquisite Presentation Boxes</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/words-across-worlds-exploring-intergalactic-linguistics-in-star-wars/"><u>Words Across Worlds: Exploring Intergalactic Linguistics in Star Wars</u></a></li>
 </ul></div>
 

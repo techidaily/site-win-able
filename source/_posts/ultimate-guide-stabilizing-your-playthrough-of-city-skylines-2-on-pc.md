@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2025-02-12T04:26:31.572Z
-updated: 2025-02-15T02:16:10.087Z
+date: 2025-02-25T01:02:29.893Z
+updated: 2025-03-04T08:12:37.543Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your specs meet the requirements
 
  VR games tend to be graphically demanding, not to mention this long anticipated AAA title. So before you can fully experience the well-crafted dystopia in Half Life: Alyx, first you need to make sure your gaming rig meets the minimum requirements. Because if it doesn’t, then maybe it’s time for an upgrade.
@@ -66,10 +62,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
@@ -119,10 +111,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -131,19 +119,11 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -156,16 +136,8 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,18 +158,19 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-8-must-have-laptop-backgrounds/"><u>[Updated] Ultimate Selection 8 Must-Have Laptop Backgrounds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles-for-2024/"><u>Cinematographic Cuisine Expert Tips on Filming Edibles for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-pacific-drive-error-a-comprehensive-guide/"><u>Fixing the Unresponsive Pacific Drive Error - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-automating-dns-client-service-configuration/"><u>Guide to Automating DNS Client Service Configuration</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-screen-recording-free-from-lag-frames/"><u>In 2024, Cutting-Edge Screen Recording Free From Lag Frames</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011783033-overcome-game-freeze-glitches-in-code-vein-expert-guidance-for-smooth-play/"><u>Overcome Game Freeze Glitches in Code Vein: Expert Guidance for Smooth Play!</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-problem-solved-unfreeze-your-fall-guys-experience-today/"><u>PC Gaming Problem Solved: Unfreeze Your Fall Guys Experience Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-with-bluestacks-five-trouble-free-solutions-for-system-stability/"><u>Smooth Sailing with BlueStacks: Five Trouble-Free Solutions for System Stability</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209859810-9789387669475-the-power-of-awareness/"><u>The Power of Awareness | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-13t-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi 13T Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-equipment/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Equipment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-av1-may-outshine-vp9-in-video-compression/"><u>Why AV1 May Outshine VP9 in Video Compression</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-visual-enhancements-in-tiktok-for-2024/"><u>[New] Mastering Visual Enhancements in TikTok for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-diaries-blending-visuals-with-audio-threads/"><u>[Updated] Digital Diaries Blending Visuals with Audio Threads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ffmpeg-analysis-maintaining-audio-format-integrity-for-2024/"><u>[Updated] FFmpeg Analysis Maintaining Audio Format Integrity for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-solution-steps-prevent-and-repair-days-gone-from-freezing-or-crashing/"><u>2024 Solution Steps: Prevent and Repair 'Days Gone' From Freezing or Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-game-stability-effective-solutions-for-recurring-disruptions-in-the-formula-1-2t21-installation/"><u>Addressing Game Stability: Effective Solutions for Recurring Disruptions in the Formula 1 2T21 Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-14-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi 14 Ultra to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-gpt-experience-steer-clear-of-mistakes/"><u>Enhancing Your GPT Experience: Steer Clear of Mistakes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-recurrent-kodi-system-freezes-a-complete-guide/"><u>Fixing Recurrent Kodi System Freezes: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-netflix-up-and-running-again-on-your-xbox-console/"><u>How To Get Netflix Up and Running Again on Your Xbox Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-overcoming-palworld-search-error-challenges/"><u>Mastering the Fix: Overcoming 'Palworld' Search Error Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-switch-android-and-linux-coexistence/"><u>Seamless Switch: Android and Linux Coexistence</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-optimizing-frame-rates-and-preventing-gameplay-disruptions/"><u>Solutions for Optimizing Frame Rates and Preventing Gameplay Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-gpu-load-and-strain-in-windows-our-top-6-tool-list/"><u>Tackling GPU Load & Strain in Windows: Our Top 6 Tool List</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-5-mp3-cutters-online/"><u>Updated In 2024, Top 5 MP3 Cutters Online</u></a></li>
 </ul></div>
 

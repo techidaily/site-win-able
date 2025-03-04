@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: Overcoming Common Crashes in 'Tales of Arise'"
-date: 2024-11-23T19:02:54.666Z
-updated: 2024-11-26T22:45:52.680Z
+date: 2025-03-01T12:27:18.009Z
+updated: 2025-03-04T03:20:04.064Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Disco Elysium Crashes
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -47,10 +43,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  Yes, seriously. Just turn off your computer and turn it back on. The game crash issue is sometimes just a temporary problem that can be fixed by a restart.
 
  But if your game keeps crashing even after the restart, try the next solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Disconnect peripherals
 
@@ -73,10 +65,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
@@ -105,10 +93,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -129,17 +113,9 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -154,10 +130,6 @@ If your game still crashes after this, try the fix below.
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7 – Reinstall the game
 
@@ -205,10 +177,6 @@ To run your game as administrator, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
@@ -238,22 +206,20 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-professional-instagram-live-conversations-for-2024/"><u>[New] Step-by-Step Guide to Professional Instagram Live Conversations for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>2024 Approved Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-guiding-you-to-untainted-stock-visuals/"><u>2024 Approved Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipating-apples-latest-event-heres-everything-you-should-know-dates-rumors-and-announcements/"><u>Anticipating Apple's Latest Event? Here’s Everything You Should Know – Dates, Rumors & Announcements</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-black-screen-error-in-call-of-duty-wwii-windows-easy-troubleshooting-steps-inside/"><u>Beat the Black Screen Error in Call of Duty WWII (Windows) – Easy Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-infamous-roblox-code-277-glitch-for-pc-users-updated-guide/"><u>Bypassing the Infamous Roblox Code 277 Glitch for PC Users (Updated Guide)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/comparing-vidma-and-its-screen-capture-competitors-for-2024/"><u>Comparing Vidma & Its Screen Capture Competitors for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-setup-of-windows-10s-newest-displaylink-software/"><u>Effortless Download and Setup of Windows 10'S Newest DisplayLink Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-necromunda-sovled-hired-gun-from-crashing-on-windows-pc/"><u>How to Prevent Necromunda [SOVLED]: Hired Gun From Crashing on Windows PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-13-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 13 (4 Methods) | Stellar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-mobile-gaming-on-iphones-which-model-tops-the-list/"><u>Mastering Mobile Gaming on iPhones: Which Model Tops the List?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-streamline-your-workflow-quick-and-easy-gopro-video-editing-tips/"><u>New In 2024, Streamline Your Workflow Quick and Easy GoPro Video Editing Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolution-alert-online-profile-login-fully-functional-again/"><u>Resolution Alert: Online Profile Login Fully Functional Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-prevent-persistent-freezing-and-crashing-of-cod-modern-warfare/"><u>Solved: How to Prevent Persistent Freezing and Crashing of Cod: Modern Warfare</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-stardew-valley-pc-crash-issues-a-comprehensive-guide/"><u>Solving Stardew Valley PC Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-how-to-fix-crashes-in-squadrons-troubleshooting-guide/"><u>STAR WARS: How to Fix Crashes in Squadrons - Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-crash-of-wallpaper-engine-on-windows-11-and-10-systems/"><u>Troubleshooting the Crash of Wallpaper Engine on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-final-cut-pros-best-combo-of-10-vfx-plug-ins/"><u>[Updated] Final Cut Pro's Best Combo of 10 VFX Plug-Ins</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/brainless-battles-top-8-zombie-shooter-contenders-for-2024/"><u>Brainless Battles Top 8 Zombie Shooter Contenders for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005107842-dying-light-sound-troubles-heres-how-to-fix-it-swiftly-and-easily/"><u>Dying Light Sound Troubles? Here's How to Fix It Swiftly & Easily!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effiziente-methoden-zum-wiederherstellen-von-windowsold-professionelle-datenwiedergewinnung/"><u>Effiziente Methoden Zum Wiederherstellen Von 'Windows.old' - Professionelle Datenwiedergewinnung</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-seamless-play-how-to-fix-your-elden-rings-lag-and-stutter-in-just-6-steps/"><u>Expert Tips for Seamless Play: How to Fix Your Elden Ring's Lag and Stutter in Just 6 Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-latency-and-lag-how-to-combat-frame-rate-drops-in-call-of-duty-modern-warfare-3/"><u>Fixing Latency and Lag: How to Combat Frame Rate Drops in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-continues-to-fail-new-strategies-and-hacks-for-flawless-gaming-in-2amo/"><u>Garry's Mod Continues to Fail? New Strategies & Hacks for Flawless Gaming in 2Amo</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-tf2-wont-start-find-out-why-and-solutions/"><u>Resolved: TF2 Won't Start – Find Out Why & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-delays-6-proven-methods-to-boost-instagram-on-ios-and-android-platforms/"><u>Say Goodbye to Delays: 6 Proven Methods to Boost Instagram on iOS & Android Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/selective-list-of-pro-gopro-add-ons-for-2024/"><u>Selective List of Pro-Gopro Add-Ons for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-fixes-for-nwstoreexe-errors-step-by-step-instructions/"><u>Troubleshoot Fixes for NW_Store.exe Errors: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-repairing-dreamlight-valley-crashes-on-your-windows-computer-6-steps/"><u>Ultimate Guide to Repairing Dreamlight Valley Crashes on Your Windows Computer (6 Steps)</u></a></li>
 </ul></div>
 

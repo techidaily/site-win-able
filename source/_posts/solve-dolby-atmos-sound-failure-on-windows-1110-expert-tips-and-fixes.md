@@ -1,7 +1,7 @@
 ---
 title: Solve Dolby Atmos Sound Failure on Windows 11/10 – Expert Tips & Fixes
-date: 2025-02-11T02:23:12.438Z
-updated: 2025-02-14T17:24:28.747Z
+date: 2025-02-27T00:22:42.139Z
+updated: 2025-03-04T12:34:49.276Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Here’s how to do it on the Epic Games client:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
@@ -71,10 +67,6 @@ If this doesn’t help, you can take a look at the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
@@ -88,10 +80,6 @@ If this doesn’t help, you can take a look at the next fix below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -112,19 +100,11 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -143,19 +123,11 @@ If a clean boot doesn’t help, you can check out the next fix.
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -178,18 +150,21 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ideal-video-displays-the-best-5-for-playstation-5/"><u>[Updated] In 2024, Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blurring-the-line-between-still-and-motion-art/"><u>Blurring the Line Between Still and Motion Art</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6s-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fix-resolve-assassins-creed-odyssey-pc-game-crashes/"><u>Effortless Fix: Resolve Assassin's Creed Odyssey PC Game Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellence-index-photoplustune-recording-software/"><u>Excellence Index Photo+Tune Recording Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crashes-caused-by-super-pc-entities-a-comprehensive-troubleshooting-manual/"><u>Fixing 'Crashes' Caused by Super Pc Entities: A Comprehensive Troubleshooting Manual</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-20c-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 20C Devices | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-fixes-ensuring-peak-gaming-experience-without-delays/"><u>Forza Horizon 5 Lag Fixes: Ensuring Peak Gaming Experience Without Delays</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-hot-40-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Hot 40 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-steps-to-forcibly-close-unresponsive-programs-in-windows-11/"><u>Quick Guide: Steps to Forcibly Close Unresponsive Programs in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-stability-issues-for-r-type-final-2-no-more-pc-crashes/"><u>Resolving Stability Issues for R-Type Final 2 - No More PC Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-issues-with-armored-core-6-the-complete-guide-to-overcoming-the-fires-of-rubicon-crashes/"><u>Solving PC Issues with Armored Core 6: The Complete Guide to Overcoming the 'Fires of Rubicon' Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-fixing-document-scanner-errors/"><u>Troubleshooting Techniques for Fixing Document Scanner Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-premiered-top-8-crowd-pleasing-ae-setups/"><u>[New] In 2024, Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiences-in-motion-analyzers/"><u>[Updated] In 2024, Audiences in Motion Analyzers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-iphones-potential-podcast-harmony/"><u>[Updated] Unlocking iPhone's Potential - Podcast Harmony</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-dota-2-anti-cheat-penalties-fixes-for-2-error/"><u>Avoiding Dota 2 Anti-Cheat Penalties - Fixes for 2# Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/combat-latency-in-call-of-dutys-warzone-20-with-these-expert-tips-2er-2024/"><u>Combat Latency in Call of Duty's Warzone 2.0 with These Expert Tips - 2Er 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discovering-your-customized-youtube-playlist-for-2024/"><u>Discovering Your Customized YouTube Playlist for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-xipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone X/iPad? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ffxiv-update-problems-how-to-ensure-successful-version-verification-processes/"><u>FFXIV Update Problems: How to Ensure Successful Version Verification Processes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-the-zoom-cannot-initiate-video-streaming-problem-a-guide-with-five-methods/"><u>How to Troubleshoot the 'Zoom Cannot Initiate Video Streaming' Problem: A Guide with Five Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-frame-rate-in-rainbow-six-extraction-expert-tips-for-higher-fps/"><u>Improve Frame Rate in Rainbow Six Extraction – Expert Tips for Higher FPS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-revenue-revolution-joining-elite-at-500-subs-level/"><u>In 2024, Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
+<li><a href="https://win-able.techidaily.com/oculus-link-malfunction-a-guide-to-immediate-solutions-for-the-notorious-black-screen-problem/"><u>Oculus Link Malfunction: A Guide to Immediate Solutions for the Notorious Black Screen Problem</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a15-5g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy A15 5G won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-prevent-valorant-from-crashing-out-of-nowhere-on-pc/"><u>Step-by-Step Solution to Prevent Valorant From Crashing Out of Nowhere on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/l-exclusive-video-snippets-all-at-zero-cost-in-2024/"><u>Unveil Exclusive Video Snippets – All at Zero Cost, In 2024</u></a></li>
 </ul></div>
 

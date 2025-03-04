@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Playbook: The Complete 2024 Guide to Roller Champions Crossplay on PC"
-date: 2024-12-14T09:42:24.072Z
-updated: 2024-12-19T23:19:44.936Z
+date: 2025-02-27T10:36:57.269Z
+updated: 2025-03-04T11:01:15.800Z
 tags:
   - win11
   - win10
@@ -34,19 +34,11 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 6. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: **Restart your computer**
 
  Sometimes a game can crash or stop responding because of a temporary issue that you can fix by restarting your device.
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: **Disable your antivirus temporarily**
 
@@ -70,10 +62,6 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -81,10 +69,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: **Update your graphics driver**
 
@@ -101,10 +85,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
@@ -141,10 +121,6 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Terraria_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
@@ -153,10 +129,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
@@ -164,10 +136,6 @@ If not, try the next fix.
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -226,17 +194,9 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -275,22 +235,19 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-eliminate-unwanted-podcast-suggestions-on-spotify/"><u>[New] 2024 Approved Eliminate Unwanted Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-advanced-techniques-to-record-and-save-stories-for-2024/"><u>[New] Advanced Techniques to Record and Save Stories for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/avigating-the-path-stream-your-google-meet-chats-to-youtube-for-2024/"><u>[New] Navigating the Path Stream Your Google Meet Chats to YouTube for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-scanning-and-repairing-drive-stuck-issue-in-windows-10/"><u>[Solved] Scanning and Repairing Drive Stuck Issue in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-beginners-walkthrough-for-turning-on-hyper-v-feature-in-windows-10-os/"><u>A Beginner's Walkthrough for Turning On Hyper-V Feature in Windows 10 OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/china-prc/"><u>China (PRC)</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-dauntless-game-crash-on-pc-troubleshooting-steps/"><u>Fixes for Dauntless Game Crash on PC: Troubleshooting Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-release-delay-explained-solved/"><u>Football Manager 2022 Release Delay Explained: Solved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-connectivity-issues-with-your-oculus-rift-service/"><u>How to Overcome Connectivity Issues with Your Oculus Rift Service</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-craft-of-background-image-acquisition/"><u>In 2024, Mastering the Craft of Background Image Acquisition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>In 2024, The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-topics-with-a-twist-for-your-vlog-talks/"><u>In 2024, Topics with a Twist for Your Vlog Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speeding-up-hr-processes-discover-5-cutting-edge-gpt-strategies-for-quick-wins/"><u>Speeding Up HR Processes: Discover 5 Cutting-Edge GPT Strategies for Quick Wins</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-with-these-proven-methods/"><u>Stop Modern Warfare 3 From Crashing on Your PC with These Proven Methods</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-6-solutions-for-speeding-up-your-ipads-icloud-backup-process/"><u>Top 6 Solutions for Speeding Up Your iPad's iCloud Backup Process</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-players-helldivers-ii-unresponsive-on-steam-platform/"><u>Ultimate Fixes for Players: Helldivers II Unresponsive on Steam Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-the-delay-mafia-definitive-eds-official-launch-date-revealed/"><u>Why the Delay? Mafia: Definitive Ed.'s Official Launch Date Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vivid-visual-storytelling-the-fade-technique/"><u>[New] Vivid Visual Storytelling The Fade Technique</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ultimate-list-10-premium-history-channels-online/"><u>[Updated] 2024 Approved Ultimate List 10 Premium History Channels Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-the-art-of-preserving-playstation-4-gaming-history/"><u>[Updated] Mastering the Art of Preserving PlayStation 4 Gaming History</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726225226251-mp4movavi/"><u>如何利用無成本的影像變換工具 - 線上轉換你喜愛的影片到 MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-with-quick-fix-tips-to-prevent-mw3-from-crashing-on-your-pc/"><u>Beat the Blues with Quick Fix Tips to Prevent MW3 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frames-per-second-fps-and-solve-stuttering-issues-in-valorant-a-comprehensive-guide/"><u>Boost Your Frames per Second (FPS) & Solve Stuttering Issues in Valorant: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-guide-to-samsung-photography-suite-2023-for-2024/"><u>Comprehensive Guide to Samsung Photography Suite, 2023 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-constant-system-errors-caused-by-fuser-programming-tools-in-windows/"><u>Diagnosing and Repairing Constant System Errors Caused by Fuser Programming Tools in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-audio-glitches-in-your-favorite-first-person-shooter-game/"><u>Expert Advice on Fixing Audio Glitches in Your Favorite First-Person Shooter Game</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exposing-displayport-21s-uhbr-cable-conundrum-how-this-affected-nvidia-to-clutch-on-using-dp-14-for-the-latest-rtx-40-lineup/"><u>Exposing DisplayPort 2.1’S UHBR-Cable Conundrum – How This Affected NVIDIA to Clutch on Using DP 1.4 for the Latest RTX 40 Lineup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-find-n3-flip-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo Find N3 Flip to Mac? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g-pro-mechanical-keyboard-firmware-update-get-the-newest-version-for-pc/"><u>Logitech G Pro Mechanical Keyboard Firmware Update: Get the Newest Version for PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fixes-for-stable-play-of-madden-nfl-20-on-windowsmac/"><u>Master the Fixes for Stable Play of Madden NFL 20 on Windows/Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unlock-pro-quality-edits-top-1080p-video-editing-software/"><u>Updated 2024 Approved Unlock Pro-Quality Edits Top 1080P Video Editing Software</u></a></li>
 </ul></div>
 

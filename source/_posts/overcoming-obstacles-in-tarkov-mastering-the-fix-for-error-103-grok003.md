@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles in Tarkov: Mastering the Fix for Error 103 Grok003"
-date: 2025-01-27T22:23:17.744Z
-updated: 2025-01-31T22:35:06.188Z
+date: 2025-03-02T11:55:44.490Z
+updated: 2025-03-04T12:41:34.309Z
 tags:
   - win11
   - win10
@@ -192,10 +192,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -203,10 +199,6 @@ OR
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -224,19 +216,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click your **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -292,10 +276,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the update is complete, restart your game to see if it runs correctly now. If your problem still exists, move to the fix below.
 
 #### Fix 4: Reset your console
@@ -318,10 +298,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select**Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
@@ -329,10 +305,6 @@ Hopefully, your game works correctly now. Enjoy!
 **6)** Select**Reset and keep my games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After resetting your console, restart your game to test your issue. If your problem persists, check the fix below.
 
@@ -363,10 +335,6 @@ Hopefully, your game works correctly now. Enjoy!
 **6)** After the game is uninstalled, insert**the game disc** into the drive to download and install Call of Duty: WW2.
 
 Hope one of the fixes above worked for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fixes for PlayStation 4 Players
 
@@ -417,10 +385,6 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Restart your game to see if this resolved your issues.
 
  If your problem persists after the latest version of the system software is installed on your PS4, try the fix below.
@@ -444,10 +408,6 @@ Hope one of the fixes above worked for you.
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Select **Restore to Default Settings** .  
 
@@ -481,16 +441,21 @@ Hope one of the fixes above worked for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-superior-7-streamers-choice-for-videos/"><u>[Updated] 2024 Approved Superior 7 Streamer's Choice for Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigating-keyword-strategies-for-youtube-success/"><u>[Updated] Navigating Keyword Strategies for YouTube Success</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210345191-9781940837581-a-taste-of-india/"><u>A Taste of India | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/demystifying-assassins-creed-valhallas-delayed-release-announcement/"><u>Demystifying Assassin's Creed Valhalla's Delayed Release Announcement</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expert-tips-to-enhance-your-adobe-presentation-videos-for-2024/"><u>Expert Tips to Enhance Your Adobe Presentation Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-dealing-with-invalid-app-installs-on-windows/"><u>Guide: Dealing with Invalid App Installs on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-widows-11-setup-challenge-error-c1900101/"><u>Overcoming the WIDows 11 Setup Challenge: Error C1900101</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-scavengers-crashing-on-pc-a-comprehensive-guide/"><u>Resolving Issues with Scavengers Crashing on PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-for-your-nvidia-geforce-error-code-0x0003-a-comprehve-guide/"><u>The Ultimate Fix for Your NVIDIA GeForce Error Code 0X0003: A Comprehve Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-warframe-stalling-issues-a-comprehensive-guide/"><u>Troubleshooting Warframe Stalling Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-resolving-directdraw-compatibility-errors/"><u>Understanding and Resolving DirectDraw Compatibility Errors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-acid-pro-alternatives-a-comprehensive-guide/"><u>[New] ACID Pro Alternatives A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-creating-captivating-inshot-edits-with-grace/"><u>[New] Creating Captivating Inshot Edits with Grace</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app/"><u>[New] Perfecting Titles on Footage Step-by-Step Tutorial for Windows Photos App</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/conversion-gratuit-dimage-dpx-vers-le-format-tiff-en-ligne-solution-facile-a-laide-de-movavi/"><u>Conversion Gratuit D'image DPX Vers Le Format TIFF en Ligne : Solution Facile À L'aide De Movavi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/diving-deeper-into-webcam-possibilities/"><u>Diving Deeper Into Webcam Possibilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-free-gaming-with-steam-a-complete-breakdown-of-correcting-error-code-n130/"><u>Error-Free Gaming with Steam: A Complete Breakdown of Correcting Error Code N130</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-bugs-in-immortals-of-skylands-fenyx-rising-continuous-crashing-woes/"><u>Fixing the Bugs in Immortals of Skylands - Fenyx Rising Continuous Crashing Woes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029300301-hls/"><u>HLS動画をストリーミングせずに安全に保存する自由ソリューション</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/462026-9781439121474-infinite-possibilities-10th-anniversary/"><u>Infinite Possibilities (10th Anniversary) | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-troubleshooting-the-game-crash-now-fixed/"><u>Jurassic World Evolution: Troubleshooting the Game Crash - Now Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-a-step-by-step-approach-to-stop-deathloop-from-hanging-on-your-console/"><u>Overcoming Technical Glitches: A Step-By-Step Approach To Stop Deathloop From Hanging On Your Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lost-ark-connection-issues-a-complete-guide/"><u>Solving 'Lost Ark Connection Issues: A Complete Guide'</u></a></li>
+<li><a href="https://win-able.techidaily.com/street-fighter-6-troubleshooting-guide-fixing-crashes-on-pc/"><u>Street Fighter 6 Troubleshooting Guide - Fixing Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-preventing-risk-of-rain-2-from-crashing/"><u>Troubleshooting Guide: Preventing Risk of Rain 2 From Crashing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-google-drive/"><u>Windows向け: Google Driveへの自動的な多層フォルダ同期手順</u></a></li>
 </ul></div>
 

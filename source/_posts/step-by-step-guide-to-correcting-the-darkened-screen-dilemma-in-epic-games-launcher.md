@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Correcting the Darkened Screen Dilemma in Epic Games Launcher
-date: 2025-02-11T01:52:30.580Z
-updated: 2025-02-14T18:35:09.294Z
+date: 2025-02-26T11:36:11.237Z
+updated: 2025-03-03T23:28:22.657Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 6. [**Switch to DX9**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Repair the system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Allow your game through Windows Firewall
 
  If Lost Ark fails to access the Internet on your PC, it won’t launch properly. To make sure the game works without interruption, you should manually allow it to bypass the firewall. Here are the steps:
@@ -48,23 +44,11 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
@@ -76,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 
 Now see if you could start the game. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify integrity of game files
 
  Missing or corrupted game file is a common reason that a game stops working smoothly. To see if that’s the case with Lost Ark, try to verify the integrity of the game files.
@@ -90,10 +70,6 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
@@ -111,10 +87,6 @@ Now see if you could start the game. If not, try the next method.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -163,10 +135,6 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
 
 ### Fix 7 – Repair the system files
@@ -184,10 +152,6 @@ Now see if you could start the game. If not, try the next method.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your game and check if Lost Ark goes back to the normal state.
 
@@ -213,20 +177,22 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-professionals-playbook-mastering-live-video-sharing-on-fb/"><u>[New] The Professional's Playbook Mastering Live Video Sharing on FB</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-uncovering-top-tiktok-backdrops-quickly-for-2024/"><u>[Updated] Uncovering Top TikTok Backdrops Quickly for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-black-monitor-issues/"><u>Comprehensive Guide to Resolve Black Monitor Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-online-connections-through-poker-and-chess-on-discord/"><u>Elevating Online Connections Through Poker & Chess on Discord</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-it-now-playing-robocop-reborn-on-desktop-common-glitches-and-solutions/"><u>Fix It Now: Playing 'Robocop Reborn' On Desktop - Common Glitches and Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>In 2024, Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-90-lite-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 90 Lite Phone FRP Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-mobile-suit-zetas-stability-pc-freezing-solutions-update-for-gamers-202/"><u>Mastering Mobile Suit Zeta's Stability: PC Freezing Solutions Update for Gamers (202</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-gamers-handling-fortnite-error-84-unable-to-enter-parties/"><u>Quick Fixes for Gamers: Handling Fortnite Error 84 - Unable to Enter Parties</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapchat-my-ai-and-bing-chat-side-by-side-comparison-on-skype-uncover-the-8-main-differences/"><u>Snapchat My AI and Bing Chat Side-by-Side Comparison on Skype – Uncover the 8 Main Differences</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-pc-issues-with-payday-2-startup/"><u>Troubleshooting Guide: Fixing PC Issues with Payday 2 Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-problems-with-content-advisory-pop-ups-in-pc-browsers/"><u>Troubleshooting Persistent Problems with Content Advisory Pop-Ups in PC Browsers</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-resolving-assassins-creed-odyssey-freezes-in-pc-gaming-fixes-and-workarounds/"><u>Ultimate Guide to Resolving Assassin's Creed Odyssey Freezes in PC Gaming - Fixes & Workarounds</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-past-strategies-for-tracking-down-erased-contact-information-on-android-devices/"><u>Unveiling the Past: Strategies for Tracking Down Erased Contact Information on Android Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-profits-unveiled-how-much-do-creators-make-on-youtube-for-2024/"><u>[New] Ad Profits Unveiled How Much Do Creators Make on Youtube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dynamic-visual-snapshot-providers/"><u>[New] In 2024, Dynamic Visual Snapshot Providers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-360-degree-videos-secure-youtube-uploads/"><u>[New] Mastering 360-Degree Videos Secure YouTube Uploads</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-optimal-memory-support-for-sony-alpha-7sii-for-2024/"><u>[New] Optimal Memory Support for Sony Alpha 7SII for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-power-of-shareable-internet-humor/"><u>[New] Unlocking the Power of Shareable Internet Humor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-clear-choice-between-projectors-and-televisions-for-4k-quality-for-2024/"><u>[Updated] The Clear Choice Between Projectors and Televisions for 4K Quality for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-problems-and-fixes-logitech-software-malfunctioning-on-windows-machines/"><u>Common Problems and Fixes: Logitech Software Malfunctioning on Windows Machines</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-camon-20-premier-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Camon 20 Premier 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-minecraft-stalling-issues-proven-techniques-to-enhance-your-gaming/"><u>Overcome Minecraft Stalling Issues: Proven Techniques to Enhance Your Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-challenges-restoring-functionality-to-your-clownfish-sound-adapter/"><u>Overcoming Challenges: Restoring Functionality to Your Clownfish Sound Adapter</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-top-6-solutions-to-eliminate-stuttering-and-lag-in-baldurs-gate/"><u>Resolved: Top 6 Solutions to Eliminate Stuttering and Lag in Baldur's Gate</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-broken-game-file-integrity-on-windows-systems/"><u>Step-by-Step Tutorial: Restoring Broken Game File Integrity on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/thaumaturge-app-crasheswont-open-solutions-for-a-smooth-gaming-experience/"><u>Thaumaturge App Crashes/Won’t Open – Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-for-resolving-frame-rate-problems-in-elden-ring-fast/"><u>Top Techniques for Resolving Frame Rate Problems in Elden Ring Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hearthstone-pc-crashes-solutions-and-tips/"><u>Troubleshooting Hearthstone PC Crashes - Solutions and Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tactics-overcoming-call-of-duty-warzone-screen-issues-top-fixes-to-try/"><u>Troubleshooting Tactics: Overcoming Call of Duty Warzone Screen Issues – Top Fixes to Try</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-in-this-article-we-will-review-on-virtualdub-virtualdub2-and-provide-its-best-alternatives/"><u>Updated 2024 Approved In This Article, We Will Review on Virtualdub, Virtualdub2 and Provide Its Best Alternatives</u></a></li>
 </ul></div>
 

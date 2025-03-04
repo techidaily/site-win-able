@@ -1,7 +1,7 @@
 ---
 title: "Decoding Tarkov: Effective Strategies to Correct Error Code 103003"
-date: 2025-01-01T18:58:34.587Z
-updated: 2025-01-05T23:43:15.229Z
+date: 2025-02-24T23:15:48.948Z
+updated: 2025-03-03T22:15:10.686Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 See if you can log in or not. if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Test your Internet connection speed
 
  If you still suffer from this issue after you reboot your network, you need to test your Internet connection speed first. Here is how to do it:
@@ -96,16 +88,8 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
@@ -118,10 +102,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -138,10 +118,6 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -164,10 +140,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
@@ -184,10 +156,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -202,10 +170,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
 ### Fix 9: Change the DNS server
@@ -218,10 +182,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
@@ -270,24 +230,24 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-sculpting-soundscapes-gradual-volume-reduction/"><u>[Updated] 2024 Approved Sculpting Soundscapes Gradual Volume Reduction</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-securely-shutting-down-your-instagram-presence-forever/"><u>[Updated] In 2024, Securely Shutting Down Your Instagram Presence Forever</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-xsplit-sourcebook-exclusive-split-and-review-content/"><u>[Updated] In 2024, XSplit Sourcebook Exclusive Split & Review Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-techniques-for-saving-teams-meetings-desktopmobile-for-2024/"><u>[Updated] Techniques for Saving Teams Meetings (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013182220-cyberpunk-2077-performance-boosted-overcoming-previous-fps-drops/"><u>Cyberpunk 2077 Performance Boosted – Overcoming Previous FPS Drops.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433766016-dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/eradicate-stuttering-in-cyberpunk-2077-for-a-seamless-gaming-experience-tips-and-fixes/"><u>Eradicate Stuttering in Cyberpunk 2077 for a Seamless Gaming Experience: Tips & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-steamvr-problems-in-a-flash-expert-solutions-for-immediate-relief/"><u>Fix SteamVR Problems in a Flash: Expert Solutions for Immediate Relief</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-baldurs-gate-3-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Baldur's Gate 3 PC Game Crash Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2023-launch-error-what-you-can-do-to-successfully-start-your-game/"><u>Football Manager 2023 Launch Error: What You Can Do to Successfully Start Your Game</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-8t-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 8T 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-players-manual-for-2e4-overcoming-the-notorious-black-screen-dilemma/"><u>League of Legends Player's Manual for 2E4: Overcoming the Notorious Black Screen Dilemma.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/prime-steps-to-modify-playback-rate-of-songs-in-spotify-for-2024/"><u>Prime Steps to Modify Playback Rate of Songs in Spotify for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-issues-how-to-stop-stardew-valley-from-crashing/"><u>Resolving Performance Issues: How to Stop Stardew Valley From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-performance-issues-in-avatar-the-legend-of-quetsiyah-addressing-pandoras-lags/"><u>Solving Performance Issues in 'Avatar: The Legend of Quetsiyah': Addressing Pandora's Lags</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-no-ping-issue-a-step-by-step-guide-to-rectifying-halo-infinite-errors/"><u>Solving the 'No Ping' Issue: A Step-by-Step Guide to Rectifying Halo Infinite Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-gaming-systems-in-22024/"><u>Top-Rated Gaming Systems in 2#2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-integrating-pinterest-on-your-facebook-business-page/"><u>Ultimate Guide: Integrating Pinterest on Your Facebook Business Page</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] 2024 Approved Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leading-speedy-visualizer-in-windows/"><u>[Updated] 2024 Approved Leading Speedy Visualizer in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-frustration-effective-solutions-for-overcoming-hitman-3s-network-glitches/"><u>Beat the Frustration: Effective Solutions for Overcoming Hitman 3'S Network Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722981081639-bioshock-2-hd-edition-updated-and-enhanced-gameplay/"><u>BioShock 2 HD Edition - Updated and Enhanced Gameplay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>Bringing Clarity to Online Meetings Free & Paid Zoom Transcribing Pros</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-next-level-gaming-with-our-comprehensive-look-at-the-asus-rog-rapture-gt-ax11000-router/"><u>Discover Next-Level Gaming with Our Comprehensive Look at the Asus ROG Rapture GT-AX11000 Router</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-lag-problem-a-comprehensive-guide-to-solutions/"><u>Dying Light Lag Problem - A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fifa-20-on-pc-stability-guide-top-tips-to-prevent-game-crashes/"><u>FIFA 20 on PC Stability Guide: Top Tips to Prevent Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-division-2-crashes-a-speedy-and-straightforward-solution/"><u>Fixing Division 2 Crashes: A Speedy and Straightforward Solution</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flicker-studio-the-complete-lightroom-alternatives-guide/"><u>Flicker Studio The Complete Lightroom Alternatives Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-payday-2-wont-start-on-pc-problems/"><u>How to Resolve 'Payday 2 Won't Start on PC' Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-freezing-up-how-to-fix-persistent-game-lag/"><u>Immortals: Fenyx Rising Freezing Up? How To Fix Persistent Game Lag</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-insight-into-selecting-the-top-5-digital-title-makers/"><u>In 2024, Exclusive Insight Into Selecting the Top 5 Digital Title Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>In 2024, Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964673483-overcoming-intel-chipset-drivers-hurdles-csr85-and-a10-on-windows-systems-fixed/"><u>Overcoming Intel Chipset Drivers Hurdles: CSR85# and A10 on Windows Systems Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-release-hurdles-immortals-fenyx-rising-is-finally-out/"><u>Overcoming the Release Hurdles: Immortals' Fenyx Rising Is Finally Out!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ram-availability/"><u>RAM Availability</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-minecraft-freezing-issues-in-windowsmac-environment/"><u>Resolving Minecraft Freezing Issues in Windows/Mac Environment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/alents-merging-photography-and-sound-in-videos-for-2024/"><u>Top Talents Merging Photography & Sound in Videos for 2024</u></a></li>
 </ul></div>
 

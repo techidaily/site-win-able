@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Gameplay Interruptions on the PC Metro Exodus Ultimate DX12 Edition
-date: 2024-12-19T04:06:21.256Z
-updated: 2024-12-19T19:06:49.049Z
+date: 2025-02-25T09:18:20.865Z
+updated: 2025-03-03T18:24:18.343Z
 tags:
   - win11
   - win10
@@ -49,17 +49,9 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
 
@@ -69,10 +61,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
@@ -95,10 +83,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Reboot your computer and check the issue is solved or not.
 
@@ -133,10 +117,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -158,16 +138,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-utilizing-the-power-of-twitter-archive-data-for-2024/"><u>[New] Utilizing the Power of Twitter Archive Data for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-free-fb-imagecinematic-creator-kit/"><u>2024 Approved Expert Free FB Image/Cinematic Creator Kit</u></a></li>
-<li><a href="https://win-able.techidaily.com/6-fast-solutions-stop-roblox-from-freezing-on-your-computer/"><u>6 Fast Solutions: Stop Roblox From Freezing on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-it-now-effective-solutions-for-risk-of-rain-ebx-not-crashing-issues/"><u>Fix It Now: Effective Solutions for Risk of Rain Ebx Not Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003581920-fix-your-hearthstone-crashes-and-glitches-on-windows-solutions-inside/"><u>Fix Your Hearthstone Crashes and Glitches on Windows - Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/frosted-forever-confronting-persistent-ice-in-a-transformed-terra/"><u>Frosted Forever: Confronting Persistent Ice in a Transformed Terra</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/grab-the-hp-victus-15-for-an-unbelievable-deal-just-hit-530-markdown-at-best-buy-zdnet-insights/"><u>Grab the HP Victus 15 for an Unbelievable Deal: Just Hit $530 Markdown at Best Buy - ZDNET Insights</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-streamlining-content-tweeting-videos-on-snapchat/"><u>In 2024, Streamlining Content Tweeting Videos on Snapchat</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-persistent-freezing-and-crashing-in-ghostwire-tokyo-on-pc/"><u>Resolved: Fixes for Persistent Freezing and Crashing in Ghostwire: Tokyo on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-15-excelentes-herramientas-de-diseno-gratis-para-crear-logos-en-computadoras-movavi/"><u>Top 15 Excelentes Herramientas De Diseño Gratis Para Crear Logos en Computadoras - Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/litzing-sharing-easy-youtube-playlist-methods-for-2024/"><u>[New] Blitzing Sharing Easy YouTube Playlist Methods for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-fine-tuning-dimensions-aspect-ratio-essentials-for-2024/"><u>[New] Fine-Tuning Dimensions Aspect Ratio Essentials for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters/"><u>[Updated] 2024 Approved The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-prolific-pose-pattern-packages/"><u>[Updated] Prolific Pose Pattern Packages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>[Updated] Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728507057474-usbsd/"><u>「USB接続でSDカードのデータ移行手順 - ホットスポットサービス」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-soften-your-iphone-pics-a-detailed-breakdown-4-ways/"><u>2024 Approved How to Soften Your iPhone Pics A Detailed Breakdown (4 Ways)</u></a></li>
+<li><a href="https://win-able.techidaily.com/advanced-optimization-techniques-to-enhance-sims-4-experience-on-your-computer/"><u>Advanced Optimization Techniques to Enhance Sims 4 Experience on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-for-smoothing-out-wwe-2k20-performance-issues-on-desktops-and-laptops/"><u>DIY Techniques for Smoothing Out WWE 2K20 Performance Issues on Desktops and Laptops</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-optimal-performance-6-tweaks-for-lowering-zooms-cpu-usage/"><u>Mastering Optimal Performance: 6 Tweaks for Lowering Zoom's CPU Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-graphics-settings-to-resolve-stuttering-in-pc-version-of-fortnite/"><u>Optimizing Graphics Settings to Resolve Stuttering in PC Version of Fortnite</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-no-sound-problems-in-your-twitch-livestreams-effectively/"><u>Resolving No-Sound Problems in Your Twitch Livestreams Effectively</u></a></li>
 </ul></div>
 

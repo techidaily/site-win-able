@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2025-02-11T19:53:12.643Z
-updated: 2025-02-14T20:35:51.508Z
+date: 2025-03-03T01:02:53.728Z
+updated: 2025-03-04T02:35:16.306Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the system requirements
 
  If the frame rate hasn’t been good for you when gaming, one of the first things you should do is to make sure that your computer specs are**above** the minimum system requirements for the games. If your machine is below or just at the requirements, you may need to upgrade your hardware for some games to run smoothly, especially newer games that were released in recent years, as they usually require more advanced computer hardware devices.
@@ -62,10 +58,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
  If there are bandwidth-intensive services and applications, like background downloads, music streaming, or video streaming, running when you’re gaming, please disable them, as their occupation of the network connection resource is likely the culprit to your low FPS in games. The same logic goes with CPU-intensive programs like**Intel Turbo Boost Technology** , so if you have it installed and running, please disable it as well.
@@ -79,17 +71,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -116,18 +100,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -191,14 +167,6 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -208,10 +176,6 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -255,21 +219,18 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-insta-boomerang-strategies-for-engaging-loops/"><u>[New] Insta-Boomerang Strategies for Engaging Loops</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nline-media-crafter/"><u>[New] Online Media Crafter</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers-for-2024/"><u>[Updated] 5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-how-to-for-youtube-comment-control/"><u>[Updated] The Essential How-To for YouTube Comment Control</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-ways-to-turn-your-shorts-into-a-money-machine-on-youtube-for-2024/"><u>[Updated] Top Ways to Turn Your Shorts Into a Money Machine on YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-optimized-how-to-stop-overloading-your-cpu/"><u>Chrome Optimized: How to Stop Overloading Your CPU</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-a56s-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo A56s 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-deathloop-pc-problems-quickly-and-effectively-simple-steps/"><u>Fix Your Deathloop PC Problems Quickly and Effectively [Simple Steps]</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-dreaded-diablo-ncrashing-problem-what-you-need-to-know/"><u>Fixing the Dreaded Diablo nCrashing Problem - What You Need to Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-overcoming-apex-legends-technical-hurdles-engine-error-solutions-explained/"><u>Guide to Overcoming Apex Legends Technical Hurdles - Engine Error Solutions Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/halo-infinite-stability-guide-stop-pc-disruptions-and-get-back-to-gaming-smoothly/"><u>Halo Infinite Stability Guide - Stop PC Disruptions and Get Back to Gaming Smoothly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-freezing-issues-in-total-war-saga-troy-on-your-windows-computer/"><u>How to Fix Freezing Issues in Total War Saga: Troy on Your Windows Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-x-fold-2-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from X Fold 2.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-the-ultimate-fix-guide-zdnet-insights/"><u>Tidying Up Linux & Open Source Manuals: The Ultimate Fix Guide - ZDNet Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-techniques-to-stop-stuttering-in-halo-infinite-and-enhance-your-experience/"><u>Top Techniques to Stop Stuttering in Halo Infinite and Enhance Your Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/sh-video-potential-leading-youtube-seo-tools/"><u>Unleash Video Potential - Leading YouTube SEO Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-bring-your-best-movies-from-mmc-to-the-vimeo-universe/"><u>[New] 2024 Approved Bring Your Best Movies From MMC to the Vimeo Universe</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-gpu-glimpse-new-radeon-unleashed/"><u>[Updated] GPU Glimpse New Radeon Unleashed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-visual-storytelling-on-facebook-crafting-compelling-slideshows-for-2024/"><u>[Updated] Visual Storytelling on Facebook Crafting Compelling Slideshows for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/advance-your-skills-with-improved-fps-techniques-in-tainted-grail-conquest/"><u>Advance Your Skills with Improved FPS Techniques in 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013096854-black-screen-woes-with-oculus-link-solve-them-in-six-easy-ways/"><u>Black Screen Woes with Oculus Link? Solve Them in Six Easy Ways!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-the-crowd-initiating-your-top-ranked-gaming-channel/"><u>Conquer the Crowd Initiating Your Top-Ranked Gaming Channel</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-stray-crashes-discover-these-6-proven-fixes-for-pc-users/"><u>Defeat Stray Crashes: Discover These 6 Proven Fixes for PC Users</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/get-your-favorite-newground-anime-in-high-quality-mp4-or-avi-for-free-easy-guide-for-macpc-users/"><u>Get Your Favorite NewGround Anime in High-Quality MP4 or AVI for Free – Easy Guide for Mac/PC Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-steam-library-linking-issues/"><u>Mending Steam Library Linking Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-voice-chats-content-warning-alert-problems/"><u>Step-by-Step Guide to Fixing Voice Chat's Content Warning Alert Problems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/king-youtube-potential-editing-after-the-upload-process-for-2024/"><u>Unlocking YouTube Potential Editing After the Upload Process for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/voice-of-the-visionary-beginning-your-journey-in-auditions-fading/"><u>Voice of the Visionary Beginning Your Journey in Audition’s Fading</u></a></li>
 </ul></div>
 

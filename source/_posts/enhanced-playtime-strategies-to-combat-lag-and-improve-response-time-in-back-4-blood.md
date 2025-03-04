@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Playtime: Strategies to Combat Lag and Improve Response Time in 'Back 4 Blood'"
-date: 2025-02-08T18:17:36.070Z
-updated: 2025-02-14T22:54:06.905Z
+date: 2025-02-26T10:12:34.667Z
+updated: 2025-03-04T10:52:19.916Z
 tags:
   - win11
   - win10
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Test internet connection
 
@@ -76,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
 
@@ -112,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1: Flush your DNS
 
  The action of flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the address from the DNS server every time it needs to access a new website. This may solve the lagging issue in Back 4 Blood if it’s triggered by invalid or corrupt DNS cache data. Here’s how to do it:
@@ -141,28 +125,16 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -196,19 +168,18 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-demystifying-syncopated-soundscapes-via-crossfading/"><u>[Updated] 2024 Approved Demystifying Syncopated Soundscapes via Crossfading</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-screen-recording-methods-on-dell-laptops/"><u>[Updated] Advanced Screen Recording Methods on Dell Laptops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-x-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone X iCloud Activation Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013870246-escape-from-tarkov-server-problems-fixing-your-connection-lost-glitch-now/"><u>Escape From Tarkov Server Problems? Fixing Your Connection Lost Glitch Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-borderlands-3-not-starting-in-11-simple-ways/"><u>Expert Advice on Fixing 'Borderlands 3 Not Starting' In 11 Simple Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-ultra-low-download-speeds-on-utorrent-a-comprehensive-guide/"><u>Fixing Ultra-Low Download Speeds on uTorrent: A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-para-convertir-videos-mkv-en-mp4-rapidamente-y-manteniendo-la-alta-calidad-visual/"><u>Guía Paso a Paso Para Convertir Vídeos MKV en MP4 Rápidamente Y Manteniendo La Alta Calidad Visual</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a15-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A15 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-interruptions-solve-your-civ-vi-crash-problem-today-with-these-tips/"><u>No More Interruptions! Solve Your Civ VI Crash Problem Today With These Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/optimized-techniques-for-capturing-win10-games-for-2024/"><u>Optimized Techniques for Capturing Win10 Games for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-windows-11-blockades-to-launching-steam-titles-expert-tips-included/"><u>Overcome Windows 11 Blockades to Launching Steam Titles – Expert Tips Included</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-star-wars-jedi-fallen-order-errors-get-fixed/"><u>PC Gamers Rejoice as Star Wars Jedi: Fallen Order Errors Get Fixed</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/repair-techniques-for-malfunctioning-hard-drives-tips-and-tricks-yl-computing/"><u>Repair Techniques for Malfunctioning Hard Drives: Tips & Tricks - YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-picks-for-your-next-shot-in-4k-reflective-tech/"><u>Top Picks for Your Next Shot in 4K Reflective Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-decoding-complex-task-efficient-background-cleansing-in-affinitys-realm/"><u>[New] 2024 Approved Decoding Complex Task Efficient Background Cleansing in Affinity's Realm</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>[New] The Social Media Elite Playbook Cultivate Your Stardom in 9 Easy Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-5-pro-drone-selections-for-professionals/"><u>[New] Top 5 Pro Drone Selections for Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-playtime-interruptions-comprehensive-guide-to-resolving-constant-pc-crashes-in-watch-dogs-legion/"><u>Addressing Playtime Interruptions: Comprehensive Guide to Resolving Constant PC Crashes in Watch Dogs: Legion</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-ue4s-halo-4-2024-fatal-crash-a-step-by-step-fix-manual/"><u>Bypassing UE4's Halo 4 2024 Fatal Crash - A Step-by-Step Fix Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-guide-converting-your-dvd-riddick-collection-into-multiple-formats-with-ease/"><u>Effortless Guide: Converting Your DVD Riddick Collection Into Multiple Formats with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-hyper-v-virtualization-on-your-pc-with-windows-11-instructions/"><u>Enabling Hyper-V Virtualization on Your PC with Windows 11 Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005916670-fix-your-world-of-tanks-blitz-app-stability-issues-end-the-constant-crashes-now/"><u>Fix Your World of Tanks Blitz App Stability Issues - End the Constant Crashes Now!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>In 2024, A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-say-goodbye-to-watermarks-top-10-free-online-video-editing-software/"><u>New In 2024, Say Goodbye to Watermarks Top 10 Free Online Video Editing Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-tags-to-achieve-six-figures-in-views/"><u>Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-guide-to-mastering-powerdirector-for-2024/"><u>The Ultimate Guide to Mastering PowerDirector for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005"
-date: 2025-02-07T22:07:19.240Z
-updated: 2025-02-14T16:41:36.134Z
+date: 2025-02-25T07:06:20.208Z
+updated: 2025-03-04T08:29:24.447Z
 tags:
   - win11
   - win10
@@ -48,18 +48,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -69,10 +61,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
@@ -100,10 +88,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run your game in DX11
 
  If you still get this error in some specific spots, but all of your device drivers are up-to-date, the culprit might be DirectX 12\. There are some problems with advanced DX12 features such as ray tracing and variable rate shading. To enjoy a crash-free game, you can run your game in DX 11 instead. Here’s how:
@@ -118,15 +102,7 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Delete the Battle.net Cache folder
 
@@ -140,10 +116,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Set English as the Windows display language
 
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
@@ -154,10 +126,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
 
@@ -186,19 +154,18 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-crafting-compelling-podcast-cliffhangers-for-2024/"><u>[New] Crafting Compelling Podcast Cliffhangers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-does-photoshops-motion-stabilization-matter/"><u>2024 Approved Does Photoshop's Motion Stabilization Matter?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-watchlist-experience-with-youtubes-av1-settings/"><u>2024 Approved Elevate Your Watchlist Experience with YouTube's AV1 Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/all-about-vision-pros-travel-feature-insights-and-tips-before-you-embark-on-your-journey-zdnet/"><u>All About Vision Pro's Travel Feature: Insights & Tips Before You Embark on Your Journey | ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banish-lag-from-your-street-fighter-groove-expert-fixes-for-a-smooth-gaming-experience/"><u>Banish LAG From Your Street Fighter Groove: Expert Fixes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-change-your-lol-replay-from-rofl-to-mp4-format/"><u>Easy Steps to Change Your LoL Replay From .rofl to MP4 Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-tutorial-convert-any-youtube-video-into-an-animated-gif-file/"><u>Easy Tutorial: Convert Any YouTube Video Into an Animated GIF File</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-transformation-the-ultimate-tutorial-for-converting-webm-to-high-quality-m4a-audio-files/"><u>Effortless Transformation: The Ultimate Tutorial for Converting WebM to High-Quality M4A Audio Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-dvd-ripping-tool-with-zero-watermarks-how-to-transform-your-dvds-perfectly/"><u>Free DVD Ripping Tool with Zero Watermarks - How to Transform Your DVDs Perfectly</u></a></li>
-<li><a href="https://win-able.techidaily.com/gi-joe-retaliation-dvd-unlocks-secure-your-copy-today/"><u>G.I. Joe: Retaliation DVD Unlocks - Secure Your Copy Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-supported-geforce-rtx-3070-ti-drivers-for-windows-11-8-and-7-users/"><u>Get the Latest Supported GeForce RTX 3070 Ti Drivers for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lg-360-vr-headset-review/"><u>In 2024, LG 360 VR Headset Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-avi-playback-software-for-computers/"><u>Premium Avi Playback Software for Computers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/videoharvest-downloading-fb-content-for-2024/"><u>VideoHarvest Downloading Fb Content for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>[New] In 2024, Learn to Cropping & Composition The Audio-Visual Balance in Canvas</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-the-best-practices-for-fb-video-advertising/"><u>[Updated] 2024 Approved Navigating the Best Practices for FB Video Advertising</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-and-easy-iphone-burst-techniques-for-2024/"><u>Quick and Easy iPhone Burst Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-mode-off-steps-to-reactivate-sounds-on-an-acer-laptop/"><u>Silent Mode Off: Steps to Reactivate Sounds on an Acer Laptop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-and-learn-fast-the-top-10-simple-languages-guide/"><u>Speak and Learn Fast: The Top 10 Simple Languages Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stable-playtime-awaits-solutions-for-preventing-far-cry-6-pc-game-crashes/"><u>Stable Playtime Awaits: Solutions for Preventing Far Cry 6 PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013877151-stardew-valley-wont-start-on-your-console-heres-what-you-need-to-know/"><u>Stardew Valley Won’t Start on Your Console? Here’s What You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002610637-stardew-valley-wont-start-here-are-solutions-that-worked-for-players/"><u>Stardew Valley Won't Start? Here Are Solutions That Worked for Players</u></a></li>
+<li><a href="https://fox-within.techidaily.com/transfer-live365-streams-to-high-quality-audio-formats-like-mp3-wav-and-aac-with-our-handy-downloader/"><u>Transfer Live365 Streams to High-Quality Audio Formats Like MP3, WAV, and AAC with Our Handy Downloader</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-wallpaper-engine-from-crashing-in-windows-operating-systems/"><u>Troubleshooting Guide: How to Stop Wallpaper Engine From Crashing in Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-applications-stuck-or-crashing-master-fixes-and-techniques-guide-of-2024/"><u>Troubleshooting PC Applications Stuck or Crashing? Master Fixes & Techniques (Guide of 2024)</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-snap-camera-connection-issue-on-your-device/"><u>Understanding and Solving the Snap Camera Connection Issue on Your Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-best-practices-for-using-chatgpt-as-a-writer/"><u>Unlocking Potential: Best Practices for Using ChatGPT as a Writer</u></a></li>
 </ul></div>
 

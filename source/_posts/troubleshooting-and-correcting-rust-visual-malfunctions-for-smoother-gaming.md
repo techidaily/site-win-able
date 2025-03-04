@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2025-02-09T02:32:33.120Z
-updated: 2025-02-14T22:01:01.303Z
+date: 2025-02-28T04:10:35.626Z
+updated: 2025-03-04T07:16:55.209Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Repair system files
 
@@ -79,10 +75,6 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  The graphics card is the heart and soul for games like CoD. If Vanguard keeps crashing on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the game crashing issue.
@@ -98,19 +90,11 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -136,10 +120,6 @@ To check the specs of your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
@@ -176,10 +156,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
@@ -194,10 +170,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -222,21 +194,21 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[New] 2024 Approved Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-brilliant-setups-top-17-gear-for-online-videographers/"><u>[New] In 2024, Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-chromebook-zoom-capabilities/"><u>[Updated] Unlocking Chromebook Zoom Capabilities</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[Updated] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-are-earnings-associated-with-good-and-service-analysis/"><u>2024 Approved Are Earnings Associated with Good and Service Analysis?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1728465653971-aomei-backupper/"><u>专业技师的秘密 - AOMEI Backupper如何管理和备份磁盘部分或卷</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-against-bugs-eliminate-recurring-glitches-in-your-immortals-fenyx-rising-adventure/"><u>Battle Against Bugs: Eliminate Recurring Glitches in Your Immortals Fenyx Rising Adventure</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-code-leaf-on-apex-legends-causes-and-fixes-detailed/"><u>Error Code Leaf on Apex Legends : Causes and Fixes Detailed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-examination-adobe-lightroom-for-mobile-users/"><u>Essential Examination Adobe Lightroom for Mobile Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-resolve-payday-2-failed-pc-startup-issues/"><u>Fix Guide: How to Resolve Payday 2 Failed PC Startup Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-ready-playstations-god-of-war-hits-pc-as-an-exciting-fps-experience/"><u>Get Ready: PlayStation's God of War Hits PC as an Exciting FPS Experience!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-continuous-dota-underlord-game-crashes/"><u>How to Prevent and Resolve Continuous Dota Underlord Game Crashes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-storytelling-mastery-scriptwriting-secrets-revealed/"><u>In 2024, Storytelling Mastery Scriptwriting Secrets Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-persistent-bugs-in-pathfinder-the-final-campaign-update/"><u>Resolving Persistent Bugs in Pathfinder - The Final Campaign Update</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-mastering-the-art-of-video-editing-on-facebooks-platform/"><u>Step-by-Step Guide: Mastering the Art of Video Editing on Facebook's Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-startup-issues/"><u>Troubleshooting City Skylines 2 Startup Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-detailed-study-exploring-the-capabilities-of-android-lightroom/"><u>[New] 2024 Approved Detailed Study Exploring the Capabilities of Android Lightroom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc-for-2024/"><u>[New] How to Optimize Your Media with Simple Video Spin Techniques in VLC for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tepwise-guide-to-youtube-video-enhancement-in-imovie-for-2024/"><u>[New] Stepwise Guide to YouTube Video Enhancement in iMovie for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-essentials-of-transferring-youtube-media-to-social-networks-for-2024/"><u>[Updated] The Essentials of Transferring YouTube Media to Social Networks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-frame-rate-drop-and-latency-in-call-of-duty-modern-warfare-3/"><u>Battling Frame Rate Drop and Latency in Call of Duty Modern Warfare 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/blackout-no-more-fixing-the-star-wars-battlefront-2-screen-problem-efficiently/"><u>Blackout No More: Fixing the Star Wars Battlefront 2 Screen Problem Efficiently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-revamped-eliminating-lag-and-smoothing-gameplay-glitches/"><u>Cyberpunk 2077 Revamped: Eliminating Lag and Smoothing Gameplay Glitches</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-the-power-of-panasonics-hx-a1-actioncam-for-2024/"><u>Discover the Power of Panasonic's HX-A1 ActionCam for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elevating-minecraft-performance-with-increased-memory-allocation-for-2024/"><u>Elevating Minecraft Performance with Increased Memory Allocation for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-restoring-functionality-to-broken-logitech-control-panel-on-windows/"><u>Expert Advice: Restoring Functionality to Broken Logitech Control Panel on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001338625-fix-that-frustrating-frame-rate-drop-in-overwatch-instantly/"><u>Fix That Frustrating Frame-Rate Drop in Overwatch, Instantly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-destruction-dilemmas-on-pc-masterful-fixes-and-strategies-await/"><u>Helldivers 2 Destruction Dilemmas on PC? Masterful Fixes and Strategies Await!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-correcting-error-3-cxxx-in-rainbow-six-siege/"><u>Step-by-Step Guide to Correcting Error 3-CXXX in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-ultimate-guide-eliminate-persistent-files-on-windows-10-once-and-for-all/"><u>The Ultimate Guide: Eliminate Persistent Files on Windows 10 Once and For All!</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-guide-resolving-windows-11-unresponsive-post-boot-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Unresponsive Post-Boot Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-starcraft-ii-pc-game-crashes-and-enjoying-uninterrupted-playtime/"><u>Ultimate Guide: Preventing StarCraft II PC Game Crashes and Enjoying Uninterrupted Playtime</u></a></li>
 </ul></div>
 

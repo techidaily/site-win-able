@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2025-02-11T21:19:08.100Z
-updated: 2025-02-14T21:33:20.220Z
+date: 2025-02-25T03:14:34.845Z
+updated: 2025-03-04T06:16:40.429Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,10 +57,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -77,10 +69,6 @@ You can do it with only 2 steps:
 3. Join a game and see if your FPS gets better.
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -95,10 +83,6 @@ You can do it with only 2 steps:
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -125,10 +109,6 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
@@ -150,10 +130,6 @@ Here’s how to enable this power plan:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -180,18 +156,18 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-be-the-life-of-the-party-uploading-and-sharing-gifs-on-instagram-instant-guide/"><u>[New] 2024 Approved Be the Life of the Party Uploading & Sharing GIFs on Instagram [Instant Guide]</u></a></li>
-<li><a href="https://article-tips.techidaily.com/enhance-pc-sound-experience-with-these-5-recording-techniques-on-windows-11/"><u>Enhance PC Sound Experience with These 5 Recording Techniques on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/future-proof-cameras-top-2024-choices/"><u>Future-Proof Cameras Top 2024 Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-restore-failed-message-functionality-in-discord/"><u>Guide to Restore Failed Message Functionality in Discord</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/hitting-1080p-quality-with-facebook-broadcasting/"><u>Hitting 1080P Quality with Facebook Broadcasting</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-cant-display-page-errors-on-chrome-for-easy-browsing/"><u>How to Overcome 'Can’t Display Page' Errors on Chrome for Easy Browsing</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-game-crash-issues-with-nba-2k21-on-windows-computers/"><u>How to Overcome Game Crash Issues with NBA 2K21 on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-praeys-for-the-gods-from-continuously-crashing-on-your-computer/"><u>How to Stop Praeys for the Gods From Continuously Crashing on Your Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-streaming-experience-with-two-screen-viewing-on-netflix/"><u>In 2024, Maximizing Streaming Experience with Two-Screen Viewing on Netflix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-fix-of-bluetooth-driver-challenges-in-windows-10-step-by-step-troubleshooting/"><u>Mastering the Fix of Bluetooth Driver Challenges in Windows 10 – Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-0x80072efd-in-win1110s-microsoft-store/"><u>Solving 0X80072EFD in Win11/10's Microsoft Store</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-bless-unleashed-latency-issues-effective-ways-to-reduce-lag-and-improve-your-gaming-experience/"><u>Solving Bless Unleashed Latency Issues: Effective Ways to Reduce Lag and Improve Your Gaming Experience</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/virtuatongue-speaking-beyond-borders-in-virtual-reality/"><u>VirtuaTongue: Speaking Beyond Borders in Virtual Reality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-navigating-classic-gaming-on-modern-computers-with-5-top-gb-advance-emulators-for-2024/"><u>[New] Navigating Classic Gaming on Modern Computers with 5 Top GB Advance Emulators for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-5-excellent-video-conference-devices-for-professionals-for-2024/"><u>[Updated] 5 Excellent Video Conference Devices for Professionals for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-released-resolving-the-problem-when-resident-evil-village-wont-boot-up/"><u>Fix Released! Resolving the Problem When Resident Evil Village Won't Boot Up</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fmri-can-map-cognitive-functions-helping-to-preserve-these-areas-during-surgical-interventions-such-as-tumor-resection-or-epilepsy-surgery/"><u>FMRI Can Map Cognitive Functions, Helping to Preserve These Areas During Surgical Interventions Such as Tumor Resection or Epilepsy Surgery</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-dolby-atmos-functionality-on-windows-operating-systems/"><u>How to Restore Dolby Atmos Functionality on Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenges-keeping-tower-of-fantasy-running-smoothly-on-pc/"><u>Overcoming the Challenges: Keeping Tower of Fantasy Running Smoothly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-constant-disruptions-madden-nfl-21-running-smoothly-on-desktop/"><u>Resolve Constant Disruptions – Madden NFL 21 Running Smoothly on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-vr-recognition-top-6-effective-methods-explored/"><u>Resolving Steam VR Recognition: Top 6 Effective Methods Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-dandd-worlds-leveraging-ai-to-forge-fictional-beings/"><u>Sculpting D&D Worlds: Leveraging AI to Forge Fictional Beings</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-walkthrough-for-using-driver-easys-mobile-app/"><u>The Ultimate Walkthrough for Using Driver Easy's Mobile App</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-solving-constant-game-crashes-in-watch-dogs-legion-on-windows/"><u>Troubleshooting Tips for Solving Constant Game Crashes in Watch Dogs Legion on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-the-dynamics-behind-youtubes-investment-in-shorts-for-2024/"><u>Understanding the Dynamics Behind YouTube's Investment in Shorts for 2024</u></a></li>
 </ul></div>
 

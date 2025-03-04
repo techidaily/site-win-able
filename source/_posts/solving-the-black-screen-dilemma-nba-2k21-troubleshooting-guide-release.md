@@ -1,7 +1,7 @@
 ---
 title: "Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release"
-date: 2025-02-08T21:15:12.251Z
-updated: 2025-02-14T22:01:23.382Z
+date: 2025-03-01T05:09:02.106Z
+updated: 2025-03-03T22:08:08.356Z
 tags:
   - win11
   - win10
@@ -66,16 +66,8 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-properties.jpg)
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
@@ -95,10 +87,6 @@ If the issue remains, check out the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -120,10 +108,6 @@ If the issue persists, take a look at the next fix.
 
  If your system is up to date and you still get a black screen, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Allow the game through Windows Firewall
 
  Windows Firewall may block the normal operation of your game and cause the black screen issue. To fix the potential problem, you need to add Halo Infinite to the exception list of Windows Firewall. Here’s how:
@@ -131,10 +115,6 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
@@ -156,19 +136,11 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
@@ -181,10 +153,6 @@ If the issue persists, take a look at the next fix.
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
 
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
 
@@ -221,17 +189,18 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-compelling-documentary-narratives/"><u>[New] 2024 Approved Crafting Compelling Documentary Narratives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors/"><u>[Updated] 2024 Approved Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-top-8-premium-free-srt-translation-solutions/"><u>2024 Approved Unveiling Top 8 Premium Free SRT Translation Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-freezes-forever-learn-how-pathfinder-for-pc-has-been-optimized-and-enhanced/"><u>Banish Freezes Forever! Learn How Pathfinder for PC Has Been Optimized and Enhanced</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-time-live-photo-journey-to-video-vista/"><u>In 2024, Capturing Time Live Photo Journey to Video Vista</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>In 2024, Fast-Forward Freedom in Snapchat A Noob’s Handbook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-geforce-gtx-3070-ti-windows-drivers-compatible-with-windows-10-8-and-7/"><u>Official GeForce GTX 3070 Ti Windows Drivers: Compatible with Windows 10, 8 and 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-constant-steam-app-crashes-swift-strategies-to-stabilize-your-gaming-experience/"><u>Overcome Constant Steam App Crashes: Swift Strategies to Stabilize Your Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-game-interruptions-successful-fixes-to-stop-valheim-from-closing-on-pc/"><u>Overcoming Game Interruptions: Successful Fixes to Stop Valheim From Closing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-cuestion-de-solucion-en-la-pantalla-de-carga/"><u>Red Dead Redemption Cuestión De Solución en La Pantalla De Carga</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-prevent-the-crashing-of-resident-evil-4-remake-on-your-pcconsole/"><u>Troubleshooting Tips to Prevent the Crashing of Resident Evil 4 Remake on Your PC/Console</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/yl-softwares-step-by-step-process-for-uploading-music-from-computer-to-ipod/"><u>YL Software's Step-by-Step Process for Uploading Music From Computer to iPod</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-windows-11s-best-pc-webcam-recorders-reviewed/"><u>[New] In 2024, Windows 11'S Best PC Webcam Recorders Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-steps-for-turning-pin-videos-into-music-files/"><u>[Updated] 2024 Approved Ultimate Steps for Turning Pin Videos Into Music Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-prime-5-hd-webcams-for-seamless-video-conferencing-for-2024/"><u>[Updated] Prime 5 HD Webcams For Seamless Video Conferencing for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-secrets-to-efficient-image-capturing/"><u>[Updated] Unlocking the Secrets to Efficient Image Capturing</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-news-elden-ring-delay-clarified-fans-await-answers/"><u>Breaking News: Elden Ring Delay Clarified – Fans Await Answers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g13-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G13 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-network-problems-addressing-our-data-centers-ping-failure-in-halo-infinite/"><u>How to Overcome Network Problems - Addressing Our Data Centers Ping Failure in Halo Infinite</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-preventing-assassins-creed-odyssey-from-freezing-updated-2er-tips/"><u>Mastering the Fix: Preventing Assassin's Creed Odyssey From Freezing - Updated 2Er Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-settings-to-eliminate-stuttering-during-assassins-creed-valhalla-sessions/"><u>Optimizing Your PC Settings to Eliminate Stuttering During Assassin's Creed Valhalla Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-call-of-duty-black-ops-4-fixes-for-laggy-gameplay-and-lowered-frames-per-second/"><u>Overcoming Call of Duty: Black Ops 4 - Fixes for Laggy Gameplay & Lowered Frames per Second</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-dota-2-startup-issues-and-persistent-loading-interfaces/"><u>Resolving Dota 2 Startup Issues and Persistent Loading Interfaces</u></a></li>
 </ul></div>
 

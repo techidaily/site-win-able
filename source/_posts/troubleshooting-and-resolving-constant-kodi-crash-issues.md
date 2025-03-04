@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Constant Kodi Crash Issues
-date: 2024-12-14T00:21:06.530Z
-updated: 2024-12-20T02:27:45.894Z
+date: 2025-02-25T22:49:34.976Z
+updated: 2025-03-03T16:33:06.924Z
 tags:
   - win11
   - win10
@@ -72,10 +72,6 @@ Here’s how:
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of the crash is**corrupted or outdated graphics drivers** . GPU manufacturers keep releasing driver updates in response to compatibility issues with new games. So if you can’t remember the last time you checked for driver updates, definitely do it now because it could just fix your issue in a jiffy.
@@ -106,16 +102,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
@@ -151,16 +139,8 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
@@ -178,22 +158,10 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute.jpg)
 2. From the left menu, Select**Graphics** . Change the settings of**Display Mode** to**1280×720 Windowed** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -232,10 +200,6 @@ And just for your reference, here’s my graphics settings:
 
 Now you can launch Genshin Impact and see if it stops crashing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9: Check for corrupted system files
 
  If none of the fixes work for you, try scanning Windows and see if it’s a system issue.
@@ -246,10 +210,6 @@ Now you can launch Genshin Impact and see if it stops crashing.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -274,18 +234,14 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-powerful-teacher-content-on-youtube-top-10-insights/"><u>[New] 2024 Approved Creating Powerful Teacher Content on YouTube Top 10 Insights</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-art-of-eating-10-social-media-staples/"><u>[New] The Art of Eating 10 Social Media Staples</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-audio-archive-checkout-and-scrutiny/"><u>[Updated] 2024 Approved Audio Archive Checkout & Scrutiny</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-innovative-approaches-adding-borders-to-your-instagram-content/"><u>2024 Approved Innovative Approaches Adding Borders to Your Instagram Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/apowersofts-capabilities-tested-against-market-contenders-for-2024/"><u>Apowersoft's Capabilities Tested Against Market Contenders for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/best-online-strategies-for-mastering-korean-language-skills/"><u>Best Online Strategies for Mastering Korean Language Skills</u></a></li>
-<li><a href="https://win-able.techidaily.com/dota-2-fixes-resolved-issues-with-game-not-starting-or-getting-stuck-during-load/"><u>Dota 2 Fixes: Resolved Issues with Game Not Starting or Getting Stuck During Load</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-a-free-tool-easy-conversion-of-swf-videos-to-mpeg-on-windows-and-web-platforms/"><u>Download a Free Tool: Easy Conversion of SWF Videos to MPEG on Windows and Web Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-left-4-dead-2-ultimate-guide-to-resolving-game-crashes/"><u>Fixing Left 4 Dead 2: Ultimate Guide to Resolving Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-ntdlldll-error-how-to-resolve-application-crashes-in-windows-11-and-windows-1nten/"><u>Fixing the [ntdll.dll Error] – How to Resolve Application Crashes in Windows 11 and Windows 1nTen</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-to-your-intel-driver-and-support-helper-when-its-gone-awry-on-windows/"><u>How to Restore Functionality to Your Intel Driver & Support Helper When It's Gone Awry on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-top-ranked-no-cost-image-format-switchers-jpg-to-gif/"><u>In 2024, 10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF)</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-solve-constant-freezing-in-deathloop-game-on-both-pc-and-playstation-5-platforms/"><u>Ultimate Guide to Solve Constant Freezing in Deathloop Game on Both PC and PlayStation 5 Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-best-html5-video-player-landscape/"><u>[New] Navigating the Best HTML5 Video Player Landscape</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enchant-your-e-images-with-electronic-soundtracks/"><u>[Updated] 2024 Approved Enchant Your E-Images with Electronic Soundtracks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-communication-strategies-chatbots-utilize-to-engage-in-conversations-like-humans/"><u>Decoding AI Communication: Strategies Chatbots Utilize to Engage in Conversations Like Humans</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-seamless-usage-solve-your-crashing-control-issues-fast-and-with-ease/"><u>Experience Seamless Usage: Solve Your Crashing Control Issues Fast & With Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-lag-and-improve-performance-in-v-on-your-computer/"><u>How to Eliminate Lag and Improve Performance in V on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-a-guide-to-optimizing-horizon-zero-dawn-on-your-computer/"><u>No More Crashes - A Guide to Optimizing Horizon Zero Dawn on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solutions-for-phasmophobia-game-crashes/"><u>Ultimate Guide: Solutions for Phasmophobia Game Crashes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Updated In 2024, Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
 </ul></div>
 

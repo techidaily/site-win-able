@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Boost Your Splitgate Gameplay with Higher FPS"
-date: 2025-02-13T23:57:32.287Z
-updated: 2025-02-15T03:35:39.465Z
+date: 2025-02-26T10:02:38.771Z
+updated: 2025-03-03T16:21:59.153Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 1. **[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: **Disable your antivirus temporarily**
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -57,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If this didn’t help in resolving your problem, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -73,10 +61,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -101,10 +85,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
@@ -141,10 +121,6 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Terraria_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
@@ -156,10 +132,6 @@ If not, try the next fix.
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
@@ -202,10 +174,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -214,10 +182,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
@@ -225,10 +189,6 @@ If this didn’t work for you, check the fix, below.
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -275,24 +235,19 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/alert-windows-10-print-queue-offline/"><u>[ALERT] Windows 10: Print Queue Offline</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>[New] Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-secret-to-success-a-compre-ffive-essential-keyword-tools/"><u>[New] YouTube's Secret to Success A Compre FFive Essential Keyword Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-bridging-gaps-transforming-trend-data-into-video-concepts-for-2024/"><u>[Updated] Bridging Gaps Transforming Trend Data Into Video Concepts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-electorate-engagement-enigma-top-simulator-series/"><u>[Updated] In 2024, Electorate Engagement Enigma Top Simulator Series</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>[Updated] In 2024, Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-odins-legacy-destiny-of-ragnarok/"><u>[Updated] Odin's Legacy Destiny of Ragnarök</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-discord-glitches-a-step-by-step-fix-for-continual-app-crashes/"><u>Banishing Discord Glitches: A Step-by-Step Fix for Continual App Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-latency-effective-fixes-for-a-smoother-dota-2-experience/"><u>Beat the Latency: Effective Fixes for a Smoother Dota 2 Experience</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-disney-100th-anniversary-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Disney 100th Anniversary Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-error-0xc19001e1-on-your-windows-11-machine-quick-fixes/"><u>Expert Advice: Overcoming Error 0XC19001E1 on Your Windows 11 Machine - Quick Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y200-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y200</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-kodi-connection-woes-a-guide-to-correcting-failed-directory-fetch-errors/"><u>Mastering Kodi Connection Woes: A Guide to Correcting Failed Directory Fetch Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-through-files-with-command-line-tools-a-beginners-approach/"><u>Navigating Through Files with Command Line Tools: A Beginner's Approach</u></a></li>
-<li><a href="https://win-able.techidaily.com/newest-fixes-for-the-latest-phasmophobia-issues-release/"><u>Newest Fixes for the Latest Phasmophobia Issues Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-issues-resolved-fixes-for-pc-players/"><u>Rainbow Six Extraction Issues Resolved: Fixes for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-continuous-breakdowns-in-gas-station-simulation-on-your-computer/"><u>Solved: Overcoming Continuous Breakdowns in Gas Station Simulation on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-the-cycle-of-existence-the-black-continuums-resilience/"><u>Unraveling the Cycle of Existence: The Black Continuum's Resilience</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-is-my-vrchat-app-failing-to-start-essential-solutions-explored/"><u>Why Is My VRChat App Failing to Start? Essential Solutions Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-buy-youtube-likes-for-2024-does-it-really-help-boost-your-channel/"><u>[New] Buy YouTube Likes for 2024 Does It Really Help Boost Your Channel?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-guide-top-10-free-youtube-to-mp3-tools-for-2024/"><u>[New] Essential Guide Top 10 Free YouTube-to-MP3 Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-highlight-harmony-the-top-business-tactics-for-insta/"><u>[Updated] 2024 Approved Highlight Harmony The Top Business Tactics for Insta</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elevate-professional-visuals-the-definitive-guide-to-vce-22/"><u>[Updated] Elevate Professional Visuals The Definitive Guide to VCE 2.2</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>[Updated] In 2024, Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-live-subscriber-count-meters/"><u>[Updated] Live Subscriber Count Meters</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-pc-stability-issues-resolved-top-fixes-explored/"><u>Battlefield 5 PC Stability Issues Resolved - Top Fixes Explored</u></a></li>
+<li><a href="https://fox-where.techidaily.com/explore-the-full-range-of-services-at-flipprintercom-your-ultimate-resource-for-professional-printing/"><u>Explore the Full Range of Services at FlipPrinter.com – Your Ultimate Resource for Professional Printing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guide-comment-localiser-des-images-manquantes-sur-votre-disque-externe-avec-windows/"><u>Guide: Comment Localiser Des Images Manquantes Sur Votre Disque Externe Avec Windows?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-sea-of-thieves-start-up-errors-and-play-today/"><u>How to Overcome Sea of Thieves Start-Up Errors and Play Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-solutions-to-stop-serious-sam-4-from-hitching-and-skipping-on-pc/"><u>Improving Performance: Solutions to Stop Serious Sam 4 From Hitching & Skipping on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005125805-introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/left-dead-2-stability-solutions-overcoming-game-crash-issues-successfully/"><u>Left √Dead 2 Stability Solutions - Overcoming Game Crash Issues Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/outlook-connection-errors-ultimate-fixes-and-tips-for-a-smooth-email-experience/"><u>Outlook Connection Errors - Ultimate Fixes and Tips for a Smooth Email Experience</u></a></li>
 </ul></div>
 

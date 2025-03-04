@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Correct 'Connection Unavailable to Live Servers' Mistakes
-date: 2025-01-27T17:26:43.123Z
-updated: 2025-01-31T16:56:02.105Z
+date: 2025-02-27T00:06:53.557Z
+updated: 2025-03-04T08:40:11.547Z
 tags:
   - win11
   - win10
@@ -61,17 +61,9 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Click**LOCAL FILES** , then click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
 If this doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update the graphics driver
 
@@ -92,10 +84,6 @@ If this doesn’t solve your problem, move on to the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Configure your firewall settings
 
@@ -120,20 +108,12 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
 
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Check your DNS settings
 
@@ -159,10 +139,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -174,16 +150,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
@@ -192,14 +160,6 @@ Here are the steps:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -237,21 +197,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-dissecting-the-newest-features-of-facebook-for-2024/"><u>[New] Dissecting the Newest Features of Facebook for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-clear-images-made-easy-picart-backdrop-takedown-technique/"><u>[New] In 2024, Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
-<li><a href="https://facebook.techidaily.com/12-innovative-approaches-to-surge-engagement-in-your-social-feed/"><u>12 Innovative Approaches to Surge Engagement in Your Social Feed</u></a></li>
-<li><a href="https://win-able.techidaily.com/bid-farewell-to-overwatch-crashes-a-complete-guide-to-update-graphics-drivers/"><u>Bid Farewell to Overwatch Crashes - A Complete Guide to Update Graphics Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-how-to-stop-god-of-war-from-kicking-you-off-your-pc-mid-game/"><u>Expert Advice: How to Stop 'God of War' From Kicking You Off Your PC Mid-Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-6-stability-enhancements-avoid-game-crashes-for-a-smooth-experience/"><u>Far Cry 6 Stability Enhancements: Avoid Game Crashes for a Smooth Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-issues-resolved-troubleshooting-back-4-blood-wont-start-on-win11-win10-and-win7/"><u>Fix Issues: [Resolved] Troubleshooting Back 4 Blood Won't Start on Win11, Win10 & Win7</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-twitch-stream-playback-issues-a-guide-to-7-key-techniques/"><u>Fixing Twitch Stream Playback Issues: A Guide to 7 Key Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>How to Unlock a Network Locked ZTE Axon 40 Lite Phone?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes/"><u>In 2024, Your Daily Dose of Humor & Heartbreak From Instagram Memes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/regain-your-voice-fixing-iphone-call-issues-with-these-10-quick-solutions/"><u>Regain Your Voice: Fixing iPhone Call Issues with These 10 Quick Solutions</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/topo-lista-de-software-livre-para-gravar-e-replicar-dvds-em-sistemas-operacionais-windows-10-and-11-guia-completo/"><u>Topo Lista De Software Livre Para Gravar E Replicar DVDs Em Sistemas Operacionais Windows 10 & 11: Guia Completo</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-persistent-crashes-in-the-game-immortals-fenyx-rising/"><u>Troubleshooting Guide: Solving Persistent Crashes in the Game Immortals Fenyx Rising</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-vrchat-when-it-wont-load-or-function/"><u>Troubleshooting: How to Fix VRChat When It Won't Load or Function</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-v29e-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo V29e Phone Network-Ready</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-makes-duckduckgo-different-privacy-and-security-insights/"><u>What Makes DuckDuckGo Different? Privacy & Security Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/4khd/"><u>「4KビデオをフルHDにダウンコンバートする手順とテクニック」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>2024 Approved The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieving-smooth-play-in-fall-guys-techniques-for-increasing-frames-per-second-fps-and-decreasing-lag/"><u>Achieving Smooth Play in Fall Guys: Techniques for Increasing Frames Per Second (FPS) and Decreasing Lag</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-reduce-god-of-wars-impact-on-your-pcs-processor-load/"><u>Effective Strategies to Reduce God of War's Impact on Your PC's Processor Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-the-initial-launch-problems-in-age-of-empires-4/"><u>Fixes and Solutions for the Initial Launch Problems in Age of Empires 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-resolve-gta-v-wont-start-issues/"><u>Fixes and Solutions: How to Resolve 'GTA V Won't Start' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-edge-over-competition-fixing-street-fighter-6s-latency-and-improving-your-online-matches/"><u>Getting Edge over Competition: Fixing Street Fighter 지오 6'S Latency & Improving Your Online Matches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-steam-from-continuously-crashing-in-seconds/"><u>How to Stop Steam From Continuously Crashing in Seconds</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/iastorasys-bluescreens-no-more-comprehensive-guide-to-fixing-your-pcs-critical-error/"><u>IaStora.sys Bluescreens No More! - Comprehensive Guide to Fixing Your PC's Critical Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-generic-bluetooth-device-drivers-for-windows-free-downloads-available/"><u>Newest Generic Bluetooth Device Drivers for Windows: Free Downloads Available</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y28-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y28 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-why-doesnt-starfield-work-properly-on-windowsmac/"><u>Step-by-Step Solution: Why Doesn't Starfield Work Properly on Windows/Mac?</u></a></li>
+<li><a href="https://win-able.techidaily.com/tarkov-hackers-hub-fixing-error-code-103003-easy-ways/"><u>Tarkov Hackers Hub: Fixing Error Code 103003 Easy Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-viewing-all-episodes-of-indiana-jones-saga-sequentially/"><u>The Ultimate Guide: Viewing All Episodes of Indiana Jones Saga Sequentially</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-digital-lifestyle-with-the-m1-powered-ipad-pro-a-game-changer-in-desktop-alternatives-for-on-the-go-users/"><u>Transform Your Digital Lifestyle with the M1-Powered iPad Pro : A Game-Changer in Desktop Alternatives for On-the-Go Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-d3d-initialization-error-errgfx-in-grand-theft-auto-v/"><u>Troubleshooting the D3D Initialization Error (ERR_GFX) in Grand Theft Auto V</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mpg-vob-online-converter-by-movavi/"><u>무료 MPG VOB 효과적인 변환은 여기에! - Online Converter by Movavi</u></a></li>
 </ul></div>
 

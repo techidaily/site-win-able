@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secrets to Football Manager 2022 Launch Problems [SOLVED]
-date: 2024-08-18T15:49:57.603Z
-updated: 2024-08-19T15:49:57.603Z
+date: 2025-03-02T16:22:23.916Z
+updated: 2025-03-04T05:51:59.175Z
 tags:
   - win11
   - win10
@@ -39,17 +39,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -57,9 +50,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -67,27 +57,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -107,9 +82,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
@@ -122,18 +94,12 @@ So does the crash go away now? If not, there is the last fix to try.
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
 
 1. Open Steam and go to the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -154,8 +120,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +127,23 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-your-iphone-photo-craftsmanship-with-top-10-design-tips/"><u>[New] Perfect Your iPhone Photo Craftsmanship with Top 10 Design Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-audio-visual-caption-builder/"><u>[Updated] 2024 Approved Audio Visual Caption Builder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-capture-your-brilliance-in-insta-cinematic-footage/"><u>[Updated] In 2024, Capture Your Brilliance in Insta Cinematic Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-freeze-solutions-to-overcome-the-loading-screen-problem-in-football-manager-2021/"><u>Beat The Freeze: Solutions to Overcome the Loading Screen Problem in Football Manager 2021</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crossing-thresholds-in-ctas-anticipating-fb-ad-shifts/"><u>Crossing Thresholds in CTAs Anticipating FB Ad Shifts</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-to-improve-frame-rates-and-reduce-lag-in-siftu-for-pc-players/"><u>DIY Techniques to Improve Frame Rates and Reduce Lag in SIFTU for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009692581-fix-your-garrys-mod-crash-issues-with-these-expert-hacks/"><u>Fix Your Garry’s Mod Crash Issues with These Expert Hacks !</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-performance-optimization-overcoming-lag-and-delays/"><u>Guilty Gear Strive Performance Optimization: Overcoming Lag and Delays</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>JestJamboree Discover a Sea of Memes at Your Feet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/jumpstarting-instagram-celebrity-status/"><u>Jumpstarting Instagram Celebrity Status</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-cs2-pc-malfunctions-top-troubleshooting-tips-for-stable-gameplay/"><u>Overcome CS2 PC Malfunctions: Top Troubleshooting Tips for Stable Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/roller-champions-on-pc-the-definitive-crossplay-battle-manual-enthusiasts/"><u>Roller Champions on PC - The Definitive Crossplay Battle Manual Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-silent-audio-fades-for-2024/"><u>Strategies for Silent Audio Fades for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-opening-origin-game-client-in-windows-11/"><u>Troubleshooting Steps for Opening Origin Game Client in Windows 11</u></a></li>
+</ul></div>
 

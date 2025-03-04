@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem
-date: 2025-02-09T17:01:48.520Z
-updated: 2025-02-14T22:17:39.526Z
+date: 2025-02-25T01:39:19.292Z
+updated: 2025-03-04T11:28:56.344Z
 tags:
   - win11
   - win10
@@ -71,17 +71,9 @@ Here’s how you can do this:
 
 ![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -106,10 +98,6 @@ Here’s how you can do this:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -184,10 +172,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  11) Click**Yes, save these settings for this program** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
@@ -212,10 +196,6 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go through the list and check if**Epic Games Launcher** is added to it.
 
  If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
@@ -234,10 +214,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Network and Internet** . (Note: make sure that it’s**View by: Category** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
@@ -254,17 +230,9 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
@@ -274,10 +242,6 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Flush the DNS cache
 
@@ -312,10 +276,6 @@ To do this, simply follow the instructions below:
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -358,17 +318,24 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-live-recording-via-logitech-camera-guide-for-2024/"><u>[New] Mastering Live Recording via Logitech Camera Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/embedded-cast/"><u>「Embedded Castセッションの完璧な記録方法:上達のための３コツ」</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-efficient-ways-to-delete-previewed-content-from-youtubes-queue/"><u>2024 Approved Efficient Ways to Delete Previewed Content From YouTube's Queue</u></a></li>
-<li><a href="https://win-able.techidaily.com/discover-the-leading-5-music-downloader-websites-a-comprehensive-guide/"><u>Discover the Leading 5 Music Downloader Websites: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-methods-for-reducing-playback-speed-on-youtube-videos/"><u>Effective Methods for Reducing Playback Speed on YouTube Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversations-simplifying-your-use-of-chatgpt-with-this-handy-chrome-add-on/"><u>Effortless Conversations: Simplifying Your Use of ChatGPT with This Handy Chrome Add-On</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/error-code-0xc0000185-what-it-is-and-how-to-fix-it/"><u>Error Code 0Xc0000185: What It Is and How to Fix It</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-track-your-editing-with-swift-avchd-to-h264-format-change/"><u>Fast Track Your Editing with Swift AVCHD to H.264 Format Change</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-efficiently-transform-your-avi-videos-into-mkv-the-ultimate-guide-of-4-proven-methods/"><u>How to Efficiently Transform Your AVI Videos Into MKV: The Ultimate Guide of 4 Proven Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-with-yeedi-m12-proplus-top-tier-sale-on-a-robot-vacuum-that-outshines-competitors/"><u>Score Big with Yeedi M12 Pro+ – Top-Tier Sale on a Robot Vacuum That Outshines Competitors!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-solution-correcting-realtek-hd-sound-card-driver-malfunction/"><u>Simple Solution: Correcting Realtek HD Sound Card Driver Malfunction</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/form-your-channel-into-a-revenue-powerhouse-with-impactful-trailers/"><u>Transform Your Channel Into a Revenue Powerhouse with Impactful Trailers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-go-live-on-facebook/"><u>[Updated] 2024 Approved How to Go Live on Facebook?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-smartest-devices-to-modify-your-speech-on-the-go/"><u>[Updated] In 2024, Smartest Devices to Modify Your Speech on the Go</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-covert-measures-for-efficient-home-based-learning/"><u>2024 Approved Covert Measures for Efficient Home-Based Learning</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-through-historical-twitter-data/"><u>2024 Approved Navigating Through Historical Twitter Data</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-7-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 7 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-tips-overcome-crashes-using-latest-techniques/"><u>Alan Wake 2 Stability Tips: Overcome Crashes Using Latest Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-finally-takes-off-overcoming-initial-hurdles/"><u>Cyberpunk 2077 Finally Takes Off - Overcoming Initial Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-error-methods-to-reconnect-with-outlook-seamlessly/"><u>Fixing the Error: Methods to Reconnect with Outlook Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-thx-immersive-sound-experience-back-troubleshooting-steps-for-windows-1110-users/"><u>Getting Thx Immersive Sound Experience Back: Troubleshooting Steps for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998784405-how-i-overcame-recurring-crashes-in-beat-saber-tips-inside/"><u>How I Overcame Recurring Crashes in Beat Saber – Tips Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-war-thunder-low-fps-2024-tips/"><u>How to Fix War Thunder Low FPS [2024 Tips]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-zero-30-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-overcome-fallout-nt-launch-expert-advice-and-solutions/"><u>How To Successfully Overcome Fallout N't Launch - Expert Advice and Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy S24 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-secret-sauce-to-outstanding-online-identity-creation/"><u>In 2024, The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-fps-performance-for-tainted-grail-conquest-players/"><u>Maximizing FPS Performance for Tainted Grail: Conquest Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-jedi-fallen-order-overcoming-initialization-hurdles-and-getting-play-time/"><u>Star Wars Jedi: Fallen Order - Overcoming Initialization Hurdles and Getting Play Time</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/time-honored-treasures-free-of-restrictions/"><u>Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210859734-9781667453590-khasha-ka-bharama/"><u>खुशी का भ्रम | Free Book</u></a></li>
 </ul></div>
 

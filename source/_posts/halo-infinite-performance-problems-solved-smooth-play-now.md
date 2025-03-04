@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Performance Problems Solved - Smooth Play Now
-date: 2024-12-19T04:33:07.088Z
-updated: 2024-12-20T09:22:51.543Z
+date: 2025-02-27T13:05:24.446Z
+updated: 2025-03-04T06:57:50.055Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -69,18 +65,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -92,10 +80,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -105,10 +89,6 @@ There are mainly two ways you can update the graphics driver:
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -155,21 +135,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-getting-the-most-out-of-your-game-with-fraps/"><u>[New] 2024 Approved Getting the Most Out of Your Game with Fraps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-wirecast-overview-and-comparable-solutions/"><u>[New] 2024 Approved WireCast Overview & Comparable Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>[New] Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722009869611-canva-meets-chatgpt-revolutionize-your-content-design-workflow/"><u>Canva Meets ChatGPT: Revolutionize Your Content Design Workflow</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986973626-guilty-gear-strive-performance-enhanced-say-goodbye-to-lags/"><u>Guilty Gear Strive Performance Enhanced: Say Goodbye to Lags</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro with IMEI Code?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-90-gt-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 90 GT to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-add-a-professional-touch-youtube-video-image-crafting/"><u>In 2024, Add a Professional Touch YouTube Video Image Crafting</u></a></li>
-<li><a href="https://driver-download.techidaily.com/intel-iris-graphics-540-update-your-drivers-swiftly-and-effortlessly/"><u>Intel Iris Graphics 540: Update Your Drivers Swiftly and Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-gameplay-solving-the-frame-drops-and-freezing-scenario-for-call-of-duty-mw3/"><u>Optimizing Gameplay: Solving the Frame Drops & Freezing Scenario for Call of Duty: MW3</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-get-your-witcher-3-game-running-smoothly-again/"><u>Step-By-Step Solutions To Get Your Witcher 3 Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-successfully-install-pacific-drive-on-your-computer/"><u>Steps to Successfully Install Pacific Drive on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-tips-to-fix-the-infamous-leaf-error-on-apex-legends-guide-for-gaming-enthusiasts/"><u>Top Tips to Fix the Infamous 'Leaf' Error on Apex Legends – Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-playing-robocops-latest-installment-rogue-city-solutions-found/"><u>Trouble Playing RoboCop's Latest Installment, 'Rogue City': Solutions Found</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-5-second-stories-explained-well/"><u>[New] 5-Second Stories Explained Well</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-zoom-top-strategies-for-chromebooks/"><u>[New] Maximizing Zoom Top Strategies for Chromebooks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pro-video-excellence-with-iphone-learn-8-crucial-techniques-today/"><u>[Updated] Pro Video Excellence with iPhone Learn 8 Crucial Techniques Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-find-doom-eternal-release-date-discover-how-to-access-it-now/"><u>Can't Find DOOM Eternal Release Date? Discover How To Access It Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-prevent-and-repair-pc-crashes-while-playing-minecraft-dungeons/"><u>Easy Steps to Prevent and Repair PC Crashes While Playing Minecraft Dungeons</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-wont-start-a-comprehensive-fix-guide-for-gamers-what-to-do/"><u>Hogwarts Legacy Won't Start? A Comprehensive Fix Guide for Gamers - What to Do</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-moto-g23-easily-by-drfone-android/"><u>How To Unlock a Motorola Moto G23 Easily?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-epicurean-envoys-the-best-food-vloggers-to-watch/"><u>In 2024, Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95576733-9781608684397-lost-masters/"><u>Lost Masters | Free Book</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-art-of-online-presentation-with-flipbuilder-how-to-craft-an-engaging-company-flash-flip-book/"><u>Mastering the Art of Online Presentation with FlipBuilder: How to Craft an Engaging Company Flash Flip Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-witcher-3-wild-hunt-launch-errors-for-a-smooth-gaming-experience/"><u>Overcoming 'Witcher 3: Wild Hunt' Launch Errors for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011121972-quick-tricks-to-prevent-and-repair-league-of-legends-crashes-easily/"><u>Quick Tricks to Prevent and Repair League of Legends Crashes Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/scrutinizing-the-best-deals-on-modern-pet-cameras/"><u>Scrutinizing the Best Deals on Modern Pet Cameras</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mline-your-online-presence-yt-descriptive-insights/"><u>Streamline Your Online Presence YT Descriptive Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-intel-pc-drivers-and-assistance-tools-that-wont-start-up-correctly/"><u>Troubleshooting Intel PC Drivers and Assistance Tools That Won’t Start Up Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-arks-frame-rate-issues-a-comprehensive-guide/"><u>Troubleshooting Lost Ark's Frame Rate Issues - A Comprehensive Guide</u></a></li>
 </ul></div>
 

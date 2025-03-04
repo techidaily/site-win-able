@@ -1,7 +1,7 @@
 ---
 title: Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users
-date: 2025-02-08T18:54:26.850Z
-updated: 2025-02-15T03:23:49.190Z
+date: 2025-03-01T03:46:10.104Z
+updated: 2025-03-04T00:36:52.471Z
 tags:
   - win11
   - win10
@@ -65,17 +65,9 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
 
@@ -88,10 +80,6 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -145,10 +133,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
@@ -156,10 +140,6 @@ OR
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -178,10 +158,6 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -209,10 +185,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
 ### Fix 7: Reinstall Steam
@@ -239,10 +211,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -255,15 +223,7 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **10)**  Relaunch Steam and your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -332,19 +292,24 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs/"><u>[New] 2024 Approved Facebook to MP4 Mastery Learn How To Convert Video Online Without Costs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>[New] In 2024, Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-inverting-screen-time-with-android-videos/"><u>[Updated] 2024 Approved Inverting Screen Time with Android Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>[Updated] 2024 Approved Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-crash-fix-tutorial-updated-strategies-for-a-smooth-gaming-experience/"><u>Alan Wake 2 Crash Fix Tutorial: Updated Strategies for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-resolution-for-kernelbasedll-system-errors/"><u>Effortless Resolution for KernelBase.dll System Errors!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-and-prevent-scavengers-from-crashing-on-your-pc/"><u>How to Fix and Prevent 'Scavengers' From Crashing on Your PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-s23-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel S23</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-no-mistakes-top-10-windows-11-errors-to-evade/"><u>Navigating No Mistakes: Top 10 Windows 11 Errors to Evade</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-crashing-issues-in-modern-warfare-3-simple-solutions-for-pc-players/"><u>Persistent Crashing Issues in Modern Warfare 3: Simple Solutions for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-fatal-error-codes-in-ark-a-comprehensive-solution-manual/"><u>Tackling Fatal Error Codes in Ark: A Comprehensive Solution Manual</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-find-x6-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Find X6 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-pc-issues-for-a-smooth-new-world-experience/"><u>Troubleshooting Persistent PC Issues for a Smooth 'New World' Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-approaches-to-clearer-zoomed-video-on-online-platforms-for-2024/"><u>Ultimate Approaches to Clearer Zoomed Video on Online Platforms for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-selecting-premium-steadicams-to-improve-your-dslr-videos/"><u>[New] In 2024, Selecting Premium Steadicams to Improve Your DSLR Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-x-flip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo X Flip to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-ways-to-resolve-continuous-street-fighter-6-freezes-and-crashes-on-your-computer-guide/"><u>Best Ways to Resolve Continuous Street Fighter 6 Freezes and Crashes on Your Computer (Guide)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-doppelganger-designs-sketching-an-animated-self-for-2024/"><u>Digital Doppelganger Designs Sketching an Animated Self for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-rectified-unauthorized-access-in-gaming-alert-cleared-up/"><u>Error Rectified: Unauthorized Access in Gaming Alert Cleared Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-here-are-the-proven-steps-to-restore-functionality/"><u>Google Meet Camera Not Working? Here Are the Proven Steps to Restore Functionality!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guardians-of-the-galaxy-pc-game-8-troubleshooting-steps-for-a-smooth-play-experience/"><u>Guardians of the Galaxy PC Game: 8 Troubleshooting Steps for a Smooth Play Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-black-screen-problem-in-call-of-duty-wwii-when-playing-on-windows-solutions/"><u>How to Fix the 'Black Screen' Problem in Call of Duty: WWII when Playing on Windows - Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-baffling-warzone-memory-error-0-1766-on-your-xboxpc-setup/"><u>How To Fix The Baffling Warzone Memory Error 0-1766 On Your Xbox/PC Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-toolbar-enhancements-for-efficient-usage/"><u>Invisible Toolbar Enhancements for Efficient Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-pc-shutdown-glitches-while-playing-football-manager-nineteen-twenty-two/"><u>Overcoming the PC Shutdown Glitches While Playing Football Manager Nineteen Twenty-Two</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/regaining-exclusive-snap-privacy/"><u>Regaining Exclusive Snap Privacy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-your-outlook-is-not-launching/"><u>Solving the Issue: Why Your Outlook Is Not Launching</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-tcl-32s325-2019-roku-enabled-smart-led-tv-reviewed/"><u>The Ultimate Guide to TCL 32S325: 2019 Roku-Enabled Smart LED TV Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-oculus-link-asap-top-six-methods-to-resolve-black-screen-issues/"><u>Troubleshoot Your Oculus Link ASAP: Top Six Methods to Resolve Black Screen Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-or-broken-letters-on-your-windows-1011-keyboard/"><u>Troubleshooting Stuck or Broken Letters on Your Windows 10/11 Keyboard</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/trusted-iphone-software-for-permanently-clearing-out-private-files-and-personal-details/"><u>Trusted iPhone Software for Permanently Clearing Out Private Files and Personal Details</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-tecno-pova-6-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Pova 6 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

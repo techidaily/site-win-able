@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Disruptions: Eliminating Stutters and Freezes During Fortnite Sessions on PC"
-date: 2025-02-13T19:05:32.400Z
-updated: 2025-02-14T19:26:48.876Z
+date: 2025-02-25T05:27:35.873Z
+updated: 2025-03-03T18:49:47.430Z
 tags:
   - win11
   - win10
@@ -34,17 +34,9 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -54,17 +46,9 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -73,10 +57,6 @@ Check your region and language settings on your computer:
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
 
@@ -136,10 +116,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
@@ -164,17 +140,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-fun-with-junior-drivers-for-2024/"><u>[Updated] Navigating Fun with Junior Drivers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/79982023-2024-approved-master-youtube-ad-creation-with-no-cost-guide-inside/"><u>2024 Approved Master YouTube Ad Creation with No Cost – Guide Inside!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-spotting-the-signs-of-an-snapchat-account-closure/"><u>2024 Approved Spotting the Signs of an Snapchat Account Closure</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-the-code-to-restore-sound-in-evil-genius-2/"><u>Cracking the Code to Restore Sound in 'Evil Genius 2'</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/critical-analysis-of-offworld-trading-company-mastering-the-marketplace-to-expand-your-dominion/"><u>Critical Analysis of Offworld Trading Company: Mastering the Marketplace to Expand Your Dominion</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-5-fixes-overcoming-the-perpetual-loading-screen-issue/"><u>Far Cry 5 Fixes: Overcoming the Perpetual Loading Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-outpost-war-of-the-champions-crashing-problems-in-windows-10-and-11/"><u>Fix Outpost: War of the Champions Crashing Problems in Windows 10 and 11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/garantizar-la-continuidad-del-negocio-las-mas-efectivas-herramientas-de-backup-y-recuperacion-para-proveedores-de-servicios-informaticos/"><u>Garantizar La Continuidad Del Negocio: Las Más Efectivas Herramientas De Backup Y Recuperación Para Proveedores De Servicios Informáticos</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-problematic-windows-installation-packages/"><u>How to Fix Problematic Windows Installation Packages?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Honor</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-in-hyper-scape-solutions-for-pc-crash-prevention-and-recovery/"><u>Mastering Stability in Hyper Scape: Solutions for PC Crash Prevention and Recovery</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[New] In 2024, Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-master-downloader-facebook-and-firefox-integration/"><u>[Updated] 2024 Approved Master Downloader Facebook & FireFox Integration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[Updated] TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/affordable-laptop-friendly-software-for-dvd-viewing/"><u>Affordable, Laptop-Friendly Software for DVD Viewing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722159964605-deciding-what-to-watch-next-let-chatgpt-guide-you/"><u>Deciding What to Watch Next? Let ChatGPT Guide You!</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-centipede-bug-explained-steps-towards-a-solution/"><u>Destiny 2 Centipede Bug Explained: Steps Towards a Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-solving-call-of-dutys-black-ops-cold-war-error-code-887a0005-explained/"><u>Expert Tips on Solving Call of Duty's Black Ops Cold War Error - Code 887A0005 Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-for-windows-solving-common-pc-performance-issues/"><u>Football Manager 2021 for Windows - Solving Common PC Performance Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-common-problem-of-exit-code-0-in-minecraft/"><u>How to Overcome the Common Problem of Exit Code 0 in Minecraft</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-eliminating-disc-read-issues-in-cod-warzone-versions-50-and-31-for-windows-users/"><u>Step-by-Step Tutorial: Eliminating 'Disc Read' Issues in COD Warzone Versions 5.0 and 3.1 for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-age-of-empires-iv-download-and-installation-from-the-microsoft-store-now-functional/"><u>Troubleshooting Guide: Age of Empires IV Download and Installation From the Microsoft Store, Now Functional</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-youtube-playback-issues-solutions-included/"><u>Ultimate Guide: Resolving YouTube Playback Issues - Solutions Included</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-windows-10-causality-of-0xc19001e1-errors/"><u>Understanding and Solving the Windows 10 Causality of 0Xc19001e1 Errors</u></a></li>
 </ul></div>
 

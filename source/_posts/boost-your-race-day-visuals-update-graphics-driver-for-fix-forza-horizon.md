@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2025-02-08T17:30:26.161Z
-updated: 2025-02-14T21:57:38.231Z
+date: 2025-03-03T12:57:27.324Z
+updated: 2025-03-04T05:33:30.993Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you’re using the latest drivers
 
  The message is self-explanatory: **you need to check if you’re using the latest graphics driver** . The latest video driver gives your GPU a performance boost. But unlike system updates, most of the time you need to take care of driver updates yourself.
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -77,15 +69,7 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Java edition
 
@@ -98,10 +82,6 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -121,10 +101,6 @@ If you’re still seeing the message, continue to the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -146,10 +122,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
@@ -182,18 +154,21 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-for-every-task-our-choice-in-8-5k-displays/"><u>[New] Perfect for Every Task Our Choice in 8 5K Displays</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>[Updated] 2024 Approved Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>2024 Approved Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728487371631-sd/"><u>解決SD卡故障：有效恢復方法</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-windows-10-synchronization-functionality-when-its-disabled/"><u>How to Restore Windows 10 Synchronization Functionality When It's Disabled</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-htc-u23-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from HTC U23 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-steps-to-open-avi-files-with-windows-media-player/"><u>Successful Steps to Open AVI Files with Windows Media Player</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-ranked-cuda-software-for-hd-video-conversion-on-pcs-2024-edition/"><u>Top-Ranked CUDA Software for HD Video Conversion on PCs - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/transform-your-tweets-into-videos-with-just-a-few-steps-on-old-twitter-platform/"><u>Transform Your Tweets Into Videos with Just a Few Steps on Old Twitter Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-avi-file-issues-for-smooth-playback-solutions/"><u>Troubleshooting AVI File Issues for Smooth Playback Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-cutting-videos-mastering-the-art-of-custom-video-trimming/"><u>Ultimate Guide to Cutting Videos: Mastering the Art of Custom Video Trimming</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-transform-your-youtube-content-into-unwatermarked-webm-safe-files-efficiently/"><u>Ultimate Guide: How to Transform Your YouTube Content Into Unwatermarked, WebM Safe Files Efficiently</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-winning-collaboration-plans-on-youtube-for-2024/"><u>[New] Crafting Winning Collaboration Plans on YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-steps-into-the-world-of-av1/"><u>[New] First Steps Into the World of AV1</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-hot-tiktok-shopping-30-essential-products-from-amazon/"><u>[New] In 2024, Hot TikTok Shopping 30 Essential Products From Amazon</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-dota-2-fps-drops-on-windows-11-10/"><u>[SOLVED] Dota 2 FPS Drops on Windows 11, 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-caption-implementation-on-vimeo/"><u>[Updated] In 2024, Mastering Video Caption Implementation on Vimeo</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2-step-by-step-tutorial-transforming-dmg-to-iso-format-across-windows-and-mac-systems-latest-techniques-as-of/"><u>2. Step-by-Step Tutorial: Transforming DMG to ISO Format Across Windows & Mac Systems - Latest Techniques as Of</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effizientes-klonen-von-hdd-recovery-partitions-auf-ein-ssd-in-deutschland/"><u>Effizientes Klonen Von HDD-Recovery-Partitions Auf Ein SSD in Deutschland</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-critical-pc-stability-errors-for-lego-star-wars-2024-release-fixes/"><u>Expert Advice: Addressing and Correcting Critical PC Stability Errors for Lego Star Wars - 2024 Release Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-vm-setup-recommendations-for-windows-11-innovators/"><u>Ideal VM Setup Recommendations for Windows 11 Innovators</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-edge-40-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola Edge 40 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-unable-to-join-a-party-issue-a-guide-through-fortnite-error-code-84/"><u>Resolving the 'Unable to Join a Party' Issue: A Guide Through Fortnite Error Code #84</u></a></li>
+<li><a href="https://win-able.techidaily.com/restoring-audio-ambiance-how-to-solve-skyrims-volume-malfunction/"><u>Restoring Audio Ambiance: How to Solve Skyrim's Volume Malfunction</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-speaker-showdown-discovering-the-unique-qualities-of-echo-pop-vs-echo-dot/"><u>Smart Speaker Showdown: Discovering the Unique Qualities of Echo Pop Vs. Echo Dot</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-issues-game-wont-start/"><u>Troubleshooting City Skylines 2 Issues: Game Won't Start?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-problems-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Guide: Fixing Launch Problems in A Total War: Saga - Troy on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-stability-problems-in-watch-dogs-legion-on-pc/"><u>Troubleshooting Guide: Overcoming Stability Problems in Watch Dogs Legion on PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It"
-date: 2025-02-12T18:38:50.517Z
-updated: 2025-02-14T20:11:19.352Z
+date: 2025-02-26T22:59:13.080Z
+updated: 2025-03-03T21:07:23.647Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -71,16 +67,8 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -106,10 +94,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. Reboot the browser to check the problem is solved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -139,16 +123,8 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -165,10 +141,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -194,19 +166,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-promotional-planning-perfection/"><u>[New] Promotional Planning Perfection</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-choosing-creativitys-canvas-youtube-vs-tiktok/"><u>[Updated] Choosing Creativity's Canvas Youtube Vs. TikTok</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-decoding-the-meaning-behind-fbs-blue-status-indicator-for-2024/"><u>[Updated] Decoding the Meaning Behind FB's Blue Status Indicator for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/gif8/"><u>美しいGIFを作るためのベストフリーソフト：試すべき8選品紹介【無料版】</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-gpts-drawbacks-eight-significant-pitfalls/"><u>Decoding GPT's Drawbacks: Eight Significant Pitfalls</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficiently-integrating-xavc-s-video-files-with-davinci-resolve-step-by-step-fixes/"><u>Efficiently Integrating XAVC S Video Files with DaVinci Resolve - Step by Step Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-downloads-mastering-the-art-of-saving-gfycat-gifs-in-just-four-steps/"><u>Effortless Downloads: Mastering the Art of Saving Gfycat GIFs in Just Four Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-methods-to-transform-your-dvds-into-mp4-format-on-windows-11/"><u>Free Methods to Transform Your DVDs Into MP4 Format on Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-laserjet-pro-m4n-driver-software-free-downloads/"><u>Get the Latest HP LaserJet Pro M4^N Driver Software Free Downloads!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-do-i-stop-frequently-altering-settings-without-compromising-functionality/"><u>How Do I Stop Frequently Altering Settings Without Compromising Functionality?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-7-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 7</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-xs-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone XS Max Activation Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-why-this-lenovo-2-in-1-reigns-supreme-for-professionals-on-zdnet/"><u>The Ultimate Review: Why This Lenovo 2-in-1 Reigns Supreme for Professionals on ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unleash-your-photo-flair-insta-covers-for-tech-giants-for-2024/"><u>Unleash Your Photo Flair Insta Covers for Tech Giants for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-best-free-luts-roundup-download-links-galore/"><u>[New] 10 Best Free LUTs Roundup - Download Links Galore</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-transform-your-igtv-visuals-with-updated-covers/"><u>[New] Transform Your IGTV Visuals with Updated Covers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-become-a-shorts-connoisseur-must-know-facts/"><u>[Updated] Become a Shorts Connoisseur Must-Know Facts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[Updated] In 2024, Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-top-20-gags-and-laughter-on-youtube-for-downtime-delight/"><u>2024 Approved The Top 20 Gags & Laughter on YouTube for Downtime Delight</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-alert-demystifying-the-leaf-issue-in-the-2022-patch-fixes-inside/"><u>Apex Legends Error Alert: Demystifying the 'Leaf' Issue in the 2022 Patch - Fixes Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-every-moment-premium-no-cost-windowsmac-tools/"><u>In 2024, Capture Every Moment Premium, No-Cost Windows/Mac Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-chat-clean-master-the-art-of-twitch-banning-and-unbanning/"><u>Keep Your Chat Clean: Master the Art of Twitch Banning & Unbanning</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987245835-no-more-game-crashes-decode-and-repair-your-cod-vanguard-en-error-0x00001338-on-pc-now/"><u>No More Game Crashes – Decode and Repair Your COD Vanguard E:N (Error 0X00001338) on PC Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-netgear-orbi-mesh-wifi-router-setup-firmware-download-instructions/"><u>Seamless Netgear Orbi Mesh WiFi Router Setup: Firmware Download Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-essential-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-breaking-down-on-windows/"><u>Top 8 Essential Solutions to Prevent Marvel's Guardians of the Galaxy From Breaking Down on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989609998-trouble-with-among-us-unstick-your-game-with-these-proven-fixes/"><u>Trouble with 'Among US'? Unstick Your Game With These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-starts-valheim-not-starting-up-correctly-as-of-march-2024/"><u>Troubleshooting Starts: Valheim Not Starting Up Correctly as of March 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Battlefield 5 Won't Load Dilemma with Our Expert Tips
-date: 2024-08-18T15:49:20.794Z
-updated: 2024-08-19T15:49:20.794Z
+date: 2025-03-01T11:55:06.389Z
+updated: 2025-03-04T01:06:12.855Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  Seeing an error “**Unable to complete version check** ” on your Final Fantasy XIV game launcher? Don’t worry! You’re not the only person to experience it. A lot of FFXIV players have experienced this issue when booting their game launcher. Although this error is common, it’s still fixable…
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,9 +55,6 @@ Now launch your game and see if the error is gone.
 
  You can get a decent deal for the**NordVPN services** . Check out the **[NordVPN coupons](https://tools.techidaily.com/drivereasy/download/)**  here!
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd81b2168bf1.jpg)
 
  Once you set it up, use it to launch and update your FFXIV launcher. Hopefully it’s helpful for you to resolve your problem.
@@ -72,9 +66,6 @@ Now launch your game and see if the error is gone.
  You can adjust the version check setting to fix the “Unable to complete version check” error. Here is what and how you should adjust:
 
 1. Press the**Windows logo key** on your keyboard and type “notepad”, then select**Notepad** in the results.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-447.png)
 2. Open**File Explorer** (by pressing the**Windows logo key** and**E** on your keyboard at the same time).
 3. Go to the following location (by copying the path below and pasting it to the address bar, then pressing**Enter** ):  
@@ -82,14 +73,8 @@ Now launch your game and see if the error is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-448.png)
 4. Open the**FFXIV\_BOOT.cfg** file with Notepad (click and drag it to the Notepad window).  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-452.png)
 5. Change the value of**BootVersionCheckMode** from 0 to**1** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-454.png)
 6. Press the**Ctrl** key and**S** on your keyboard at the same time to save your change.
 7. Close the file, then run your FFXIV launcher to see if this fixes your version check error.
@@ -126,9 +111,6 @@ OR
 
 **2)** Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-251.png)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -147,8 +129,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +136,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-color-reversal-making-blacks-from-whites/"><u>[New] 2024 Approved Color Reversal Making Blacks From Whites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-quick-assembly-of-stunning-google-collages/"><u>[New] 2024 Approved Quick Assembly of Stunning Google Collages</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-guide-to-gathering-gold-from-guided-goods-gazes-online-for-2024/"><u>[New] A Guide to Gathering Gold From Guided Goods' Gazes Online for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-social-media-savant-to-money-maker-on-instagram/"><u>[Updated] From Social Media Savant to Money Maker on Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-innovation-hub-explore-over-120-creative-title-concepts-to-personalize-your-storytelling/"><u>[Updated] Snapchat Innovation Hub Explore over 120 Creative Title Concepts to Personalize Your Storytelling</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-collabs-that-attract-and-retain-viewers-for-2024/"><u>Crafting Collabs that Attract and Retain Viewers for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-create-an-engaging-flipbook-ebook-with-images-by-using-txt-files-on-flipbuildercom/"><u>How to Create an Engaging Flipbook EBook with Images by Using TXT Files on FlipBuilder.com</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-initial-darkness-solving-elden-rings-boot-up-blackout/"><u>How to Overcome the Initial Darkness - Solving Elden Ring's Boot-Up Blackout</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-ending-maplestorys-freezes-and-crashes-on-windows-10/"><u>Seamless Gaming: Ending MapleStory's Freezes and Crashes on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-hold-up-with-wolcens-release-unveiling-factors-behind-lords-of-mayhems-delayed-drop/"><u>The Hold-Up with Wolcen’s Release: Unveiling Factors Behind Lords of Mayhem’s Delayed Drop</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-in-valorant-v-essential-tips-and-solutions/"><u>Troubleshooting PC Crashes in 'Valorant V': Essential Tips & Solutions</u></a></li>
+</ul></div>
 

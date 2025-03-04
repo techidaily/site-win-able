@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows"
-date: 2025-02-10T23:26:40.487Z
-updated: 2025-02-15T04:45:06.387Z
+date: 2025-02-28T09:56:02.289Z
+updated: 2025-03-03T16:32:39.079Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,10 +38,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. [**Run a System File Checker**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
 
@@ -59,10 +51,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -79,20 +67,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
@@ -106,10 +86,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
@@ -166,10 +142,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
 
@@ -194,24 +166,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-creative-potential-in-asmr-content-advanced-techniques/"><u>[Updated] Unlocking Creative Potential in ASMR Content – Advanced Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-highest-ranking-youtube-tracker-for-popular-video-insight/"><u>2024 Approved Highest-Ranking YouTube Tracker for Popular Video Insight</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-instant-visualization-techniques-for-timestamp-implementation/"><u>2024 Approved Instant Visualization Techniques for Timestamp Implementation</u></a></li>
-<li><a href="https://win-able.techidaily.com/6auy55s76loq5yyw44og44kv44ol44od44kv77ya5okq44gp6icb44ge44gf5yuv55s744ks44oq44ov44kh44kk44oz44gz44kl44k544oi44op44og44k444o8/"><u>高画質化テクニック：悪く老いた動画をリファインするストラテジー</u></a></li>
-<li><a href="https://win-able.techidaily.com/5a656yep44gu5asn44gn44ge44oh44kj44k544kv44ks44kz44ou44o844gz44kl57ch5y2y44gq44os44k344ou44co5paw5lq644oe44ol44ol44ki44or44cp/"><u>容量の大きいディスクをコピーする簡単なレシピ『新人マニュアル』</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-free-ways-to-download-the-full-mr-bean-show-top-3-strategies/"><u>Best Free Ways to Download the Full Mr. Bean Show: Top 3 Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-of-the-best-the-7-leading-software-tools-for-animating-meme-videos/"><u>Best of the Best: The 7 Leading Software Tools for Animating Meme Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/breaking-down-barriers-a-step-by-step-guide-to-watching-r3-region-dvds-anywhere/"><u>Breaking Down Barriers: A Step-by-Step Guide to Watching R3 Region DVDs Anywhere</u></a></li>
-<li><a href="https://win-able.techidaily.com/dvdmp4-xmedia-recode/"><u>DVDビデオからMP4への変換: XMedia Recode使い方ガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-instructions-for-capturing-audio-from-your-join-with-me-webinar/"><u>Easy Instructions for Capturing Audio From Your 'Join With Me' Webinar</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-converting-your-ppt-presentation-into-an-engaging-animated-gif/"><u>Easy Steps: Converting Your PPT Presentation Into an Engaging Animated GIF</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-insights-top-it-professionals-weigh-in-on-aomei-backupper-features/"><u>Expert Insights: Top IT Professionals Weigh In on AOMEI Backupper Features</u></a></li>
-<li><a href="https://win-net.techidaily.com/how-to-accelerate-your-aging-pc-expert-tips-and-tricks-by-yl-computing/"><u>How to Accelerate Your Aging PC: Expert Tips and Tricks by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-infinix-note-30-vip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Note 30 VIP Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-rapid-shot-mastery-the-ultimate-guide-to-homemade-cinematography/"><u>In 2024, Rapid Shot Mastery The Ultimate Guide to Homemade Cinematography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-saving-youtube-content-with-simple-steps/"><u>In 2024, Saving YouTube Content with Simple Steps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/g-through-the-rankings-adding-highlight-channels-to-youtube/"><u>Rising Through the Rankings Adding Highlight Channels to YouTube</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267441383-ultimate-iphone-data-retrieval-tool-shop-today/"><u>Ultimate iPhone Data Retrieval Tool – Shop Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/44oe44kw44on44od44oi44oq44oz44kv44go44oi44os44oz44oi77ya44oa44km44oz44ot44o844oj44ox44ot44k744k544gu6kej6kqs/"><u>マグネットリンクとトレント：ダウンロードプロセスの解説</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-productivity-with-mematic-app/"><u>[New] Optimize Productivity with Mematic App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-affordable-screen-recorders-with-extra-features-for-2024/"><u>[Updated] Affordable Screen Recorders with Extra Features for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-11-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 11 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-the-causes-of-drastic-fps-fluctuations-a-comprehve-solution-guide/"><u>Decoding the Causes of Drastic FPS Fluctuations: A Comprehve Solution Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-f23-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo F23 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-the-challenge-of-assassins-creed-valhalla-pc-stability-problems-and-recurring-crashes/"><u>Expert Advice: Overcoming the Challenge of Assassin's Creed Valhalla PC Stability Problems & Recurring Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-venu-sports-an-in-depth-look-at-its-potential-launch/"><u>Exploring Venu Sports: An In-Depth Look at Its Potential Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-r-type-final-2-pc-game-crash-issues-effective-solutions/"><u>Fixing the R-Type Final 2 PC Game Crash Issues: Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-chapter-begins-baldurs-gate-3-now-launch-ready-for-enthusiastic-gamers/"><u>New Chapter Begins: Baldur's Gate 3 Now Launch-Ready for Enthusiastic Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-blockades-how-to-stop-diablo-iii-from-crashing-mid-game/"><u>Overcome Your Blockades: How to Stop Diablo III From Crashing Mid-Game</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-red-magic-9-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Red Magic 9 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-helldivers-2-pc-glitches-and-bugs/"><u>Proven Solutions for Helldivers 2 PC Glitches and Bugs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-repair-guide-for-defective-logitech-options-control-panel-in-windows-environment/"><u>Step-by-Step Repair Guide for Defective Logitech Options Control Panel in Windows Environment</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-x-flip-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo X Flip FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-free-tools-for-effortless-gif-to-video-conversion-for-2024/"><u>Top 5 Free Tools for Effortless GIF-to-Video Conversion for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-enhancing-fallout-76-performance-eliminating-lag-and-increasing-fps/"><u>Top Strategies for Enhancing Fallout 76 Performance : Eliminating Lag and Increasing FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-persistent-crashes-in-beat-saber/"><u>Troubleshooting: How to Fix Persistent Crashes in Beat Saber</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2025-02-14T04:48:17.012Z
-updated: 2025-02-15T02:16:34.858Z
+date: 2025-03-03T02:52:22.939Z
+updated: 2025-03-04T12:43:12.813Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -46,10 +42,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -60,15 +52,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -128,10 +112,6 @@ OR
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -158,22 +138,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[New] In 2024, Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-soundtrack-selection-for-youtube/"><u>[New] Streamline Your Soundtrack Selection for YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-webinar-designers-toolset-for-2024/"><u>[Updated] Top Webinar Designer's Toolset for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-limitless-space-20-best-free-cloud-platforms-offering-1tbplus-for-2024/"><u>[Updated] Unlock Limitless Space 20 Best Free Cloud Platforms Offering 1TB+ for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/iuoajoatjooboplusobpuobvplusobnplusoajeodooodvoodkplusodvooduplusocqoodhplusocoplusodgplusocvplusodvombuoobsplusobqplusobrplusobkplusocjoobjowheimgse6ioocsp71/"><u>「歌ってみた」ムービー・エディッター選びにはこれが必要!: コツとペアリング方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/mkv-to-mp4-4/"><u>無料変換技術🔄 MKV to MP4: 4つの最適手法を紹介する</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4-11-windowsmac/"><u>最新 MP4 ビデオから高品質の音声を自由に取り出せる無料アプリベスト11 - WindowsとMac両方使用可能</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-phantom-v-flip-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Phantom V Flip FRP Bypass Instantly</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-broadcast-vlogs-on-twitter-using-mobile-devices-for-2024/"><u>How to Broadcast Vlogs on Twitter Using Mobile Devices for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-f54-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy F54 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-switch-expertly-convert-your-mp4-videos-to-iso-with-these-two-must-use-freebies/"><u>Master the Switch: Expertly Convert Your MP4 Videos to ISO with These Two Must-Use Freebies</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-technique-of-isolating-audio-from-mov-file-formats/"><u>Mastering the Technique of Isolating Audio From MOV File Formats</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4quicktimeqt/"><u>MP4形式へのQuickTime動画とQT動画の効率的な変換方法</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-windows-10-cli-mastering-file-and-folder-deletion-commands/"><u>Navigating the Windows 10 CLI: Mastering File and Folder Deletion Commands</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-non-functional-brightness-settings-on-windows-11-devices/"><u>Step-by-Step Solutions for Non-Functional Brightness Settings on Windows 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/mkvdvd2024/"><u>おススメ！高画質・高音質MKVフォーマットに最適な無料DVDコンバータソフトの2024年リクエスト</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-startups-best-friends-the-8-products-every-entrepreneur-should-collect/"><u>[New] In 2024, Startup's Best Friends The 8 Products Every Entrepreneur Should Collect</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplifying-cinematics-in-filmora-answering-the-core-questions/"><u>[New] Simplifying Cinematics in Filmora Answering the Core Questions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-path-of-exile-freezing/"><u>[Solved] How to Fix Path of Exile Freezing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-keep-your-snaps-alive-strategies-for-longevity/"><u>[Updated] 2024 Approved Keep Your Snaps Alive – Strategies for Longevity</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-optimize-your-video-written-by-your-name/"><u>[Updated] In 2024, Optimize Your Video' Written By [Your Name]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/alienware-command-center-malfunction-heres-how-to-restore-its-functionality/"><u>Alienware Command Center Malfunction? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-reducing-size-of-zoom-meeting-videos-in-windows/"><u>Effective Techniques for Reducing Size of Zoom Meeting Videos in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-boost-fps-in-tainted-grail-conquest/"><u>How to Boost FPS in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-preventing-and-fixing-rocket-league-stuttering-issues/"><u>Solution Guide: Preventing and Fixing Rocket League Stuttering Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-recurrent-microsoft-edge-problems-on-windows-11-systems/"><u>Step-by-Step Fixes for Recurrent Microsoft Edge Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-your-new-apple-watch-zdnet/"><u>Step-by-Step Guide: Configuring Your New Apple Watch (ZDNet)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-gamers-choice-awaits-comprehensive-review-on-the-superiority-of-the-xbox-one-elite-series-2-controller/"><u>The Gamer's Choice Awaits: Comprehensive Review on the Superiority of the Xbox One Elite Series 2 Controller</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-to-overcome-tarkovs-error-103003-issue/"><u>The Ultimate Fix Guide to Overcome Tarkov's Error 103003 Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-troubleshooting-maplestory-issues-on-windows-11-2023-edition/"><u>Top Strategies for Troubleshooting MapleStory Issues on Windows 11 - 2023 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gameplay-eliminating-mid-game-crashes-in-gta-5/"><u>Trouble-Free Gameplay: Eliminating Mid-Game Crashes in GTA 5</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-subscription-tiers-youtube-tv-explained-for-2024/"><u>Understanding Subscription Tiers YouTube TV Explained for 2024</u></a></li>
 </ul></div>
 

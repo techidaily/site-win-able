@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Crashes in the Beat Saber Game
-date: 2025-02-12T18:45:50.014Z
-updated: 2025-02-15T00:03:02.021Z
+date: 2025-03-02T07:15:58.977Z
+updated: 2025-03-04T13:49:11.015Z
 tags:
   - win11
   - win10
@@ -70,19 +70,11 @@ First, check your current Microsoft Visual C++ version:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-58.jpg)
 2. Click **Programs** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-13.jpg)
 3. Click **Programs and Features** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-23.jpg)
 4. Now check your Microsoft Visual C++ Redistributable version.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-07.jpg)
 
@@ -95,10 +87,6 @@ First, check your current Microsoft Visual C++ version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-03_14-59-54.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the Cult of the Lamb continues to crash, try the next fix.
 
 ## Fix 2 Repair HDD bad sectors
@@ -109,17 +97,9 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste the following command. Remember to replace**e:** with the drive storing your game file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `**chkdsk e: /f /r /x**`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_17-17-48.jpg)
 3. Hit**Enter** on your keyboard. Then wait for it to run a scan and repair bad sectors for your drive.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_15-00-15-1.jpg)
 
@@ -132,10 +112,6 @@ If the Cult of the Lamb continues to crash, try the next fix.
 1. Right-click the**Cult of the Lamb.exe** file and choose**Properties** from the pop-up menu.
 2. Choose the**Compatibility** tab. Then tick the box**Run this program as an administrator** , and click **Apply**  and **OK**  to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_16-55-36.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s it. Now you can run the game in the way you normally do, and it will automatically run as an administrator. Launch the game to see if the crashing issue is solved.
 
@@ -156,10 +132,6 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart your PC to make changes apply. Then relaunch the game to check for any improvement.
@@ -176,10 +148,6 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
 
  Steam will verify the files of this game for you. Once done, exit the software client and launch it again. Have a test to see if the crashing issue is gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -225,16 +193,8 @@ Still no luck? Try this final fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. Choose the processes consuming too many resources, and then click **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Click the **Detail**  tab. Right-click **Stray.exe** and set its priority to **High** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
@@ -262,16 +222,21 @@ Still no luck? Try this final fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>[New] 2024 Approved Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-inshot-video-editing-on-your-pc/"><u>[New] Unleash Creativity Inshot Video Editing on Your PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-guide-mastering-ez-grabber/"><u>[Updated] Step-by-Step Guide Mastering EZ Grabber</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-resolving-the-black-screen-problem-on-discord-a-comprehensive-guide/"><u>1. Resolving the Black Screen Problem on Discord: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-unveiling-the-superiority-comprehensive-benefits-of-h265-hevc-over-h2/"><u>1. Unveiling the Superiority: Comprehensive Benefits of H.265 (HEVC) over H.2</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029319918-and/"><u>最新動画コンプレッションツール無料ダウンロード&おすすめサイト</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/titre-seo-guide-express-pour-corriger-limpossible-demarrage-du-pc-post-mise-a-jour-de-windows/"><u>Titre SEO: Guide Express Pour Corriger L'Impossible Démarrage Du PC Post-Mise À Jour De Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fix-the-dirt-5-continuous-crashes-on-your-windows-computer/"><u>Troubleshooting: Fix the 'Dirt 5' Continuous Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028135202-windows-1011/"><u>Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028147707-5/"><u>インターネット動画ダウンロードガイド:最新テクニックと方法 5種類の選択肢</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-filching-frames-from-films-for-windows-10-photos-collection/"><u>[New] 2024 Approved Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-much-money-can-a-podcaster-make/"><u>2024 Approved How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/actionable-techniques-for-efficient-media-conversion-chains/"><u>Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-game-lag-and-crashes-in-mordhau-ultimate-fix-guide-revealed/"><u>End Game Lag & Crashes in Mordhau – Ultimate Fix Guide Revealed!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-impressive-book-trails-presented/"><u>In 2024, Impressive Book Trails Presented</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464234468-iphone-volume-control-not-responding-here-are-7-effective-fixes/"><u>IPhone Volume Control Not Responding? Here Are 7 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-wow-optimization-essential-techniques-for-higher-frame-rates-and-smoother-play-in-2nw-year/"><u>Mastering WoW Optimization: Essential Techniques for Higher Frame Rates and Smoother Play in 2Nw Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-players-reveal-their-secrets-6-effective-ways-to-overcome-lag-in-escape-from-tarkov/"><u>Pro Players Reveal Their Secrets: 6 Effective Ways to Overcome Lag in Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-compatibility-glitches-between-corsair-icue-and-windows-11-a-guide/"><u>Resolving Compatibility Glitches Between Corsair iCUE and Windows 11: A Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/sending-images-via-email-from-your-iphone-discover-the-top-3-simple-techniques/"><u>Sending Images via Email From Your iPhone: Discover the Top 3 Simple Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-peak-post-times-on-instagram/"><u>The Ultimate Guide to Peak Post Times on Instagram</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-rated-3gp-to-avc-converter-software-for-pc-users/"><u>Top Rated 3GP to AVC Converter Software for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-prevent-thaumaturge-from-crashing-on-windowsmac/"><u>Troubleshooting Tips: How to Prevent Thaumaturge From Crashing on Windows/Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-potent-functionality-a-review-of-the-durable-samsung-gear-s3-frontier-timepiece/"><u>Unboxing the Potent Functionality: A Review of the Durable Samsung Gear S3 Frontier Timepiece</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-stability-issues-how-to-prevent-frequent-pc-crashes/"><u>Warzone 2.0 Stability Issues - How to Prevent Frequent PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-fortnite-pc-crashes-the-definitive-fix-for-gamers/"><u>Winning Against Fortnite PC Crashes - The Definitive Fix for Gamers</u></a></li>
 </ul></div>
 

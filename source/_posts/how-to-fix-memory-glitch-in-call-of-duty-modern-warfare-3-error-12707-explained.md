@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained"
-date: 2024-12-17T00:24:43.192Z
-updated: 2024-12-19T19:33:23.509Z
+date: 2025-02-24T17:56:02.910Z
+updated: 2025-03-04T01:23:46.034Z
 tags:
   - win11
   - win10
@@ -31,19 +31,11 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
 
@@ -53,19 +45,11 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -120,10 +104,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -149,24 +129,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-diversifying-audience-across-30plus-online-venues/"><u>[New] Diversifying Audience Across 30+ Online Venues</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-process-to-pinpoint-a-personalized-identifier-for-tiktok-for-2024/"><u>[New] The Process to Pinpoint a Personalized Identifier for TikTok for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimal-visual-snatchers-for-videos/"><u>[Updated] 2024 Approved Optimal Visual Snatchers for Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-error-alert-demystifying-the-leaf-issue-in-the-2022-patch-fixes-inside/"><u>Apex Legends Error Alert: Demystifying the 'Leaf' Issue in the 2022 Patch - Fixes Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bring-back-the-beeps-and-boops-rectifying-audio-issues-in-minecraft-for-windows/"><u>Bring Back the Beeps and Boops! Rectifying Audio Issues in Minecraft for Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/deathloop-unlock-secrets-resolving-startup-difficulties-for-a-smooth-gaming-experience/"><u>Deathloop Unlock Secrets: Resolving Startup Difficulties for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/digital-beat-chasers-explore-free-scanners-online/"><u>Digital Beat Chasers Explore Free Scanners Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-when-encountered-with-ghostwire-tokyo-pc-game-malfunctioning/"><u>Effective Fixes When Encountered with 'Ghostwire: Tokyo' PC Game Malfunctioning</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-gta-v-online-functionality-problems/"><u>Expert Tips for Repairing GTA V Online Functionality Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-15-pro-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 15 Pro Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-dota-2s-reduced-fps-in-latest-windows-os-tips-and-tricks-for-gaming-optimization/"><u>How to Resolve Dota 2'S Reduced FPS in Latest Windows OS - Tips and Tricks for Gaming Optimization</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987245835-no-more-game-crashes-decode-and-repair-your-cod-vanguard-en-error-0x00001338-on-pc-now/"><u>No More Game Crashes – Decode and Repair Your COD Vanguard E:N (Error 0X00001338) on PC Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-to-download-and-update-xbox-wireless-adapter-drivers/"><u>Quick Guide to Download & Update Xbox Wireless Adapter Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transferring-dvd-content-from-pc-or-mac-to-a-portable-usb/"><u>Step-by-Step Guide: Transferring DVD Content From PC or Mac to a Portable USB</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-8-essential-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-breaking-down-on-windows/"><u>Top 8 Essential Solutions to Prevent Marvel's Guardians of the Galaxy From Breaking Down on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722989609998-trouble-with-among-us-unstick-your-game-with-these-proven-fixes/"><u>Trouble with 'Among US'? Unstick Your Game With These Proven Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-starts-valheim-not-starting-up-correctly-as-of-march-2024/"><u>Troubleshooting Starts: Valheim Not Starting Up Correctly as of March 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-video-potential-leading-tools-turning-youtubes-to-avis-for-2024/"><u>Unlock Video Potential Leading Tools Turning YouTubes to Avis for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-is-a-408-request-timeout-detailed-explanation-and-troubleshooting-tips/"><u>What Is a 408 Request Timeout? Detailed Explanation and Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-film-the-face-of-your-fb-space/"><u>[New] 2024 Approved Film the Face of Your FB Space</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tips-to-quicken-instagram-content-engagement/"><u>[New] Tips to Quicken Instagram Content Engagement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-prestige-choices-top-rated-sites-for-securing-snapalert-music/"><u>[Updated] In 2024, Prestige Choices Top-Rated Sites for Securing SnapAlert Music</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-money-making-on-reddit-in-just-a-few-simple-steps/"><u>[Updated] Master Money-Making on Reddit in Just a Few Simple Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/6-pro-vs-apple-iphone-13-pro-for-tech-enthusiasts-zdnet/"><u>6 Pro Vs. Apple iPhone 13 Pro for Tech Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-step-by-step-tutorial-resolving-teardown-application-crashes/"><u>Complete Step-by-Step Tutorial: Resolving Teardown Application Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/increasing-frame-rate-and-smoothing-gameplay-a-guide-to-enhancing-performance-in-the-ascent/"><u>Increasing Frame Rate & Smoothing Gameplay: A Guide to Enhancing Performance in 'The Ascent'</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-camon-20-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Camon 20 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-wont-start-heres-how-you-can-fix-it-easily/"><u>Minecraft Won't Start? Here's How You Can Fix It Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pixel-perfect-performance-fixing-unclear-visuals-in-the-console-game-call-of-duty-warzone-for-pc-players/"><u>Pixel Perfect Performance: Fixing Unclear Visuals in the Console Game, Call of Duty: Warzone (for PC Players)</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pwm-versus-dc-fans-which-is-better-suited-for-effective-pc-temperature-regulation/"><u>PWM versus DC Fans: Which Is Better Suited for Effective PC Temperature Regulation?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-stop-starfield-from-stuttering-and-cutting-out/"><u>Solved! How to Stop Starfield From Stuttering and Cutting Out</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-yakuza-6-the-game-crashing-problems-on-windowsmac/"><u>Step-by-Step Solution for Yakuza 6: The Game Crashing Problems on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994186467-troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-preventing-gtfo-malfunctions/"><u>Troubleshooting Tips for Preventing GTFO Malfunctions</u></a></li>
 </ul></div>
 

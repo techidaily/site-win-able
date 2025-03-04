@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Civ 6 Not Launching on Windows 11"
-date: 2025-02-13T03:38:34.651Z
-updated: 2025-02-15T00:24:34.978Z
+date: 2025-02-24T21:29:34.200Z
+updated: 2025-03-04T09:57:41.318Z
 tags:
   - win11
   - win10
@@ -43,15 +43,7 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -63,17 +55,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the audio troubleshooter
 
@@ -93,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Windows 11
 
 1. On your keyboard, press the **Windows log** o key + **R** at the same time. Type **control**  in the Run box, and press **Enter** .  
@@ -109,15 +89,7 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If Windows fails to troubleshoot your issues, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make sure you set THX Spatial Audio as your device
 
@@ -131,10 +103,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -152,10 +120,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
@@ -184,10 +148,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
@@ -225,18 +185,18 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>[New] Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006466406-solved-league-of-legends-crashing-quickly-and-easily/"><u>[SOLVED] | League of Legends Crashing | Quickly & Easily!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-going-against-the-grain-instagram-video-reversal/"><u>[Updated] In 2024, Going Against the Grain Instagram Video Reversal</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-synchronizing-sequential-images-for-impactful-storytelling/"><u>[Updated] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-strategic-use-of-instagram-story-sections-for-brands/"><u>2024 Approved The Strategic Use of Instagram Story Sections for Brands</u></a></li>
-<li><a href="https://win-able.techidaily.com/eac-launch-issue-solved-guide-to-properly-installing-your-anticheating-software/"><u>EAC Launch Issue Solved: Guide to Properly Installing Your Anticheating Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Google Meet Camera Not Working? Here's How You Can Get It Up and Running Again!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-moto-g34-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Moto G34 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrating-advanced-zoom-features-on-tiktok/"><u>Integrating Advanced Zoom Features on TikTok</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-for-avatar-frontier-adventures-on-pandora/"><u>Overcoming Launch Errors for Avatar: Frontier Adventures on Pandora</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-amd-radeon-software-failed-to-start-error-quickly/"><u>Resolve 'AMD Radeon Software Failed to Start' Error Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-rec-room-mic-problems-for-pc-users-comprehensive-2024-edition/"><u>Solving Rec Room Mic Problems for PC Users - Comprehensive 2024 Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/upcoming-features-and-enhancements-in-windows-outlook-a-detailed-look/"><u>Upcoming Features and Enhancements in Windows Outlook - A Detailed Look</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-memory-to-moments-securely-uploading-photos-to-snapchat/"><u>[New] From Memory to Moments Securely Uploading Photos to Snapchat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-conducting-a-cross-platform-playlist-symphony/"><u>[Updated] 2024 Approved Conducting a Cross-Platform Playlist Symphony</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-masterful-screenshots-made-simple-top-10-free-mac-apps-for-2024/"><u>[Updated] Masterful Screenshots Made Simple – Top 10 FREE Mac Apps for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-apex-legends-latency-and-connectivity-woes/"><u>Expert Guide: Overcoming Apex Legends Latency and Connectivity Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001207604-expert-solutions-for-overcoming-persistent-state-of-decay-2-freezes-latest-updates-and-hacks/"><u>Expert Solutions for Overcoming Persistent State of Decay 2 Freezes - Latest Updates & Hacks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-of-your-corsair-icue-on-latest-windows-versions/"><u>How to Restore Functionality of Your Corsair iCUE on Latest Windows Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-tvs-explored-is-aurora-at-the-forefront/"><u>In 2024, HDR TVs Explored Is Aurora at the Forefront?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-note-12-pro-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi Note 12 Pro 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-11-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme 11 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ey-around-the-world-on-youtube-including-you/"><u>Journey Around the World on YouTube, Including You</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-crashing-fix-your-ffxiv-online-on-pc/"><u>Say Goodbye to Game Crashing – Fix Your FFXIV Online on PC!</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrchat-malfunction-heres-how-you-can-resolve-full-service-disruption/"><u>VRChat Malfunction? Here's How You Can Resolve Full Service Disruption</u></a></li>
 </ul></div>
 

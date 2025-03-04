@@ -1,7 +1,7 @@
 ---
 title: Causes & Solutions for Intermittent Screen Breakup in Warzone Gaming
-date: 2025-02-12T00:48:24.786Z
-updated: 2025-02-14T21:07:06.790Z
+date: 2025-03-02T07:48:47.100Z
+updated: 2025-03-03T23:02:23.749Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-the-game-supports-remote-play-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your game’s store page, scroll down and on the right side, you’ll see if your game supports Remote Play or not.  
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
@@ -52,10 +48,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your Steam client and games
 
@@ -110,10 +102,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
@@ -132,23 +120,11 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
@@ -158,17 +134,9 @@ Now try reconnecting your device to check if the issue persists.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Now restart your computer for the settings to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
 
@@ -178,10 +146,6 @@ To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type**ncpa.cpl** and press**Enter** .
 
 ![open network connections window to set a static ip address
@@ -190,10 +154,6 @@ To set a static IP address, you can:
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
@@ -248,22 +208,24 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/century-age-of-ashes-pc-version-troubleshooting-fix-constant-crash-issues/"><u>Century: Age of Ashes PC Version Troubleshooting – Fix Constant Crash Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-vanguard-error-code-0x00001338-n-on-pc-solved/"><u>CoD Vanguard Error Code 0X00001338 N on PC [SOLVED]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/daily-life-with-ai-chatbots-comparing-claude-and-chatgpts-effectiveness/"><u>Daily Life with AI Chatbots: Comparing Claude and ChatGPT's Effectiveness</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-resolving-the-frustrating-black-outage-experience-in-fallout-4-gaming/"><u>Expert Advice on Resolving the Frustrating Black Outage Experience in Fallout 4 Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-how-to-stop-your-phoenix-point-adventure-from-unexpectedly-ending-in-a-crash/"><u>Expert Tips on How to Stop Your Phoenix Point Adventure From Unexpectedly Ending in a Crash</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expertly-selected-iphone-email-managers/"><u>Expertly Selected iPhone Email Managers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/final-cuts-vertical-voyage-editing-for-the-modern-instagram-reader/"><u>Final Cut's Vertical Voyage Editing for the Modern Instagram Reader</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-dragon-age-origins-game-freezing-issues-on-windows-10/"><u>How to Fix Dragon Age: Origins Game Freezing Issues on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-total-blackout-problems-with-resident-evil-village-on-a-computer-setup/"><u>How to Overcome Total Blackout Problems with Resident Evil Village on a Computer Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-the-wallpaper-engine-from-crashing-on-your-pc-windows-1110/"><u>How to Stop the Wallpaper Engine From Crashing on Your PC (Windows 11/10)</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-stop-your-pc-from-hangingcrashing-expert-advice-by-yl-software/"><u>How To Stop Your PC From Hanging/Crashing: Expert Advice by YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-call-of-duty-warzone-from-crashing-in-windows-2024/"><u>Resolved! How to Stop Call of Duty Warzone From Crashing in Windows 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-not-opening-heres-how-you-can-resolve-it/"><u>Rocket League Not Opening? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/solution-guide-recovering-missing-files-from-seagate-external-hard-drives/"><u>Solution Guide: Recovering Missing Files From Seagate External Hard Drives</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transforming-wireless-signal-quality-with-netgear-nighthawk-x-6s-the-definitive-range-extender/"><u>Transforming Wireless Signal Quality with Netgear Nighthawk X 6S - The Definitive Range Extender</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Tecno</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-savings-in-cloud-data-services/"><u>[New] 2024 Approved Unlocking Savings in Cloud Data Services</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-optimize-playback-settings-in-snapchat-applications/"><u>[New] In 2024, How To Optimize Playback Settings in Snapchat Applications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-pause-and-extend-videos-on-snapchat-for-2024/"><u>[New] Step-by-Step Guide to Pause & Extend Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-realizing-youre-off-the-friends-list/"><u>[Updated] 2024 Approved Realizing You're Off the Friends List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unfreezing-frozen-obs-stream-input/"><u>[Updated] In 2024, Unfreezing Frozen OBS Stream Input</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-pc-problems-with-outriders-solutions-for-smooth-gameplay/"><u>Common PC Problems with Outriders - Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-lags-and-pauses-in-overwatch-gameplay/"><u>Effective Solutions for Continuous Lags & Pauses in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-of-the-line-fixing-obs-latency-problems-for-perfect-livestreams-and-captures/"><u>End of the Line: Fixing OBS Latency Problems for Perfect Livestreams & Captures</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-rocket-league-continuous-crashes-update-for-202/"><u>Expert Advice on Fixing Rocket League Continuous Crashes (Update for 202</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-cyberpunk-2077-keeps-freezing-on-your-device/"><u>Fixing the Issue: Why Cyberpunk 2077 Keeps Freezing on Your Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-elevate-earnings-through-effective-facebook-page-practices/"><u>In 2024, Elevate Earnings Through Effective Facebook Page Practices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fast-downloads-top-techniques-for-optimizing-origin-in-2/"><u>Mastering Fast Downloads: Top Techniques for Optimizing Origin in 2</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-creative-with-glitch-video-editing-best-software-for-windows-mac-and-web/"><u>New In 2024, Get Creative with Glitch Video Editing Best Software for Windows, Mac, and Web</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-interruptions-in-naval-combat-swift-repairs-for-wows-crashing-issues/"><u>No More Interruptions in Naval Combat: Swift Repairs for WowS Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-players-experience-issues-with-pokemon-go-freezing-and-lag/"><u>Step-by-Step Guide to Resolve Players' Experience Issues with Pokemon Go (Freezing and Lag)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-rusts-display-errors/"><u>Troubleshooting and Correcting Rust's Display Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-v29e-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo V29e Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Battlefield: Avoid Low FPS Woes in War Thunder (Tips & Tricks)"
-date: 2025-02-09T21:22:20.652Z
-updated: 2025-02-14T22:57:34.626Z
+date: 2025-02-24T18:09:26.640Z
+updated: 2025-03-04T12:13:27.539Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
 If the issue persists, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of Minecraft and cause the black screen issue. To ensure the game functions properly, you should **add Minecraft Launcher as an exception to your antivirus software** . This will vary depending on the antivirus software you’re using.
@@ -65,10 +57,6 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -92,10 +80,6 @@ If the issue remains, move on to the next fix.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Set the anti-aliasing to default
 
  If you had changed the Minecraft anti-aliasing settings from default, you may experience a black screen on launch. To fix it, you can reset your video settings to default. Here’s how:
@@ -106,10 +90,6 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
@@ -127,10 +107,6 @@ If this method doesn’t do the trick, continue to the next fix.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
@@ -152,10 +128,6 @@ If not, try the next fix.
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -184,22 +156,22 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nhance-engagement-with-effective-yt-summary-writing-for-2024/"><u>[New] Enhance Engagement with Effective YT Summary Writing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-full-length-video-view-remove-youtube-preview-for-2024/"><u>[Updated] Full-Length Video View Remove YouTube Preview for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-igtvs-power-boosters-crafting-viral-hash-tags/"><u>[Updated] In 2024, IGTV's Power Boosters Crafting Viral Hash Tags</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-xsplit-versus-obs-which-takes-live-streaming-to-the-next-level/"><u>[Updated] XSplit versus OBS - Which Takes Live Streaming to the Next Level?</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-to-prevent-gta-v-from-crashing-during-playtime/"><u>Expert Tips and Fixes to Prevent GTA V From Crashing During Playtime</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-eliminating-your-nvidia-geforce-error-code-0x0003-woes-once-and-for-all/"><u>Expert Tips for Eliminating Your Nvidia Geforce Error Code 0X0003 Woes Once and For All</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-valheim-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop Valheim From Crashing on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862816406-get-the-best-in-gaming-displays-with-alienwares-360-hz-oled-monitor-high-score-meets-low-cost/"><u>Get the Best in Gaming Displays with Alienware’s 360 Hz OLED Monitor - High Score Meets Low Cost!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y100-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y100 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-lineup-8-prime-5k-display-models/"><u>In 2024, Premium Lineup 8 Prime 5K Display Models</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterful-fixes-for-avatar-gameplay-overcoming-lag-challenges-in-the-world-of-pandora/"><u>Masterful Fixes for Avatar Gameplay – Overcoming Lag Challenges in the World of Pandora</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mastering-reusable-text-templates-across-different-programs-on-windows-os-versions/"><u>Mastering Reusable Text Templates Across Different Programs on Windows OS Versions</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-lopsided-one-side-windows-headphone-sounds/"><u>Repairing Lopsided One-Side Windows Headphone Sounds</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003669713-resolve-microsoft-edge-stability-issues-in-windows-11-with-these-tips/"><u>Resolve Microsoft Edge Stability Issues in Windows 11 with These Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-problem-voice-chat-malfunction-on-content-warnings/"><u>Solving the Problem: Voice Chat Malfunction on Content Warnings</u></a></li>
-<li><a href="https://win-able.techidaily.com/surviving-against-all-odds-understanding-resilience-in-african-american-history/"><u>Surviving Against All Odds: Understanding Resilience in African-American History</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997689592-troubleshooting-failed-monster-hunter-rise-launches-effective-fixes-revealed/"><u>Troubleshooting Failed Monster Hunter Rise Launches – Effective Fixes Revealed!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-disconnect-and-delete-discord-accounts-devices/"><u>[New] Disconnect and Delete Discord Accounts (Devices)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>[New] In 2024, A Straightforward Path Learn How To Use EZ Grabber Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-casual-to-expert-your-path-with-obs-gaming-capture/"><u>[Updated] 2024 Approved From Casual to Expert Your Path with OBS Gaming Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpegaacmovevai/"><u>「MPEGファイルからAACへの無料変換！MoveVaiオンラインツール」</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-visionary-8-webcams-the-future-of-live-broadcasts/"><u>2024 Approved Visionary 8 Webcams The Future of Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crafting-the-perfect-sonic-storytelling-on-social-media-for-2024/"><u>Crafting the Perfect Sonic Storytelling on Social Media for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-1018-printer-drivers-step-by-step-guide/"><u>Download HP LaserJet 1018 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-amd-radean-software-that-refuses-to-open/"><u>Effective Solutions for Fixing AMD Radean Software That Refuses To Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-dota-2s-stalled-loading-scenes-a-step-by-step-guide-to-restarting-your-game/"><u>Fix Dota 2'S Stalled Loading Scenes - A Step-by-Step Guide to Restarting Your Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-has-bethesda-improved-performance-issues-for-mass-effect-ultimate-collection/"><u>How Has Bethesda Improved Performance Issues for Mass Effect Ultimate Collection?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-oxygen-not-included-gameplay-interruptions/"><u>How to Prevent and Fix 'Oxygen Not Included' Gameplay Interruptions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-12-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus 12 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-canon-printer-setup-how-to-obtain-and-apply-mx560-drivers-quickly/"><u>Seamless Canon Printer Setup: How to Obtain and Apply MX560 Drivers Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cant-i-play-starfield-how-to-fix-launch-problems-in-steam-and-xbox/"><u>Solution Guide: Why Can't I Play Starfield? How to Fix Launch Problems in Steam and Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-opening-epic-games-launcher-here-are-easy-solutions/"><u>Trouble with Opening Epic Games Launcher? Here Are Easy Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-fifa-22-keeps-exiting-prematurely-on-pc/"><u>Troubleshooting: Why FIFA 22 Keeps Exiting Prematurely on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-continuous-crash-problems-discover-these-fixes-made/"><u>War Thunder Continuous Crash Problems? Discover These Fixes Made !</u></a></li>
 </ul></div>
 

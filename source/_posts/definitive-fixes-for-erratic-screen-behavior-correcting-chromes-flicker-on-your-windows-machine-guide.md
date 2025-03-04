@@ -1,7 +1,7 @@
 ---
 title: "Definitive Fixes for Erratic Screen Behavior: Correcting Chrome's Flicker on Your Windows Machine (Guide)"
-date: 2025-01-26T02:22:35.099Z
-updated: 2025-01-31T17:29:20.293Z
+date: 2025-02-27T20:15:55.634Z
+updated: 2025-03-04T03:00:52.527Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -68,16 +64,8 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
@@ -93,20 +81,12 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -118,10 +98,6 @@ If this method doesn’t work, try the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
@@ -135,25 +111,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -194,18 +158,19 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>[New] 2024 Approved Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-best-practices-for-4k-screen-recording/"><u>[Updated] Best Practices for 4K Screen Recording</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-masterful-lighting-techniques-for-iphone-users-for-2024/"><u>[Updated] Masterful Lighting Techniques for IPhone Users for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-youtube-screens-video-zoom-guide/"><u>Elevate Your YouTube Screens Video Zoom Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-pc-application-errors-discover-6-dependable-fixes-for-stray-crashing-issues/"><u>Eliminate PC Application Errors: Discover 6 Dependable Fixes for 'Stray Crashing' Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-to-eliminate-resident-evil-village-stuttering-issues-on-personal-computers/"><u>Expert Tips & Tricks to Eliminate Resident Evil Village Stuttering Issues on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-issues-when-star-wars-jedi-fallen-order-game-doesnt-open/"><u>How to Fix Issues When Star Wars Jedi: Fallen Order Game Doesn't Open</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g73-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G73 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-gt-neo-5-se-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme GT Neo 5 SE to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-online-play-troubleshooting-guide-for-smooth-gaming/"><u>MLB The Show 21 Online Play Troubleshooting Guide for Smooth Gaming</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigating-skies-drone-shooting-basics/"><u>Navigating Skies Drone Shooting Basics</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-guide-to-solve-windows-pc-screen-trembling-in-google-chrome-expert-advice-from-2024/"><u>The Complete Guide to Solve Windows PC Screen Trembling in Google Chrome - Expert Advice From 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-next-for-failed-updates-code-0x800f0845/"><u>What's Next for Failed Updates - Code 0X800f0845?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-instant-video-link-up-using-whatsapp-desktop-for-pc-calls/"><u>[New] 2024 Approved Instant Video Link-Up Using WhatsApp Desktop for PC Calls</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-echoes-of-the-past-iphone-x-portraiture-for-2024/"><u>[New] Echoes of the Past IPhone X Portraiture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pushing-boundaries-with-vidmas-video-capture-features-for-2024/"><u>[New] Pushing Boundaries with Vidma's Video Capture Features for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-travel-companion-the-3-in-1-magsafe-charger-with-qi-wireless-charging-zdnet/"><u>Discover the Ultimate Travel Companion: The 3-in-1 MagSafe Charger with QI Wireless Charging | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-lowering-cpu-load-on-win10-pcs/"><u>Efficiently Lowering CPU Load on Win10 PCs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elevating-your-presence-on-tiktok-essential-7-must-haves/"><u>Elevating Your Presence on TikTok Essential 7 Must-Haves</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-f1-202n-game-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop F1 202N Game From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-stuck-launch-screen-in-updated-dota-2-version/"><u>Getting Past the Stuck Launch Screen in Updated Dota 2 Version</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-free-reproduction-tools-for-switch-games/"><u>In 2024, Superior Free Reproduction Tools for Switch Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/latest-strategies-to-solve-division-2-startup-problems/"><u>Latest Strategies to Solve Division 2 Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-system-interruptions-nier-replicant-crashes-now-sorted/"><u>Overcoming System Interruptions - NieR: Replicant Crashes Now Sorted</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fixes-to-overcome-firefox-freezing-problems-in-the-new-year/"><u>The Definitive Fixes to Overcome Firefox Freezing Problems in the New Year</u></a></li>
 </ul></div>
 

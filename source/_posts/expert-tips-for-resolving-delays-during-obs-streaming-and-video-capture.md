@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Delays During OBS Streaming & Video Capture
-date: 2025-01-04T23:13:17.761Z
-updated: 2025-01-06T02:03:29.551Z
+date: 2025-03-03T03:05:31.776Z
+updated: 2025-03-04T10:35:14.456Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -78,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -93,10 +81,6 @@ See if this issue reappears. If not, you have fixed this issue.
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -114,10 +98,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -132,10 +112,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
@@ -149,10 +125,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -198,18 +170,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-2023s-best-updated-lg-bp550-overview/"><u>[New] 2023'S Best Updated LG BP550 Overview</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-face-off-frenzy-legendary-sj6-versus-yis-prodigy-4k/"><u>[New] 2024 Approved Face-Off Frenzy Legendary SJ6 Versus Yi's Prodigy 4K</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[Updated] Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
-<li><a href="https://win-able.techidaily.com/critical-startup-issues-here-are-proven-solutions-for-life-threatening-companies-unable-to-launch/"><u>Critical Startup Issues? Here Are Proven Solutions for Life-Threatening Companies Unable to Launch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-compositing-using-blending-modes-for-2024/"><u>Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-realme-c53-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme C53 Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-world-of-tanks-blitz-from-unexpectedly-quitting-solution-found/"><u>How to Stop World of Tanks: Blitz From Unexpectedly Quitting (Solution Found)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-5-leading-resources-to-masterfully-add-text-flair-online/"><u>In 2024, 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-macos-monterey-building-personalized-focusing-modes-for-enhanced-productivity-insights/"><u>Mastering MacOS Monterey: Building Personalized Focusing Modes for Enhanced Productivity | Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-issue-overcoming-adobes-startup-failure-error-code-0xc0000022/"><u>Resolving the Issue: Overcoming Adobe's Startup Failure Error Code 0xC0000022</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-gaming-glitches-on-your-windows-computer-resolved/"><u>Troubleshooting Persistent Gaming Glitches on Your Windows Computer [Resolved]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-imovie-techniques-to-upgrade-your-youtube-content-for-2024/"><u>[New] Essential iMovie Techniques to Upgrade Your YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>[Updated] 2024 Approved Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dissecting-youtubes-user-commentary/"><u>[Updated] 2024 Approved Dissecting YouTubes' User Commentary</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-professional-results-podcast-editing-made-simple-in-garageband/"><u>[Updated] Achieve Professional Results Podcast Editing Made Simple in GarageBand</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/accelerate-your-videos-top-10-free-speed-changer-apps-for-ios-and-android/"><u>Accelerate Your Videos Top 10 Free Speed Changer Apps for iOS and Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-stuck-heres-how-to-get-it-running-smoothly-again/"><u>Call of Duty: Vanguard Stuck? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-your-epson-wf-7710-ready-on-windows-108187-driver-downloads-included/"><u>Easy Steps to Get Your Epson WF-7710 Ready on Windows 10/8.1/8/7 - Driver Downloads Included!</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gameplay-with-these-tips-to-resolve-low-fps-in-splitgate/"><u>Enhance Your Gameplay with These Tips to Resolve Low FPS in Splitgate</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-preventing-frequent-disruptions-while-playing-battlefield-v-on-pc/"><u>Expert Tips: Preventing Frequent Disruptions While Playing Battlefield V on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-ps4-freezing-step-by-step/"><u>How to FIX PS4 Freezing | Step by Step</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-error-code-80070057-in-call-of-duty-black-ops-cold-war/"><u>How to Resolve the 'Error Code 80070057' In Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-dolby-atmos-functionality-on-your-windows-computer/"><u>Step-by-Step Tutorial: Restoring Dolby Atmos Functionality on Your Windows Computer</u></a></li>
 </ul></div>
 

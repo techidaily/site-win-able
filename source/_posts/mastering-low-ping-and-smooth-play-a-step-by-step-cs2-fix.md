@@ -1,7 +1,7 @@
 ---
 title: "Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix"
-date: 2025-02-12T01:34:11.321Z
-updated: 2025-02-14T20:37:38.426Z
+date: 2025-02-25T19:10:12.092Z
+updated: 2025-03-04T01:20:00.033Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings.jpg)
 2. In Display settings, scroll down the page and select**Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
 
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 5. In the pop-up window, select**High performance** and click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
@@ -123,10 +115,6 @@ If the stuttering issue persists, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
@@ -135,10 +123,6 @@ But if it doesn’t, take a look at the next fix.
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Via NVIDIA Control Panel
 
 1. Right-click your desktop and select**NVIDIA Control Panel** .  
@@ -146,10 +130,6 @@ But if it doesn’t, take a look at the next fix.
 2. In the left panel, select**Manage 3D Settings** , then click the dropdown menu next to**Vertical sync** and select**On** . Click**Apply** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Via AMD Radeon Settings
 
@@ -165,17 +145,9 @@ But if it doesn’t, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Turn off threaded optimization
 
@@ -189,10 +161,6 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
@@ -214,17 +182,9 @@ If the stuttering issue remains, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall OptiFine
 
@@ -257,21 +217,14 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>[New] 2024 Approved Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>[New] 2024 Approved Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-football-manager-2022-crashing-on-pc/"><u>[SOLVED] Football Manager 2022 Crashing on PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-step-by-step-walkthrough-to-craft-your-metaverse-identity/"><u>[Updated] 2024 Approved A Step-by-Step Walkthrough to Craft Your Metaverse Identity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brainy-battalions-ultimate-list-of-general-knowledge-trivia-networks-2024/"><u>Brainy Battalions Ultimate List of General Knowledge Trivia Networks, 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013959891-experiencing-cyberpunk-2077-lag-heres-how-to-defrost-and-enjoy-smoothly/"><u>Experiencing Cyberpunk 2077 Lag? Here's How to Defrost and Enjoy Smoothly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-redd-2-errgfxstate-issue-a-step-by-step-guide/"><u>How to Fix the REDD 2 ERR_GFX_STATE Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-leveraging-obs-for-top-notch-social-media-streaming/"><u>In 2024, Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-ark-performance-optimization-for-windows-users-say-goodbye-to-game-interruptions/"><u>Lost Ark Performance Optimization for Windows Users: Say Goodbye to Game Interruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-effective-solutions-to-play-robocop-rogue-city-on-personal-computers/"><u>Overcome the Hurdle: Effective Solutions to Play 'Robocop: Rogue City' On Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/perfect-your-twitch-experience-master-these-the-7-most-effective-solutions-to-stream-buffering-woes/"><u>Perfect Your Twitch Experience: Master These The 7 Most Effective Solutions to Stream Buffering Woes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-kyocera-printing-software-setup-for-windows-users/"><u>Step-by-Step: KYOCERA Printing Software Setup for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-recurrent-frost-phenomena-on-earths-novel-environment-solutions-and-insights/"><u>Understanding Recurrent Frost Phenomena on Earth's Novel Environment: Solutions and Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-ingenuity-funnyflick-studio/"><u>[Updated] 2024 Approved Image Ingenuity FunnyFlick Studio</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-overwatch-gameplay-captured-step-by-step-guide/"><u>[Updated] Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-step-by-step-soundtracking-tips-for-premiere-pro-editors-for-2024/"><u>[Updated] Step-by-Step Soundtracking Tips for Premiere Pro Editors for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/horizon-forbidden-west-pc-issues-fixing-the-complete-edition-stutter-and-crashes/"><u>Horizon Forbidden West PC Issues - Fixing the Complete Edition Stutter & Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-cannot-log-onto-user-error-in-counter-strike-global-offensive/"><u>How to Overcome 'Cannot Log Onto User' Error in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastery-in-minutes-repair-techniques-for-remote-server-not-reachable-error/"><u>Mastery in Minutes: Repair Techniques for 'Remote Server Not Reachable' Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mcafees-new-ai-powered-tool-the-ultimate-solution-for-identifying-deepfake-audio-threats-is-it-truly-dependable/"><u>McAfee's New AI-Powered Tool: The Ultimate Solution for Identifying Deepfake Audio Threats – Is It Truly Dependable?</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-a-smooth-call-of-duty-warzone-experience/"><u>Top Strategies for a Smooth Call of Duty Warzone Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-address-serious-sam-4-performance-issues-crashing-and-stuttering-on-windows/"><u>Troubleshooting Steps to Address Serious Sam ^4 Performance Issues: Crashing and Stuttering on Windows</u></a></li>
 </ul></div>
 

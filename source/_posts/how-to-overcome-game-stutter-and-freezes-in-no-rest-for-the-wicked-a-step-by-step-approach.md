@@ -1,7 +1,7 @@
 ---
 title: "How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach"
-date: 2025-02-09T21:46:17.656Z
-updated: 2025-02-14T23:48:00.129Z
+date: 2025-02-27T00:45:24.018Z
+updated: 2025-03-04T07:25:08.588Z
 tags:
   - win11
   - win10
@@ -67,15 +67,7 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-45-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -139,10 +131,6 @@ Follow the instructions below to view your computer hardware information:
 
  If your problem continues to occur, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run your game as an administrator
 
  Running a game with administrative privileges can help resolve compatibility issues and prevent game issues caused by restricted access. To run_Borderland 3_ as an administrator, follow these steps:
@@ -173,17 +161,9 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
@@ -222,10 +202,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-19.jpg)
@@ -237,10 +213,6 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -284,10 +256,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -298,17 +266,9 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)** Restart your computer and your game.
 
  You should be able to run the game without freezing now. If the issue continues to occur, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the Epic Games Launcher
 
@@ -361,20 +321,22 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-19-critical-examples-of-the-metaverse-unveiled/"><u>[New] 19 Critical Examples of the Metaverse Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028545015-pc/"><u>「PCで映像録画手順ガイド」</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029863608-dvd-shrink/"><u>DVD Shrink製品のエラーを解消する戦略とは</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-fix-refresh-and-update-epson-wf-7620-software-on-your-pc-running-windows/"><u>Easy Fix: Refresh and Update Epson WF-7620 Software on Your PC Running Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-hp-laptop-keyboard-issues-fast-simple-solutions/"><u>Fix HP Laptop Keyboard Issues Fast - Simple Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-s23-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy S23 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/live-action-top-9-gaming-portals/"><u>Live Action Top 9 Gaming Portals</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028414428-m4a/"><u>M4A形式音楽ファイル再生失敗の理由と解決策</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030019253-mp3/"><u>MP3への音声変換：動画内で音声抜き取りから始めよう</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us!</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>New In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029879365-nhk/"><u>NHKアーカイブスの映像素材ダウンロード手順詳しく解説</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029493692-shotcut/"><u>Shotcutアプリで動画回転・反転技術：簡単ガイド</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-wonders-of-chatgpt-a-comprehensive-overview/"><u>Unraveling the Wonders of ChatGPT: A Comprehensive Overview</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965022116-whats-new-upgraded-software-for-the-logitech-extreme-3d-controller/"><u>What's New? Upgraded Software for the Logitech Extreme 3D Controller</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-breakdown-of-youtubes-shorts-initiative/"><u>[New] 2024 Approved The Breakdown of YouTube's Shorts Initiative</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-income-journey-on-youtube-start-here-with-8-tips/"><u>[New] In 2024, Income Journey on YouTube - Start Here with 8 Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-detailed-deconstruction-a-full-evaluation-of-bublcam-360-technology/"><u>[Updated] 2024 Approved Detailed Deconstruction A Full Evaluation of Bublcam 360 Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-urban-oasis-creation-bridging-concrete-with-wildlife-habitats/"><u>2024 Approved Urban Oasis Creation Bridging Concrete with Wildlife Habitats</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-ps4-freezing-problems-with-these-easy-steps-to-repair-guide/"><u>Banish PS4 Freezing Problems with These Easy Steps to Repair Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/online-stock-market-channels-reviewed-for-2024/"><u>Best Online Stock Market Channels Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-non-responsive-utorrent-a-guide-to-7-quick-fixes/"><u>Dealing with Non-Responsive Utorrent: A Guide to 7 Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-challenges-in-yakuza-like-a-dragon-for-personal-computers/"><u>Defeating Challenges in 'Yakuza: Like a Dragon' For Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-the-non-launch-issue-with-armored-core-vi-the-fires-of-rubicon/"><u>Diagnosing & Repairing the Non-Launch Issue with Armored Core VI: The Fires of Rubicon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-repairing-display-drivers-on-your-hp-monitor-across-win11win8win7/"><u>Guide to Repairing Display Drivers on Your HP Monitor Across Win11/Win8/Win7</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-cyberpunk-2077-pc-crashes-a-comprehensive-guide/"><u>How To Fix Cyberpunk 2077 PC Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-issues-with-non-functional-intel-support-tools-in-windows/"><u>How to Resolve Issues with Non-Functional Intel Support Tools in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 Lite to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y78t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y78t Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-among-us-deadlock-tips-for-escaping-load-loop-troubles/"><u>Overcoming the 'Among Us' Deadlock: Tips for Escaping Load Loop Troubles</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-your-gas-station-simulator-from-crashing-on-pc/"><u>Resolved: How to Stop Your Gas Station Simulator From Crashing on PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers/"><u>Step-by-Step Guide to Perfecting Videos on a PC for YouTubers</u></a></li>
 </ul></div>
 

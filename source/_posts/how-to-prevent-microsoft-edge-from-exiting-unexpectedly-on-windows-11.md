@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Microsoft Edge From Exiting Unexpectedly on Windows 11
-date: 2024-12-13T06:35:54.848Z
-updated: 2024-12-20T05:23:01.731Z
+date: 2025-02-25T10:12:16.645Z
+updated: 2025-03-03T16:03:48.000Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -52,17 +48,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -78,10 +66,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
@@ -102,10 +86,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
@@ -114,10 +94,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -125,10 +101,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -193,24 +165,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels-for-2024/"><u>[New] Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-end-screen-resources-enhance-video-impact/"><u>[New] In 2024, Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-podcasters-guide-to-the-10-finest-mic-options-for-2024/"><u>[Updated] Podcaster's Guide to the 10 Finest Mic Options for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-exploring-6-exquisite-eastern-themed-homes-in-mc/"><u>2024 Approved Exploring 6 Exquisite Eastern Themed Homes in MC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-checklist-for-top-tier-instagram-reels/"><u>2024 Approved The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
-<li><a href="https://win-able.techidaily.com/critical-guide-overcoming-pc-gaming-glitches-in-serious-sam-evolution-iv/"><u>Critical Guide: Overcoming PC Gaming Glitches in Serious Sam Evolution IV</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-lenovo-display-driver/"><u>Easy Guide to Downloading & Updating Your Lenovo Display Driver</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-alienware-command-center-back-on-track-resolved-fixes/"><u>Get Your Alienware Command Center Back on Track - Resolved Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-tower-of-fantasy-desktop-gaming-stability-problems/"><u>How to Overcome the 'Tower of Fantasy' Desktop Gaming Stability Problems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-xs-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone XS Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-stability-tips-no-more-crashing/"><u>League of Legends Stability Tips - No More Crashing!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-quick-downloads-on-origin-insider-secrets-and-techniques-a-2024-playbook/"><u>Mastering Quick Downloads on Origin: Insider Secrets & Techniques - A 2024 Playbook</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-fixes-for-persistent-update-loading-problems/"><u>Microsoft Flight Simulator 2020 - Fixes for Persistent Update Loading Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722872426403-navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/"><u>Navigating the Digital Age: Laptops, Smartphones & Literary Treasures Galore</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-stabilizing-adobe-after-effects-on-windows-11-and-10-systems/"><u>Step-by-Step Solutions for Stabilizing Adobe After Effects on Windows 11 & 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/terraria-stability-fixes-top-2024-solutions-for-eliminating-game-crashes/"><u>Terraria Stability Fixes: Top 2024 Solutions for Eliminating Game Crashes</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y100-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y100</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-techniques-for-optimal-steam-gameplay-capture-for-2024/"><u>Top Techniques for Optimal Steam Gameplay Capture for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-riot-games-fix-for-the-2024-reconnect-bug-in-lol/"><u>Understanding Riot Games' Fix for the 2024 Reconnect Bug in LoL</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-castcritique-report/"><u>[Updated] 2024 Approved CastCritique Report</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-windowsmac-meeting-record-skype-guide/"><u>2024 Approved Windows/Mac Meeting Record - Skype Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-villainous-visuals-a-guide-to-fixing-pc-playthrough-issues-with-resident-evil-village/"><u>Conquering Villainous Visuals: A Guide to Fixing PC Playthrough Issues with Resident Evil Village</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/convert-fb-footage-fast-free-720p-1080p-to-mp4-conversion/"><u>Convert FB Footage Fast - Free 720P, 1080P to MP4 Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-gaming-experience-by-eliminating-connection-delays-and-lags/"><u>Elevate Your Gaming Experience by Eliminating Connection Delays and Lags</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-compatibility-with-the-latest-broder-hl-l2360dw-driver-click-to-download/"><u>Ensure Compatibility with the Latest Brøder HL-L2360DW Driver - Click to Download</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ethical-approaches-to-achieve-one-million-youtube-subscribers-for-2024/"><u>Ethical Approaches to Achieve One Million YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-youtube-stutter-and-lag-expert-advice-revealed/"><u>Fixing YouTube Stutter and Lag: Expert Advice Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hue-harmony-professionals-transforming-photos-for-2024/"><u>Hue Harmony Professionals Transforming Photos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-s24-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy S24 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fixes-for-madden-22-issues-in-minutes/"><u>Master the Fixes for Madden 22 Issues in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-connection-issues-in-minecraft-multiplayer/"><u>Resolved: Fixing Connection Issues in Minecraft Multiplayer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smart-naming-solutions-leading-10-ai-name-generators/"><u>Smart Naming Solutions Leading 10 AI Name Generators</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-nba-2k24-error-727e66ac-ultimate-troubleshooting-guide/"><u>Solving NBA 2K24 Error 727E66AC : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-connect-your-ps4-controllers-seamlessly/"><u>Step-by-Step Guide: Connect Your PS4 Controllers Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-quick-and-smooth-playthrough-of-outriders-without-any-delays-or-lag-issues/"><u>Step-by-Step Solution for Quick and Smooth Playthrough of Outriders Without Any Delays or Lag Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-launching-outriders-on-pc/"><u>Troubleshooting Tips for Launching Outriders on PC</u></a></li>
 </ul></div>
 

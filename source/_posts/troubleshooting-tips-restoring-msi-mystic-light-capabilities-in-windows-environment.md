@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment"
-date: 2025-01-25T01:42:46.336Z
-updated: 2025-02-01T01:40:40.571Z
+date: 2025-02-26T18:09:49.741Z
+updated: 2025-03-03T23:28:50.781Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
@@ -91,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -132,10 +120,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -171,10 +155,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -198,10 +178,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
 
@@ -237,19 +213,11 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Restart your PC when the Windows update process completed.
 
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -263,17 +231,9 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  iii. Double-click**Origin** to uninstall it.
 
@@ -305,19 +265,22 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-visual-bedtime-plays-reviewed/"><u>[New] In 2024, Visual Bedtime Plays Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unleashing-potential-career-exploration-in-design/"><u>[New] Unleashing Potential Career Exploration in Design</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels/"><u>[Updated] In 2024, Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-chronology-best-video-cameras-for-detailed-speed-recording/"><u>2024 Approved Cinematic Chronology Best Video Cameras for Detailed Speed Recording</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-windows-10-advanced-screen-recorder-software/"><u>2024 Approved Windows 10 Advanced Screen Recorder Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-stuck-loading-phase-of-madden-nfl-22-a-troubleshooting-guide/"><u>Bypassing the Stuck Loading Phase of Madden NFL 22: A Troubleshooting Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-resolution-blu-ray-delight-top-3d-player-selections-for-2024/"><u>High-Resolution Blu-Ray Delight Top 3D Player Selections for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-league-of-legends-network-connectivity-problems/"><u>Resolved: Fixing League of Legends Network Connectivity Problems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-your-network-the-ultimate-guide-to-flush-dns-in-windows-environments/"><u>Revitalize Your Network: The Ultimate Guide to Flush DNS in Windows Environments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/rhythmcapture-toolkit-a-critical-walkthrough/"><u>RhythmCapture Toolkit A Critical Walkthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/screen-capture-issues-resolved-why-your-obs-is-now-recording-flawlessly/"><u>Screen Capture Issues Resolved: Why Your OBS Is Now Recording Flawlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-gta-5-crash-problems-expert-tips-and-tricks-for-stable-play/"><u>Solve Your GTA 5 Crash Problems: Expert Tips & Tricks for Stable Play</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategic-measures-efficiently-accessing-premium-banner-imagery/"><u>Strategic Measures Efficiently Accessing Premium Banner Imagery</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-why-fifa-21-wont-launch-solutions-inside/"><u>Troubleshooting Complete: Why FIFA 21 Won't Launch (Solutions Inside)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-create-meme-with-adobe/"><u>[New] Create Meme with Adobe</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-soaring-through-style-the-new-age-of-bebop-parrot/"><u>[New] Soaring Through Style – The New Age of Bebop Parrot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-9-key-platforms-for-high-quality-livestreaming/"><u>[Updated] 9 Key Platforms for High-Quality Livestreaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-windows-common-issues-and-fixes-for-stability-improvements/"><u>Baldur's Gate 3 [Windows] - Common Issues & Fixes for Stability Improvements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>Beats and Briefs Music Incorporation Guide on FB Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/capturing-views-connecting-users-social-media-for-360-degree-photos/"><u>Capturing Views, Connecting Users Social Media for 360-Degree Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-hp-deskjet-3050a-printer-software-and-driver-update-for-windows-systems-free-of-charge/"><u>Download the Newest HP Deskjet 3050A Printer Software & Driver Update for Windows Systems - Free of Charge</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-cod-ww-ii-error-code-4128-issue/"><u>How to Resolve the COD WW II Error Code 4128 Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>In 2024, Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-dive-into-doom-eternal-but-it-wont-start-lets-solve-that-issue/"><u>Ready to Dive Into DOOM Eternal but It Won't Start? Let's Solve That Issue</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romantic-rhetoric-rooted-in-the-french-soul/"><u>Romantic Rhetoric Rooted in the French Soul</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-flickering-screens-with-these-easy-fixes/"><u>Say Goodbye to Flickering Screens with These Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolving-stutter-in-counter-strike-global-offensive-games/"><u>Step-by-Step Guide to Resolving Stutter in Counter-Strike: Global Offensive Games</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-rated-tool-for-editing-picture-backdrops-transform-your-images-with-ease/"><u>Top-Rated Tool for Editing Picture Backdrops: Transform Your Images with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-game-from-crashing-8-strategies-for-hogwarts-legacy/"><u>Troubleshoot and Prevent Your Game From Crashing - 8 Strategies for Hogwarts Legacy</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-constant-crashes-in-age-of-empires-4-on-pcs/"><u>Troubleshooting Tips: Preventing Constant Crashes in Age of Empires 4 on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-these-effective-strategies-to-rectify-zoom-cannot-start-video-glitch/"><u>Unlock These Effective Strategies to Rectify 'Zoom Cannot Start Video' Glitch</u></a></li>
 </ul></div>
 

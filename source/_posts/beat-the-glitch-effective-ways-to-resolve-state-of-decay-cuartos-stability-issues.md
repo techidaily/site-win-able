@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Effective Ways to Resolve State of Decay Cuarto's Stability Issues"
-date: 2025-02-13T03:50:53.701Z
-updated: 2025-02-14T18:03:46.721Z
+date: 2025-02-25T19:52:39.154Z
+updated: 2025-03-04T07:40:00.360Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 3. Select**Verify files** . Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can launch Watch Dogs: Legion and see if it crashes again.
 
@@ -119,19 +111,11 @@ Here’s a quick guide:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Watch Dogs: Legion crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Watch Dogs: Legion on DirectX 11
 
@@ -147,10 +131,6 @@ So here’s how:
 3. Type or paste**\-dx11** (don’t forget the dash), then click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can launch Watch Dogs: Legion and check if the crash stops.
 
@@ -172,18 +152,10 @@ To do so, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-01.jpg)
 2. Select**VIDEO** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-2.jpg)
 3. Set V-Sync to**Off** . Then on your keyboard, press the**space bar** to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can test your gameplay in Watch Dogs: Legion.
 
@@ -208,22 +180,20 @@ Now you can test your gameplay in Watch Dogs: Legion.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-waterproof-accessories-for-outdoor-filming/"><u>[New] In 2024, Waterproof Accessories for Outdoor Filming</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>[Updated] In 2024, Shocking Stats Mind-Bending Youtube Visual Facts ('17)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-soundscapes-in-stories-instagram-video-techniques/"><u>[Updated] Soundscapes in Stories Instagram Video Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spotlight-on-snapchat-utilization-strategies/"><u>[Updated] Spotlight on Snapchat Utilization Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-best-practices-in-video-posting-choosing-correct-orientation/"><u>2024 Approved Best Practices in Video Posting – Choosing Correct Orientation</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-gaming-downfalls-how-to-prevent-among-us-crashes/"><u>Avoid Gaming Downfalls: How to Prevent 'Among Us' Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-co-op-problems-heres-how-to-solve-them/"><u>Elden Ring Co-Op Problems? Here's How to Solve Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-to-resolve-the-recurring-crash-of-manor-lords-on-personal-computers/"><u>Fixes to Resolve the Recurring Crash of Manor Lords on Personal Computers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-screens-that-make-a-statement-the-ultimate-4k-displays-for-macs/"><u>In 2024, Screens That Make a Statement The Ultimate 4K Displays for Macs</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-steam-troubleshooting-and-repairing-damaged-game-disks-with-ease/"><u>Mastering Steam: Troubleshooting and Repairing Damaged Game Disks with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-game-crashing-issues-solved/"><u>Mount & Blade II: Bannerlord Game Crashing Issues Solved</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/opening-markets-masterful-strategy-plots/"><u>Opening Markets Masterful Strategy Plots</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-tips-to-eliminate-fortnite-lag-and-gameplay-interruptions/"><u>Quick Tips to Eliminate Fortnite Lag and Gameplay Interruptions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-pc-issues-in-a-total-war-saga-troy-solutions-and-fixes/"><u>Resolved! Pc Issues in 'A Total War Saga - Troy': Solutions & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003742979-resolving-the-endless-cycle-stop-fuser-from-hitting-pc-blackouts-now/"><u>Resolving the Endless Cycle: Stop Fuser From Hitting PC Blackouts Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>The Ultimate Playbook IPhone Downloading for Podcast Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-moments-seamlessly-with-snap-and-meet/"><u>[New] 2024 Approved Capturing Moments Seamlessly with Snap and Meet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rofessional-insight-elevating-your-youtube-video-experience-for-2024/"><u>[New] Professional Insight Elevating Your YouTube Video Experience for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-srt-decoding-for-windows-and-mac-users-for-2024/"><u>[New] SRT Decoding for Windows & Mac Users for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-approach-crafting-quality-subtitles-for-facebook-videos-in-minutes/"><u>[Updated] In 2024, Step-By Step Approach Crafting Quality Subtitles for Facebook Videos in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/counter-strike-2-not-launching-solutions-you-need-to-try-now/"><u>Counter-Strike 2 Not Launching? Solutions You Need To Try Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-0xc0000022-explained-solutions-to-get-your-adobe-app-running-smoothly-again/"><u>Error 0xC0000022 Explained – Solutions to Get Your Adobe App Running Smoothly Again</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-recording-advice-macbooks-camera-insights/"><u>Essential Recording Advice MacBook's Camera Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-release-delay-issues-addressed-and-solutions/"><u>Football Manager 2022 Release Delay: Issues Addressed & Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/las-7-maquinarias-perfectas-para-grabar-videos-online-ranking-del-top-movavi/"><u>Las 7 Maquinarias Perfectas Para Grabar Videos Online: Ranking Del Top - Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-in-fall-guys-eliminate-those-puzzling-pc-freezes/"><u>Mastering Stability in Fall Guys: Eliminate Those Puzzling PC Freezes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-revolutionize-your-animations-for-2024/"><u>New Revolutionize Your Animations for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-the-server-connection-lost-error-on-escape-from-tarkov/"><u>Step-by-Step Solutions for the 'Server Connection Lost' Error on Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-dota-2-wont-load-past-initial-screen/"><u>Troubleshooting Steps When Dota 2 Won't Load Past Initial Screen</u></a></li>
 </ul></div>
 
